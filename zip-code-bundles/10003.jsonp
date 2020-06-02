@@ -1,5 +1,5 @@
-{
+callback({
   "zipCode": "10003",
   "state": "New York",
   "districts": []
-}
+})

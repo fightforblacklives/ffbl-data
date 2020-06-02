@@ -18,12 +18,12 @@ const buildZipCodeBundle = (zip: string) => {
   };
 
   fs.writeFileSync(
-    dir("zip-code-bundles", `${zip}.json`),
-    JSON.stringify(bundle, null, 2)
+    dir("zip-code-bundles", `${zip}.jsonp`),
+    `callback(${JSON.stringify(bundle, null, 2)})`
   );
 };
 
-fs.rmdirSync(dir("zip-code-bundles"));
+fs.rmdirSync(dir("zip-code-bundles"), { recursive: true });
 fs.mkdirSync(dir("zip-code-bundles"));
 
 zipCodes.forEach((code) => buildZipCodeBundle(code));
