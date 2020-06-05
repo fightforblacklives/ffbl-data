@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "33315",
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "latitude": 26.094385,
+  "longitude": -80.15422,
+  "congressionalDistrict": [
+    "22",
+    "23"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "99",
+  "people": [
+    {
+      "name": "Evan Jenne",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-4365.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 306; 3107 Stirling Road; Hollywood, FL 33312-8502",
+        "316 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "954-893-5000",
+        "850-717-5099"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "99"
+    },
+    {
+      "name": "Gary M. Farmer Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-s34_5198.jpg",
+      "twitter": null,
+      "addresses": [
+        "216 Senate Building;404 South Monroe Street;Tallahassee, FL 32399-1100"
+      ],
+      "phone": [
+        "850-487-5034"
+      ],
+      "email": [
+        "farmer.gary.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "34"
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "email": null,
+      "twitter": "RepDWStweets",
+      "addresses": [
+        "1114 Longworth House Office Building; Washington DC 20515-0923"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-W000797.jpg",
+      "phone": "202-225-7931",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "23"
+    },
+    {
+      "name": "Theodore Deutch",
+      "email": null,
+      "twitter": "RepTedDeutch",
+      "addresses": [
+        "2447 Rayburn House Office Building; Washington DC 20515-0922"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-D000610.jpg",
+      "phone": "202-225-3001",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "22"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-Trantalis_Dean%2154247.jpg",
+      "name": "Dean J. Trantalis",
+      "phone": "954-828-5003",
+      "email": "dtrantalis@fortlauderdale.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Fort Lauderdale"
+    }
+  ]
+})

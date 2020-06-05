@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "06065",
+  "state": "CT",
+  "city": "Riverton",
+  "latitude": 41.961127,
+  "longitude": -73.01859,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "62",
+  "people": [
+    {
+      "name": "Bill Simanski",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "12 Kilmer Lane;Granby, CT 06035",
+        "Legislative Office Building;Room 2404;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-653-0686",
+        "860-240-8700"
+      ],
+      "email": [
+        "bill.simanski@housegop.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "62"
+    },
+    {
+      "name": "Kevin D. Witkos",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "15 High Ledge Road;Canton, CT 06019",
+        "Legislative Office Building;Room 3400;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8800"
+      ],
+      "email": [
+        "Kevin.Witkos@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "8"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

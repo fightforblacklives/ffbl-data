@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00716",
+  "state": "PR",
+  "city": "Ponce",
+  "latitude": 17.999066,
+  "longitude": -66.59965,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "V",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "José A. Banchs Alemán",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-f7cec580-5aca-4e18-b11b-3b9914a5a71f.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO LUIS A. FERRER"
+      ],
+      "phone": [
+        "787-721-7113"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "24"
+    },
+    {
+      "name": "Luis A. Berdiel Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-senador-19.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lberdiel@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    },
+    {
+      "name": "Nelson V. Cruz Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-sen_ncruz2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ncruz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    }
+  ]
+})

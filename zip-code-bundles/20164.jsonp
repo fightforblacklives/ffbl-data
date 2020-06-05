@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "20164",
+  "state": "VA",
+  "city": "Sterling",
+  "latitude": 39.011909,
+  "longitude": -77.39295,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "86",
+  "people": [
+    {
+      "name": "Ibraheem S. Samirah",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-H0310",
+      "twitter": null,
+      "addresses": [
+        "397 Herndon Parkway;Suite 110;Herndon, Virginia 20170"
+      ],
+      "phone": [
+        "571-324-2448"
+      ],
+      "email": [
+        "DelISamirah@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "86"
+    },
+    {
+      "name": "Jennifer B. Boysko",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Boysko33.jpg",
+      "twitter": null,
+      "addresses": [
+        "730 Elden Street;Herndon, Virginia 20170"
+      ],
+      "phone": [
+        "703-437-0086"
+      ],
+      "email": [
+        "district33@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "33"
+    },
+    {
+      "name": "Jennifer Wexton",
+      "email": null,
+      "twitter": "RepWexton",
+      "addresses": [
+        "1217 Longworth House Office Building; Washington DC 20515-4610"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000825.jpg",
+      "phone": "202-225-5136",
+      "type": "US Representative",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

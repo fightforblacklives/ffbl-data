@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "06483",
+  "state": "CT",
+  "city": "Seymour",
+  "latitude": 41.386584,
+  "longitude": -73.0792,
+  "congressionalDistrict": [
+    "03",
+    "04"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "105",
+  "people": [
+    {
+      "name": "Nicole Klarides-Ditria",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "23 Osprey Drive;Seymour, CT 06483",
+        "Legislative Office Building;Room 4200;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8700"
+      ],
+      "email": [
+        "Nicole.Klarides-Ditria@housegop.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "105"
+    },
+    {
+      "name": "Eric C. Berthel",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "92 Malvern Hill Road;Watertown, CT 06795",
+        "Legislative Office Building;Room 3400;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8800"
+      ],
+      "email": [
+        "Eric.Berthel@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "32"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

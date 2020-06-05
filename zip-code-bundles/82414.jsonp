@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "82414",
+  "state": "WY",
+  "city": "Cody",
+  "latitude": 44.566114,
+  "longitude": -109.20826,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Sandy Newsome",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-nophoto.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 575, Cody WY 82414"
+      ],
+      "phone": [
+        "307-272-1676"
+      ],
+      "email": [
+        "Sandy.Newsome@wyoleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "24"
+    },
+    {
+      "name": "Henry H.R. \"Hank\" Coe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-CoeHS18.jpg",
+      "twitter": null,
+      "addresses": [
+        "P O Box 1088, Cody WY 82414"
+      ],
+      "phone": [
+        "307-587-4655"
+      ],
+      "email": [
+        "Hank.Coe@wyoleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "18"
+    },
+    {
+      "name": "John Barrasso",
+      "email": null,
+      "twitter": "SenJohnBarrasso",
+      "addresses": [
+        "307 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "phone": "202-224-6441",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Enzi",
+      "email": null,
+      "twitter": "SenatorEnzi",
+      "addresses": [
+        "379A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "phone": "202-224-3424",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mark Gordon",
+      "addresses": [
+        "State Capitol Building, Room 124 Cheyenne WY 82002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "twitter": "GordonGovernor",
+      "email": null,
+      "phone": "307-777-7434",
+      "type": "Governor",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

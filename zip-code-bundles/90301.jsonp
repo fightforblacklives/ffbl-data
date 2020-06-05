@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "90301",
+  "state": "CA",
+  "city": "Inglewood",
+  "latitude": 33.955913,
+  "longitude": -118.35868,
+  "congressionalDistrict": [
+    "43"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "62",
+  "people": [
+    {
+      "name": "Autumn R. Burke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-AD62_Burke_Portrait150_20141201_v2.jpg",
+      "twitter": null,
+      "addresses": [
+        "One Manchester Boulevard, Suite 601;Inglewood, CA 90301",
+        "P.O. Box 942849;Sacramento, CA 94249-0062"
+      ],
+      "phone": [
+        "310-412-6400",
+        "916-319-2062"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "62"
+    },
+    {
+      "name": "Steven Bradford",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-bradford.jpg",
+      "twitter": null,
+      "addresses": [
+        "302 W. 5th Street, Suite 203 San Pedro, CA 90731. (310) 514-8573",
+        "State Capitol, Room 2059, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "310-412-6120",
+        "916-651-4035"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "35"
+    },
+    {
+      "name": "Maxine Waters",
+      "email": null,
+      "twitter": "RepMaxineWaters",
+      "addresses": [
+        "2221 Rayburn House Office Building; Washington DC 20515-0543"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-W000187.jpg",
+      "phone": "202-225-2201",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "43"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-Butts_James%21544.JPG",
+      "name": "James T. Butts Jr.",
+      "phone": "310-412-5300",
+      "email": "mayor@cityofinglewood.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Inglewood"
+    }
+  ]
+})

@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "13124",
+  "state": "NY",
+  "city": "North Pitcher",
+  "latitude": 42.639288,
+  "longitude": -75.82012,
+  "congressionalDistrict": [
+    "22"
+  ],
+  "stateUpperDistrict": "51",
+  "stateLowerDistrict": "126",
+  "people": [
+    {
+      "name": "Gary Finch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-126.jpg",
+      "twitter": null,
+      "addresses": [
+        "69 South Street;Auburn, NY 13021",
+        "LOB 448;Albany, NY 12248"
+      ],
+      "phone": [
+        "315-255-3045",
+        "518-455-5878"
+      ],
+      "email": [
+        "FinchG@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "126"
+    },
+    {
+      "name": "James L. Seward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-%252811-18-08%2529%2520Seward-HS-050.jpg%3Fitok%3DxYWkG2LS",
+      "twitter": null,
+      "addresses": [
+        "172 State Street;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-3131"
+      ],
+      "email": [
+        "seward@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "51"
+    },
+    {
+      "name": "Anthony Brindisi",
+      "email": null,
+      "twitter": "RepBrindisi",
+      "addresses": [
+        "329 Cannon House Office Building; Washington DC 20515-3222"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-B001308.jpg",
+      "phone": "202-225-3665",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "22"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

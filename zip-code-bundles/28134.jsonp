@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "28134",
+  "state": "NC",
+  "city": "Pineville",
+  "latitude": 35.086017,
+  "longitude": -80.89034,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "41",
+  "stateLowerDistrict": "92",
+  "people": [
+    {
+      "name": "Chaz Beasley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-712.jpg",
+      "twitter": null,
+      "addresses": [
+        "11619 Hophornbeam Ln;Charlotte, NC 28278",
+        "300 N. Salisbury Street, Rm. 403;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5654",
+        "919-733-5654"
+      ],
+      "email": [
+        "Chaz.Beasley@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "92"
+    },
+    {
+      "name": "Natasha R. Marcus",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 519;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-715-3050"
+      ],
+      "email": [
+        "Natasha.Marcus@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "41"
+    },
+    {
+      "name": "Alma Adams",
+      "email": null,
+      "twitter": "RepAdams",
+      "addresses": [
+        "2436 Rayburn House Office Building; Washington DC 20515-3312"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-A000370.jpg",
+      "phone": "202-225-1510",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Democrat",
+      "district": "12"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

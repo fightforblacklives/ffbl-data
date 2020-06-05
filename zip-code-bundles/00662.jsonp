@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00662",
+  "state": "PR",
+  "city": "Isabela",
+  "latitude": 18.478855,
+  "longitude": -67.01973,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "IV",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Félix G. Lassalle Toro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-60cc818f-980a-404d-955d-260fa92359da.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO ANEXO"
+      ],
+      "phone": [
+        "787-725-6807"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "16"
+    },
+    {
+      "name": "Evelyn Vázquez Nieves",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-senador-12.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "evevazquez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    },
+    {
+      "name": "Luis Daniel Muñiz Cortes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-senador-20.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lmuniz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    }
+  ]
+})

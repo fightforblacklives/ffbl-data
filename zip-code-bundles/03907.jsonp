@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "03907",
+  "state": "ME",
+  "city": "Ogunquit",
+  "latitude": 43.247931,
+  "longitude": -70.59952,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "4",
+  "people": [
+    {
+      "name": "Patricia Hymanson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-29dab6b6-8c5a-4d0f-a995-e6d1d81808c4_hymapa.jpg",
+      "twitter": null,
+      "addresses": [
+        "34 High Pine Road, York, ME 03909"
+      ],
+      "phone": [
+        "207-363-8353"
+      ],
+      "email": [
+        "Patricia.Hymanson@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "4"
+    },
+    {
+      "name": "Mark Lawrence",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-lawrence-1.jpg",
+      "twitter": null,
+      "addresses": [
+        "52 Wildbrook Lane, Eliot, ME 03903"
+      ],
+      "phone": [
+        "207-475-4975"
+      ],
+      "email": [
+        "Mark.Lawrence@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "35"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

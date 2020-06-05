@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "57044",
+  "state": "SD",
+  "city": "Meckling",
+  "latitude": 42.846853,
+  "longitude": -97.08438,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Nancy Rasmussen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-Rasmussen_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "28639 458th Ave.;Hurley, SD 57036"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Nancy.Rasmussen@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "17"
+    },
+    {
+      "name": "Ray Ring",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Ring_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "607 Sterling St.;Vermillion, SD 57069"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Ray.Ring@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "SD",
+      "district": "17"
+    },
+    {
+      "name": "Arthur L Rusch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Rusch_2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "Arthur.Rusch@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "17"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

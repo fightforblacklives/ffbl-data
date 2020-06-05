@@ -1,0 +1,135 @@
+callback({
+  "zipCode": "30133",
+  "state": "GA",
+  "city": "Douglasville",
+  "latitude": 33.68966,
+  "longitude": -84.744595,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Kimberly Alexander",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-AlexanderKimberly806.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 393;Hiram, GA 30141",
+        "512-D Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-7859"
+      ],
+      "email": [
+        "kimberly.alexander@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "66"
+    },
+    {
+      "name": "Donzella James",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-JamesDonzella372.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 311225;Atlanta, GA 30331",
+        "121-D State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-625-8855",
+        "404-463-1379"
+      ],
+      "email": [
+        "donzella.james@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "35"
+    },
+    {
+      "name": "David Scott",
+      "email": null,
+      "twitter": "RepDavidScott",
+      "addresses": [
+        "225 Cannon House Office Building; Washington DC 20515-1013"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-S001157.jpg",
+      "phone": "202-225-2939",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-Robinson_Rochelle%213525.jpg",
+      "name": "Rochelle Robinson",
+      "phone": "678-449-3000",
+      "email": "robinsonr@douglasvillega.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Douglasville"
+    }
+  ]
+})

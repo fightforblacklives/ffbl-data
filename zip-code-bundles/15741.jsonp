@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "15741",
+  "state": "PA",
+  "city": "Gipsy",
+  "latitude": 40.804018,
+  "longitude": -78.86765,
+  "congressionalDistrict": [
+    "15"
+  ],
+  "stateUpperDistrict": "41",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Cris Dush",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-1687.jpg",
+      "twitter": null,
+      "addresses": [
+        "109 Indiana Street Suite 3 Punxsutawney, PA 15767",
+        "3 East Wing PO Box 202066 Harrisburg, PA 17120-2066"
+      ],
+      "phone": [
+        "814-938-4225",
+        "717-787-3845"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "66"
+    },
+    {
+      "name": "Joe Pittman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-1870.jpg",
+      "twitter": null,
+      "addresses": [
+        "3950 William Penn Highway Suite 1;Murrysville, PA 15668",
+        "Senate Box 203041;Harrisburg, PA 17120-3041;Room:;281 Main Capitol"
+      ],
+      "phone": [
+        "724-327-2422",
+        "717-787-8724"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "41"
+    },
+    {
+      "name": "Glenn Thompson",
+      "email": null,
+      "twitter": "CongressmanGT",
+      "addresses": [
+        "400 Cannon House Office Building; Washington DC 20515-3815"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-T000467.jpg",
+      "phone": "202-225-5121",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "15"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

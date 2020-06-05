@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "01602",
+  "state": "MA",
+  "city": "Worcester",
+  "latitude": 42.272359,
+  "longitude": -71.84482,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "First Worcester",
+  "stateLowerDistrict": "Thirteenth Worcester",
+  "people": [
+    {
+      "name": "John J. Mahoney",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JJM1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 130;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2130"
+      ],
+      "email": [
+        "John.Mahoney@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Thirteenth Worcester"
+    },
+    {
+      "name": "Harriette L. Chandler",
+      "image": "https://malegislature.gov/Legislators/Profile/170/HLC0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 333;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1544"
+      ],
+      "email": [
+        "Harriette.Chandler@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "First Worcester"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Petty_Joseph%211300.JPG",
+      "name": "Joseph M. Petty",
+      "phone": "508-799-1153",
+      "email": "mayor@worcesterma.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Worcester"
+    }
+  ]
+})

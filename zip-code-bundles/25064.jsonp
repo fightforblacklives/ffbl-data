@@ -1,0 +1,173 @@
+callback({
+  "zipCode": "25064",
+  "state": "WV",
+  "city": "Dunbar",
+  "latitude": 38.367255,
+  "longitude": -81.74473,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Andrew Byrd",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-byrd_andrew.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 151R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-741-3083",
+        "304-340-3362"
+      ],
+      "email": [
+        "andrew.byrd@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "35"
+    },
+    {
+      "name": "Doug Skaff",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-skaff_doug.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 231E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3183"
+      ],
+      "email": [
+        "doug.skaff@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "35"
+    },
+    {
+      "name": "Eric Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-nelson_eric.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 186;Charleston, WV, 25321",
+        "Room 218E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-343-5156",
+        "304-340-3230"
+      ],
+      "email": [
+        "nelson@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "35"
+    },
+    {
+      "name": "Moore Capito",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-capito_moore.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 2788;Charleston, WV, 25330",
+        "Room 404M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-552-8986",
+        "304-340-3340"
+      ],
+      "email": [
+        "moore.capito@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "35"
+    },
+    {
+      "name": "Glenn Jeffries",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-jeffries_glenn.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 10;Red House, WV, 25168",
+        "Room 204W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-586-1156",
+        "304-357-7866"
+      ],
+      "email": [
+        "glenn.jeffries@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "8"
+    },
+    {
+      "name": "Richard Lindsay",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-lindsay_richard.jpg",
+      "twitter": null,
+      "addresses": [
+        "505 Nancy Street;Charleston, WV, 25311",
+        "Room 218W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-344-5155",
+        "304-357-7841"
+      ],
+      "email": [
+        "richard.lindsay@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "8"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

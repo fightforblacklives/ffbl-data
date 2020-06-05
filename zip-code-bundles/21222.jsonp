@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "21222",
+  "state": "MD",
+  "city": "Dundalk",
+  "latitude": 39.263162,
+  "longitude": -76.5082,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "6",
+  "people": [
+    {
+      "name": "Ric Metzgar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-metzgar01.jpg",
+      "twitter": null,
+      "addresses": [
+        "307 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3332"
+      ],
+      "email": [
+        "Ric.Metzgar@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "6"
+    },
+    {
+      "name": "Robert B. Long",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-long01.jpg",
+      "twitter": null,
+      "addresses": [
+        "325 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3458"
+      ],
+      "email": [
+        "Bob.Long@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "6"
+    },
+    {
+      "name": "Robin L. Grammer, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-grammer01.jpg",
+      "twitter": null,
+      "addresses": [
+        "307 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3298"
+      ],
+      "email": [
+        "Robin.Grammer@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "6"
+    },
+    {
+      "name": "Johnny Ray Salling",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-salling01.jpg",
+      "twitter": null,
+      "addresses": [
+        "416 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3587"
+      ],
+      "email": [
+        "johnnyray.salling@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "6"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

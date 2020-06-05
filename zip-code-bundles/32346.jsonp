@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "32346",
+  "state": "FL",
+  "city": "Panacea",
+  "latitude": 29.983931,
+  "longitude": -84.38798,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Jason Shoaf",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-4756.jpg",
+      "twitter": null,
+      "addresses": [
+        "Send mail to Tallahassee Office; 20816 Central Avenue East; Blountstown, FL 32424-2288",
+        "1401 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "850-717-5007"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "7"
+    },
+    {
+      "name": "Bill Montford",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-s03_5045.jpg",
+      "twitter": null,
+      "addresses": [
+        "20 East Washington Street; Suite D; Quincy, FL 32351",
+        "410 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "montford.bill.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "3"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

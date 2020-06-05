@@ -1,0 +1,134 @@
+callback({
+  "zipCode": "30164",
+  "state": "GA",
+  "city": "Rome",
+  "latitude": 34.333308,
+  "longitude": -85.233721,
+  "congressionalDistrict": [
+    "14"
+  ],
+  "stateUpperDistrict": "52",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Eddie Lumsden",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-LumsdenEddie826.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 122;Armuchee, GA 30105",
+        "220-A State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-7850"
+      ],
+      "email": [
+        "eddie.lumsden@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "12"
+    },
+    {
+      "name": "Chuck Hufstetler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-HufstetlerChuck838.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 Orchard Spring Dr.;Rome, GA 30165",
+        "121-C State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0034"
+      ],
+      "email": [
+        "chuck.hufstetler@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "52"
+    },
+    {
+      "name": "Tom Graves",
+      "email": null,
+      "twitter": "RepTomGraves",
+      "addresses": [
+        "2078 Rayburn House Office Building; Washington DC 20515-1014"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-G000560.jpg",
+      "phone": "202-225-5211",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-Collins_Bill%2154648.jpg",
+      "name": "Bill Collins",
+      "phone": "706-291-0208",
+      "email": "bcollins@romega.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Rome"
+    }
+  ]
+})

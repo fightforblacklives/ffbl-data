@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "92067",
+  "state": "CA",
+  "city": "Rancho Santa Fe",
+  "latitude": 33.016492,
+  "longitude": -117.20264,
+  "congressionalDistrict": [
+    "49"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "77",
+  "people": [
+    {
+      "name": "Brian Maienschein",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-ad77-brian_maienschein_120x150.jpg",
+      "twitter": null,
+      "addresses": [
+        "12396 World Trade Drive, Suite 118;San Diego, CA 92128",
+        "P.O. Box 942849;Sacramento, CA 94249-0077"
+      ],
+      "phone": [
+        "858-675-0077",
+        "916-319-2077"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "77"
+    },
+    {
+      "name": "Brian W. Jones",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-brian_jones_headshot_blue.jpg",
+      "twitter": null,
+      "addresses": [
+        "720 N. Broadway, Suite 110, Escondido, CA 92025",
+        "State Capitol, Room 4088, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "760-796-4655",
+        "916-651-4038"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "38"
+    },
+    {
+      "name": "Mike Levin",
+      "email": null,
+      "twitter": "RepMikeLevin",
+      "addresses": [
+        "1626 Longworth House Office Building; Washington DC 20515-0549"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-L000593.jpg",
+      "phone": "202-225-3906",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "49"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

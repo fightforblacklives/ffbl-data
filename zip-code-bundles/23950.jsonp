@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "23950",
+  "state": "VA",
+  "city": "La Crosse",
+  "latitude": 36.678507,
+  "longitude": -78.08098,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "61",
+  "people": [
+    {
+      "name": "Thomas C. Wright, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-H0136",
+      "twitter": null,
+      "addresses": [
+        "1415 8th Street;Victoria, Virginia 23974"
+      ],
+      "phone": [
+        "434-696-3061"
+      ],
+      "email": [
+        "DelTWright@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "61"
+    },
+    {
+      "name": "Frank M. Ruff, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Ruff15.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 332;Clarksville, Virginia 23927"
+      ],
+      "phone": [
+        "434-374-5129"
+      ],
+      "email": [
+        "district15@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "15"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

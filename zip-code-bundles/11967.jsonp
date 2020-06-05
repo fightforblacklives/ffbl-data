@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "11967",
+  "state": "NY",
+  "city": "Shirley",
+  "latitude": 40.794317,
+  "longitude": -72.87181,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Fred Thiele, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-001.jpg",
+      "twitter": null,
+      "addresses": [
+        "2302 Main Street;Box 3062;Bridgehampton, NY 11932",
+        "LOB 622;Albany, NY 12248"
+      ],
+      "phone": [
+        "631-537-2583",
+        "518-455-5997"
+      ],
+      "email": [
+        "ThieleF@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "1"
+    },
+    {
+      "name": "Monica R. Martinez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-mrm.jpg%3Fitok%3DeNRqqFwb",
+      "twitter": null,
+      "addresses": [
+        "Legislative Office Bldg., Room 306;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2950"
+      ],
+      "email": [
+        "martinez@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "3"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "45011",
+  "state": "OH",
+  "city": "Hamilton",
+  "latitude": 39.404856,
+  "longitude": -84.52271,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "52",
+  "people": [
+    {
+      "name": "George F. Lang",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-52.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8550"
+      ],
+      "email": [
+        "rep52@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "52"
+    },
+    {
+      "name": "William P. Coley, II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-1782.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8072"
+      ],
+      "email": [
+        "sd04@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "4"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Moeller_Pat%21479.jpg",
+      "name": "Pat Moeller",
+      "phone": "513-785-7040",
+      "email": "moellerp@ci.hamilton.oh.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Hamilton"
+    }
+  ]
+})

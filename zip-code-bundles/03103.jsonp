@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "03103",
+  "state": "NH",
+  "city": "Manchester",
+  "latitude": 42.967684,
+  "longitude": -71.44828,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "Hillsborough 16",
+  "people": [
+    {
+      "name": "Barbara E. Shaw",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-376392.jpg",
+      "twitter": null,
+      "addresses": [
+        "45 Randall Street;Manchester, NH 03103-6434"
+      ],
+      "phone": [
+        "603-626-4681"
+      ],
+      "email": [
+        "beshaw3@comcast.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 16"
+    },
+    {
+      "name": "Joshua F. Query",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "\"80 Beech Hill Avenue, Unit #5\";Manchester, NH 03103-5875"
+      ],
+      "phone": [],
+      "email": [
+        "Joshua.Query@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 16"
+    },
+    {
+      "name": "Donna M. Soucy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-18.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3040"
+      ],
+      "email": [
+        "Donna.Soucy@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "18"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-Craig_Joyce%2154026.jpg",
+      "name": "Joyce Craig",
+      "phone": "603-624-6500",
+      "email": "jcraig@manchesternh.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NH",
+      "city": "Manchester"
+    }
+  ]
+})

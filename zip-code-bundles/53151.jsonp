@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "53151",
+  "state": "WI",
+  "city": "New Berlin",
+  "latitude": 42.980163,
+  "longitude": -88.09438,
+  "congressionalDistrict": [
+    "05",
+    "01"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "15",
+  "people": [
+    {
+      "name": "Joe Sanfelippo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-1809.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 314 North;State Capitol;PO Box 8953;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-0620"
+      ],
+      "email": [
+        "Rep.Sanfelippo@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "15"
+    },
+    {
+      "name": "Dale Kooyenga",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-1942.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 310 South;State Capitol;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-2512"
+      ],
+      "email": [
+        "Sen.Kooyenga@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "5"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Ament_David%21801.jpg",
+      "name": "David Ament",
+      "phone": "262-797-2441",
+      "email": "dament@newberlin.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "New Berlin"
+    }
+  ]
+})

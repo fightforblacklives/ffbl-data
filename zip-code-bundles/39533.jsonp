@@ -1,0 +1,87 @@
+callback({
+  "zipCode": "39533",
+  "state": "MS",
+  "city": "Biloxi",
+  "latitude": 30.415795,
+  "longitude": -89.068448,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "48",
+  "stateLowerDistrict": "119",
+  "people": [
+    {
+      "name": "Sonya Williams-Barnes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-williams-barnes.jpg",
+      "twitter": null,
+      "addresses": [
+        "2018 31st Ave;Gulfport, MS 39501",
+        "Room BSMNT-B;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "601-359-4074"
+      ],
+      "email": [
+        "swilliams-barnes@house.ms.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MS",
+      "district": "119"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "email": null,
+      "twitter": "SenHydeSmith",
+      "addresses": [
+        "702 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "phone": "202-224-5054",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roger Wicker",
+      "email": null,
+      "twitter": "SenatorWicker",
+      "addresses": [
+        "555 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "phone": "202-224-6253",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tate Reeves",
+      "addresses": [
+        "P.O. Box 139 Jackson MS 39205"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "twitter": "philbryantms",
+      "email": null,
+      "phone": "601-359-3150",
+      "type": "Governor",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Gilich_Andrew%21106.jpg",
+      "name": "Andrew 'FoFo' Gilich",
+      "phone": "228-435-6254",
+      "email": "mayor@biloxi.ms.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MS",
+      "city": "Biloxi"
+    }
+  ]
+})

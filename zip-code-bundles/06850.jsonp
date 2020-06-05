@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "06850",
+  "state": "CT",
+  "city": "Norwalk",
+  "latitude": 41.124546,
+  "longitude": -73.43658,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "142",
+  "people": [
+    {
+      "name": "Lucy Dathan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "950 Silvermine Road;New Canaan, CT 06840",
+        "Legislative Office Building;Room 5005;Hartford, CT 06106"
+      ],
+      "phone": [
+        "650-223-4045",
+        "860-240-8376"
+      ],
+      "email": [
+        "Lucy.Dathan@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "142"
+    },
+    {
+      "name": "Bob Duff",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "50 Toilsome Avenue;Norwalk, CT 06851",
+        "Legislative Office Building;Room 3300;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-840-1333",
+        "860-240-0414"
+      ],
+      "email": [
+        "Bob.Duff@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "25"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Rilling_Harry%21843.jpg",
+      "name": "Harry Rilling",
+      "phone": "203-854-7701",
+      "email": "hrilling@norwalkct.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "Norwalk"
+    }
+  ]
+})

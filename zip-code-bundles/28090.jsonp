@@ -1,0 +1,109 @@
+callback({
+  "zipCode": "28090",
+  "state": "NC",
+  "city": "Lawndale",
+  "latitude": 35.450548,
+  "longitude": -81.56223,
+  "congressionalDistrict": [
+    "11",
+    "10"
+  ],
+  "stateUpperDistrict": "44",
+  "stateLowerDistrict": "111",
+  "people": [
+    {
+      "name": "Tim Moore",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-339.jpg",
+      "twitter": null,
+      "addresses": [
+        "305 East King St;Kings Mountain, NC 28086",
+        "16 West Jones Street, Rm. 2304;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "704-739-1221",
+        "919-733-3451"
+      ],
+      "email": [
+        "Tim.Moore@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "111"
+    },
+    {
+      "name": "W. Ted Alexander",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2117;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-715-0690"
+      ],
+      "email": [
+        "Ted.Alexander@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "44"
+    },
+    {
+      "name": "Mark Meadows",
+      "email": null,
+      "twitter": "RepMarkMeadows",
+      "addresses": [
+        "2160 Rayburn House Office Building; Washington DC 20515-3311"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M001187.jpg",
+      "phone": "202-225-6401",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Patrick McHenry",
+      "email": null,
+      "twitter": "PatrickMcHenry",
+      "addresses": [
+        "2004 Rayburn House Office Building; Washington DC 20515-3310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-M001156.jpg",
+      "phone": "202-225-2576",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "40514",
+  "state": "KY",
+  "city": "Lexington",
+  "latitude": 37.984907,
+  "longitude": -84.56691000000001,
+  "congressionalDistrict": [
+    "02",
+    "06"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "45",
+  "people": [
+    {
+      "name": "Stan Lee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-house45.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 357D;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 693"
+      ],
+      "email": [
+        "Stan.Lee@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "45"
+    },
+    {
+      "name": "Alice Forgy Kerr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-senate112.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 203;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 625"
+      ],
+      "email": [
+        "Alice.Kerr@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "12"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Gorton_Linda%2154526.jpg",
+      "name": "Linda Gorton",
+      "phone": "859-258-3100",
+      "email": "mayor@lexingtonky.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Lexington"
+    }
+  ]
+})

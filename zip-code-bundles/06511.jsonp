@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "06511",
+  "state": "CT",
+  "city": "New Haven",
+  "latitude": 41.317197,
+  "longitude": -72.92798,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "94",
+  "people": [
+    {
+      "name": "Robyn A. Porter",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "99 Division Street;New Haven, CT 06511",
+        "Legislative Office Building;Room 2704;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8500"
+      ],
+      "email": [
+        "robyn.porter@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "94"
+    },
+    {
+      "name": "Gary A. Winfield",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "480 Winchester Avenue;New Haven, CT 06511",
+        "Legislative Office Building;Room 2500;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-676-8167",
+        "860-240-0475"
+      ],
+      "email": [
+        "gary.winfield@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "10"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Elicker_Justin%2154798.jpg",
+      "name": "Justin Elicker",
+      "phone": "203-946-8200",
+      "email": "smatteson@newhavenct.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "New Haven"
+    }
+  ]
+})

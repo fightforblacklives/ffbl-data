@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24168",
+  "state": "VA",
+  "city": "Stanleytown",
+  "latitude": 36.734651,
+  "longitude": -79.94572,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Les R. Adams",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H0252",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box K;Chatham, Virginia 24531"
+      ],
+      "phone": [
+        "434-432-1600"
+      ],
+      "email": [
+        "DelLAdams@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "16"
+    },
+    {
+      "name": "William M. Stanley, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Stanley19.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 96;Glade Hill, Virginia 24092"
+      ],
+      "phone": [
+        "540-721-6028"
+      ],
+      "email": [
+        "district20@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "20"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

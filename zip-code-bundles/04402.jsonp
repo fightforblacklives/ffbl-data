@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "04402",
+  "state": "ME",
+  "city": "Bangor",
+  "latitude": 45.519867,
+  "longitude": -68.647416,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "142",
+  "people": [
+    {
+      "name": "Sheldon Mark Hanington",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-2224a304-a6d0-46d9-971f-3f9e24b33ea8_hanism.jpg",
+      "twitter": null,
+      "addresses": [
+        "475 Enfield Road, Lincoln, ME 04457"
+      ],
+      "phone": [],
+      "email": [
+        "Sheldon.Hanington@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "142"
+    },
+    {
+      "name": "James F. Dill",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-dilljf.jpg",
+      "twitter": null,
+      "addresses": [
+        "72 Sunset Drive;Old Town, ME 04468"
+      ],
+      "phone": [
+        "207-827-3498"
+      ],
+      "email": [
+        "James.Dill@legislature.gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "5"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Nichols_Sarah%2154456.jpg",
+      "name": "Sarah Nichols",
+      "phone": "207-944-0907",
+      "email": "sarah.nichols@bangormaine.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ME",
+      "city": "Bangor"
+    }
+  ]
+})

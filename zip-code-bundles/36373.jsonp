@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "36373",
+  "state": "AL",
+  "city": "Shorterville",
+  "latitude": 31.52151,
+  "longitude": -85.1146,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "85",
+  "people": [
+    {
+      "name": "Dexter Grimsley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Grimsley_85.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 537-F;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0513"
+      ],
+      "email": [
+        "wlmdex@hotmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "85"
+    },
+    {
+      "name": "William M. Beasley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-Beasley_28.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 737;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0868"
+      ],
+      "email": [
+        "billy.beasley@alsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "28"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

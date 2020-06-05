@@ -1,0 +1,79 @@
+callback({
+  "zipCode": "23192",
+  "state": "VA",
+  "city": "Montpelier",
+  "latitude": 37.813901,
+  "longitude": -77.68952,
+  "congressionalDistrict": [
+    "07",
+    "01"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "55",
+  "people": [
+    {
+      "name": "Hyland F. \"Buddy\" Fowler, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-H0259",
+      "twitter": null,
+      "addresses": [
+        "10321 Washington Highway;Glen Allen, Virginia 23059"
+      ],
+      "phone": [
+        "804-305-8867"
+      ],
+      "email": [
+        "DelBFowler@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "55"
+    },
+    {
+      "name": "Siobhan S. Dunnavant",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Dunnavant12.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 70849;Henrico, Virginia 23255"
+      ],
+      "phone": [
+        "804-270-5600"
+      ],
+      "email": [
+        "district12@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "12"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

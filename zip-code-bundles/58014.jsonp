@@ -1,0 +1,109 @@
+callback({
+  "zipCode": "58014",
+  "state": "ND",
+  "city": "Chaffee",
+  "latitude": 46.775027,
+  "longitude": -97.352437,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Daniel Johnston",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-dljohnston.jpg%3Fitok%3DdKMtNtY4",
+      "twitter": null,
+      "addresses": [
+        "5807 Valley Road;Kathryn, ND;58049-9308"
+      ],
+      "phone": [
+        "701-840-3257"
+      ],
+      "email": [
+        "dljohnston@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "24"
+    },
+    {
+      "name": "Dwight Kiefert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-dhkiefert.jpg%3Fitok%3D3KWyrftz",
+      "twitter": null,
+      "addresses": [
+        "3721 115th Avenue SE;Valley City, ND;58072-9312"
+      ],
+      "phone": [
+        "701-845-0760"
+      ],
+      "email": [
+        "dhkiefert@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "24"
+    },
+    {
+      "name": "Larry J. Robinson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-lrobinson.jpg%3Fitok%3D08XuhvsU",
+      "twitter": null,
+      "addresses": [
+        "3584 Sheyenne Circle;Valley City, ND;58072-9545"
+      ],
+      "phone": [
+        "701-845-1428",
+        "701-845-7217"
+      ],
+      "email": [
+        "lrobinson@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ND",
+      "district": "24"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

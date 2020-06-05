@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "21746",
+  "state": "MD",
+  "city": "Hagerstown",
+  "latitude": 39.563787,
+  "longitude": -77.720642,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "2A",
+  "people": [
+    {
+      "name": "Neil Parrott",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-parrott.jpg",
+      "twitter": null,
+      "addresses": [
+        "213 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3636"
+      ],
+      "email": [
+        "neil.parrott@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "2A"
+    },
+    {
+      "name": "William J. Wivell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-wivell01.jpg",
+      "twitter": null,
+      "addresses": [
+        "322 House Office Building;6 Bladen St.;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3447"
+      ],
+      "email": [
+        "william.wivell@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "2A"
+    },
+    {
+      "name": "Andrew A. Serafini",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-serafini01.jpg",
+      "twitter": null,
+      "addresses": [
+        "321 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3903"
+      ],
+      "email": [
+        "andrew.serafini@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "2"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Bruchey_Robert%2153151.jpg",
+      "name": "Robert E. Bruchey II",
+      "phone": "301-766-4175",
+      "email": "mayor@hagerstownmd.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Hagerstown"
+    }
+  ]
+})

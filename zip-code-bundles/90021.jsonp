@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "90021",
+  "state": "CA",
+  "city": "Los Angeles",
+  "latitude": 34.029313,
+  "longitude": -118.24182,
+  "congressionalDistrict": [
+    "40",
+    "34"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "53",
+  "people": [
+    {
+      "name": "Miguel Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-AD53_Santiago_Portrait150_20141201.jpg",
+      "twitter": null,
+      "addresses": [
+        "320 West Fourth Street, Room 1050;Los Angeles, CA 90013",
+        "P.O. Box 942849;Sacramento, CA 94249-0053"
+      ],
+      "phone": [
+        "213-620-4646",
+        "916-319-2053"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "53"
+    },
+    {
+      "name": "Holly J. Mitchell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-mitchell-holly.jpg",
+      "twitter": null,
+      "addresses": [
+        "700 State Drive, Suite 113, Los Angeles, CA 90037",
+        "State Capitol, Room 5050, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "213-745-6656",
+        "916-651-4030"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "30"
+    },
+    {
+      "name": "Jimmy Gomez",
+      "email": null,
+      "twitter": "RepJimmyGomez",
+      "addresses": [
+        "1530 Longworth House Office Building; Washington DC 20515-0534"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-G000585.jpg",
+      "phone": "202-225-6235",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "34"
+    },
+    {
+      "name": "Lucille Roybal-Allard",
+      "email": null,
+      "twitter": "RepRoybalAllard",
+      "addresses": [
+        "2083 Rayburn House Office Building; Washington DC 20515-0540"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-R000486.jpg",
+      "phone": "202-225-1766",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "40"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Garcetti_Eric%21665.jpg",
+      "name": "Eric Garcetti",
+      "phone": "213-978-0600",
+      "email": "mayor.garcetti@lacity.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Los Angeles"
+    }
+  ]
+})

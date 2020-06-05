@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "27533",
+  "state": "NC",
+  "city": "Goldsboro",
+  "latitude": 35.372045,
+  "longitude": -78.052422,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "John R. Bell, IV",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-661.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 301F;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 301F;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-715-3017",
+        "919-715-3017"
+      ],
+      "email": [
+        "John.Bell@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "10"
+    },
+    {
+      "name": "Jim Perry",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-High",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 311, Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5621"
+      ],
+      "email": [
+        "Jim.Perry@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "7"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Allen_Chuck%21449.JPG",
+      "name": "Chuck Allen",
+      "phone": "919-580-4330",
+      "email": "lgetz@goldsboronc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Goldsboro"
+    }
+  ]
+})

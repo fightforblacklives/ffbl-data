@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "28752",
+  "state": "NC",
+  "city": "Marion",
+  "latitude": 35.709124,
+  "longitude": -82.01719,
+  "congressionalDistrict": [
+    "11",
+    "10"
+  ],
+  "stateUpperDistrict": "47",
+  "stateLowerDistrict": "85",
+  "people": [
+    {
+      "name": "Josh Dobson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-681.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 307B;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 307B;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5862",
+        "919-733-5862"
+      ],
+      "email": [
+        "Josh.Dobson@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "85"
+    },
+    {
+      "name": "Ralph Hise",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-298.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 312;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 300-A;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-3460",
+        "919-733-3460"
+      ],
+      "email": [
+        "Ralph.Hise@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "47"
+    },
+    {
+      "name": "Mark Meadows",
+      "email": null,
+      "twitter": "RepMarkMeadows",
+      "addresses": [
+        "2160 Rayburn House Office Building; Washington DC 20515-3311"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M001187.jpg",
+      "phone": "202-225-6401",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Patrick McHenry",
+      "email": null,
+      "twitter": "PatrickMcHenry",
+      "addresses": [
+        "2004 Rayburn House Office Building; Washington DC 20515-3310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-M001156.jpg",
+      "phone": "202-225-2576",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

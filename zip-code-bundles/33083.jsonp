@@ -1,0 +1,132 @@
+callback({
+  "zipCode": "33083",
+  "state": "FL",
+  "city": "Hollywood",
+  "latitude": 26.145724,
+  "longitude": -80.448254,
+  "congressionalDistrict": [
+    "24",
+    "20"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "97",
+  "people": [
+    {
+      "name": "Dan Daley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-4757.jpg",
+      "twitter": null,
+      "addresses": [
+        "Building A; 1601 Northwest 136th Avenue; Sunrise, FL 33323-2834",
+        "1003 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "954-845-6005",
+        "850-717-5097"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "97"
+    },
+    {
+      "name": "Lauren Book",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-s32_5189.jpg",
+      "twitter": null,
+      "addresses": [
+        "967 Nob Hill Road; Plantation, FL 33324",
+        "202 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "book.lauren.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "32"
+    },
+    {
+      "name": "Alcee Hastings",
+      "email": null,
+      "twitter": "RepHastingsFL",
+      "addresses": [
+        "2353 Rayburn House Office Building; Washington DC 20515-0920"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-H000324.jpg",
+      "phone": "202-225-1313",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "20"
+    },
+    {
+      "name": "Frederica Wilson",
+      "email": null,
+      "twitter": "RepWilson",
+      "addresses": [
+        "2445 Rayburn House Office Building; Washington DC 20515-0924"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-W000808.jpg",
+      "phone": "202-225-4506",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Levy_Josh%2153446.jpg",
+      "name": "Josh Levy",
+      "phone": "954-921-3321",
+      "email": "jlevy@hollywoodfl.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Hollywood"
+    }
+  ]
+})

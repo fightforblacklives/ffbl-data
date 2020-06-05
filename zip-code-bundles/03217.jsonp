@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03217",
+  "state": "NH",
+  "city": "Ashland",
+  "latitude": 43.705061,
+  "longitude": -71.62778,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "Grafton 9",
+  "people": [
+    {
+      "name": "Edward M. Gordon",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "PO Box 112;Bristol, NH 03222-0112"
+      ],
+      "phone": [
+        "603-744-2139"
+      ],
+      "email": [
+        "Ned.Gordon@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Grafton 9"
+    },
+    {
+      "name": "Vincent Paul Migliore",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-408809.jpg",
+      "twitter": null,
+      "addresses": [
+        "198 Whittemore Point Road South;Bridgewater, NH 03222-5228"
+      ],
+      "phone": [
+        "603-744-5800"
+      ],
+      "email": [
+        "vpmigliore@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Grafton 9"
+    },
+    {
+      "name": "Bob J. Giuda",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-02.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 5\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-7875"
+      ],
+      "email": [
+        "Bob.Giuda@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "2"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

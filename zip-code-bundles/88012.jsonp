@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "88012",
+  "state": "NM",
+  "city": "Las Cruces",
+  "latitude": 32.417871,
+  "longitude": -106.6977,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Nathan P. Small",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-HSMAL.jpg",
+      "twitter": null,
+      "addresses": [
+        "1320 Fourth Street;Las Cruces, NM 88005",
+        "Room 413B State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "575-496-9540",
+        "505-986-4438"
+      ],
+      "email": [
+        "nathan.small@nmlegis.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "36"
+    },
+    {
+      "name": "William P. Soules",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-SSOUL.jpg",
+      "twitter": null,
+      "addresses": [
+        "5054 Silver King;Las Cruces, NM 88011",
+        "Room 328C State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "575-640-0409",
+        "505-986-4834"
+      ],
+      "email": [
+        "bill.soules@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "37"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Miyagishima_Ken%21620.jpg",
+      "name": "Kenneth D. Miyagishima",
+      "phone": "575-541-2067",
+      "email": "mayor@las-cruces.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NM",
+      "city": "Las Cruces"
+    }
+  ]
+})

@@ -1,0 +1,132 @@
+callback({
+  "zipCode": "33160",
+  "state": "FL",
+  "city": "North Miami Beach",
+  "latitude": 25.941535000000002,
+  "longitude": -80.13861,
+  "congressionalDistrict": [
+    "24",
+    "23"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "100",
+  "people": [
+    {
+      "name": "Joseph Geller",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-4614.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 West Dania Beach Boulevard; Dania Beach, FL 33004-3643",
+        "405 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "954-924-3708",
+        "850-717-5100"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "100"
+    },
+    {
+      "name": "Jason W. B. Pizzo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-s38_5345.jpg",
+      "twitter": null,
+      "addresses": [
+        "5582 N.E. 4th Court; Suite 7B; Miami, FL 33137",
+        "224 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "pizzo.jason.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "38"
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "email": null,
+      "twitter": "RepDWStweets",
+      "addresses": [
+        "1114 Longworth House Office Building; Washington DC 20515-0923"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-W000797.jpg",
+      "phone": "202-225-7931",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "23"
+    },
+    {
+      "name": "Frederica Wilson",
+      "email": null,
+      "twitter": "RepWilson",
+      "addresses": [
+        "2445 Rayburn House Office Building; Washington DC 20515-0924"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-W000808.jpg",
+      "phone": "202-225-4506",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-DeFillipo_Anthony%2154446.jpg",
+      "name": "Anthony F. DeFillipo",
+      "phone": "305-948-2986",
+      "email": "anthony.defillipo@citynmb.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "North Miami Beach"
+    }
+  ]
+})

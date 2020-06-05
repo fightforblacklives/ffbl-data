@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "28387",
+  "state": "NC",
+  "city": "Southern Pines",
+  "latitude": 35.180394,
+  "longitude": -79.39084,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "52",
+  "people": [
+    {
+      "name": "James L. Boles, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-581.jpg",
+      "twitter": null,
+      "addresses": [
+        "425 W Pennsylvania Ave;Southern Pines, NC 28387",
+        "300 N. Salisbury Street, Rm. 528;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "910-692-6262",
+        "919-733-5903"
+      ],
+      "email": [
+        "Jamie.Boles@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "52"
+    },
+    {
+      "name": "Tom McInnis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-389.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 620;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 620;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5953",
+        "919-733-5953"
+      ],
+      "email": [
+        "Tom.McInnis@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "25"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

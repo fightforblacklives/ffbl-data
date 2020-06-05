@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "29143",
+  "state": "SC",
+  "city": "Sardinia",
+  "latitude": 33.688373,
+  "longitude": -80.208109,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "64",
+  "people": [
+    {
+      "name": "Robert L. Ridgeway, III",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-1553408905.jpg",
+      "twitter": null,
+      "addresses": [
+        "117 N. Brooks St.Manning 29102",
+        "422A Blatt Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "803-938-3087",
+        "803-212-6929"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "SC",
+      "district": "64"
+    },
+    {
+      "name": "Kevin L. Johnson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-0947727159.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 156Manning 29102",
+        "606 Gressette Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "803-435-8117",
+        "803-212-6024"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "SC",
+      "district": "36"
+    },
+    {
+      "name": "Lindsey Graham",
+      "email": null,
+      "twitter": "GrahamBlog",
+      "addresses": [
+        "290 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "phone": "202-224-5972",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tim Scott",
+      "email": null,
+      "twitter": "SenatorTimScott",
+      "addresses": [
+        "104 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "phone": "202-224-6121",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Henry McMaster",
+      "addresses": [
+        "1205 Pendleton Street Columbia SC 29201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "twitter": "henrymcmaster",
+      "email": null,
+      "phone": "803-734-2100",
+      "type": "Governor",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

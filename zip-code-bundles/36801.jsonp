@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "36801",
+  "state": "AL",
+  "city": "Opelika",
+  "latitude": 32.660497,
+  "longitude": -85.39917,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "Debbie Wood",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Wood_38.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 527-C;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0532"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "38"
+    },
+    {
+      "name": "Tom Whatley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-Whatley_27.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 734;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0865"
+      ],
+      "email": [
+        "tom.whatley@alsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "27"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-0034N00002lFuR0.jpg",
+      "name": "Gary Fuller",
+      "phone": "(334) 705-5150",
+      "email": "gfuller@opelika-al.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Opelika"
+    }
+  ]
+})

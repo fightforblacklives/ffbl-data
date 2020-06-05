@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "85288",
+  "state": "AZ",
+  "city": "Scottsdale",
+  "latitude": 33.672973,
+  "longitude": -111.889286,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Jay Lawrence",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-LAWRENCE.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 131;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3095"
+      ],
+      "email": [
+        "jlawrence@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "23"
+    },
+    {
+      "name": "John Kavanagh",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-KAVANAGH.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 226;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5170"
+      ],
+      "email": [
+        "jkavanagh@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "23"
+    },
+    {
+      "name": "Michelle Ugenti-Rita",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-UGENTI-RITA.png",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 306;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4480"
+      ],
+      "email": [
+        "mugenti-rita@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "23"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Lane_WJ%211075.jpg",
+      "name": "W.J. 'Jim' Lane",
+      "phone": "480-312-2433",
+      "email": "jlane@scottsdaleaz.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Scottsdale"
+    }
+  ]
+})

@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "56583",
+  "state": "MN",
+  "city": "Tintah",
+  "latitude": 46.014161,
+  "longitude": -96.40019,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "12A",
+  "people": [
+    {
+      "name": "Jeff Backer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-12A.gif",
+      "twitter": null,
+      "addresses": [
+        "203 State Office Building;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-4929"
+      ],
+      "email": [
+        "rep.jeff.backer@house.mn"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MN",
+      "district": "12A"
+    },
+    {
+      "name": "Torrey N. Westrom",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-12Westrom.jpg",
+      "twitter": null,
+      "addresses": [
+        "3201 Minnesota Senate Bldg.;95 University Avenue W.;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-3826"
+      ],
+      "email": [
+        "sen.torrey.westrom@senate.mn"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MN",
+      "district": "12"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "email": null,
+      "twitter": "SenAmyKlobuchar",
+      "addresses": [
+        "425 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-K000367.jpg",
+      "phone": "202-224-3244",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tina Smith",
+      "email": null,
+      "twitter": "SenTinaSmith",
+      "addresses": [
+        "720 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001203.jpg",
+      "phone": "202-224-5641",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tim Walz",
+      "addresses": [
+        "130 State Capitol 130 State Capitol St. Paul MN 55155"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-mn_walz.png",
+      "twitter": "GovTimWalz",
+      "email": null,
+      "phone": "651-201-3400",
+      "type": "Governor",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

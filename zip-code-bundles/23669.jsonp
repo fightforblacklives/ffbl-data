@@ -1,0 +1,91 @@
+callback({
+  "zipCode": "23669",
+  "state": "VA",
+  "city": "Hampton",
+  "latitude": 37.037946,
+  "longitude": -76.34415,
+  "congressionalDistrict": [
+    "02",
+    "03"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "92",
+  "people": [
+    {
+      "name": "Jeion A. Ward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-H0173",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 7310;Hampton, Virginia 23666"
+      ],
+      "phone": [
+        "757-827-5921"
+      ],
+      "email": [
+        "DelJWard@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "92"
+    },
+    {
+      "name": "Mamie E. Locke",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Locke2012sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 9048;Hampton, Virginia 23670"
+      ],
+      "phone": [
+        "757-825-5880"
+      ],
+      "email": [
+        "district02@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "2"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Tuck_Donnie%2153071.jpg",
+      "name": "Donnie R. Tuck",
+      "phone": "757-727-6315",
+      "email": "dtuck@hampton.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Hampton"
+    }
+  ]
+})

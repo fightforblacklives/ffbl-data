@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "07290",
+  "state": "NJ",
+  "city": "Bernards",
+  "latitude": 40.664351,
+  "longitude": -74.573051,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Jon M. Bramnick",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-bramnick_jon_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "251 North Ave. West, 2nd Floor;Westfield, NJ 07090"
+      ],
+      "phone": [
+        "908-232-2073"
+      ],
+      "email": [
+        "AsmBramnick@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "21"
+    },
+    {
+      "name": "Nancy F. Munoz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-munoz_nancy_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "57 Union Place, Suite 310;Summit, NJ 07901"
+      ],
+      "phone": [
+        "908-918-0414"
+      ],
+      "email": [
+        "AswMunoz@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "21"
+    },
+    {
+      "name": "Thomas H. Kean Jr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-thomas_kean_jr_2018.jpg",
+      "twitter": null,
+      "addresses": [
+        "425 North Ave. East, Suite C;Westfield, NJ 07090"
+      ],
+      "phone": [
+        "908-232-3673"
+      ],
+      "email": [
+        "SenKean@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "21"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

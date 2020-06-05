@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "22481",
+  "state": "VA",
+  "city": "Jersey",
+  "latitude": 38.271077,
+  "longitude": -77.17261,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "99",
+  "people": [
+    {
+      "name": "Margaret B. Ransone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-H0244",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 358;Kinsale, Virginia 22488"
+      ],
+      "phone": [
+        "804-472-4181"
+      ],
+      "email": [
+        "DelMRansone@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "99"
+    },
+    {
+      "name": "Richard H. Stuart",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Stuart28.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1146;Montross, Virginia 22520"
+      ],
+      "phone": [
+        "804-493-8892"
+      ],
+      "email": [
+        "district28@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "28"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

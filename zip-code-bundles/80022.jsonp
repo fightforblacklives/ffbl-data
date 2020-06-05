@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "80022",
+  "state": "CO",
+  "city": "Commerce City",
+  "latitude": 39.836586,
+  "longitude": -104.9039,
+  "congressionalDistrict": [
+    "06",
+    "07",
+    "01"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Adrienne Benavidez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-2020a_benavidez%252C%2520adrienne.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2964"
+      ],
+      "email": [
+        "adrienne.benavidez.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "32"
+    },
+    {
+      "name": "Dominick Moreno",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-2020a_moreno-co-17.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4857"
+      ],
+      "email": [
+        "dominick.moreno.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "21"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-Huseman_Benjamin%2154809.jpg",
+      "name": "Benjamin Huseman",
+      "phone": "303-219-0510",
+      "email": "bhuseman@c3gov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Commerce City"
+    }
+  ]
+})

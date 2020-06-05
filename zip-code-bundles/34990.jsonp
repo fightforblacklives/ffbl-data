@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "34990",
+  "state": "FL",
+  "city": "Palm City",
+  "latitude": 27.163485,
+  "longitude": -80.31267,
+  "congressionalDistrict": [
+    "18"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "82",
+  "people": [
+    {
+      "name": "MaryLynn \"ML\" Magar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-4575.jpg",
+      "twitter": null,
+      "addresses": [
+        "11700 Southeast Dixie Highway; Hobe Sound, FL 33455-5457",
+        "418 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "772-545-3481",
+        "850-717-5082"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "82"
+    },
+    {
+      "name": "Gayle Harrell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-s25_5348.jpg",
+      "twitter": null,
+      "addresses": [
+        "215 SW Federal Highway; Suite 203; Stuart, FL 34994",
+        "310 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "harrell.gayle.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "25"
+    },
+    {
+      "name": "Brian Mast",
+      "email": null,
+      "twitter": "repbrianmast",
+      "addresses": [
+        "2182 Rayburn House Office Building; Washington DC 20515-0918"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-M001199.jpg",
+      "phone": "202-225-3026",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "18"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

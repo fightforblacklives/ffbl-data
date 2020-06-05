@@ -1,0 +1,74 @@
+callback({
+  "zipCode": "72181",
+  "state": "AR",
+  "city": "Wooster",
+  "latitude": 35.163915,
+  "longitude": -92.45297,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "67",
+  "people": [
+    {
+      "name": "Stephen Meeks",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-374_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "552 Highway 225 E, Greenbrier, 72058"
+      ],
+      "phone": [
+        "501-314-9250"
+      ],
+      "email": [
+        "Stephen.Meeks@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "67"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

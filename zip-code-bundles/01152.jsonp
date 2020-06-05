@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "01152",
+  "state": "MA",
+  "city": "Springfield",
+  "latitude": 42.170731,
+  "longitude": -72.604842,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": "Eighth Hampden",
+  "people": [
+    {
+      "name": "Joseph F. Wagner",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JFW1.jpg",
+      "twitter": null,
+      "addresses": [
+        "333 Front Street, Suite 3;Chicopee, MA 01013",
+        "24 Beacon St.;Room 234;Boston, MA, 02133"
+      ],
+      "phone": [
+        "413-592-7857",
+        "617-722-2783"
+      ],
+      "email": [
+        "Joseph.Wagner@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Eighth Hampden"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Sarno_Domenic%211110.jpg",
+      "name": "Domenic J. Sarno",
+      "phone": "413-787-6100",
+      "email": "msarno@springfieldcityhall.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Springfield"
+    }
+  ]
+})

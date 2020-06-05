@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "07192",
+  "state": "NJ",
+  "city": "Newark",
+  "latitude": 40.79185,
+  "longitude": -74.245241,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "27",
+  "people": [
+    {
+      "name": "John F. McKeon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-mckeon_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "221 Main St.;Madison, NJ 07940"
+      ],
+      "phone": [
+        "973-377-1606"
+      ],
+      "email": [
+        "AsmMcKeon@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "27"
+    },
+    {
+      "name": "Mila M. Jasey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-jasey_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "511 Valley St.;Maplewood, NJ 07040"
+      ],
+      "phone": [
+        "973-762-1886"
+      ],
+      "email": [
+        "AswJasey@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "27"
+    },
+    {
+      "name": "Richard J. Codey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-codey_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "66 W. Mount Pleasant Ave.;Livingston, NJ 07039"
+      ],
+      "phone": [
+        "973-535-5017"
+      ],
+      "email": [
+        "SenCodey@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "27"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-Baraka_Ras%21811.jpg",
+      "name": "Ras J. Baraka",
+      "phone": "(973) 733-6400",
+      "email": null,
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Newark"
+    }
+  ]
+})

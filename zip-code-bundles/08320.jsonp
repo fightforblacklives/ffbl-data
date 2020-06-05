@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08320",
+  "state": "NJ",
+  "city": "Fairton",
+  "latitude": 39.379906,
+  "longitude": -75.221681,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Antwan McClellan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-mcclellan_antwan_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "School House Office Park, 211 S. Main Street, Suite 104;Cape May Coury House, NJ 08210"
+      ],
+      "phone": [
+        "609-778-2012"
+      ],
+      "email": [
+        "AsmMcClellan@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "1"
+    },
+    {
+      "name": "Erik Simonsen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-simonsen_erik_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "School House Office Park, 211 S. Main Street, Suite 104;Cape May Court House, NJ 08201"
+      ],
+      "phone": [
+        "609-778-2012"
+      ],
+      "email": [
+        "AsmSimonsen@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "1"
+    },
+    {
+      "name": "Michael L. Testa Jr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-testa_michael_2019.jpg",
+      "twitter": null,
+      "addresses": [
+        "School House Office Park, 211 S. Main Street, Suite 104;Cape May Court House, NJ 08210"
+      ],
+      "phone": [
+        "609-778-2012"
+      ],
+      "email": [
+        "SenTesta@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "1"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

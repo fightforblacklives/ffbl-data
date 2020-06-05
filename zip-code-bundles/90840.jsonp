@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "90840",
+  "state": "CA",
+  "city": "Long Beach",
+  "latitude": 33.784266,
+  "longitude": -118.115698,
+  "congressionalDistrict": [
+    "47"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "70",
+  "people": [
+    {
+      "name": "Patrick O'Donnell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-AD70_ODonnell_Portrait150_20141201.jpg",
+      "twitter": null,
+      "addresses": [
+        "461 West 6th Street, Suite 209;San Pedro, CA 90731",
+        "P.O. Box 942849;Sacramento, CA 94249-0070"
+      ],
+      "phone": [
+        "310-548-6420",
+        "916-319-2070"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "70"
+    },
+    {
+      "name": "Thomas J. Umberg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-senator_umberg.jpg",
+      "twitter": null,
+      "addresses": [
+        "10971 Garden Grove Blvd., Suite D, Garden Grove, CA 92843",
+        "State Capitol, Room 3070, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "714-741-1034",
+        "916-651-4034"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "34"
+    },
+    {
+      "name": "Alan Lowenthal",
+      "email": null,
+      "twitter": "RepLowenthal",
+      "addresses": [
+        "108 Cannon House Office Building; Washington DC 20515-0547"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-L000579.jpg",
+      "phone": "202-225-7924",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "47"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Garcia_Robert%21658.JPG",
+      "name": "Robert Garcia",
+      "phone": "562-570-6801",
+      "email": "mayor@longbeach.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Long Beach"
+    }
+  ]
+})

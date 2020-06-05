@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "52216",
+  "state": "IA",
+  "city": "Clarence",
+  "latitude": 41.888182,
+  "longitude": -91.04567,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "73",
+  "people": [
+    {
+      "name": "Bobby Kaufmann",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D10756",
+      "twitter": null,
+      "addresses": [
+        "1527 330th St, Wilton, IA 52778"
+      ],
+      "phone": [
+        "515-281-3221"
+      ],
+      "email": [
+        "bobby.kaufmann@legis.iowa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IA",
+      "district": "73"
+    },
+    {
+      "name": "Zach Wahls",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D27002",
+      "twitter": null,
+      "addresses": [
+        "201 E 9th St #415, Coralville, IA 52241"
+      ],
+      "phone": [
+        "515-281-3371"
+      ],
+      "email": [
+        "zach.wahls@legis.iowa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IA",
+      "district": "37"
+    },
+    {
+      "name": "Charles Grassley",
+      "email": null,
+      "twitter": "ChuckGrassley",
+      "addresses": [
+        "135 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-G000386.jpg",
+      "phone": "202-224-3744",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Joni Ernst",
+      "email": null,
+      "twitter": "SenJoniErnst",
+      "addresses": [
+        "730 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-E000295.jpg",
+      "phone": "202-224-3254",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kim Reynolds",
+      "addresses": [
+        "State Capitol Des Moines IA 50319-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ia_reynolds.png",
+      "twitter": "terrybranstad",
+      "email": null,
+      "phone": "515- 281-5211",
+      "type": "Governor",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

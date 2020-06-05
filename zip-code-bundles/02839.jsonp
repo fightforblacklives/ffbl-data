@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "02839",
+  "state": "RI",
+  "city": "Mapleville",
+  "latitude": 41.948108,
+  "longitude": -71.64003,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "David J. Place",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-place.jpg",
+      "twitter": null,
+      "addresses": [
+        "167 Jefferson Boulevard, Harrisville, RI 02830"
+      ],
+      "phone": [
+        "401-286-2088"
+      ],
+      "email": [
+        "rep-place@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "RI",
+      "district": "47"
+    },
+    {
+      "name": "Jessica de la Cruz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-delacruz.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "sen-delacruz@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "RI",
+      "district": "23"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

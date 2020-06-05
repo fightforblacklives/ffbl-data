@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "10801",
+  "state": "NY",
+  "city": "New Rochelle",
+  "latitude": 40.915845,
+  "longitude": -73.78643,
+  "congressionalDistrict": [
+    "16"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "88",
+  "people": [
+    {
+      "name": "Amy Paulin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-088.jpg",
+      "twitter": null,
+      "addresses": [
+        "700 White Plains Rd.;Suite 252;Scarsdale, NY 10583",
+        "LOB 422;Albany, NY 12248"
+      ],
+      "phone": [
+        "914-723-1115",
+        "518-455-5585"
+      ],
+      "email": [
+        "PaulinA@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "88"
+    },
+    {
+      "name": "Andrea Stewart-Cousins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-asc_headshot.jpg%3Fitok%3DRHphZkr2",
+      "twitter": null,
+      "addresses": [
+        "28 Wells Avenue, Building #3;Yonkers,, NY 10701"
+      ],
+      "phone": [
+        "914-423-4031"
+      ],
+      "email": [
+        "scousins@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "35"
+    },
+    {
+      "name": "Eliot Engel",
+      "email": null,
+      "twitter": "RepEliotEngel",
+      "addresses": [
+        "2426 Rayburn House Office Building; Washington DC 20515-3216"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-E000179.jpg",
+      "phone": "202-225-2464",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "16"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-Bramson_Noam%21808.JPG",
+      "name": "Noam Bramson",
+      "phone": "914-654-2150",
+      "email": "nbramson@newrochelleny.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "New Rochelle"
+    }
+  ]
+})

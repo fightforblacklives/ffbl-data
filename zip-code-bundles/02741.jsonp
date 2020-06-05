@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "02741",
+  "state": "MA",
+  "city": "New Bedford",
+  "latitude": 41.756214,
+  "longitude": -71.067062,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "First Bristol and Plymouth",
+  "stateLowerDistrict": "Eighth Bristol",
+  "people": [
+    {
+      "name": "Paul A. Schmid, III",
+      "image": "https://malegislature.gov/Legislators/Profile/170/PAS1.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 Government Center;Fall River, MA 02720",
+        "24 Beacon St.;Room 466;Boston, MA, 02133"
+      ],
+      "phone": [
+        "508-567-5675",
+        "617-722-2017"
+      ],
+      "email": [
+        "Paul.Schmid@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Eighth Bristol"
+    },
+    {
+      "name": "Michael J. Rodrigues",
+      "image": "https://malegislature.gov/Legislators/Profile/170/MJR0.jpg",
+      "twitter": null,
+      "addresses": [
+        "One Government Center;Fall River, MA 02722",
+        "24 Beacon St.;Room 212;Boston, MA, 02133"
+      ],
+      "phone": [
+        "508-646-0650",
+        "617-722-1114"
+      ],
+      "email": [
+        "Michael.Rodrigues@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "First Bristol and Plymouth"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Mitchell_Jon%21800.JPG",
+      "name": "Jon Mitchell",
+      "phone": "508-979-1410",
+      "email": "jon.mitchell@newbedford-ma.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "New Bedford"
+    }
+  ]
+})

@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "43093",
+  "state": "OH",
+  "city": "Newark",
+  "latitude": 40.095148,
+  "longitude": -82.482659,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "71",
+  "people": [
+    {
+      "name": "Mark Fraizer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-71.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-1482"
+      ],
+      "email": [
+        "rep71@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "71"
+    },
+    {
+      "name": "Jay Hottinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-2831.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-5838"
+      ],
+      "email": [
+        "sd31@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "31"
+    },
+    {
+      "name": "Troy Balderson",
+      "email": null,
+      "twitter": "RepBalderson",
+      "addresses": [
+        "1221 Longworth House Office Building; Washington DC 20515-3512"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-B001306.jpg",
+      "phone": "202-225-5355",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-Hall_Jeff%21812.JPG",
+      "name": "Jeff Hall",
+      "phone": "740-670-7500",
+      "email": "jlong@newarkohio.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Newark"
+    }
+  ]
+})

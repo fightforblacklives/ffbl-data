@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "91754",
+  "state": "CA",
+  "city": "Monterey Park",
+  "latitude": 34.048207,
+  "longitude": -118.14161,
+  "congressionalDistrict": [
+    "27",
+    "40"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "49",
+  "people": [
+    {
+      "name": "Ed Chau",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-AD49-Chau.jpg",
+      "twitter": null,
+      "addresses": [
+        "1255 Corporate Center Drive, Suite 216;Monterey Park, CA 91754",
+        "P.O. Box 942849;Sacramento, CA 94249-0049"
+      ],
+      "phone": [
+        "323-264-4949",
+        "916-319-2049"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "49"
+    },
+    {
+      "name": "Susan Rubio",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-senator_rubio.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 S. Vincent Avenue, Suite 401, West Covina, CA 91790",
+        "State Capitol, Room 4048, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "626-430-2499",
+        "916-651-4022"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "22"
+    },
+    {
+      "name": "Judy Chu",
+      "email": null,
+      "twitter": "RepJudyChu",
+      "addresses": [
+        "2423 Rayburn House Office Building; Washington DC 20515-0527"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-C001080.jpg",
+      "phone": "202-225-5464",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "27"
+    },
+    {
+      "name": "Lucille Roybal-Allard",
+      "email": null,
+      "twitter": "RepRoybalAllard",
+      "addresses": [
+        "2083 Rayburn House Office Building; Washington DC 20515-0540"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-R000486.jpg",
+      "phone": "202-225-1766",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "40"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-Liang_Hans%2154758.jpg",
+      "name": "Hans Liang",
+      "phone": "626-307-1255",
+      "email": "hliang@montereypark.ca.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Monterey Park"
+    }
+  ]
+})

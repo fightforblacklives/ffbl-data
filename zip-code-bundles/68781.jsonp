@@ -1,0 +1,75 @@
+callback({
+  "zipCode": "68781",
+  "state": "NE",
+  "city": "Tilden",
+  "latitude": 42.028202,
+  "longitude": -97.84085,
+  "congressionalDistrict": [
+    "03",
+    "01"
+  ],
+  "stateUpperDistrict": "41",
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "name": "Tom Briese",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-dist41.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room #8th Floor;P.O. Box 94604;Lincoln, NE 68509"
+      ],
+      "phone": [
+        "402-471-2631"
+      ],
+      "email": [
+        "tbriese@leg.ne.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Nonpartisan",
+      "state": "NE",
+      "district": "41"
+    },
+    {
+      "name": "Benjamin Sasse",
+      "email": null,
+      "twitter": "SenSasse",
+      "addresses": [
+        "107 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-S001197.jpg",
+      "phone": "202-224-4224",
+      "type": "US Senator",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Deb Fischer",
+      "email": null,
+      "twitter": "SenatorFischer",
+      "addresses": [
+        "454 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-F000463.jpg",
+      "phone": "202-224-6551",
+      "type": "US Senator",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Pete Ricketts",
+      "addresses": [
+        "P.O. Box 94848 Lincoln NE 68509-4848"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-NE.jpg",
+      "twitter": "govricketts",
+      "email": null,
+      "phone": "402-471-2244",
+      "type": "Governor",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

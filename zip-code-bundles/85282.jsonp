@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "85282",
+  "state": "AZ",
+  "city": "Tempe",
+  "latitude": 33.394067,
+  "longitude": -111.92873,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "Athena Salman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-SALMAN.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 321;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4858"
+      ],
+      "email": [
+        "asalman@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "26"
+    },
+    {
+      "name": "Isela Blanc",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-BLANC.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 334;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5187"
+      ],
+      "email": [
+        "iblanc@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "26"
+    },
+    {
+      "name": "Juan Mendez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-MENDEZ.gif",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 313;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4124"
+      ],
+      "email": [
+        "jmendez@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "26"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Mitchell_Mark%211153.jpg",
+      "name": "Mark W. Mitchell",
+      "phone": "480-350-8793",
+      "email": "mark_mitchell@tempe.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Tempe"
+    }
+  ]
+})

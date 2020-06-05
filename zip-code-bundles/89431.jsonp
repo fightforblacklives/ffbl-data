@@ -1,0 +1,86 @@
+callback({
+  "zipCode": "89431",
+  "state": "NV",
+  "city": "Sparks",
+  "latitude": 39.542711,
+  "longitude": -119.75445,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "13",
+  "stateLowerDistrict": "30",
+  "people": [
+    {
+      "name": "Julia Ratti",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-Ratti.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 4228;Sparks, NV 89432"
+      ],
+      "phone": [
+        "775-525-0359"
+      ],
+      "email": [
+        "Julia.Ratti@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "13"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Smith_Ron%2154489.jpg",
+      "name": "Ron Smith",
+      "phone": "775-353-2311",
+      "email": "rsmith@cityofsparks.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "Sparks"
+    }
+  ]
+})

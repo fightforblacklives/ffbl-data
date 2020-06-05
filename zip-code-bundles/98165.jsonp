@@ -1,0 +1,13 @@
+callback({
+  "zipCode": "98165",
+  "state": null,
+  "city": null,
+  "latitude": null,
+  "longitude": null,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

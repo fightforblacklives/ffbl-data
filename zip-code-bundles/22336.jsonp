@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "22336",
+  "state": "VA",
+  "city": "Alexandria",
+  "latitude": 38.815762,
+  "longitude": -77.09005,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "39",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "Charniele L. Herring",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-H0208",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 11779;Alexandria, Virginia 22312"
+      ],
+      "phone": [
+        "703-606-9705"
+      ],
+      "email": [
+        "DelCHerring@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "46"
+    },
+    {
+      "name": "George L. Barker",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Barker39.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 10527;Alexandria, Virginia 22310"
+      ],
+      "phone": [
+        "703-303-1426"
+      ],
+      "email": [
+        "district39@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "39"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Wilson_Justin%2154486.jpg",
+      "name": "Justin Wilson",
+      "phone": "703-746-4500",
+      "email": "justin.wilson@alexandriava.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Alexandria"
+    }
+  ]
+})

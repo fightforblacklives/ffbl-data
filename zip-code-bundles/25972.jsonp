@@ -1,0 +1,115 @@
+callback({
+  "zipCode": "25972",
+  "state": "WV",
+  "city": "Leslie",
+  "latitude": 38.048182,
+  "longitude": -80.74821,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Jordan Hill",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-hill_jordan.jpg",
+      "twitter": null,
+      "addresses": [
+        "6165 Irish Coiner Road;Summersville, WV, 26651",
+        "Room 215E-C, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-619-8074",
+        "304-340-3352"
+      ],
+      "email": [
+        "jordan.hill@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "41"
+    },
+    {
+      "name": "Kenny Mann",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-mann_kenny.jpg",
+      "twitter": null,
+      "addresses": [
+        "5007 Hans Creek Road;Greenville, WV, 24945",
+        "Room 441M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-646-6089",
+        "304-357-7849"
+      ],
+      "email": [
+        "kenny.mann@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Stephen Baldwin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-baldwin_stephen.jpg",
+      "twitter": null,
+      "addresses": [
+        "237 Locust Street;Ronceverte, WV, 24970",
+        "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7959"
+      ],
+      "email": [
+        "stephen.baldwin@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

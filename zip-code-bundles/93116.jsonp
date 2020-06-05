@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "93116",
+  "state": "CA",
+  "city": "Goleta",
+  "latitude": 34.262834,
+  "longitude": -119.848555,
+  "congressionalDistrict": [
+    "24"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "name": "Salud Carbajal",
+      "email": null,
+      "twitter": "RepCarbajal",
+      "addresses": [
+        "1431 Longworth House Office Building; Washington DC 20515-0524"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-C001112.jpg",
+      "phone": "202-225-3601",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Perotte_Paula%2153206.jpg",
+      "name": "Paula Perotte",
+      "phone": "805-961-7536",
+      "email": "pperotte@cityofgoleta.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Goleta"
+    }
+  ]
+})

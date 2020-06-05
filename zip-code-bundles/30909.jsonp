@@ -1,0 +1,134 @@
+callback({
+  "zipCode": "30909",
+  "state": "GA",
+  "city": "Augusta",
+  "latitude": 33.475936,
+  "longitude": -82.0697,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "123",
+  "people": [
+    {
+      "name": "Mark Newton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-NewtonMark4902.jpg",
+      "twitter": null,
+      "addresses": [
+        "601-H Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0254"
+      ],
+      "email": [
+        "mark.newton@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "123"
+    },
+    {
+      "name": "Harold Jones II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Jones%20IIHarold851.jpg",
+      "twitter": null,
+      "addresses": [
+        "437 Walker Street;Augusta, GA 30901",
+        "323-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "706-339-1424",
+        "404-463-3942"
+      ],
+      "email": [
+        "harold.jones@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "22"
+    },
+    {
+      "name": "Rick Allen",
+      "email": null,
+      "twitter": "reprickallen",
+      "addresses": [
+        "2400 Rayburn House Office Building; Washington DC 20515-1012"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-A000372.jpg",
+      "phone": "202-225-2823",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Davis_Hardie%2156.JPG",
+      "name": "Hardie Davis Jr.",
+      "phone": "706-821-1831",
+      "email": "mayordavis@augustaga.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Augusta"
+    }
+  ]
+})

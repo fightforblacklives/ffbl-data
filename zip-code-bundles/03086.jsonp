@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03086",
+  "state": "NH",
+  "city": "Wilton",
+  "latitude": 42.830184,
+  "longitude": -71.78177,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "Hillsborough 4",
+  "people": [
+    {
+      "name": "Jennifer Bernet",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "229 Temple Road;Wilton, NH 03086-5621"
+      ],
+      "phone": [
+        "603-878-2044"
+      ],
+      "email": [
+        "Jennifer.Bernet@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 4"
+    },
+    {
+      "name": "Kermit R. Williams",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-377192.jpg",
+      "twitter": null,
+      "addresses": [
+        "55 Burns Hill Road;Wilton, NH 03086-5112"
+      ],
+      "phone": [
+        "603-654-7684"
+      ],
+      "email": [
+        "kermit.williams@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 4"
+    },
+    {
+      "name": "Shannon E. Chandley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-376802.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 105-A\";107 North Main Street;Concord , NH 03301"
+      ],
+      "phone": [
+        "603-271-4151"
+      ],
+      "email": [
+        "Shannon.Chandley@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "11"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

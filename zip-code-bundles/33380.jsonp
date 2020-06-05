@@ -1,0 +1,101 @@
+callback({
+  "zipCode": "33380",
+  "state": "FL",
+  "city": "Winter Haven",
+  "latitude": 28.017179,
+  "longitude": -81.754949,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Sam H. Killebrew",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-4644.jpg",
+      "twitter": null,
+      "addresses": [
+        "337 Avenue C Southwest; Winter Haven, FL 33880-3262",
+        "308 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "863-291-5254",
+        "850-717-5041"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "41"
+    },
+    {
+      "name": "Kelli Stargel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-s22_5105.jpg",
+      "twitter": null,
+      "addresses": [
+        "2033 East Edgewood Drive; Suite 1; Lakeland, FL 33803",
+        "408 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "stargel.kelli.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "22"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-Dantzler_Bradley%2154137.jpg",
+      "name": "Bradley T. Dantzler",
+      "phone": "863-289-9947",
+      "email": "bdantzler@mywinterhaven.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Winter Haven"
+    }
+  ]
+})

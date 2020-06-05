@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "16832",
+  "state": "PA",
+  "city": "Coburn",
+  "latitude": 40.847255,
+  "longitude": -77.47633,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "171",
+  "people": [
+    {
+      "name": "Kerry A. Benninghoff",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-215.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 North Main Street PO Box 592 Reedsville, PA 17084",
+        "147 Main Capitol Building PO Box 202171 Harrisburg, PA 17120-2171"
+      ],
+      "phone": [
+        "717-667-1175",
+        "717-783-1918"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "171"
+    },
+    {
+      "name": "Jake Corman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-251.jpg",
+      "twitter": null,
+      "addresses": [
+        "236 Match Factory Place;Bellefonte, PA 16823",
+        "Senate Box 203034;Harrisburg, PA 17120-3034;Room:;350 Main Capitol"
+      ],
+      "phone": [
+        "814-355-0477",
+        "717-787-1377"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "34"
+    },
+    {
+      "name": "Fred Keller",
+      "email": null,
+      "twitter": "RepFredKeller",
+      "addresses": [
+        "1717 Longworth House Office Building; Washington DC 20515-3812"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-K000395.jpg",
+      "phone": "202-225-3731",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

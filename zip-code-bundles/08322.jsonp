@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08322",
+  "state": "NJ",
+  "city": "Franklinville",
+  "latitude": 39.618222,
+  "longitude": -75.0618,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "3",
+  "people": [
+    {
+      "name": "Adam J. Taliaferro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-taliaferro_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "199 East Broadway, 1st Floor, Suite G;Salem, NJ 08079"
+      ],
+      "phone": [
+        "856-339-0808"
+      ],
+      "email": [
+        "AsmTaliaferro@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "3"
+    },
+    {
+      "name": "John J. Burzichelli",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-burzichelli_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "935 Kings Highway, Suite 400;West Deptford, NJ 08086"
+      ],
+      "phone": [
+        "856-251-9801"
+      ],
+      "email": [
+        "AsmBurzichelli@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "3"
+    },
+    {
+      "name": "Stephen M. Sweeney",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-sweeney_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "935 Kings Highway, Suite 400;West Deptford, NJ 08086"
+      ],
+      "phone": [
+        "856-251-9801"
+      ],
+      "email": [
+        "SenSweeney@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "3"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

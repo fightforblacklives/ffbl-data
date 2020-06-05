@@ -1,0 +1,96 @@
+callback({
+  "zipCode": "02558",
+  "state": "MA",
+  "city": "Onset",
+  "latitude": 41.746424,
+  "longitude": -70.65956,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "First Plymouth and Bristol",
+  "stateLowerDistrict": "Second Plymouth",
+  "people": [
+    {
+      "name": "Susan Williams Gifford",
+      "image": "https://malegislature.gov/Legislators/Profile/170/SWG1.jpg",
+      "twitter": null,
+      "addresses": [
+        "191 Main Street, Suite 213F;Wareham, MA 02571",
+        "24 Beacon St.;Room 124;Boston, MA, 02133"
+      ],
+      "phone": [
+        "508-295-5999",
+        "617-722-2100"
+      ],
+      "email": [
+        "Susan.Gifford@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MA",
+      "district": "Second Plymouth"
+    },
+    {
+      "name": "Marc R. Pacheco",
+      "image": "https://malegislature.gov/Legislators/Profile/170/MRP0.jpg",
+      "twitter": null,
+      "addresses": [
+        "8 Trescott St., Suite 1;Taunton, MA 02780",
+        "24 Beacon St.;Room 312-B;Boston, MA, 02133"
+      ],
+      "phone": [
+        "508-822-3000",
+        "617-722-1551"
+      ],
+      "email": [
+        "Marc.Pacheco@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "First Plymouth and Bristol"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

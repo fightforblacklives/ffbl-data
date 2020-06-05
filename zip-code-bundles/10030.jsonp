@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "10030",
+  "state": "NY",
+  "city": "New York",
+  "latitude": 40.818151,
+  "longitude": -73.94351,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "70",
+  "people": [
+    {
+      "name": "Inez Dickens",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-070.jpg",
+      "twitter": null,
+      "addresses": [
+        "163 West 125th Street;Suite 911;New York, NY 10027",
+        "LOB 819;Albany, NY 12248"
+      ],
+      "phone": [
+        "212-866-5809",
+        "518-455-4793"
+      ],
+      "email": [
+        "DickensI@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "70"
+    },
+    {
+      "name": "Brian A. Benjamin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-bbenjamin.jpg%3Fitok%3Dygy_nLcx",
+      "twitter": null,
+      "addresses": [
+        "188 State Street Room 517,;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2441"
+      ],
+      "email": [
+        "bbenjamin@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "30"
+    },
+    {
+      "name": "Adriano Espaillat",
+      "email": null,
+      "twitter": "RepEspaillat",
+      "addresses": [
+        "1630 Longworth House Office Building; Washington DC 20515-3213"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-E000297.jpg",
+      "phone": "202-225-4365",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-deBlasio_Bill%21809.jpg",
+      "name": "Bill de Blasio",
+      "phone": "212-788-3000",
+      "email": "acaplan@cityhall.nyc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "New York"
+    }
+  ]
+})

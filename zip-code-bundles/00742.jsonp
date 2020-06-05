@@ -1,0 +1,13 @@
+callback({
+  "zipCode": "00742",
+  "state": "PR",
+  "city": "Roosevelt Roads",
+  "latitude": 18.264872,
+  "longitude": -65.594769,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

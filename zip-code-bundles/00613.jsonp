@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00613",
+  "state": "PR",
+  "city": "Arecibo",
+  "latitude": 18.458093,
+  "longitude": -66.732732,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "III",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "José O. González Mercado",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-1e9fe78f-c36a-4426-9a8b-b67f38696cba.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do. PISO ANEXO"
+      ],
+      "phone": [
+        "787-721-4103"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "14"
+    },
+    {
+      "name": "Angel R. Martínez Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-senador-11.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "anmartinez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    },
+    {
+      "name": "José O. Pérez Rosa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-senador-15.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "josperez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    }
+  ]
+})

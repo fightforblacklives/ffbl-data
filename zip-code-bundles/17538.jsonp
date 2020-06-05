@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "17538",
+  "state": "PA",
+  "city": "Landisville",
+  "latitude": 40.091196,
+  "longitude": -76.41582,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Brett R. Miller",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-1699.jpg",
+      "twitter": null,
+      "addresses": [
+        "Manor West Commons 2938 Columbia Avenue Suite 501 Lancaster, PA 17603",
+        "54A East Wing PO Box 202041 Harrisburg, PA 17120-2041"
+      ],
+      "phone": [
+        "717-295-5050",
+        "717-705-7161"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "41"
+    },
+    {
+      "name": "Ryan P. Aument",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-1198.jpg",
+      "twitter": null,
+      "addresses": [
+        "301 East Main Street;Lititz, PA 17543",
+        "Senate Box 203036;Harrisburg, PA 17120-3036;Room:;9 East Wing"
+      ],
+      "phone": [
+        "717-627-0036",
+        "717-787-4420"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "36"
+    },
+    {
+      "name": "Lloyd Smucker",
+      "email": null,
+      "twitter": "RepSmucker",
+      "addresses": [
+        "127 Cannon House Office Building; Washington DC 20515-3811"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-S001199.jpg",
+      "phone": "202-225-2411",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

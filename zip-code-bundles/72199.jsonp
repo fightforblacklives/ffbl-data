@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "72199",
+  "state": "AR",
+  "city": "North Little Rock",
+  "latitude": 34.827174,
+  "longitude": -92.284718,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "39",
+  "people": [
+    {
+      "name": "Mark Lowery",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-413_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "229 Summit Valley Circle, Maumelle, 72113"
+      ],
+      "phone": [
+        "501-837-5221"
+      ],
+      "email": [
+        "markdlowery@mac.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "39"
+    },
+    {
+      "name": "Jane English",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-405_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 Great Oak Court, North Little Rock, 72116"
+      ],
+      "phone": [
+        "501-257-7670"
+      ],
+      "email": [
+        "jane.english@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "34"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-Smith_Joe%21830.jpg",
+      "name": "Joe A. Smith",
+      "phone": "501-975-8601",
+      "email": "mayor@nlr.ar.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "North Little Rock"
+    }
+  ]
+})

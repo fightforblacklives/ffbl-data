@@ -1,0 +1,79 @@
+callback({
+  "zipCode": "23139",
+  "state": "VA",
+  "city": "Powhatan",
+  "latitude": 37.55563,
+  "longitude": -77.90048,
+  "congressionalDistrict": [
+    "07",
+    "05"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "R. Lee Ware",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-H0124",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 689;Powhatan, Virginia 23139"
+      ],
+      "phone": [
+        "804-598-6696"
+      ],
+      "email": [
+        "DelLWare@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "65"
+    },
+    {
+      "name": "Ghazala F. Hashmi",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Hashmi10.jpg",
+      "twitter": null,
+      "addresses": [
+        ";,"
+      ],
+      "phone": [
+        "804-698-7400"
+      ],
+      "email": [
+        "district10@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "10"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

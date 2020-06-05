@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "57703",
+  "state": "SD",
+  "city": "Rapid City",
+  "latitude": 44.05164,
+  "longitude": -103.13061,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Tina L Mulally",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "6390 Long View Rd.;Rapid City, SD 57703"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Tina.Mulally@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "35"
+    },
+    {
+      "name": "Tony Randolph",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "5530 Colvin Ct.;Rapid City, SD 57703"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Tony.Randolph@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "35"
+    },
+    {
+      "name": "Lynne DiSanto",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-DiSanto_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "22739A Rando Ct.;Box Elder, SD 57719"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Lynne.DiSanto@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "35"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Allender_Steve%21967.JPG",
+      "name": "Steve Allender",
+      "phone": "605-394-4110",
+      "email": "mayorsoffice@rcgov.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "SD",
+      "city": "Rapid City"
+    }
+  ]
+})

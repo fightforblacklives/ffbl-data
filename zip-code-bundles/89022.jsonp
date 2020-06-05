@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "89022",
+  "state": "NV",
+  "city": "Manhattan",
+  "latitude": 38.738647,
+  "longitude": -117.0789,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Gregory T. Hafen II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-HafenII.Gregory.371.jpg",
+      "twitter": null,
+      "addresses": [
+        "5250 Hafen Ranch Road;Pahrump, NV 89061-7502"
+      ],
+      "phone": [],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "36"
+    },
+    {
+      "name": "Pete Goicoechea",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-Goicoechea.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 97;Eureka, NV 89316-0097"
+      ],
+      "phone": [
+        "775-237-5300"
+      ],
+      "email": [
+        "Pete.Goicoechea@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "19"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

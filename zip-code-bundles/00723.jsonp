@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00723",
+  "state": "PR",
+  "city": "Patillas",
+  "latitude": 18.023196,
+  "longitude": -66.0131,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VII",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Ramón L. Cruz Burgos",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-bcd177b1-25db-4bd1-a19b-5314ab410cc9.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do. PISO ANEXO"
+      ],
+      "phone": [
+        "787-622-3802"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "34"
+    },
+    {
+      "name": "José L. Dalmau Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-16.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "jldalmau@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "VII"
+    },
+    {
+      "name": "Miguel A. Laureano Correa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-senador-23.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mlaureano@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VII"
+    }
+  ]
+})

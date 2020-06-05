@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "55804",
+  "state": "MN",
+  "city": "Duluth",
+  "latitude": 46.86242,
+  "longitude": -91.98342,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "7A",
+  "people": [
+    {
+      "name": "Jennifer Schultz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-07A.gif",
+      "twitter": null,
+      "addresses": [
+        "473 State Office Building;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-2228"
+      ],
+      "email": [
+        "rep.jennifer.schultz@house.mn"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic-Farmer-Labor",
+      "state": "MN",
+      "district": "7A"
+    },
+    {
+      "name": "Erik Simonson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-07Simonson.jpg",
+      "twitter": null,
+      "addresses": [
+        "2417 Minnesota Senate Bldg.;95 University Avenue W.;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-4188"
+      ],
+      "email": [
+        "sen.erik.simonson@senate.mn"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic-Farmer-Labor",
+      "state": "MN",
+      "district": "7"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "email": null,
+      "twitter": "SenAmyKlobuchar",
+      "addresses": [
+        "425 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-K000367.jpg",
+      "phone": "202-224-3244",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tina Smith",
+      "email": null,
+      "twitter": "SenTinaSmith",
+      "addresses": [
+        "720 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001203.jpg",
+      "phone": "202-224-5641",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tim Walz",
+      "addresses": [
+        "130 State Capitol 130 State Capitol St. Paul MN 55155"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-mn_walz.png",
+      "twitter": "GovTimWalz",
+      "email": null,
+      "phone": "651-201-3400",
+      "type": "Governor",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Larson_Emily%21311.jpg",
+      "name": "Emily Larson",
+      "phone": "218-730-5230",
+      "email": "elarson@duluthmn.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MN",
+      "city": "Duluth"
+    }
+  ]
+})

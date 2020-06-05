@@ -1,0 +1,11 @@
+callback({
+  "zipCode": "00831",
+  "state": "VI",
+  "city": "St John",
+  "latitude": 18.32816,
+  "longitude": -64.740737,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

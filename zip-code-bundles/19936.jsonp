@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "19936",
+  "state": "DE",
+  "city": "Cheswold",
+  "latitude": 39.218448,
+  "longitude": -75.584848,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "William Bush",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-placeholder_leg.png",
+      "twitter": null,
+      "addresses": [
+        "411 Legislative Ave. Dover, DE 19901"
+      ],
+      "phone": [
+        "302-744-4351"
+      ],
+      "email": [
+        "William.Bush@state.de.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "DE",
+      "district": "29"
+    },
+    {
+      "name": "Dave G. Lawson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-DavidLawson.jpg%3Fsfvrsn%3D0",
+      "twitter": null,
+      "addresses": [
+        "411 Legislative Ave. Dover, DE 19901"
+      ],
+      "phone": [
+        "302-744-4237"
+      ],
+      "email": [
+        "Dave.Lawson@state.de.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "DE",
+      "district": "15"
+    },
+    {
+      "name": "Chris Coons",
+      "email": null,
+      "twitter": "ChrisCoons",
+      "addresses": [
+        "218 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-C001088.jpg",
+      "phone": "202-224-5042",
+      "type": "US Senator",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Thomas Carper",
+      "email": null,
+      "twitter": "SenatorCarper",
+      "addresses": [
+        "513 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-C000174.jpg",
+      "phone": "202-224-2441",
+      "type": "US Senator",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "John Carney",
+      "addresses": [
+        "Legislative Hall Dover DE 19902"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-de_carney.png",
+      "twitter": "JohnCarneyDE",
+      "email": null,
+      "phone": "302-744-4101",
+      "type": "Governor",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

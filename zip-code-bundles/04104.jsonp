@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "04104",
+  "state": "ME",
+  "city": "Portland",
+  "latitude": 43.84649,
+  "longitude": -70.464839,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Mark E. Bryant",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-b527b76d-c962-4f37-956b-73a2af14d175_bryame.jpg",
+      "twitter": null,
+      "addresses": [
+        "166 Albion Road, Windham, ME 04062"
+      ],
+      "phone": [
+        "207-892-6591"
+      ],
+      "email": [
+        "Mark.Bryant@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "24"
+    },
+    {
+      "name": "G. William Diamond",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-diamond-color.jpg",
+      "twitter": null,
+      "addresses": [
+        "10 Crown Point Road;Windham, ME 04062"
+      ],
+      "phone": [
+        "207-892-8941"
+      ],
+      "email": [
+        "William.Diamond@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "26"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Snyder_Kate%2154864.jpg",
+      "name": "Kate Snyder",
+      "phone": "207-874-8941",
+      "email": "ksnyder@portlandmaine.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ME",
+      "city": "Portland"
+    }
+  ]
+})

@@ -1,0 +1,80 @@
+callback({
+  "zipCode": "27031",
+  "state": "NC",
+  "city": "White Plains",
+  "latitude": 36.399366,
+  "longitude": -80.70809,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "45",
+  "stateLowerDistrict": "90",
+  "people": [
+    {
+      "name": "Sarah Stevens",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-592.jpg",
+      "twitter": null,
+      "addresses": [
+        "2161 Margaret Dr;Mt. Airy, NC 27030",
+        "300 N. Salisbury Street, Rm. 419;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-715-1883",
+        "919-715-1883"
+      ],
+      "email": [
+        "Sarah.Stevens@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "90"
+    },
+    {
+      "name": "Deanna Ballard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-396.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 521;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 521;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5742",
+        "919-733-5742"
+      ],
+      "email": [
+        "Deanna.Ballard@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "45"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

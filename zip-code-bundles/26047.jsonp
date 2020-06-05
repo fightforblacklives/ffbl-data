@@ -1,0 +1,134 @@
+callback({
+  "zipCode": "26047",
+  "state": "WV",
+  "city": "New Cumberland",
+  "latitude": 40.519953,
+  "longitude": -80.58925,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Pat McGeehan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-mcgeehan_pat.jpg",
+      "twitter": null,
+      "addresses": [
+        "616 Florida Avenue;Chester, WV, 26034",
+        "Room 226E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-374-7018",
+        "304-340-3397"
+      ],
+      "email": [
+        "pat.mcgeehan@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "1"
+    },
+    {
+      "name": "Randy Swartzmiller",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-swartzmiller_randy.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 231E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3120"
+      ],
+      "email": [
+        "randy.swartzmiller@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "1"
+    },
+    {
+      "name": "Ryan Weld",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-weld_ryan.jpg",
+      "twitter": null,
+      "addresses": [
+        "1449 Pleasant Avenue;Wellsburg, WV, 26070",
+        "Room 216W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-670-6605",
+        "304-357-7984"
+      ],
+      "email": [
+        "ryan.weld@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "1"
+    },
+    {
+      "name": "William Ihlenfeld",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-ihlenfeld_william.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 9;Wheeling, WV, 26003",
+        "Room 229W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-280-7133",
+        "304-357-7918"
+      ],
+      "email": [
+        "william.ihlenfeld@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "1"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "80630",
+  "state": "CO",
+  "city": "Greeley",
+  "latitude": 40.405094,
+  "longitude": -104.800547,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "13",
+  "stateLowerDistrict": "48",
+  "people": [
+    {
+      "name": "Stephen Humphrey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-2020a_humphrey%252C%2520stephen.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2943"
+      ],
+      "email": [
+        "rephumphrey48@yahoo.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "48"
+    },
+    {
+      "name": "John Cooke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-2020a_cooke%252C%2520john.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4451"
+      ],
+      "email": [
+        "john.cooke.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "13"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Gates_John%2153982.jpg",
+      "name": "John Gates",
+      "phone": "970-350-9772",
+      "email": "john.gates@greeleygov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Greeley"
+    }
+  ]
+})

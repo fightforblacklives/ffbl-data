@@ -1,0 +1,135 @@
+callback({
+  "zipCode": "30069",
+  "state": "GA",
+  "city": "Marietta",
+  "latitude": 33.912473,
+  "longitude": -84.557181,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Michael Smith",
+      "image": "http://www.house.ga.gov/SiteCollectionImages/SmithMichael832.jpg",
+      "twitter": null,
+      "addresses": [
+        "2162 Caneridge Drive;Marietta, GA 30064",
+        "604-F Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-652-9227",
+        "404-656-0265"
+      ],
+      "email": [
+        "michael.smith@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "41"
+    },
+    {
+      "name": "Michael 'Doc' Rhett",
+      "image": "http://www.senate.ga.gov/SiteCollectionImages/RhettMichael 'Doc'855.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 777;Marietta, GA 30061",
+        "321-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0054"
+      ],
+      "email": [
+        "michael.rhett@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "33"
+    },
+    {
+      "name": "Barry Loudermilk",
+      "email": null,
+      "twitter": "RepLoudermilk",
+      "addresses": [
+        "422 Cannon House Office Building; Washington DC 20515-1011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-L000583.jpg",
+      "phone": "202-225-2931",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Tumlin_Steve%21698.jpg",
+      "name": "Steve 'Thunder' Tumlin",
+      "phone": "770-528-0595",
+      "email": "stumlin@mariettaga.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Marietta"
+    }
+  ]
+})

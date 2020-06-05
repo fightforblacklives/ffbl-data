@@ -1,0 +1,121 @@
+callback({
+  "zipCode": "31704",
+  "state": "GA",
+  "city": "Albany",
+  "latitude": 31.549975,
+  "longitude": -84.061155,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "153",
+  "people": [
+    {
+      "name": "CaMia Hopson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-HopsonCaMia4963.jpg",
+      "twitter": null,
+      "addresses": [
+        "1201 Rawson Dr.;Albany, GA 31701",
+        "607-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "229-513-1900",
+        "404-656-0287"
+      ],
+      "email": [
+        "camia.hopson@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "153"
+    },
+    {
+      "name": "Freddie Sims",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-SimsFreddie209.jpg",
+      "twitter": null,
+      "addresses": [
+        "5377 Goose Hollow Road;Dawson, GA 31742",
+        "110-A State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-463-5259"
+      ],
+      "email": [
+        "freddie.sims@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "12"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-Dorough_Bo%2154825.jpg",
+      "name": "Bo Dorough",
+      "phone": "229-888-2757",
+      "email": "bdorough@albanyga.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Albany"
+    }
+  ]
+})

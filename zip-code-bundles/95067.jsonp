@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "95067",
+  "state": "CA",
+  "city": "Scotts Valley",
+  "latitude": 37.05297,
+  "longitude": -121.949418,
+  "congressionalDistrict": [
+    "18"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "Mark Stone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-ad29.jpg",
+      "twitter": null,
+      "addresses": [
+        "99 Pacific Street, Suite 575G;Monterey, CA 93940",
+        "P.O. Box 942849;Sacramento, CA 94249-0029"
+      ],
+      "phone": [
+        "831-649-2832",
+        "916-319-2029"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "29"
+    },
+    {
+      "name": "Bill Monning",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-monning-bill.jpg",
+      "twitter": null,
+      "addresses": [
+        "701 Ocean Street, Suite 318A, Santa Cruz, CA 95060",
+        "State Capitol, Room 313, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "831-425-0401",
+        "916-651-4017"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "17"
+    },
+    {
+      "name": "Anna Eshoo",
+      "email": null,
+      "twitter": "RepAnnaEshoo",
+      "addresses": [
+        "202 Cannon House Office Building; Washington DC 20515-0518"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-E000215.jpg",
+      "phone": "202-225-8104",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "18"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "02703",
+  "state": "MA",
+  "city": "Attleboro",
+  "latitude": 41.928099,
+  "longitude": -71.31456,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "Norfolk, Bristol and Middlesex",
+  "stateLowerDistrict": "Second Bristol",
+  "people": [
+    {
+      "name": "James K. Hawkins",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JKH1.jpg",
+      "twitter": null,
+      "addresses": [
+        "485 Locust Street;Attleboro, MA 02703",
+        "24 Beacon St.;Room 472;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2013"
+      ],
+      "email": [
+        "james.hawkins@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Second Bristol"
+    },
+    {
+      "name": "Rebecca L. Rausch",
+      "image": "https://malegislature.gov/Legislators/Profile/170/RLR0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 218;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1555"
+      ],
+      "email": [
+        "Becca.Rausch@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Norfolk, Bristol and Middlesex"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Heroux_Paul%2154004.jpg",
+      "name": "Paul Heroux",
+      "phone": "508-223-2222 ext. 3221",
+      "email": "paulheroux@cityofattleboro.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Attleboro"
+    }
+  ]
+})

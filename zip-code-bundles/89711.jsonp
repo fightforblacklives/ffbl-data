@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "89711",
+  "state": "NV",
+  "city": "Carson City",
+  "latitude": 39.167833,
+  "longitude": -119.776409,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Al Kramer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Kramer.jpg",
+      "twitter": null,
+      "addresses": [
+        "401 South Carson Street;Carson City, NV 89701-4747"
+      ],
+      "phone": [
+        "775-721-5865"
+      ],
+      "email": [
+        "Al.Kramer@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "40"
+    },
+    {
+      "name": "Ben Kieckhefer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Kieckhefer.jpg",
+      "twitter": null,
+      "addresses": [
+        "10045 Goler Wash Court;Reno, NV 89521-3029"
+      ],
+      "phone": [
+        "775-223-9618"
+      ],
+      "email": [
+        "Ben.Kieckhefer@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "16"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Crowell_Bob%21183.jpg",
+      "name": "Robert 'Bob' L. Crowell",
+      "phone": "775-887-2100",
+      "email": "bcrowell@carson.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "Carson City"
+    }
+  ]
+})

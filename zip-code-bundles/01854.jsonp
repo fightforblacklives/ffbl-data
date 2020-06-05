@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "01854",
+  "state": "MA",
+  "city": "Lowell",
+  "latitude": 42.649758,
+  "longitude": -71.33348,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "First Middlesex",
+  "stateLowerDistrict": "Sixteenth Middlesex",
+  "people": [
+    {
+      "name": "Thomas A. Golden, Jr.",
+      "image": "https://malegislature.gov/Legislators/Profile/170/TAG1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 473B;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2263"
+      ],
+      "email": [
+        "Thomas.Golden@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Sixteenth Middlesex"
+    },
+    {
+      "name": "Edward J. Kennedy",
+      "image": "https://malegislature.gov/Legislators/Profile/170/EDJ0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 70;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1630"
+      ],
+      "email": [
+        "edward.kennedy@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "First Middlesex"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-Leahy_John%2154956.jpg",
+      "name": "John Leahy",
+      "phone": "978-970-4040",
+      "email": "mayor@lowellma.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Lowell"
+    }
+  ]
+})

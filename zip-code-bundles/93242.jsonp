@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "93242",
+  "state": "CA",
+  "city": "Laton",
+  "latitude": 36.43465,
+  "longitude": -119.71753,
+  "congressionalDistrict": [
+    "21"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "31",
+  "people": [
+    {
+      "name": "Dr. Joaquin  Arambula",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-ad31_2.jpg",
+      "twitter": null,
+      "addresses": [
+        "2550 Mariposa Mall, Room 5031;Fresno, CA 93721",
+        "P.O. Box 942849;Sacramento, CA 94249-0031"
+      ],
+      "phone": [
+        "559-445-5532",
+        "916-319-2031"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "31"
+    },
+    {
+      "name": "Anna M. Caballero",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-2016-ad30_annacaballero.jpg",
+      "twitter": null,
+      "addresses": [
+        "132 W. Gabilan Street, Suite 101, Salinas, CA 93901",
+        "State Capitol, Room 5052, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "831-769-8040",
+        "916-651-4012"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "12"
+    },
+    {
+      "name": "TJ Cox",
+      "email": null,
+      "twitter": "RepTjCox",
+      "addresses": [
+        "1728 Longworth House Office Building; Washington DC 20515-0521"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-C001124.jpg",
+      "phone": "202-225-4695",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "21"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

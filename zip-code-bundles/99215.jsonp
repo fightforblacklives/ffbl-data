@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "99215",
+  "state": "WA",
+  "city": "Spokane",
+  "latitude": 47.653568,
+  "longitude": -117.431742,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "3",
+  "people": [
+    {
+      "name": "Marcus Riccelli",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-riccelli.jpg",
+      "twitter": null,
+      "addresses": [
+        "434A Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7888"
+      ],
+      "email": [
+        "Marcus.Riccelli@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "3"
+    },
+    {
+      "name": "Timm Ormsby",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-ormsby.jpg",
+      "twitter": null,
+      "addresses": [
+        "315 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7946"
+      ],
+      "email": [
+        "Timm.Ormsby@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "3"
+    },
+    {
+      "name": "Andy Billig",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-billig.jpg",
+      "twitter": null,
+      "addresses": [
+        "307 Legislative Building;PO Box 40403;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7604"
+      ],
+      "email": [
+        "Andy.Billig@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "3"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Woodward_Nadine%2154796.jpg",
+      "name": "Nadine Woodward",
+      "phone": "509-625-6250",
+      "email": "mayor@spokanecity.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Spokane"
+    }
+  ]
+})

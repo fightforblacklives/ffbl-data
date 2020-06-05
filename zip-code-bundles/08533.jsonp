@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "08533",
+  "state": "NJ",
+  "city": "New Egypt",
+  "latitude": 40.075185,
+  "longitude": -74.48433,
+  "congressionalDistrict": [
+    "04",
+    "03"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Robert D. Clifton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-clifton_robert_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "935 Highway 34, Suite 3B;Matawan, NJ 07747"
+      ],
+      "phone": [
+        "732-970-6386"
+      ],
+      "email": [
+        "AsmClifton@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "12"
+    },
+    {
+      "name": "Ronald S. Dancer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-dancer_ronald_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "405 Rt. 539;Cream Ridge, NJ 08514"
+      ],
+      "phone": [
+        "609-758-0205"
+      ],
+      "email": [
+        "AsmDancer@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "12"
+    },
+    {
+      "name": "Samuel D. Thompson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-thompson_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "2501 Highway 516, Suite 101;Old Bridge, NJ 08857"
+      ],
+      "phone": [
+        "732-607-7580"
+      ],
+      "email": [
+        "SenThompson@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "12"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

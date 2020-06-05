@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "02895",
+  "state": "RI",
+  "city": "Woonsocket",
+  "latitude": 42.001731,
+  "longitude": -71.50722,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "50",
+  "people": [
+    {
+      "name": "Stephen M. Casey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-casey.jpg",
+      "twitter": null,
+      "addresses": [
+        "625 Park Aveneue 2F, Woonsocket, RI 02985"
+      ],
+      "phone": [
+        "508-942-0484"
+      ],
+      "email": [
+        "rep-casey@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "50"
+    },
+    {
+      "name": "Roger A. Picard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-picard.jpg",
+      "twitter": null,
+      "addresses": [
+        "764 Mendon Road, Woonsocket 02895"
+      ],
+      "phone": [
+        "401-769-4902"
+      ],
+      "email": [
+        "sen-picard@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "20"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Baldelli-Hunt_Lisa%211298.jpg",
+      "name": "Lisa Baldelli-Hunt",
+      "phone": "401-762-6400",
+      "email": "cady@woonsocketri.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Woonsocket"
+    }
+  ]
+})

@@ -1,0 +1,137 @@
+callback({
+  "zipCode": "30809",
+  "state": "GA",
+  "city": "Evans",
+  "latitude": 33.551145,
+  "longitude": -82.13949,
+  "congressionalDistrict": [
+    "12",
+    "10"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "122",
+  "people": [
+    {
+      "name": "Jodi Lott",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-LottJodi4879.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 86;Evans, GA 30809",
+        "109 State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-651-7737"
+      ],
+      "email": [
+        "jodi.lott@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "122"
+    },
+    {
+      "name": "Lee Anderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-AndersonLee723.jpg",
+      "twitter": null,
+      "addresses": [
+        "160 Louisville Road;Grovetown, Ga 30813",
+        "325-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-5114"
+      ],
+      "email": [
+        "lee.anderson@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "24"
+    },
+    {
+      "name": "Jody Hice",
+      "email": null,
+      "twitter": "congressmanhice",
+      "addresses": [
+        "409 Cannon House Office Building; Washington DC 20515-1010"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-H001071.jpg",
+      "phone": "202-225-4101",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Rick Allen",
+      "email": null,
+      "twitter": "reprickallen",
+      "addresses": [
+        "2400 Rayburn House Office Building; Washington DC 20515-1012"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-A000372.jpg",
+      "phone": "202-225-2823",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

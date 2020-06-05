@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "73071",
+  "state": "OK",
+  "city": "Norman",
+  "latitude": 35.225702,
+  "longitude": -97.42394,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "44",
+  "people": [
+    {
+      "name": "Emily Virgin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Virgin%2C%2520Emily.jpg",
+      "twitter": null,
+      "addresses": [
+        "2300 N. Lincoln Blvd.;Room 548;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-557-7323"
+      ],
+      "email": [
+        "emily.virgin@okhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OK",
+      "district": "44"
+    },
+    {
+      "name": "Mary Boren",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-boren_bio.jpg",
+      "twitter": null,
+      "addresses": [
+        "2300 N. Lincoln Blvd., Rm. 514.1;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-521-5553"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OK",
+      "district": "16"
+    },
+    {
+      "name": "James Inhofe",
+      "email": null,
+      "twitter": "InhofePress",
+      "addresses": [
+        "205 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-I000024.jpg",
+      "phone": "202-224-4721",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "James Lankford",
+      "email": null,
+      "twitter": "SenatorLankford",
+      "addresses": [
+        "316 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-L000575.jpg",
+      "phone": "202-224-5754",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Stitt",
+      "addresses": [
+        "State Capitol Building State Capitol Building Oklahoma City OK 73105"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-ok_stitt.png",
+      "twitter": null,
+      "email": null,
+      "phone": "405- 521-2342",
+      "type": "Governor",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Clark_Breea%2154751.jpg",
+      "name": "Breea Clark",
+      "phone": "405-366-5402",
+      "email": "mayor@normanok.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OK",
+      "city": "Norman"
+    }
+  ]
+})

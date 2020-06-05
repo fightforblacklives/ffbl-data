@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "18087",
+  "state": "PA",
+  "city": "Trexlertown",
+  "latitude": 40.549119,
+  "longitude": -75.60049,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "187",
+  "people": [
+    {
+      "name": "Gary Day",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-1190.jpg",
+      "twitter": null,
+      "addresses": [
+        "6299 State Route 309 Star Plaza Suite 302 New Tripoli, PA 18066",
+        "113 Ryan Office Building PO Box 202187 Harrisburg, PA 17120-2187"
+      ],
+      "phone": [
+        "610-760-7082",
+        "717-787-3017"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "187"
+    },
+    {
+      "name": "Patrick M. Browne",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-76.jpg",
+      "twitter": null,
+      "addresses": [
+        "Five City Center 740 West Hamilton Street Suite 200;Allentown, PA 18101",
+        "Senate Box 203016;Harrisburg, PA 17120-3016;Room:;281 Main Capitol"
+      ],
+      "phone": [
+        "610-821-8468",
+        "717-787-1349"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "16"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57536",
+  "state": "SD",
+  "city": "Harrold",
+  "latitude": 44.461748,
+  "longitude": -99.77535,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Mary Duvall",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-Duvall_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 453;Pierre, SD 57501"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Mary.Duvall@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "24"
+    },
+    {
+      "name": "Tim Rounds",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Rounds_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "1813 Abbey Rd.;Pierre, SD 57501"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Tim.Rounds@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "24"
+    },
+    {
+      "name": "Jeff Monroe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Monroe_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "127 W. Dakota Ave.;Pierre, SD 57501"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Jeff.Monroe@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "24"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

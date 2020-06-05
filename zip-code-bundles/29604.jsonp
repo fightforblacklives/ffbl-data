@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "29604",
+  "state": "SC",
+  "city": "Greenville",
+  "latitude": 34.849745,
+  "longitude": -82.453779,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "Westley P. \"West\" Cox",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-0428693131.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 315Williamston 29697"
+      ],
+      "phone": [
+        "864-625-0463"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SC",
+      "district": "10"
+    },
+    {
+      "name": "Karl B. Allen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-0015340908.jpg",
+      "twitter": null,
+      "addresses": [
+        "108 Lavinia Ave.Greenville 29601",
+        "602 Gressette Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "864-235-9049",
+        "803-212-6008"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "SC",
+      "district": "7"
+    },
+    {
+      "name": "Lindsey Graham",
+      "email": null,
+      "twitter": "GrahamBlog",
+      "addresses": [
+        "290 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "phone": "202-224-5972",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tim Scott",
+      "email": null,
+      "twitter": "SenatorTimScott",
+      "addresses": [
+        "104 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "phone": "202-224-6121",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Henry McMaster",
+      "addresses": [
+        "1205 Pendleton Street Columbia SC 29201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "twitter": "henrymcmaster",
+      "email": null,
+      "phone": "803-734-2100",
+      "type": "Governor",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-White_Knox%21465.JPG",
+      "name": "Knox H. White",
+      "phone": "864-467-4590",
+      "email": "kwhite@greenvillesc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "SC",
+      "city": "Greenville"
+    }
+  ]
+})

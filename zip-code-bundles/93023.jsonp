@@ -1,0 +1,121 @@
+callback({
+  "zipCode": "93023",
+  "state": "CA",
+  "city": "Ojai",
+  "latitude": 34.456957,
+  "longitude": -119.25307,
+  "congressionalDistrict": [
+    "24",
+    "26"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "37",
+  "people": [
+    {
+      "name": "Monique Limón",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-ad37.jpg",
+      "twitter": null,
+      "addresses": [
+        "89 South California Street, Suite F;Ventura, CA 93001",
+        "P.O. Box 942849;Sacramento, CA 94249-0037"
+      ],
+      "phone": [
+        "805-641-3700",
+        "916-319-2037"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "37"
+    },
+    {
+      "name": "Hannah-Beth Jackson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-jackson-hannah-beth.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 E. Esplanade Drive, Suite 430, Oxnard, CA 93036",
+        "State Capitol, Room 2032, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "805-988-1940",
+        "916-651-4019"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "19"
+    },
+    {
+      "name": "Julia Brownley",
+      "email": null,
+      "twitter": "RepBrownley",
+      "addresses": [
+        "2262 Rayburn House Office Building; Washington DC 20515-0526"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-B001285.jpg",
+      "phone": "202-225-5811",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Salud Carbajal",
+      "email": null,
+      "twitter": "RepCarbajal",
+      "addresses": [
+        "1431 Longworth House Office Building; Washington DC 20515-0524"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-C001112.jpg",
+      "phone": "202-225-3601",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

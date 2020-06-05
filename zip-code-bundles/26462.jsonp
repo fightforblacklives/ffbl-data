@@ -1,0 +1,113 @@
+callback({
+  "zipCode": "26462",
+  "state": "WV",
+  "city": "Weston",
+  "latitude": 39.03525,
+  "longitude": -80.467765,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "Patrick Martin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-martin_patrick.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 910;Weston, WV, 26452",
+        "Room 219E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-613-2327",
+        "304-340-3123"
+      ],
+      "email": [
+        "patrick.martin@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "46"
+    },
+    {
+      "name": "Douglas E. Facemire",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-facemire_douglas.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 215;Sutton, WV, 26601",
+        "Room 213W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7845"
+      ],
+      "email": [
+        "douglas.facemire@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "12"
+    },
+    {
+      "name": "Mike Romano",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-romano_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "128 South 2nd Street;Clarksburg, WV, 26301",
+        "Room 200W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-624-1100",
+        "304-357-7904"
+      ],
+      "email": [
+        "mike.romano@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "12"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

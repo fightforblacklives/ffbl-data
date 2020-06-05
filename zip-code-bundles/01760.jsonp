@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "01760",
+  "state": "MA",
+  "city": "Natick",
+  "latitude": 42.290763,
+  "longitude": -71.35368,
+  "congressionalDistrict": [
+    "04",
+    "05"
+  ],
+  "stateUpperDistrict": "Second Middlesex and Norfolk",
+  "stateLowerDistrict": "Fifth Middlesex",
+  "people": [
+    {
+      "name": "David Paul Linsky",
+      "image": "https://malegislature.gov/Legislators/Profile/170/DPL1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 146;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2575"
+      ],
+      "email": [
+        "David.Linsky@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Fifth Middlesex"
+    },
+    {
+      "name": "Karen E. Spilka",
+      "image": "https://malegislature.gov/Legislators/Profile/170/KES0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 332;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1500"
+      ],
+      "email": [
+        "Karen.Spilka@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Second Middlesex and Norfolk"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-Hickey_Michael%2154719.jpg",
+      "name": "Michael J. Hickey Jr.",
+      "phone": "508-647-6410",
+      "email": "selectmen@natickma.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Natick"
+    }
+  ]
+})

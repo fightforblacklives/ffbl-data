@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "66503",
+  "state": "KS",
+  "city": "Manhattan",
+  "latitude": 39.241083,
+  "longitude": -96.64914,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "67",
+  "people": [
+    {
+      "name": "Tom Phillips",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-rep_phillips_thomas_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 149-S;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7402"
+      ],
+      "email": [
+        "tom.phillips@house.ks.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KS",
+      "district": "67"
+    },
+    {
+      "name": "Tom Hawk",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-sen_hawk_tom_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 135-E;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7360"
+      ],
+      "email": [
+        "Tom.Hawk@senate.ks.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "KS",
+      "district": "22"
+    },
+    {
+      "name": "Jerry Moran",
+      "email": null,
+      "twitter": "JerryMoran",
+      "addresses": [
+        "521 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M000934.jpg",
+      "phone": "202-224-6521",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Pat Roberts",
+      "email": null,
+      "twitter": "SenPatRoberts",
+      "addresses": [
+        "109 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-R000307.jpg",
+      "phone": "202-224-4774",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Laura Kelly",
+      "addresses": [
+        "Capitol, 300 SW 10th Avenue  Capitol, 300 SW 10th Avenue  Topeka KS 66612-1590"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-ks_kelly.png",
+      "twitter": "GovLauraKelly",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KS",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Reddi_Usha%2154856.jpg",
+      "name": "Usha Reddi",
+      "phone": "785-587-2404",
+      "email": "ureddi@cityofmhk.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KS",
+      "city": "Manhattan"
+    }
+  ]
+})

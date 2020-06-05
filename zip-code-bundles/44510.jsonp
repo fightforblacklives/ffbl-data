@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "44510",
+  "state": "OH",
+  "city": "Youngstown",
+  "latitude": 41.120507,
+  "longitude": -80.66811,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Michele Lepore-Hagan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-58.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;10th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-9435"
+      ],
+      "email": [
+        "rep58@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "58"
+    },
+    {
+      "name": "Michael A. Rulli",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-2922.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8285"
+      ],
+      "email": [
+        "sd33@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "33"
+    },
+    {
+      "name": "Tim Ryan",
+      "email": null,
+      "twitter": "RepTimRyan",
+      "addresses": [
+        "1126 Longworth House Office Building; Washington DC 20515-3513"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-R000577.jpg",
+      "phone": "202-225-5261",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Brown_Jamael%2154001.jpg",
+      "name": "Jamael Tito Brown",
+      "phone": "330-742-8701",
+      "email": "mayor@youngstownohio.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Youngstown"
+    }
+  ]
+})

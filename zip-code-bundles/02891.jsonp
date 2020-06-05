@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "02891",
+  "state": "RI",
+  "city": "Westerly",
+  "latitude": 41.354881,
+  "longitude": -71.80387,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "37",
+  "people": [
+    {
+      "name": "Samuel A. Azzinaro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-azzinaro.jpg",
+      "twitter": null,
+      "addresses": [
+        "20 Piezzo Drive, Westerly, RI 02891"
+      ],
+      "phone": [
+        "401-596-1434"
+      ],
+      "email": [
+        "rep-azzinaro@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "37"
+    },
+    {
+      "name": "Dennis L. Algiere",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Algiere.jpg",
+      "twitter": null,
+      "addresses": [
+        "6 Elm Street, Westerly 02891"
+      ],
+      "phone": [
+        "401-222-2708"
+      ],
+      "email": [
+        "sen-algiere@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "RI",
+      "district": "38"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

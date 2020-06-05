@@ -1,0 +1,60 @@
+callback({
+  "zipCode": "00633",
+  "state": "PR",
+  "city": "Cayey",
+  "latitude": 18.194527,
+  "longitude": -66.183467,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "VI",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "José Anibal Díaz Collazo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-1f4e13ce-a123-4926-bbdb-070671adc10b.jpg",
+      "twitter": null,
+      "addresses": [
+        "3er. PISO LUIS A. FERRER"
+      ],
+      "phone": [
+        "787-622-4885"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "29"
+    },
+    {
+      "name": "Axel F. Roque Gracia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "aroque@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    },
+    {
+      "name": "Carlos J. Rodríguez Mateo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "cjrodriguez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    }
+  ]
+})

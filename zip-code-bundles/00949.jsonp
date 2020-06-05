@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00949",
+  "state": "PR",
+  "city": "Toa Baja",
+  "latitude": 18.433173,
+  "longitude": -66.2042,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "II",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "Pedro J. Santiago Guzman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-c745d63-2dd1-4f18-823e-eac588b24b34.jpg",
+      "twitter": null,
+      "addresses": [
+        "SOTANO CAPITOLIO"
+      ],
+      "phone": [
+        "787-725-3350"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "10"
+    },
+    {
+      "name": "Carmelo J. Ríos Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-senador-3.jpg%3FRenditionID%3D1",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "crios@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    },
+    {
+      "name": "Migdalia Padilla Alvelo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-senador-22.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mpadilla@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    }
+  ]
+})

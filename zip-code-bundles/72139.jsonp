@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "72139",
+  "state": "AR",
+  "city": "Russell",
+  "latitude": 35.36083,
+  "longitude": -91.50875,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Craig Christiansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-554_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "171 Grover Lane, Bald Knob, 72010"
+      ],
+      "phone": [
+        "501-724-5326"
+      ],
+      "email": [
+        "craigchristiansendistrict47@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "47"
+    },
+    {
+      "name": "Ronald Caldwell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-397_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "120 CR 393, Wynne, 72396"
+      ],
+      "phone": [
+        "501-682-6107"
+      ],
+      "email": [
+        "ronald.caldwell@Senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "23"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

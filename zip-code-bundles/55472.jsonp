@@ -1,0 +1,100 @@
+callback({
+  "zipCode": "55472",
+  "state": "MN",
+  "city": "Minneapolis",
+  "latitude": 45.015914,
+  "longitude": -93.47188,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "44",
+  "stateLowerDistrict": "44A",
+  "people": [
+    {
+      "name": "Ginny Klevorn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-44A.gif",
+      "twitter": null,
+      "addresses": [
+        "581 State Office Building;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-5511"
+      ],
+      "email": [
+        "rep.ginny.klevorn@house.mn"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic-Farmer-Labor",
+      "state": "MN",
+      "district": "44A"
+    },
+    {
+      "name": "Paul T. Anderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-44Anderson.jpg",
+      "twitter": null,
+      "addresses": [
+        "2103 Minnesota Senate Bldg.;95 University Avenue W.;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-9261"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MN",
+      "district": "44"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "email": null,
+      "twitter": "SenAmyKlobuchar",
+      "addresses": [
+        "425 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-K000367.jpg",
+      "phone": "202-224-3244",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tina Smith",
+      "email": null,
+      "twitter": "SenTinaSmith",
+      "addresses": [
+        "720 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001203.jpg",
+      "phone": "202-224-5641",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tim Walz",
+      "addresses": [
+        "130 State Capitol 130 State Capitol St. Paul MN 55155"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-mn_walz.png",
+      "twitter": "GovTimWalz",
+      "email": null,
+      "phone": "651-201-3400",
+      "type": "Governor",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-Frey_Jacob%2153975.jpg",
+      "name": "Jacob Frey",
+      "phone": "612-673-2100",
+      "email": null,
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MN",
+      "city": "Minneapolis"
+    }
+  ]
+})

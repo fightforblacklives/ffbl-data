@@ -1,0 +1,79 @@
+callback({
+  "zipCode": "24422",
+  "state": "VA",
+  "city": "Clifton Forge",
+  "latitude": 37.821088,
+  "longitude": -79.79619,
+  "congressionalDistrict": [
+    "06",
+    "09"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "19",
+  "people": [
+    {
+      "name": "Terry L. Austin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-H0253",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 400;Buchanan, Virginia 24066"
+      ],
+      "phone": [
+        "540-254-1500"
+      ],
+      "email": [
+        "DelTAustin@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "19"
+    },
+    {
+      "name": "R. Creigh Deeds",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 5462;Charlottesville, Virginia 22905-5462"
+      ],
+      "phone": [
+        "434-296-5491"
+      ],
+      "email": [
+        "district25@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "25"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

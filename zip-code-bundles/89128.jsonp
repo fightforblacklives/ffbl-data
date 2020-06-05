@@ -1,0 +1,101 @@
+callback({
+  "zipCode": "89128",
+  "state": "NV",
+  "city": "Las Vegas",
+  "latitude": 36.193501,
+  "longitude": -115.265,
+  "congressionalDistrict": [
+    "04",
+    "01"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Shannon Bilbray-Axelrod",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-Bilbray-Axelrod.jpg",
+      "twitter": null,
+      "addresses": [
+        "7500 West Lake Mead Boulevard, Suite 9-486;Las Vegas, NV 89128-0298"
+      ],
+      "phone": [],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "34"
+    },
+    {
+      "name": "Nicole J. Cannizzaro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-Cannizzaro.jpg",
+      "twitter": null,
+      "addresses": [
+        "7901 Cocoa Beach Circle;Las Vegas, NV 89128"
+      ],
+      "phone": [
+        "775-684-1475"
+      ],
+      "email": [
+        "Nicole.Cannizzaro@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "6"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Goodman_Carolyn%21621.JPG",
+      "name": "Carolyn G. Goodman",
+      "phone": "702-229-6241",
+      "email": "earochi@lasvegasnevada.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "Las Vegas"
+    }
+  ]
+})

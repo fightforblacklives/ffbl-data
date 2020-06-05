@@ -1,0 +1,132 @@
+callback({
+  "zipCode": "33332",
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "latitude": 26.049367,
+  "longitude": -80.40885,
+  "congressionalDistrict": [
+    "20",
+    "23"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "104",
+  "people": [
+    {
+      "name": "Richard Stark",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-4557.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 202; 1730 Main Street; Weston, FL 33326-3676",
+        "212 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "954-217-0287",
+        "850-717-5104"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "104"
+    },
+    {
+      "name": "Lauren Book",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-s32_5189.jpg",
+      "twitter": null,
+      "addresses": [
+        "967 Nob Hill Road; Plantation, FL 33324",
+        "202 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "book.lauren.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "32"
+    },
+    {
+      "name": "Alcee Hastings",
+      "email": null,
+      "twitter": "RepHastingsFL",
+      "addresses": [
+        "2353 Rayburn House Office Building; Washington DC 20515-0920"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-H000324.jpg",
+      "phone": "202-225-1313",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "20"
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "email": null,
+      "twitter": "RepDWStweets",
+      "addresses": [
+        "1114 Longworth House Office Building; Washington DC 20515-0923"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-W000797.jpg",
+      "phone": "202-225-7931",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "23"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-Trantalis_Dean%2154247.jpg",
+      "name": "Dean J. Trantalis",
+      "phone": "954-828-5003",
+      "email": "dtrantalis@fortlauderdale.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Fort Lauderdale"
+    }
+  ]
+})

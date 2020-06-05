@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "60122",
+  "state": "IL",
+  "city": "Elgin",
+  "latitude": 42.067101,
+  "longitude": -88.304994,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Allen Skillicorn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-%7B47D93AEC-3D46-409B-B881-CD0CBC9226B7%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "1500 Carlemont Drive;Suite D;Crystal Lake, IL 60014",
+        "234-N Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "815-893-4884",
+        "217-782-0432"
+      ],
+      "email": [
+        "skillicorn@ilhousegop.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "66"
+    },
+    {
+      "name": "Donald P. DeWitte",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-%7B21A3B029-3423-410E-818A-84512CD0D231%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "641 S. 8th St.;West Dundee, IL 60118",
+        "105B Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "847-214-8245",
+        "217-782-1977"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "33"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-Kaptain_David%21342.JPG",
+      "name": "David Kaptain",
+      "phone": "847-931-6100",
+      "email": "mayor@cityofelgin.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Elgin"
+    }
+  ]
+})

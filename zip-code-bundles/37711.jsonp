@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "37711",
+  "state": "TN",
+  "city": "Bulls Gap",
+  "latitude": 36.274715,
+  "longitude": -83.05737,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "9",
+  "people": [
+    {
+      "name": "Gary Hicks",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-h9.jpg",
+      "twitter": null,
+      "addresses": [
+        "425 5th Avenue North;Suite 620 Cordell Hull Bldg.;Nashville, TN 37243"
+      ],
+      "phone": [
+        "615-741-7480"
+      ],
+      "email": [
+        "rep.gary.hicks@capitol.tn.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "TN",
+      "district": "9"
+    },
+    {
+      "name": "Frank S. Niceley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-s8.jpg",
+      "twitter": null,
+      "addresses": [
+        "425 5th Avenue North;Suite 712 Cordell Hull Bldg.;Nashville, TN 37243"
+      ],
+      "phone": [
+        "615-741-2061"
+      ],
+      "email": [
+        "sen.frank.niceley@capitol.tn.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TN",
+      "district": "8"
+    },
+    {
+      "name": "Lamar Alexander",
+      "email": null,
+      "twitter": "SenAlexander",
+      "addresses": [
+        "455 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-A000360.jpg",
+      "phone": "202-224-4944",
+      "type": "US Senator",
+      "state": "TN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "email": null,
+      "twitter": "MarshaBlackburn",
+      "addresses": [
+        "357 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-B001243.jpg",
+      "phone": "202-224-3344",
+      "type": "US Senator",
+      "state": "TN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Bill Lee",
+      "addresses": [
+        "State Capitol, 1st Fl. State Capitol, 1st Fl. Nashville TN 37243-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-tn_lee.png",
+      "twitter": "BillLeeTN",
+      "email": null,
+      "phone": "615-741-2001",
+      "type": "Governor",
+      "state": "TN",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

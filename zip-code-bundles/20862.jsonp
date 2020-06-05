@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "20862",
+  "state": "MD",
+  "city": "Brinklow",
+  "latitude": 39.184019,
+  "longitude": -77.01708,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "Anne R. Kaiser",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-kaiser.jpg",
+      "twitter": null,
+      "addresses": [
+        "131 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3036"
+      ],
+      "email": [
+        "anne.kaiser@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "14"
+    },
+    {
+      "name": "Eric G. Luedtke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-luedtke.jpg",
+      "twitter": null,
+      "addresses": [
+        "350 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3110"
+      ],
+      "email": [
+        "eric.luedtke@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "14"
+    },
+    {
+      "name": "Pam Queen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-queen01.jpg",
+      "twitter": null,
+      "addresses": [
+        "224 House Office Building;6 Bladen St.;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3380"
+      ],
+      "email": [
+        "pam.queen@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "14"
+    },
+    {
+      "name": "Craig J. Zucker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-zucker01.jpg",
+      "twitter": null,
+      "addresses": [
+        "122 James Senate Office Bldg;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3625"
+      ],
+      "email": [
+        "craig.zucker@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "14"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "60304",
+  "state": "IL",
+  "city": "Oak Park",
+  "latitude": 41.87355,
+  "longitude": -87.7885,
+  "congressionalDistrict": [
+    "07",
+    "04"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "LaShawn K. Ford",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-%7BBCC3C8D6-5728-4A69-8A3B-F203314DD563%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "5051 W Chicago Ave.;Chicago, IL 60651",
+        "239-E Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "773-750-0866",
+        "217-782-5962"
+      ],
+      "email": [
+        "repford@lashawnford.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "8"
+    },
+    {
+      "name": "Kimberly A. Lightford",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-%7B7FBA8DB0-281E-406F-BF9F-ABEB75B7B38E%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "4415 Harrison St.;Suite 550;Hillside, IL 60162",
+        "329A Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "708-632-4500",
+        "217-782-8505"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "4"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Abu-Taleb_Anan%21851.jpg",
+      "name": "Anan Abu-Taleb",
+      "phone": "708-358-5796",
+      "email": "mayoranan@oak-park.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Oak Park"
+    }
+  ]
+})

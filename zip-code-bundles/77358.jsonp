@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "77358",
+  "state": "TX",
+  "city": "New Waverly",
+  "latitude": 30.545212,
+  "longitude": -95.46752,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "Ernest Bailes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-3200.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 1116;Shepherd, TX 77371",
+        "Room E2.812;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "936-628-6687",
+        "512-463-0570"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "18"
+    },
+    {
+      "name": "Charles Schwertner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "117 W. 7th Street, Suite 5 Georgetown, TX 78626",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "512-863-8456",
+        "512-463-0105"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "5"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "03882",
+  "state": "NH",
+  "city": "South Effingham",
+  "latitude": 43.721239,
+  "longitude": -71.00006,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "Carroll 5",
+  "people": [
+    {
+      "name": "Bill G. Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-377154.jpg",
+      "twitter": null,
+      "addresses": [
+        "98 Lyford Road;Brookfield, NH 03872-7337"
+      ],
+      "phone": [
+        "603-522-5279"
+      ],
+      "email": [
+        "bill.nelson@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Carroll 5"
+    },
+    {
+      "name": "Ed C. Comeau",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-377215.jpg",
+      "twitter": null,
+      "addresses": [
+        "212 Stoneham Road;Brookfield, NH 03872-7403"
+      ],
+      "phone": [
+        "603-522-2275"
+      ],
+      "email": [
+        "edcomeaunh@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Carroll 5"
+    },
+    {
+      "name": "Lino M. Avellani",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-377205.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 516;Sanbornville, NH 03872-0516"
+      ],
+      "phone": [
+        "603-858-5196"
+      ],
+      "email": [
+        "lino.avellani@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Carroll 5"
+    },
+    {
+      "name": "Jeb Bradley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-03.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 120\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3207"
+      ],
+      "email": [
+        "Jeb.Bradley@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "3"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

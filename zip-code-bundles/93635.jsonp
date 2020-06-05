@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "93635",
+  "state": "CA",
+  "city": "Los Banos",
+  "latitude": 37.048385,
+  "longitude": -120.86983,
+  "congressionalDistrict": [
+    "16"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Adam C. Gray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-gray.png",
+      "twitter": null,
+      "addresses": [
+        "1010 Tenth Street, Suite 5800;Modesto, CA 95354",
+        "P.O. Box 942849;Sacramento, CA 94249-0021"
+      ],
+      "phone": [
+        "209-521-2111",
+        "916-319-2021"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "21"
+    },
+    {
+      "name": "Anna M. Caballero",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-2016-ad30_annacaballero.jpg",
+      "twitter": null,
+      "addresses": [
+        "132 W. Gabilan Street, Suite 101, Salinas, CA 93901",
+        "State Capitol, Room 5052, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "831-769-8040",
+        "916-651-4012"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "12"
+    },
+    {
+      "name": "Jim Costa",
+      "email": null,
+      "twitter": "RepJimCosta",
+      "addresses": [
+        "2081 Rayburn House Office Building; Washington DC 20515-0516"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-C001059.jpg",
+      "phone": "202-225-3341",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "16"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-Villalta_Mike%213506.jpg",
+      "name": "Mike Villalta",
+      "phone": "209-827-2425",
+      "email": "mike.villalta@losbanos.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Los Banos"
+    }
+  ]
+})

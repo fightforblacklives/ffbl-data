@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "07020",
+  "state": "NJ",
+  "city": "Edgewater",
+  "latitude": 40.830733,
+  "longitude": -73.97334,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Angelica M. Jimenez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-jimenez_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "5600 Kennedy Blvd., Suite 104;West New York, NJ 07093"
+      ],
+      "phone": [
+        "201-223-4247"
+      ],
+      "email": [
+        "AswJimenez@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "32"
+    },
+    {
+      "name": "Pedro Mejia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-mejia_pedro_2018.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 Harmon Plaza, Suite 205;Secaucus, NJ 07094"
+      ],
+      "phone": [
+        "201-770-1303"
+      ],
+      "email": [
+        "AsmMejia@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "32"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

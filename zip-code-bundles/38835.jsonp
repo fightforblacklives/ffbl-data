@@ -1,0 +1,96 @@
+callback({
+  "zipCode": "38835",
+  "state": "MS",
+  "city": "Corinth",
+  "latitude": 34.920451,
+  "longitude": -88.521772,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "2",
+  "people": [
+    {
+      "name": "Nick Bain",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-bain.jpg",
+      "twitter": null,
+      "addresses": [
+        "516 N. Fillmore St;Corinth, MS 38839",
+        "Room 400-F;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "662-287-1620",
+        "601-359-3338"
+      ],
+      "email": [
+        "nbain@house.ms.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MS",
+      "district": "2"
+    },
+    {
+      "name": "Rita Potts Parks",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-parks.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 303;Corinth, MS 38835",
+        "Room 213;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "662-287-6323",
+        "601-359-3232"
+      ],
+      "email": [
+        "rparks@senate.ms.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MS",
+      "district": "4"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "email": null,
+      "twitter": "SenHydeSmith",
+      "addresses": [
+        "702 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "phone": "202-224-5054",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roger Wicker",
+      "email": null,
+      "twitter": "SenatorWicker",
+      "addresses": [
+        "555 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "phone": "202-224-6253",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tate Reeves",
+      "addresses": [
+        "P.O. Box 139 Jackson MS 39205"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "twitter": "philbryantms",
+      "email": null,
+      "phone": "601-359-3150",
+      "type": "Governor",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

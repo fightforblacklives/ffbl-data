@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "58005",
+  "state": "ND",
+  "city": "Argusville",
+  "latitude": 47.057098,
+  "longitude": -96.95043,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "45",
+  "stateLowerDistrict": "45",
+  "people": [
+    {
+      "name": "Mary Johnson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-marycjohnson.jpg%3Fitok%3D9ashpc1s",
+      "twitter": null,
+      "addresses": [
+        "3407 Birdie Street;Fargo, ND;58102-1203"
+      ],
+      "phone": [
+        "701-306-2037",
+        "701-235-5912"
+      ],
+      "email": [
+        "marycjohnson@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "45"
+    },
+    {
+      "name": "Tom Kading",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-tkading.jpg%3Fitok%3D1AXeUh3s",
+      "twitter": null,
+      "addresses": [
+        "7205 County Road 31;Fargo, ND;58102-6117"
+      ],
+      "phone": [
+        "701-639-4849"
+      ],
+      "email": [
+        "tkading@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "45"
+    },
+    {
+      "name": "Ronald Sorvaag",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-rsorvaag.jpg%3Fitok%3DZbEHtFLl",
+      "twitter": null,
+      "addresses": [
+        "3402 Birdie Street North;Fargo, ND;58102-1201"
+      ],
+      "phone": [
+        "701-361-2156"
+      ],
+      "email": [
+        "rsorvaag@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "45"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

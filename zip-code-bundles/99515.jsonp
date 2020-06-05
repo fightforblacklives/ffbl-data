@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "99515",
+  "state": "AK",
+  "city": "Anchorage",
+  "latitude": 61.122943,
+  "longitude": -149.88852,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "L",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Chuck Kopp",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-kop.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 13; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-4993"
+      ],
+      "email": [
+        "Representative.Chuck.Kopp@akleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AK",
+      "district": "24"
+    },
+    {
+      "name": "Natasha von Imhof",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-von.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 516; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-2995"
+      ],
+      "email": [
+        "Senator.Natasha.vonImhof@akleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AK",
+      "district": "L"
+    },
+    {
+      "name": "Dan Sullivan",
+      "email": null,
+      "twitter": "SenDanSullivan",
+      "addresses": [
+        "302 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-S001198.jpg",
+      "phone": "202-224-3004",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "email": null,
+      "twitter": "LisaMurkowski",
+      "addresses": [
+        "522 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-M001153.jpg",
+      "phone": "202-224-6665",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Dunleavy",
+      "addresses": [
+        "State Capitol State Capitol Juneau AK 99811-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-ak_dunleavy.png",
+      "twitter": "govdunleavy",
+      "email": null,
+      "phone": "907-465-3500",
+      "type": "Governor",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Berkowitz_Ethan%2128.jpg",
+      "name": "Ethan Berkowitz",
+      "phone": "907-343-7100",
+      "email": "mayor@muni.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AK",
+      "city": "Anchorage"
+    }
+  ]
+})

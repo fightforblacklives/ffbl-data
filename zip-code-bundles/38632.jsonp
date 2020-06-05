@@ -1,0 +1,91 @@
+callback({
+  "zipCode": "38632",
+  "state": "MS",
+  "city": "Hernando",
+  "latitude": 34.811777,
+  "longitude": -90.01917,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Jerry Darnell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-darnell.jpg",
+      "twitter": null,
+      "addresses": [
+        "4250 Green Village Dr.;Hernando, MS 38632",
+        "P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [],
+      "email": [
+        "jdarnell@house.ms.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MS",
+      "district": "28"
+    },
+    {
+      "name": "Michael McLendon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-mclendon.jpg",
+      "twitter": null,
+      "addresses": [
+        "P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "601-359-3229"
+      ],
+      "email": [
+        "MMcLendon@senate.ms.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MS",
+      "district": "1"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "email": null,
+      "twitter": "SenHydeSmith",
+      "addresses": [
+        "702 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "phone": "202-224-5054",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roger Wicker",
+      "email": null,
+      "twitter": "SenatorWicker",
+      "addresses": [
+        "555 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "phone": "202-224-6253",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tate Reeves",
+      "addresses": [
+        "P.O. Box 139 Jackson MS 39205"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "twitter": "philbryantms",
+      "email": null,
+      "phone": "601-359-3150",
+      "type": "Governor",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "72902",
+  "state": "AR",
+  "city": "Fort Smith",
+  "latitude": 35.38619,
+  "longitude": -94.409114,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "78",
+  "people": [
+    {
+      "name": "Jay Richardson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-562_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 4403, Fort Smith, 72914"
+      ],
+      "phone": [],
+      "email": [
+        "jay.richardson@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "78"
+    },
+    {
+      "name": "Terry Rice",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-510_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2195, Waldron, 72958"
+      ],
+      "phone": [
+        "479-637-3100"
+      ],
+      "email": [
+        "Terry.Rice@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "9"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-McGill_George%2154500.jpg",
+      "name": "George B. McGill",
+      "phone": "479-784-2437",
+      "email": "mayor@fortsmithar.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Fort Smith"
+    }
+  ]
+})

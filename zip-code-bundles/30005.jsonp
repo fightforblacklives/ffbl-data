@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "30005",
+  "state": "GA",
+  "city": "Alpharetta",
+  "latitude": 34.080035,
+  "longitude": -84.21929,
+  "congressionalDistrict": [
+    "07",
+    "06"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "49",
+  "people": [
+    {
+      "name": "Charles Martin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-MartinCharles164.jpg",
+      "twitter": null,
+      "addresses": [
+        "11770 Haynes Bridge RoadSuite 205-544;Alpharetta, GA 30004",
+        "417-A State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-5064"
+      ],
+      "email": [
+        "chuck.martin@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "49"
+    },
+    {
+      "name": "Brandon Beach",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-BeachBrandon840.jpg",
+      "twitter": null,
+      "addresses": [
+        "3100 Brierfield Road;Alpharetta, GA 30004",
+        "303-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "678-640-1811",
+        "404-463-1378"
+      ],
+      "email": [
+        "brandon.beach@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "21"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Gilvin_Jim%2154767.jpg",
+      "name": "Jim Gilvin",
+      "phone": "678-297-6020",
+      "email": "jgilvin@alpharetta.ga.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Alpharetta"
+    }
+  ]
+})

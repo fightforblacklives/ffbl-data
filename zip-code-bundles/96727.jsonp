@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "96727",
+  "state": "HI",
+  "city": "Honokaa",
+  "latitude": 20.089087,
+  "longitude": -155.51679,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Mark M. Nakashima",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-nakashima.jpg",
+      "twitter": null,
+      "addresses": [
+        "Hawaii State Capitol, Room 432"
+      ],
+      "phone": [
+        "808-586-6680"
+      ],
+      "email": [
+        "repnakashima@Capitol.hawaii.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "HI",
+      "district": "1"
+    },
+    {
+      "name": "Lorraine R. Inouye",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-inouye.jpg",
+      "twitter": null,
+      "addresses": [
+        "Hawaii State Capitol, Room 210"
+      ],
+      "phone": [
+        "808-586-7335"
+      ],
+      "email": [
+        "seninouye@capitol.hawaii.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "HI",
+      "district": "4"
+    },
+    {
+      "name": "Brian Schatz",
+      "email": null,
+      "twitter": "SenBrianSchatz",
+      "addresses": [
+        "722 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-S001194.jpg",
+      "phone": "202-224-3934",
+      "type": "US Senator",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mazie Hirono",
+      "email": null,
+      "twitter": "MazieHirono",
+      "addresses": [
+        "713 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-H001042.jpg",
+      "phone": "202-224-6361",
+      "type": "US Senator",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "David Ige",
+      "addresses": [
+        "Executive Chambers Executive Chambers Honolulu HI 96813"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-HI.jpg",
+      "twitter": "govhawaii",
+      "email": null,
+      "phone": "808-586-0034",
+      "type": "Governor",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

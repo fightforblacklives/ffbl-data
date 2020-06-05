@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "78409",
+  "state": "TX",
+  "city": "Corpus Christi",
+  "latitude": 27.806753,
+  "longitude": -97.50971,
+  "congressionalDistrict": [
+    "27"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Abel Herrero",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-3140.jpg",
+      "twitter": null,
+      "addresses": [
+        "101 East Main Avenue;Robstown, Texas 78380",
+        "Room 4S.6;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "855-850-0271",
+        "512-463-0462"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "34"
+    },
+    {
+      "name": "Juan \"Chuy\" Hinojosa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-Hinojosa_84-0784D-006.jpg",
+      "twitter": null,
+      "addresses": [
+        "602 N. Staples Street, Suite 200 Corpus Christi, TX 78401",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "361-882-0900",
+        "512-463-0120"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "20"
+    },
+    {
+      "name": "Michael Cloud",
+      "email": null,
+      "twitter": "RepCloudTX",
+      "addresses": [
+        "1314 Longworth House Office Building; Washington DC 20515-4327"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-C001115.jpg",
+      "phone": "202-225-7742",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": "27"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-McComb_Joe%2153525.jpg",
+      "name": "Joe McComb",
+      "phone": "361-826-3100",
+      "email": "joe.mccomb@cctexas.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "TX",
+      "city": "Corpus Christi"
+    }
+  ]
+})

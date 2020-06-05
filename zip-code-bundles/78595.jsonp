@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "78595",
+  "state": "TX",
+  "city": "Sullivan City",
+  "latitude": 26.272363,
+  "longitude": -98.5587,
+  "congressionalDistrict": [
+    "28"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Oscar Longoria",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-2485.jpg",
+      "twitter": null,
+      "addresses": [
+        "126 E. Commercial Ave.;La Feria, TX 78559",
+        "Room E2.308;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "956-797-2101",
+        "512-463-0645"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "35"
+    },
+    {
+      "name": "Juan \"Chuy\" Hinojosa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-Hinojosa_84-0784D-006.jpg",
+      "twitter": null,
+      "addresses": [
+        "602 N. Staples Street, Suite 200 Corpus Christi, TX 78401",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "361-882-0900",
+        "512-463-0120"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "20"
+    },
+    {
+      "name": "Henry Cuellar",
+      "email": null,
+      "twitter": "RepCuellar",
+      "addresses": [
+        "2372 Rayburn House Office Building; Washington DC 20515-4328"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-C001063.jpg",
+      "phone": "202-225-1640",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Democrat",
+      "district": "28"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

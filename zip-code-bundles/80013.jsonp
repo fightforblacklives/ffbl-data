@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "80013",
+  "state": "CO",
+  "city": "Aurora",
+  "latitude": 39.659105,
+  "longitude": -104.7791,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Janet Buckner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-2020a_buckner%252C%2520janet.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2944"
+      ],
+      "email": [
+        "janet.buckner.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "40"
+    },
+    {
+      "name": "Nancy Todd",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-2020a_todd%252C%2520nancy.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-3432"
+      ],
+      "email": [
+        "nancy.todd.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "28"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Coffman_Mike%2154792.jpg",
+      "name": "Mike Coffman",
+      "phone": "303-739-7010",
+      "email": "mcoffman@auroragov.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Aurora"
+    }
+  ]
+})

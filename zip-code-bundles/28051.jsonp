@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "28051",
+  "state": "NC",
+  "city": "Gastonia",
+  "latitude": 35.284018,
+  "longitude": -81.189693,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "43",
+  "stateLowerDistrict": "109",
+  "people": [
+    {
+      "name": "Dana Bumgardner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-659.jpg",
+      "twitter": null,
+      "addresses": [
+        "3517 Lincoln Ln;Gastonia, NC 28056",
+        "16 West Jones Street, Rm. 1206;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "704-861-1648",
+        "919-733-5809"
+      ],
+      "email": [
+        "Dana.Bumgardner@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "109"
+    },
+    {
+      "name": "Kathy Harrington",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-283.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 300-C;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 300-C;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5734",
+        "919-733-5734"
+      ],
+      "email": [
+        "Kathy.Harrington@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "43"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Reid_Walker%2154029.jpg",
+      "name": "Walker E. Reid III",
+      "phone": "704-866-6720",
+      "email": "mayorreid@cityofgastonia.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Gastonia"
+    }
+  ]
+})

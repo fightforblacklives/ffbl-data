@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "92506",
+  "state": "CA",
+  "city": "Riverside",
+  "latitude": 33.943615,
+  "longitude": -117.37239,
+  "congressionalDistrict": [
+    "42",
+    "41"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "61",
+  "people": [
+    {
+      "name": "Jose Medina",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-AD61-Medina_0.jpg",
+      "twitter": null,
+      "addresses": [
+        "1223 University Avenue, Suite 230;Riverside, CA 92507",
+        "P.O. Box 942849;Sacramento, CA 94249-0061"
+      ],
+      "phone": [
+        "951-369-6644",
+        "916-319-2061"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "61"
+    },
+    {
+      "name": "Richard D. Roth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-roth-richard.jpg",
+      "twitter": null,
+      "addresses": [
+        "3737 Main Street, Suite 104, Riverside, CA 92501",
+        "State Capitol, Room 2080, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "951-680-6750",
+        "916-651-4031"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "31"
+    },
+    {
+      "name": "Ken Calvert",
+      "email": null,
+      "twitter": "KenCalvert",
+      "addresses": [
+        "2205 Rayburn House Office Building; Washington DC 20515-0542"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-C000059.jpg",
+      "phone": "202-225-1986",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Republican",
+      "district": "42"
+    },
+    {
+      "name": "Mark Takano",
+      "email": null,
+      "twitter": "RepMarkTakano",
+      "addresses": [
+        "420 Cannon House Office Building; Washington DC 20515-0541"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-T000472.jpg",
+      "phone": "202-225-2305",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "41"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Bailey_Rusty%21990.jpg",
+      "name": "Rusty Bailey",
+      "phone": "951-826-5551",
+      "email": "rbailey@riversideca.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Riverside"
+    }
+  ]
+})

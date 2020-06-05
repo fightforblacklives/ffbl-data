@@ -1,0 +1,60 @@
+callback({
+  "zipCode": "00786",
+  "state": "PR",
+  "city": "La Plata",
+  "latitude": 18.128092,
+  "longitude": -66.268717,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VI",
+  "stateLowerDistrict": "27",
+  "people": [
+    {
+      "name": "Manuel Claudio",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-196ce829-e9c4-4dab-b5e5-ca9328921565.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-721-6040"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "27"
+    },
+    {
+      "name": "Axel F. Roque Gracia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "aroque@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    },
+    {
+      "name": "Carlos J. Rodríguez Mateo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "cjrodriguez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    }
+  ]
+})

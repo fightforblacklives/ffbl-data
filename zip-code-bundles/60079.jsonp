@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "60079",
+  "state": "IL",
+  "city": "Waukegan",
+  "latitude": 42.322814,
+  "longitude": -87.610053,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "name": "Bradley Schneider",
+      "email": null,
+      "twitter": "repschneider",
+      "addresses": [
+        "1432 Longworth House Office Building; Washington DC 20515-1310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-S001190.jpg",
+      "phone": "202-225-4835",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-Cunningham_Sam%2153485.jpg",
+      "name": "Sam Cunningham",
+      "phone": "847-599-2510",
+      "email": "mayor.cunningham@waukeganil.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Waukegan"
+    }
+  ]
+})

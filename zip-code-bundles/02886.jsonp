@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "02886",
+  "state": "RI",
+  "city": "Warwick",
+  "latitude": 41.705478,
+  "longitude": -71.45119,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "David A. Bennett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-bennett.jpg",
+      "twitter": null,
+      "addresses": [
+        "27 Shippee Avenue, Warwick, RI 02886"
+      ],
+      "phone": [
+        "401-480-4647"
+      ],
+      "email": [
+        "rep-bennett@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "20"
+    },
+    {
+      "name": "Erin Lynch Prata",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-lynch.jpg",
+      "twitter": null,
+      "addresses": [
+        "28 Goodwin Street, Warwick 02818"
+      ],
+      "phone": [
+        "401-737-4200"
+      ],
+      "email": [
+        "sen-lynchprata@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "31"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-Solomon_Joseph%2154441.jpg",
+      "name": "Joseph J. Solomon",
+      "phone": "401-738-2000",
+      "email": "mayorsoffice@warwickri.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Warwick"
+    }
+  ]
+})

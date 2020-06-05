@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "42302",
+  "state": "KY",
+  "city": "Owensboro",
+  "latitude": 37.745491,
+  "longitude": -87.112823,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "13",
+  "people": [
+    {
+      "name": "Jim Glenn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-house13.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 462A;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 720"
+      ],
+      "email": [
+        "Jim.Glenn@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "13"
+    },
+    {
+      "name": "Matt Castlen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-senate108.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 255;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 688"
+      ],
+      "email": [
+        "Matt.Castlen@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "8"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-Watson_Tom%2153243.jpg",
+      "name": "Tom Watson",
+      "phone": "270-687-8561",
+      "email": "mayor@owensboro.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Owensboro"
+    }
+  ]
+})

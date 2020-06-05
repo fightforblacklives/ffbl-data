@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "20745",
+  "state": "MD",
+  "city": "Oxon Hill",
+  "latitude": 38.80758,
+  "longitude": -76.99193,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "Jay Walker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-walker.jpg",
+      "twitter": null,
+      "addresses": [
+        "131 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3581"
+      ],
+      "email": [
+        "jay.walker@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "26"
+    },
+    {
+      "name": "Kriselda Valderrama",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-valderrama.jpg",
+      "twitter": null,
+      "addresses": [
+        "350 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3210"
+      ],
+      "email": [
+        "kris.valderrama@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "26"
+    },
+    {
+      "name": "Veronica Turner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-turner01.jpg",
+      "twitter": null,
+      "addresses": [
+        "205 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3212"
+      ],
+      "email": [
+        "veronica.turner@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "26"
+    },
+    {
+      "name": "Obie Patterson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-patterson03.jpg",
+      "twitter": null,
+      "addresses": [
+        "201 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3092"
+      ],
+      "email": [
+        "obie.patterson@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "26"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "45501",
+  "state": "OH",
+  "city": "Springfield",
+  "latitude": 39.927059,
+  "longitude": -83.813228,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "79",
+  "people": [
+    {
+      "name": "J. Kyle Koehler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-79.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-2038"
+      ],
+      "email": [
+        "rep79@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "79"
+    },
+    {
+      "name": "Bob D. Hackett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-2836.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-3780"
+      ],
+      "email": [
+        "sd10@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "10"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Copeland_Warren%211112.jpg",
+      "name": "Warren R. Copeland",
+      "phone": "937-324-7700",
+      "email": "wcopeland@wittenberg.edu",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Springfield"
+    }
+  ]
+})

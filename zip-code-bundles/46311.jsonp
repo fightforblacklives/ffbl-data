@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "46311",
+  "state": "IN",
+  "city": "Dyer",
+  "latitude": 41.491377,
+  "longitude": -87.51022,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "15",
+  "people": [
+    {
+      "name": "Chris Chyung",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-legislator_christopher_chyung_1",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9842"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IN",
+      "district": "15"
+    },
+    {
+      "name": "Rick Niemeyer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-legislator_rick_niemeyer_1109",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9467"
+      ],
+      "email": [
+        "Senator.Niemeyer@iga.in.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "6"
+    },
+    {
+      "name": "Mike Braun",
+      "email": null,
+      "twitter": "SenatorBraun",
+      "addresses": [
+        "374 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "phone": "202-224-4814",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Todd Young",
+      "email": null,
+      "twitter": "SenToddYoung",
+      "addresses": [
+        "185 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "phone": "202-224-5623",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Eric Holcomb",
+      "addresses": [
+        "State House, Room 206 Indianapolis IN 46204-2797"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "twitter": "GovHolcomb",
+      "email": null,
+      "phone": "317-232-4567",
+      "type": "Governor",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

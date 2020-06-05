@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "02893",
+  "state": "RI",
+  "city": "West Warwick",
+  "latitude": 41.70375,
+  "longitude": -71.51857,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Thomas E. Noret",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-noret.jpg",
+      "twitter": null,
+      "addresses": [
+        "225 Fairview Avenue, Coventry, RI 02816"
+      ],
+      "phone": [
+        "401-641-0813"
+      ],
+      "email": [
+        "rep-noret@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "25"
+    },
+    {
+      "name": "Adam J. Satchell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-satchell.jpg",
+      "twitter": null,
+      "addresses": [
+        "1589 Main Street, 1st Floor, West Warwick, RI 02893"
+      ],
+      "phone": [
+        "401-615-5170"
+      ],
+      "email": [
+        "sen-satchell@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "9"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

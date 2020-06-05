@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "90404",
+  "state": "CA",
+  "city": "Santa Monica",
+  "latitude": 34.026959,
+  "longitude": -118.47432,
+  "congressionalDistrict": [
+    "33"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "50",
+  "people": [
+    {
+      "name": "Richard Bloom",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-AD50-Bloom.jpg",
+      "twitter": null,
+      "addresses": [
+        "2800 28th Street, Suite 105;Santa Monica, CA 90405",
+        "P.O. Box 942849;Sacramento, CA 94249-0050"
+      ],
+      "phone": [
+        "310-450-0041",
+        "916-319-2050"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "50"
+    },
+    {
+      "name": "Benjamin Allen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-ben-allen.jpg",
+      "twitter": null,
+      "addresses": [
+        "2512 Artesia Blvd., Suite 320, Redondo Beach, CA 90278",
+        "State Capitol, Room 4076, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "310-318-6994",
+        "916-651-4026"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "26"
+    },
+    {
+      "name": "Ted Lieu",
+      "email": null,
+      "twitter": "RepTedLieu",
+      "addresses": [
+        "403 Cannon House Office Building; Washington DC 20515-0533"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-L000582.jpg",
+      "phone": "202-225-3976",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "33"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-McKeown_Kevin%2154938.jpg",
+      "name": "Kevin McKeown",
+      "phone": "310-458-8201",
+      "email": "kevin.mckeown@smgov.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Santa Monica"
+    }
+  ]
+})

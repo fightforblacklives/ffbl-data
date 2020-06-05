@@ -1,0 +1,141 @@
+callback({
+  "zipCode": "20781",
+  "state": "MD",
+  "city": "Hyattsville",
+  "latitude": 38.946746,
+  "longitude": -76.9356,
+  "congressionalDistrict": [
+    "05",
+    "04"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "22",
+  "people": [
+    {
+      "name": "Alonzo T. Washington",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-washington%20a.jpg",
+      "twitter": null,
+      "addresses": [
+        "405 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3652"
+      ],
+      "email": [
+        "alonzo.washington@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "22"
+    },
+    {
+      "name": "Anne Healey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-healey.jpg",
+      "twitter": null,
+      "addresses": [
+        "361 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3961"
+      ],
+      "email": [
+        "anne.healey@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "22"
+    },
+    {
+      "name": "Tawanna P. Gaines",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-gaines.jpg",
+      "twitter": null,
+      "addresses": [
+        "120 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3058"
+      ],
+      "email": [
+        "tawanna.gaines@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "22"
+    },
+    {
+      "name": "Paul G. Pinsky",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-pinsky.jpg",
+      "twitter": null,
+      "addresses": [
+        "2 West Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3155"
+      ],
+      "email": [
+        "paul.pinsky@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "22"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-Avatar.jpg",
+      "name": "Candace B Hollingsworth",
+      "phone": "",
+      "email": "chollingsworth@hyattsville.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Hyattsville"
+    }
+  ]
+})

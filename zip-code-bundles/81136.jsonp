@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "81136",
+  "state": "CO",
+  "city": "Hooper",
+  "latitude": 37.779885,
+  "longitude": -105.81264,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "62",
+  "people": [
+    {
+      "name": "Donald Valdez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-2020a_valdez%252C%2520donald.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2916"
+      ],
+      "email": [
+        "donald.valdez.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "62"
+    },
+    {
+      "name": "Larry Crowder",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-2020a_crowder%252C%2520larry.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4875"
+      ],
+      "email": [
+        "larry.crowder.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "35"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

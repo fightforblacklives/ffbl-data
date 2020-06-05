@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57064",
+  "state": "SD",
+  "city": "Tea",
+  "latitude": 43.450592,
+  "longitude": -96.84498,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "6",
+  "people": [
+    {
+      "name": "Herman Otten",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-OttenHerman_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "27543 468th Ave.;Lennox, SD 57039"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Herman.Otten@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "6"
+    },
+    {
+      "name": "Isaac Latterell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Latterell_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 801;Tea, SD 57064"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Isaac.Latterell@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "6"
+    },
+    {
+      "name": "Ernie Otten",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Otten_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "46787 273rd St.;Tea, SD 57064"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Ernie.Otten@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "6"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

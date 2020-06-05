@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "72082",
+  "state": "AR",
+  "city": "Kensett",
+  "latitude": 35.233947,
+  "longitude": -91.67048,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "Les Eaves",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-476_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "102 Club Cove, Searcy, 72143"
+      ],
+      "phone": [
+        "501-827-1344"
+      ],
+      "email": [
+        "les.eaves@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "46"
+    },
+    {
+      "name": "Jonathan Dismang",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-337_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 475, Beebe, 72012"
+      ],
+      "phone": [
+        "501-882-0449"
+      ],
+      "email": [
+        "dismang28@gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "28"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

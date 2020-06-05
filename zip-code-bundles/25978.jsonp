@@ -1,0 +1,135 @@
+callback({
+  "zipCode": "25978",
+  "state": "WV",
+  "city": "Nimitz",
+  "latitude": 37.645397,
+  "longitude": -80.92422,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Jeffrey Pack",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-pack_jeffrey.jpg",
+      "twitter": null,
+      "addresses": [
+        "375 Laurel Street;Cool Ridge, WV, 25825",
+        "Room 211E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-228-6925",
+        "304-340-3164"
+      ],
+      "email": [
+        "jeffrey.pack@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "28"
+    },
+    {
+      "name": "Roy Cooper",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-cooper_roy.jpg",
+      "twitter": null,
+      "addresses": [
+        "31 Pam's Way;Wayside, WV, 24985",
+        "Room 203E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-466-5523",
+        "304-340-3119"
+      ],
+      "email": [
+        "roy.cooper@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "28"
+    },
+    {
+      "name": "Kenny Mann",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-mann_kenny.jpg",
+      "twitter": null,
+      "addresses": [
+        "5007 Hans Creek Road;Greenville, WV, 24945",
+        "Room 441M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-646-6089",
+        "304-357-7849"
+      ],
+      "email": [
+        "kenny.mann@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Stephen Baldwin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-baldwin_stephen.jpg",
+      "twitter": null,
+      "addresses": [
+        "237 Locust Street;Ronceverte, WV, 24970",
+        "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7959"
+      ],
+      "email": [
+        "stephen.baldwin@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

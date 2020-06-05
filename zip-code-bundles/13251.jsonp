@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "13251",
+  "state": "NY",
+  "city": "Syracuse",
+  "latitude": 43.02143,
+  "longitude": -76.197701,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "50",
+  "stateLowerDistrict": "128",
+  "people": [
+    {
+      "name": "Pamela Hunter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-128.jpg",
+      "twitter": null,
+      "addresses": [
+        "711 East Genesee Street;2nd Floor;Syracuse, NY 13210-1540",
+        "Room 432, Legislative Office Building;Albany, NY 12248"
+      ],
+      "phone": [
+        "315-449-9536",
+        "518-455-5383"
+      ],
+      "email": [
+        "HunterP@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "128"
+    },
+    {
+      "name": "Robert E. Antonacci",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-robert-e-antonacci-headshot.jpg%3Fitok%3D3uX48AXz",
+      "twitter": null,
+      "addresses": [
+        "188 State Street, Legislative Office Bldg.,;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-3511"
+      ],
+      "email": [
+        "antonacci@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "50"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Walsh_Ben%2154039.jpg",
+      "name": "Ben Walsh",
+      "phone": "315-448-8005",
+      "email": "mayor@syrgov.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Syracuse"
+    }
+  ]
+})

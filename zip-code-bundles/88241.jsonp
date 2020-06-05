@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "88241",
+  "state": "NM",
+  "city": "Hobbs",
+  "latitude": 32.7475,
+  "longitude": -103.216516,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "42",
+  "stateLowerDistrict": "62",
+  "people": [
+    {
+      "name": "Larry R. Scott",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-HSCOT.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1708;Hobbs, NM 88241",
+        "Room 203GN State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "575-392-5960",
+        "505-986-4450"
+      ],
+      "email": [
+        "larry.scott@nmlegis.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NM",
+      "district": "62"
+    },
+    {
+      "name": "Gay G. Kernan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-SKERN.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 598;Hobbs, NM 88241",
+        "Room 415E State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-629-8081",
+        "505-986-4274"
+      ],
+      "email": [
+        "gay.kernan@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NM",
+      "district": "42"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Cobb_Sam%213553.jpg",
+      "name": "Sam Cobb",
+      "phone": "575-397-9200",
+      "email": "scobb@hobbsnm.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NM",
+      "city": "Hobbs"
+    }
+  ]
+})

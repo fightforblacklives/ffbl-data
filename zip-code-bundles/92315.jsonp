@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "92315",
+  "state": "CA",
+  "city": "Big Bear Lake",
+  "latitude": 34.241295,
+  "longitude": -116.90328,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "33",
+  "people": [
+    {
+      "name": "Jay Obernolte",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-obernolte.png",
+      "twitter": null,
+      "addresses": [
+        "9700 Seventh Ave;Hesperia, CA 92345",
+        "P.O. Box 942849;Sacramento, CA 94249-0033"
+      ],
+      "phone": [
+        "760-244-5277",
+        "916-319-2033"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "33"
+    },
+    {
+      "name": "Mike Morrell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-morrell_hs_7678_1_lls_2.jpg",
+      "twitter": null,
+      "addresses": [
+        "10350 Commerce Center Drive, Suite A-220, Rancho Cucamonga, CA 91730",
+        "State Capitol, Room 3056, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "909-919-7731",
+        "916-651-4023"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "23"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

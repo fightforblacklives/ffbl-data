@@ -1,0 +1,116 @@
+callback({
+  "zipCode": "24813",
+  "state": "WV",
+  "city": "Bartley",
+  "latitude": 37.355111,
+  "longitude": -81.73002,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "Ed Evans",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-evans_ed.jpg",
+      "twitter": null,
+      "addresses": [
+        "454 Edgewood Avenue;Welch, WV, 24801",
+        "Room 225E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-673-2969",
+        "304-340-3165"
+      ],
+      "email": [
+        "ed.evans@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "26"
+    },
+    {
+      "name": "Chandler Swope",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-swope_chandler.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Three Springs Drive;Bluefield, WV, 24701",
+        "Room 229W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-920-2460",
+        "304-357-7843"
+      ],
+      "email": [
+        "chandler.swope@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "6"
+    },
+    {
+      "name": "Mark R. Maynard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-maynard_mark.jpg",
+      "twitter": null,
+      "addresses": [
+        "17070 Route 152 Road;Genoa, WV, 25517",
+        "Room 206W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-360-6272",
+        "304-357-7808"
+      ],
+      "email": [
+        "Mark.Maynard@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "6"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

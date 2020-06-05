@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00769",
+  "state": "PR",
+  "city": "Coamo",
+  "latitude": 18.092813,
+  "longitude": -66.3611,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VI",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "Urayoán Hernández Alvarado",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-f9c70b66-7d02-4646-89bf-008978046d41.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO CAPITOLIO"
+      ],
+      "phone": [
+        "787-725-4431"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "26"
+    },
+    {
+      "name": "Axel F. Roque Gracia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "aroque@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    },
+    {
+      "name": "Carlos J. Rodríguez Mateo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "cjrodriguez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    }
+  ]
+})

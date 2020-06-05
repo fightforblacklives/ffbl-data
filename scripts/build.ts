@@ -5,16 +5,63 @@ const dir = (...subpath: string[]) => {
   return Path.resolve(__dirname, "..", ...subpath);
 };
 
-const zipCodes = fs.readdirSync(dir("zip-codes")).map((code) => {
-  return code.slice(0, -".json".length);
+const zipCodes = require(dir("locations.json"));
+
+const contacts = fs.readdirSync(dir("contacts")).map((file) => {
+  return require(dir("contacts", file));
 });
 
-const buildZipCodeBundle = (zip: string) => {
-  const zipCodeInfo = require(dir("zip-codes", `${zip}.json`));
+const buildZipCodeBundle = (location: any) => {
+  const zip = location.zipCode;
+
+  const stateReps = contacts.filter(
+    (x) =>
+      x.type === "State Representative" &&
+      x.state === location.state &&
+      location.stateLowerDistrict === x.district
+  );
+
+  const stateSenators = contacts.filter(
+    (x) =>
+      x.type === "State Senator" &&
+      x.state === location.state &&
+      location.stateUpperDistrict === x.district
+  );
+
+  const usRepresentatives = contacts.filter(
+    (x) =>
+      x.type === "US Representative" &&
+      x.state === location.state &&
+      location.congressionalDistrict.includes(x.district)
+  );
+
+  const usSenators = contacts.filter(
+    (x) => x.type === "US Senator" && x.state === location.state
+  );
+
+  const governor = contacts.filter(
+    (x) => x.type === "Governor" && x.state === location.state
+  );
+
+  const mayor = contacts.filter(
+    (x) =>
+      x.type === "Mayor" &&
+      x.state === location.state &&
+      x.city === location.city
+  );
+
+  const people = [
+    ...stateReps,
+    ...stateSenators,
+    ...usRepresentatives,
+    ...usSenators,
+    ...governor,
+    ...mayor,
+  ];
 
   const bundle = {
-    zipCode: zip,
-    ...zipCodeInfo,
+    ...location,
+    people,
   };
 
   fs.writeFileSync(
@@ -26,4 +73,4 @@ const buildZipCodeBundle = (zip: string) => {
 fs.rmdirSync(dir("zip-code-bundles"), { recursive: true });
 fs.mkdirSync(dir("zip-code-bundles"));
 
-zipCodes.forEach((code) => buildZipCodeBundle(code));
+zipCodes.forEach(buildZipCodeBundle);

@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00961",
+  "state": "PR",
+  "city": "Bayamon",
+  "latitude": 18.412462,
+  "longitude": -66.16033,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "II",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Luis Pérez Ortiz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-56894b7f-ca37-47c8-b7cb-1ed814d6991a.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er Piso - Anexo Cámara - Edif. Ernesto Ramos Antonini"
+      ],
+      "phone": [
+        "787-721-5545"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "7"
+    },
+    {
+      "name": "Carmelo J. Ríos Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-senador-3.jpg%3FRenditionID%3D1",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "crios@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    },
+    {
+      "name": "Migdalia Padilla Alvelo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-senador-22.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mpadilla@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    }
+  ]
+})

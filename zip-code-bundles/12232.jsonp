@@ -1,0 +1,114 @@
+callback({
+  "zipCode": "12232",
+  "state": "NY",
+  "city": "Albany",
+  "latitude": 42.614852,
+  "longitude": -73.970812,
+  "congressionalDistrict": [
+    "20"
+  ],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "109",
+  "people": [
+    {
+      "name": "Patricia Fahy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-109.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "FahyP@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "109"
+    },
+    {
+      "name": "George A. Amedore, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-%252811-17-14%2529%2520Amedore-045.jpg%3Fitok%3DsHHpdcCf",
+      "twitter": null,
+      "addresses": [
+        "721 Broadway, Suite 100;Kingston,, NY 12401"
+      ],
+      "phone": [
+        "845-331-3810"
+      ],
+      "email": [
+        "amedore@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "46"
+    },
+    {
+      "name": "Paul Tonko",
+      "email": null,
+      "twitter": "RepPaulTonko",
+      "addresses": [
+        "2369 Rayburn House Office Building; Washington DC 20515-3220"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-T000469.jpg",
+      "phone": "202-225-5076",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "20"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-Sheehan_Kathy%2111.jpg",
+      "name": "Kathy M. Sheehan",
+      "phone": "518-434-5105",
+      "email": "ksheehan@albanyny.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Albany"
+    }
+  ]
+})

@@ -1,0 +1,60 @@
+callback({
+  "zipCode": "00761",
+  "state": "PR",
+  "city": "Utuado",
+  "latitude": 18.265445,
+  "longitude": -66.702364,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "V",
+  "stateLowerDistrict": "22",
+  "people": [
+    {
+      "name": "Michael A. Quiñones Irizarry",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-3426bfeb-6a87-4f5e-9b7b-b18cbd02cc3a.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do. PISO ANEXO"
+      ],
+      "phone": [
+        "787-724-0313"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "22"
+    },
+    {
+      "name": "Luis A. Berdiel Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-senador-19.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lberdiel@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    },
+    {
+      "name": "Nelson V. Cruz Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-sen_ncruz2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ncruz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    }
+  ]
+})

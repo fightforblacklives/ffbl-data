@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "92263",
+  "state": "CA",
+  "city": "Palm Springs",
+  "latitude": 33.761076,
+  "longitude": -116.535887,
+  "congressionalDistrict": [
+    "36"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "42",
+  "people": [
+    {
+      "name": "Chad Mayes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Mayes_LDC_headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "41608 Indian Trail Road, Suite D-1;Rancho Mirage, CA 92270",
+        "P.O. Box 942849;Sacramento, CA 94249-0042"
+      ],
+      "phone": [
+        "760-346-6342",
+        "916-319-2042"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "42"
+    },
+    {
+      "name": "Jeff Stone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-stone_7462_hs_2019_lls.jpg",
+      "twitter": null,
+      "addresses": [
+        "45-125 Smurr Street, Suite B, Indio, CA 92201",
+        "State Capitol, Room 4082, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "760-398-6442",
+        "916-651-4028"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "28"
+    },
+    {
+      "name": "Raul Ruiz",
+      "email": null,
+      "twitter": "RepRaulRuizMD",
+      "addresses": [
+        "2342 Rayburn House Office Building; Washington DC 20515-0536"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-R000599.jpg",
+      "phone": "202-225-5330",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "36"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Kors_Geoff%2154930.jpg",
+      "name": "Geoff Kors",
+      "phone": "760-323-8200",
+      "email": "geoff.kors@palmspringsca.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Palm Springs"
+    }
+  ]
+})

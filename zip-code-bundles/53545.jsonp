@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "53545",
+  "state": "WI",
+  "city": "Janesville",
+  "latitude": 42.69146,
+  "longitude": -89.04277,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "44",
+  "people": [
+    {
+      "name": "Debra Kolste",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-1838.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 107 North;State Capitol;PO Box 8952;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-7503"
+      ],
+      "email": [
+        "Rep.Kolste@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "44"
+    },
+    {
+      "name": "Janis A. Ringhand",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-1914.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 108 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-2253"
+      ],
+      "email": [
+        "Sen.Ringhand@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "15"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-Gruber_Richard%2154716.jpg",
+      "name": "Richard Gruber",
+      "phone": "608-373-6016",
+      "email": "rgruber@ci.janesville.wi.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Janesville"
+    }
+  ]
+})

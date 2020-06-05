@@ -1,0 +1,124 @@
+callback({
+  "zipCode": "08823",
+  "state": "NJ",
+  "city": "Franklin Park",
+  "latitude": 40.439412,
+  "longitude": -74.55565,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Joe Danielsen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-danielsen_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "334 Elizabeth Ave.;Somerset, NJ 08873"
+      ],
+      "phone": [
+        "732-247-3999"
+      ],
+      "email": [
+        "AsmDanielsen@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "17"
+    },
+    {
+      "name": "Joseph V. Egan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-egan_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 Bayard St.;New Brunswick, NJ 08901"
+      ],
+      "phone": [
+        "732-249-4550"
+      ],
+      "email": [
+        "AsmEgan@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "17"
+    },
+    {
+      "name": "Bob Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-smith_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "216 Stelton Rd., Suite E-5;Piscataway, NJ 08854"
+      ],
+      "phone": [
+        "732-752-0770"
+      ],
+      "email": [
+        "SenSmith@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "17"
+    },
+    {
+      "name": "Bonnie Watson Coleman",
+      "email": null,
+      "twitter": "RepBonnie",
+      "addresses": [
+        "2442 Rayburn House Office Building; Washington DC 20515-3012"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-W000822.jpg",
+      "phone": "202-225-5801",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "12"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "96821",
+  "state": "HI",
+  "city": "Honolulu",
+  "latitude": 21.287967,
+  "longitude": -157.75456,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "Mark J. Hashem",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-hashem.jpg",
+      "twitter": null,
+      "addresses": [
+        "Hawaii State Capitol, Room 424"
+      ],
+      "phone": [
+        "808-586-6510"
+      ],
+      "email": [
+        "rephashem@Capitol.hawaii.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "HI",
+      "district": "18"
+    },
+    {
+      "name": "Stanley Chang",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-schang.jpg",
+      "twitter": null,
+      "addresses": [
+        "Hawaii State Capitol, Room 226"
+      ],
+      "phone": [
+        "808-586-8420"
+      ],
+      "email": [
+        "senchang@capitol.hawaii.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "HI",
+      "district": "9"
+    },
+    {
+      "name": "Brian Schatz",
+      "email": null,
+      "twitter": "SenBrianSchatz",
+      "addresses": [
+        "722 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-S001194.jpg",
+      "phone": "202-224-3934",
+      "type": "US Senator",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mazie Hirono",
+      "email": null,
+      "twitter": "MazieHirono",
+      "addresses": [
+        "713 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-H001042.jpg",
+      "phone": "202-224-6361",
+      "type": "US Senator",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "David Ige",
+      "addresses": [
+        "Executive Chambers Executive Chambers Honolulu HI 96813"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-HI.jpg",
+      "twitter": "govhawaii",
+      "email": null,
+      "phone": "808-586-0034",
+      "type": "Governor",
+      "state": "HI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Caldwell_Kirk%21521.jpg",
+      "name": "Kirk Caldwell",
+      "phone": "808-768-4141",
+      "email": "mayor@honolulu.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "HI",
+      "city": "Honolulu"
+    }
+  ]
+})

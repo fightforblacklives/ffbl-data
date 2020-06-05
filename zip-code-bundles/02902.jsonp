@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "02902",
+  "state": "RI",
+  "city": "Providence",
+  "latitude": 41.81835,
+  "longitude": -71.424851,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "John J. Lombardi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-lombardi.jpg",
+      "twitter": null,
+      "addresses": [
+        "48 Grove Street, Providence, RI 02909"
+      ],
+      "phone": [
+        "401-453-3900"
+      ],
+      "email": [
+        "rep-lombardi@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "8"
+    },
+    {
+      "name": "Samuel W. Bell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-bell.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "401-680-0725"
+      ],
+      "email": [
+        "sen-bell@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "5"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-Elorza_Jorge%21955.JPG",
+      "name": "Jorge O. Elorza",
+      "phone": "401-421-2489",
+      "email": "mayor@providenceri.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Providence"
+    }
+  ]
+})

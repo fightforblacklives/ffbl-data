@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "06497",
+  "state": "CT",
+  "city": "Stratford",
+  "latitude": 41.207146,
+  "longitude": -73.130503,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "120",
+  "people": [
+    {
+      "name": "Philip L. Young III",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "88 Wood Avenue;Stratford, CT 06614",
+        "Legislative Office Building;Room 4100;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-502-1458",
+        "860-240-8500"
+      ],
+      "email": [
+        "phil.young@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "120"
+    },
+    {
+      "name": "Kevin C. Kelly",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "240 York Street;Stratford, CT 06615",
+        "Legislative Office Building;Room 2803;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8800"
+      ],
+      "email": [
+        "Kevin.Kelly@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "21"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-Hoydick_Laura%2153954.jpg",
+      "name": "Laura Hoydick",
+      "phone": "203-385-4001",
+      "email": "lhoydick@townofstratford.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "Stratford"
+    }
+  ]
+})

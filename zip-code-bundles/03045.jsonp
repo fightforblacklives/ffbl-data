@@ -1,0 +1,165 @@
+callback({
+  "zipCode": "03045",
+  "state": "NH",
+  "city": "Goffstown",
+  "latitude": 43.037495,
+  "longitude": -71.57023,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "Hillsborough 6",
+  "people": [
+    {
+      "name": "Barbara J. Griffin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-377233.jpg",
+      "twitter": null,
+      "addresses": [
+        "84 Merrill Road;Goffstown, NH 03045-2138"
+      ],
+      "phone": [
+        "603-497-8286"
+      ],
+      "email": [
+        "barbara.griffin@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Hillsborough 6"
+    },
+    {
+      "name": "Cole J. Riel",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "46 Kimberly Lane;Goffstown, NH 03045-3040"
+      ],
+      "phone": [
+        "603-497-8848"
+      ],
+      "email": [
+        "Cole.Riel@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 6"
+    },
+    {
+      "name": "Fred R. Plett",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "65 Wallace Road;Goffstown, NH 03045-1823"
+      ],
+      "phone": [
+        "603-497-3907"
+      ],
+      "email": [
+        "Fred.Plett@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Hillsborough 6"
+    },
+    {
+      "name": "Joe H. Alexander",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "\"3 Oakwood Lane, Unit 1\";Goffstown, NH 03045-2597"
+      ],
+      "phone": [
+        "603-856-5227"
+      ],
+      "email": [
+        "Joe.Alexander@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Hillsborough 6"
+    },
+    {
+      "name": "Michael D. Gunski",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "3 Paige Hill Road;Goffstown, NH 03045-2238"
+      ],
+      "phone": [
+        "603-497-2775"
+      ],
+      "email": [
+        "Michael.Gunski@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Hillsborough 6"
+    },
+    {
+      "name": "Lou D'Allesandro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-20.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 117\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-2117"
+      ],
+      "email": [
+        "Lou.Dallesandro@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "20"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

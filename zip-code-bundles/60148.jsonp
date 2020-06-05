@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "60148",
+  "state": "IL",
+  "city": "Lombard",
+  "latitude": 41.875429,
+  "longitude": -88.01723,
+  "congressionalDistrict": [
+    "08",
+    "06"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "48",
+  "people": [
+    {
+      "name": "Terra Costa Howard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-%7B7A155EE5-0C58-43BC-9B51-65B6E2908BA1%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "913 S. Main St.;Lombard, IL 60148",
+        "244-W Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-812-9292",
+        "217-782-8037"
+      ],
+      "email": [
+        "RepTCH48@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "48"
+    },
+    {
+      "name": "Suzy Glowiak Hilton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-%7B8DE2D7E5-9F3D-43FD-B0EC-0010BDA8849A%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "17W715 East Butterfield Rd;Suite F;Oakbrook Terrace, IL 60181",
+        "124 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-785-3177",
+        "217-782-8148"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "24"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-Giagnorio_Keith%21655.jpg",
+      "name": "Keith T. Giagnorio",
+      "phone": "630-620-5710",
+      "email": "giagnoriok@villageoflombard.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Lombard"
+    }
+  ]
+})

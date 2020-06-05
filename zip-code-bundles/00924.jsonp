@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00924",
+  "state": "PR",
+  "city": "San Juan",
+  "latitude": 18.401917,
+  "longitude": -66.01194,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "I",
+  "stateLowerDistrict": "3",
+  "people": [
+    {
+      "name": "Juan O. Morales Rodríguez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-db95dc4b-7fa8-43f8-8a46-744f02ec2099.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO ANEXO"
+      ],
+      "phone": [
+        "787-723-8745"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "3"
+    },
+    {
+      "name": "Henry Neumann Zayas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-senador-7.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "hneumann@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "I"
+    },
+    {
+      "name": "Miguel A. Romero Lugo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-25.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mromero@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "I"
+    }
+  ]
+})

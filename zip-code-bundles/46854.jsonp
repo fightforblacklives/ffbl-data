@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "46854",
+  "state": "IN",
+  "city": "Fort Wayne",
+  "latitude": 41.093763,
+  "longitude": -85.070713,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "84",
+  "people": [
+    {
+      "name": "Robert Morris",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-legislator_robert_morris_1021",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9841"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "84"
+    },
+    {
+      "name": "Dennis Kruse",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-legislator_dennis_kruse_780",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9467"
+      ],
+      "email": [
+        "Senator.Kruse@iga.in.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "14"
+    },
+    {
+      "name": "Mike Braun",
+      "email": null,
+      "twitter": "SenatorBraun",
+      "addresses": [
+        "374 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "phone": "202-224-4814",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Todd Young",
+      "email": null,
+      "twitter": "SenToddYoung",
+      "addresses": [
+        "185 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "phone": "202-224-5623",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Eric Holcomb",
+      "addresses": [
+        "State House, Room 206 Indianapolis IN 46204-2797"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "twitter": "GovHolcomb",
+      "email": null,
+      "phone": "317-232-4567",
+      "type": "Governor",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-Henry_Tom%21405.jpg",
+      "name": "Thomas 'Tom' C. Henry",
+      "phone": "260-427-1111",
+      "email": "mayor@cityoffortwayne.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IN",
+      "city": "Fort Wayne"
+    }
+  ]
+})

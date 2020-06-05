@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "11215",
+  "state": "NY",
+  "city": "Brooklyn",
+  "latitude": 40.667508,
+  "longitude": -73.9856,
+  "congressionalDistrict": [
+    "07",
+    "09",
+    "10"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "52",
+  "people": [
+    {
+      "name": "Jo Anne Simon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-052.jpg",
+      "twitter": null,
+      "addresses": [
+        "341 Smith Street;Brooklyn, NY 11231",
+        "LOB 435;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-246-4889",
+        "518-455-5426"
+      ],
+      "email": [
+        "simonj@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "52"
+    },
+    {
+      "name": "Kevin S. Parker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-03-12-15_500-32-0013.jpg%3Fitok%3DYJ5FkBhN",
+      "twitter": null,
+      "addresses": [
+        "172 State Street Room 504, Capitol Building;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2580"
+      ],
+      "email": [
+        "parker@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "21"
+    },
+    {
+      "name": "Jerrold Nadler",
+      "email": null,
+      "twitter": "RepJerryNadler",
+      "addresses": [
+        "2132 Rayburn House Office Building; Washington DC 20515-3210"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-N000002.jpg",
+      "phone": "202-225-5635",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

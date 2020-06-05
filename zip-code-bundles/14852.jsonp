@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "14852",
+  "state": "NY",
+  "city": "Ithaca",
+  "latitude": 42.445074,
+  "longitude": -76.467233,
+  "congressionalDistrict": [
+    "23"
+  ],
+  "stateUpperDistrict": "58",
+  "stateLowerDistrict": "125",
+  "people": [
+    {
+      "name": "Barbara Lifton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-125.jpg",
+      "twitter": null,
+      "addresses": [
+        "106 East Court Street;Ithaca, NY 14850",
+        "LOB 555;Albany, NY 12248"
+      ],
+      "phone": [
+        "607-277-8030",
+        "518-455-5444"
+      ],
+      "email": [
+        "LiftonB@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "125"
+    },
+    {
+      "name": "Thomas F. O'Mara",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-02-10-15_official_hs_omara-hs-040_0.jpg%3Fitok%3D0S6A6rmV",
+      "twitter": null,
+      "addresses": [
+        "333 East Water Street;Elmira,, NY 14901"
+      ],
+      "phone": [
+        "607-735-9671"
+      ],
+      "email": [
+        "omara@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "58"
+    },
+    {
+      "name": "Tom Reed",
+      "email": null,
+      "twitter": "RepTomReed",
+      "addresses": [
+        "2263 Rayburn House Office Building; Washington DC 20515-3223"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-R000585.jpg",
+      "phone": "202-225-3161",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Myrick_Svante%213554.jpg",
+      "name": "Svante L. Myrick",
+      "phone": "607-274-6501",
+      "email": "mayormyrick@cityofithaca.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Ithaca"
+    }
+  ]
+})

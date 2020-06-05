@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00731",
+  "state": "PR",
+  "city": "Ponce",
+  "latitude": 18.077329,
+  "longitude": -66.61192,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "V",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Jacqueline Rodríguez Hernández",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-d0891542-98fb-4513-b2b9-011767c1a7f4.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO ANEXO"
+      ],
+      "phone": [
+        "787-722-4290"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "25"
+    },
+    {
+      "name": "Luis A. Berdiel Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-senador-19.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lberdiel@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    },
+    {
+      "name": "Nelson V. Cruz Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-sen_ncruz2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ncruz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "V"
+    }
+  ]
+})

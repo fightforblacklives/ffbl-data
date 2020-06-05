@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "02912",
+  "state": "RI",
+  "city": "Providence",
+  "latitude": 41.826737,
+  "longitude": -71.397699,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Edith H. Ajello",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-ajello.jpg",
+      "twitter": null,
+      "addresses": [
+        "29 Benefit Street, Providence, RI 02904"
+      ],
+      "phone": [
+        "401-274-7078"
+      ],
+      "email": [
+        "rep-ajello@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "1"
+    },
+    {
+      "name": "Gayle L. Goldin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-goldin.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 2722, Providence, RI 02906"
+      ],
+      "phone": [
+        "401-276-5568"
+      ],
+      "email": [
+        "sen-goldin@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "3"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-Elorza_Jorge%21955.JPG",
+      "name": "Jorge O. Elorza",
+      "phone": "401-421-2489",
+      "email": "mayor@providenceri.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Providence"
+    }
+  ]
+})

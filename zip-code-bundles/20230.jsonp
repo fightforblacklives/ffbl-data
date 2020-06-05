@@ -1,0 +1,26 @@
+callback({
+  "zipCode": "20230",
+  "state": "DC",
+  "city": "Washington",
+  "latitude": 38.893311,
+  "longitude": -77.014647,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Bowser_Muriel%211225.jpg",
+      "name": "Muriel Bowser",
+      "phone": "202-727-6300",
+      "email": "tomas.talamante@dc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "DC",
+      "city": "Washington"
+    }
+  ]
+})

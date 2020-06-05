@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "79174",
+  "state": "TX",
+  "city": "Amarillo",
+  "latitude": 35.401475,
+  "longitude": -101.895089,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "87",
+  "people": [
+    {
+      "name": "Four Price",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-2185.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2848;Amarillo, Texas 79105",
+        "Room E1.506;Austin, Texas 78701"
+      ],
+      "phone": [
+        "806-374-8787",
+        "512-463-0470"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "87"
+    },
+    {
+      "name": "Kel Seliger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Head-Shot-2018-Cropped.jpg",
+      "twitter": null,
+      "addresses": [
+        "401 Austin, Suite 101 Big Spring, TX 79720",
+        "Room 1E.12 Austin, TX 78701"
+      ],
+      "phone": [
+        "432-268-9909",
+        "512-463-0131"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "31"
+    },
+    {
+      "name": "Mac Thornberry",
+      "email": null,
+      "twitter": "MacTXPress",
+      "addresses": [
+        "2208 Rayburn House Office Building; Washington DC 20515-4313"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-T000238.jpg",
+      "phone": "202-225-3706",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": "13"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Nelson_Ginger%2153519.jpg",
+      "name": "Ginger Nelson",
+      "phone": "806-378-3010",
+      "email": "mayor@amarillo.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "TX",
+      "city": "Amarillo"
+    }
+  ]
+})

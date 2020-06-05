@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "48674",
+  "state": "MI",
+  "city": "Midland",
+  "latitude": 43.612884,
+  "longitude": -84.197125,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "98",
+  "people": [
+    {
+      "name": "Annette Glenn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-Annette-Glenn.jpg",
+      "twitter": null,
+      "addresses": [
+        "S1287 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
+      ],
+      "phone": [
+        "517-373-1791"
+      ],
+      "email": [
+        "AnnetteGlenn@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "98"
+    },
+    {
+      "name": "Jim Stamas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-Stamas.png",
+      "twitter": null,
+      "addresses": [
+        "S-324 State Capitol Building;Lansing, MI 48909"
+      ],
+      "phone": [
+        "517-373-7946"
+      ],
+      "email": [
+        "SenJStamas@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "36"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Donker_Maureen%21744.jpg",
+      "name": "Maureen Donker",
+      "phone": "989-839-0531",
+      "email": "mdonker@midland-mi.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MI",
+      "city": "Midland"
+    }
+  ]
+})

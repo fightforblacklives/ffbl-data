@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "89436",
+  "state": "NV",
+  "city": "Sparks",
+  "latitude": 39.624698,
+  "longitude": -119.70585,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "31",
+  "people": [
+    {
+      "name": "Skip Daly",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Daly.jpg",
+      "twitter": null,
+      "addresses": [
+        "2180 4th Street;Sparks, NV 89431-2201"
+      ],
+      "phone": [
+        "775-359-0731"
+      ],
+      "email": [
+        "Skip.Daly@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "31"
+    },
+    {
+      "name": "Ira Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Hansen.Ira.157.jpg",
+      "twitter": null,
+      "addresses": [
+        "68 Amigo Court;Sparks, NV 89441-6213"
+      ],
+      "phone": [
+        "775-221-2502"
+      ],
+      "email": [
+        "Ira.Hansen@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "14"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Smith_Ron%2154489.jpg",
+      "name": "Ron Smith",
+      "phone": "775-353-2311",
+      "email": "rsmith@cityofsparks.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "Sparks"
+    }
+  ]
+})

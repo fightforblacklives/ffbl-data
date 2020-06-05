@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "22910",
+  "state": "VA",
+  "city": "Charlottesville",
+  "latitude": 38.040101,
+  "longitude": -78.485066,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "57",
+  "people": [
+    {
+      "name": "Sally L. Hudson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-H0318",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2375;Charlottesville, Virginia 22902"
+      ],
+      "phone": [
+        "804-698-1057"
+      ],
+      "email": [
+        "DelSHudson@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "57"
+    },
+    {
+      "name": "R. Creigh Deeds",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 5462;Charlottesville, Virginia 22905-5462"
+      ],
+      "phone": [
+        "434-296-5491"
+      ],
+      "email": [
+        "district25@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "25"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Walker_Nikuyah%2153968.jpg",
+      "name": "Nikuyah Walker",
+      "phone": "434-970-3113",
+      "email": "nwalker@charlottesville.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Charlottesville"
+    }
+  ]
+})

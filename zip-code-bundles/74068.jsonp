@@ -1,0 +1,91 @@
+callback({
+  "zipCode": "74068",
+  "state": "OK",
+  "city": "Shamrock",
+  "latitude": 35.910408,
+  "longitude": -96.57768,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "Kyle Hilbert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Hilbert%2C%2520Kyle.jpg",
+      "twitter": null,
+      "addresses": [
+        "2300 N. Lincoln Blvd.;Room 244B;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-557-7353"
+      ],
+      "email": [
+        "Kyle.Hilbert@okhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OK",
+      "district": "29"
+    },
+    {
+      "name": "James Leewright",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-leewright_bio.jpg",
+      "twitter": null,
+      "addresses": [
+        "101 E. Dewey;Sapulpa, OK 74066",
+        "2300 N. Lincoln Blvd., Rm. 425;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-521-5528"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OK",
+      "district": "12"
+    },
+    {
+      "name": "James Inhofe",
+      "email": null,
+      "twitter": "InhofePress",
+      "addresses": [
+        "205 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-I000024.jpg",
+      "phone": "202-224-4721",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "James Lankford",
+      "email": null,
+      "twitter": "SenatorLankford",
+      "addresses": [
+        "316 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-L000575.jpg",
+      "phone": "202-224-5754",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Stitt",
+      "addresses": [
+        "State Capitol Building State Capitol Building Oklahoma City OK 73105"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-ok_stitt.png",
+      "twitter": null,
+      "email": null,
+      "phone": "405- 521-2342",
+      "type": "Governor",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

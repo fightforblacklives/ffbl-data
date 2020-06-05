@@ -1,0 +1,153 @@
+callback({
+  "zipCode": "25880",
+  "state": "WV",
+  "city": "Mount Hope",
+  "latitude": 37.88169,
+  "longitude": -81.19273,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Kayla Kessinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-kessinger_kayla.jpg",
+      "twitter": null,
+      "addresses": [
+        "1736 Kess Springs Court;Mount Hope, WV, 25880",
+        "Room 212E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-719-7636",
+        "304-340-3197"
+      ],
+      "email": [
+        "kayla.kessinger@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "32"
+    },
+    {
+      "name": "Margaret Staggers",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-staggers_margaret.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 230E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3337"
+      ],
+      "email": [
+        "margaret.staggers@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "32"
+    },
+    {
+      "name": "Tom Fast",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-fast_tom.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 332;Fayetteville, WV, 25840",
+        "Room 220E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3170"
+      ],
+      "email": [
+        "tom.fast@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "32"
+    },
+    {
+      "name": "Rollan Roberts",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-roberts_rollan.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1955;Beaver, WV, 25813",
+        "Room 223W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "681-238-1779",
+        "304-357-7831"
+      ],
+      "email": [
+        "rollan.roberts@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "9"
+    },
+    {
+      "name": "Sue Cline",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-cline_sue.jpg",
+      "twitter": null,
+      "addresses": [
+        "Box 46;Brenton, WV, 24818",
+        "Room 216W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-222-7484",
+        "304-357-7807"
+      ],
+      "email": [
+        "sue.cline@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "9"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

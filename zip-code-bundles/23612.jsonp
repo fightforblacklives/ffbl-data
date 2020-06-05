@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "23612",
+  "state": "VA",
+  "city": "Newport News",
+  "latitude": 37.195924,
+  "longitude": -76.524805,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "93",
+  "people": [
+    {
+      "name": "Michael P. Mullin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-H0286",
+      "twitter": null,
+      "addresses": [
+        "566 Denbigh Boulevard;Suite C;Newport News, Virginia 23608"
+      ],
+      "phone": [
+        "757-525-9526"
+      ],
+      "email": [
+        "DelMMullin@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "93"
+    },
+    {
+      "name": "Mamie E. Locke",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Locke2012sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 9048;Hampton, Virginia 23670"
+      ],
+      "phone": [
+        "757-825-5880"
+      ],
+      "email": [
+        "district02@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "2"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Price_McKinley%21814.jpg",
+      "name": "McKinley L. Price DDS",
+      "phone": "757-926-8403",
+      "email": "mayorsoffice@nnva.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Newport News"
+    }
+  ]
+})

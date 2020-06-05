@@ -1,0 +1,121 @@
+callback({
+  "zipCode": "93647",
+  "state": "CA",
+  "city": "Orosi",
+  "latitude": 36.565252,
+  "longitude": -119.24273,
+  "congressionalDistrict": [
+    "23",
+    "22"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "Devon J. Mathis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-mathis.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 West Willow Plaza, Suite 405;Visalia, CA 93291",
+        "P.O. Box 942849;Sacramento, CA 94249-0026"
+      ],
+      "phone": [
+        "559-636-3440",
+        "916-319-2026"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "26"
+    },
+    {
+      "name": "Melissa Hurtado",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-senator_hurtado_0.jpg",
+      "twitter": null,
+      "addresses": [
+        "2550 Mariposa Mall, Suite 2016, Fresno, CA 93721",
+        "State Capitol, Room 2054, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "559-264-3070",
+        "916-651-4014"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "14"
+    },
+    {
+      "name": "Devin Nunes",
+      "email": null,
+      "twitter": "RepDevinNunes",
+      "addresses": [
+        "1013 Longworth House Office Building; Washington DC 20515-0522"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-N000181.jpg",
+      "phone": "202-225-2523",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Republican",
+      "district": "22"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "email": null,
+      "twitter": "GOPLeader",
+      "addresses": [
+        "2468 Rayburn House Office Building; Washington DC 20515-0523"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-M001165.jpg",
+      "phone": "202-225-2915",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

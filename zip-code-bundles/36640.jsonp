@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "36640",
+  "state": "AL",
+  "city": "Mobile",
+  "latitude": 30.658865,
+  "longitude": -88.177975,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "101",
+  "people": [
+    {
+      "name": "Chris Pringle",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-Pringle_101.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 402;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0489"
+      ],
+      "email": [
+        "chris.pringle@alhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "101"
+    },
+    {
+      "name": "David Sessions",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Sessions_35.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 733;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0882"
+      ],
+      "email": [
+        "d.r.sessions@att.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "35"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Stimpson_Sandy%21759.jpg",
+      "name": "William 'Sandy' S. Stimpson",
+      "phone": "251-208-7395",
+      "email": "mayorstimpson@cityofmobile.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Mobile"
+    }
+  ]
+})

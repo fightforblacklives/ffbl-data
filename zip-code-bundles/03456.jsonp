@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "03456",
+  "state": "NH",
+  "city": "Marlow",
+  "latitude": 43.125523,
+  "longitude": -72.21382,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "Cheshire 2",
+  "people": [
+    {
+      "name": "John E. Mann",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-377138.jpg",
+      "twitter": null,
+      "addresses": [
+        "35 Prentice Hill Road;Alstead, NH 03602-3604"
+      ],
+      "phone": [
+        "603-835-9095"
+      ],
+      "email": [
+        "john.mann@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Cheshire 2"
+    },
+    {
+      "name": "Ruth Ward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-08.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 103-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3092"
+      ],
+      "email": [
+        "Ruth.Ward@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "8"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

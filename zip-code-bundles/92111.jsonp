@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "92111",
+  "state": "CA",
+  "city": "San Diego",
+  "latitude": 32.804972,
+  "longitude": -117.16871,
+  "congressionalDistrict": [
+    "52",
+    "53"
+  ],
+  "stateUpperDistrict": "39",
+  "stateLowerDistrict": "77",
+  "people": [
+    {
+      "name": "Brian Maienschein",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-ad77-brian_maienschein_120x150.jpg",
+      "twitter": null,
+      "addresses": [
+        "12396 World Trade Drive, Suite 118;San Diego, CA 92128",
+        "P.O. Box 942849;Sacramento, CA 94249-0077"
+      ],
+      "phone": [
+        "858-675-0077",
+        "916-319-2077"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "77"
+    },
+    {
+      "name": "Toni G. Atkins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-atkins_toni.jpg",
+      "twitter": null,
+      "addresses": [
+        "1350 Front Street, Suite 4061, San Diego, CA 92101",
+        "State Capitol, Room 205, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "619-645-3133",
+        "916-651-4039"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "39"
+    },
+    {
+      "name": "Scott Peters",
+      "email": null,
+      "twitter": "RepScottPeters",
+      "addresses": [
+        "2338 Rayburn House Office Building; Washington DC 20515-0552"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-P000608.jpg",
+      "phone": "202-225-0508",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "52"
+    },
+    {
+      "name": "Susan Davis",
+      "email": null,
+      "twitter": "RepSusanDavis",
+      "addresses": [
+        "1214 Longworth House Office Building; Washington DC 20515-0553"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-D000598.jpg",
+      "phone": "202-225-2040",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "53"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-Faulconer_Kevin%211038.jpg",
+      "name": "Kevin L. Faulconer",
+      "phone": "619-236-6330",
+      "email": "kevinfaulconer@sandiego.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "San Diego"
+    }
+  ]
+})

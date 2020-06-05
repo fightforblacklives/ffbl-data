@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "80323",
+  "state": "CO",
+  "city": "Boulder",
+  "latitude": 40.087835,
+  "longitude": -105.373507,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "13",
+  "people": [
+    {
+      "name": "KC Becker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-2020a_becker%252C%2520kc%2520-%2520speaker.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2578"
+      ],
+      "email": [
+        "kcbecker.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "13"
+    },
+    {
+      "name": "Stephen Fenberg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-2020a_fenberg%252C%2520steve.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4872"
+      ],
+      "email": [
+        "stephen.fenberg.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "18"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-Weaver_Sam%2154813.jpg",
+      "name": "Sam Weaver",
+      "phone": "303-416-6130",
+      "email": "weavers@bouldercolorado.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Boulder"
+    }
+  ]
+})

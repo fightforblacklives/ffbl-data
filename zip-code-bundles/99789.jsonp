@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "99789",
+  "state": "AK",
+  "city": "Nuiqsut",
+  "latitude": 70.215197,
+  "longitude": -151.02746,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "T",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "John Lincoln",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-lic.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 432; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-3473"
+      ],
+      "email": [
+        "Representative.John.Lincoln@akleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AK",
+      "district": "40"
+    },
+    {
+      "name": "Donald Olson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-ols.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 514; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-3707"
+      ],
+      "email": [
+        "Senator.Donald.Olson@akleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AK",
+      "district": "T"
+    },
+    {
+      "name": "Dan Sullivan",
+      "email": null,
+      "twitter": "SenDanSullivan",
+      "addresses": [
+        "302 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-S001198.jpg",
+      "phone": "202-224-3004",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "email": null,
+      "twitter": "LisaMurkowski",
+      "addresses": [
+        "522 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-M001153.jpg",
+      "phone": "202-224-6665",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Dunleavy",
+      "addresses": [
+        "State Capitol State Capitol Juneau AK 99811-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-ak_dunleavy.png",
+      "twitter": "govdunleavy",
+      "email": null,
+      "phone": "907-465-3500",
+      "type": "Governor",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

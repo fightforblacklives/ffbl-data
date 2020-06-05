@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "05649",
+  "state": "VT",
+  "city": "East Barre",
+  "latitude": 44.152477,
+  "longitude": -72.43328,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "Caledonia",
+  "stateLowerDistrict": "Orange-1",
+  "people": [
+    {
+      "name": "Carl Demrow",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Demrow.Carl.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 531;Corinth, VT 05039",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-439-6731"
+      ],
+      "email": [
+        "cdemrow@leg.state.vt.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Orange-1"
+    },
+    {
+      "name": "Rodney Graham",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Graham.Rodney.jpg",
+      "twitter": null,
+      "addresses": [
+        "859 Graham Rd.;Williamstown, VT 05679",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-433-6127"
+      ],
+      "email": [
+        "rodneygrh@aol.com",
+        "rgraham@leg.state.vt.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Orange-1"
+    },
+    {
+      "name": "Jane Kitchel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Kitchel.Jane.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 82;81 Walden Hill Rd.;Danville, VT 05828",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-684-3482"
+      ],
+      "email": [
+        "janek45@hotmail.com",
+        "jkitchel@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Caledonia"
+    },
+    {
+      "name": "Joe Benning",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-JBenning.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 142;Lyndonville, VT 05851",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [],
+      "email": [
+        "beaner77@myfairpoint.net",
+        "jbenning@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Caledonia"
+    },
+    {
+      "name": "Bernard Sanders",
+      "email": null,
+      "twitter": "SenSanders",
+      "addresses": [
+        "332 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "phone": "202-224-5141",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Patrick Leahy",
+      "email": null,
+      "twitter": "SenatorLeahy",
+      "addresses": [
+        "437 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "phone": "202-224-4242",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Scott",
+      "addresses": [
+        "109 State Street 109 State Street Montpelier VT 05609"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "twitter": "govphilscott",
+      "email": null,
+      "phone": "802-828-3333",
+      "type": "Governor",
+      "state": "VT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

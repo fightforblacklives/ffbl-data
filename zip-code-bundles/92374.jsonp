@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "92374",
+  "state": "CA",
+  "city": "Redlands",
+  "latitude": 34.063264,
+  "longitude": -117.16888,
+  "congressionalDistrict": [
+    "08",
+    "31"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "James C. Ramos",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-a40_jc_ramos.jpg",
+      "twitter": null,
+      "addresses": [
+        "10350 Commerce Center Drive, Suite A-200;Rancho Cucamonga, CA 91730",
+        "P.O. Box 942849;Sacramento, CA 94249-0040"
+      ],
+      "phone": [
+        "909-476-5023",
+        "916-319-2040"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "40"
+    },
+    {
+      "name": "Mike Morrell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-morrell_hs_7678_1_lls_2.jpg",
+      "twitter": null,
+      "addresses": [
+        "10350 Commerce Center Drive, Suite A-220, Rancho Cucamonga, CA 91730",
+        "State Capitol, Room 3056, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "909-919-7731",
+        "916-651-4023"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "23"
+    },
+    {
+      "name": "Pete Aguilar",
+      "email": null,
+      "twitter": "reppeteaguilar",
+      "addresses": [
+        "109 Cannon House Office Building; Washington DC 20515-0531"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-A000371.jpg",
+      "phone": "202-225-3201",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "31"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-Foster_Paul%21972.JPG",
+      "name": "Paul W. Foster",
+      "phone": "909-798-7533",
+      "email": "pfoster@cityofredlands.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Redlands"
+    }
+  ]
+})

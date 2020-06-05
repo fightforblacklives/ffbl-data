@@ -1,0 +1,96 @@
+callback({
+  "zipCode": "28778",
+  "state": "NC",
+  "city": "Swannanoa",
+  "latitude": 35.60243,
+  "longitude": -82.40531,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "49",
+  "stateLowerDistrict": "114",
+  "people": [
+    {
+      "name": "Susan C. Fisher",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-463.jpg",
+      "twitter": null,
+      "addresses": [
+        "7 Maple Ridge Ln;Asheville, NC 28806",
+        "300 N. Salisbury Street, Rm. 504;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "828-258-5355",
+        "919-715-2013"
+      ],
+      "email": [
+        "Susan.Fisher@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "114"
+    },
+    {
+      "name": "Terry Van Duyn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-385.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1025;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 1025;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-715-3001",
+        "919-715-3001"
+      ],
+      "email": [
+        "Terry.VanDuyn@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "49"
+    },
+    {
+      "name": "Patrick McHenry",
+      "email": null,
+      "twitter": "PatrickMcHenry",
+      "addresses": [
+        "2004 Rayburn House Office Building; Washington DC 20515-3310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-M001156.jpg",
+      "phone": "202-225-2576",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

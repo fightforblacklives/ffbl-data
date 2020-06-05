@@ -1,0 +1,135 @@
+callback({
+  "zipCode": "61103",
+  "state": "IL",
+  "city": "Rockford",
+  "latitude": 42.303365,
+  "longitude": -89.08246,
+  "congressionalDistrict": [
+    "17",
+    "16"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "67",
+  "people": [
+    {
+      "name": "Maurice A. West, II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-%7BAFB160BE-629B-4C70-8541-877D6FCDE529%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "E.J. \"Zeke\" Giorgi Center;200 S. Wyman, Suite 304;Rockford, IL 61101",
+        "237-E Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "815-987-7433",
+        "217-782-3167"
+      ],
+      "email": [
+        "Assistance@StateRepWest.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "67"
+    },
+    {
+      "name": "Steve Stadelman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-%7B47906765-AB0A-48BF-8C14-B5443B8F27C4%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "State of Illinois Building;200 S. Wyman, Suite 301;Rockford, IL 61101",
+        "121B Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "815-987-7557",
+        "217-782-8022"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "34"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "email": null,
+      "twitter": "RepKinzinger",
+      "addresses": [
+        "2245 Rayburn House Office Building; Washington DC 20515-1316"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-K000378.jpg",
+      "phone": "202-225-3635",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Cheri Bustos",
+      "email": null,
+      "twitter": "RepCheri",
+      "addresses": [
+        "1233 Longworth House Office Building; Washington DC 20515-1317"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-B001286.jpg",
+      "phone": "202-225-5905",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": "17"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-McNamara_Thomas%2153490.jpg",
+      "name": "Thomas P. McNamara",
+      "phone": "779-348-7300",
+      "email": "thomas.mcnamara@rockfordil.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Rockford"
+    }
+  ]
+})

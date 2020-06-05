@@ -1,0 +1,109 @@
+callback({
+  "zipCode": "15664",
+  "state": "PA",
+  "city": "Mammoth",
+  "latitude": 40.310772,
+  "longitude": -79.617187,
+  "congressionalDistrict": [
+    "14"
+  ],
+  "stateUpperDistrict": "39",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Eric Davanzo",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "1 Etze Avenue Suite 212 Mt. Pleasant Borough Building Mt. Pleasant, PA 15666",
+        "B-12 Main Capitol Building PO Box 202058 Harrisburg, PA 17120-2058"
+      ],
+      "phone": [
+        "724-542-0349",
+        "717-783-3825"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "58"
+    },
+    {
+      "name": "Kim L. Ward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-1188.jpg",
+      "twitter": null,
+      "addresses": [
+        "1075 South Main Street Suite 116 Westmoreland Crossroads Plaza;Greensburg, PA 15601",
+        "Senate Box 203039;Harrisburg, PA 17120-3039;Room:;173 Main Capitol"
+      ],
+      "phone": [
+        "724-600-7002",
+        "717-787-6063"
+      ],
+      "email": [
+        "kward@pasen.gov",
+        "kward@pasen.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "39"
+    },
+    {
+      "name": "Guy Reschenthaler",
+      "email": null,
+      "twitter": "GReschenthaler",
+      "addresses": [
+        "531 Cannon House Office Building; Washington DC 20515-3814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-R000610.jpg",
+      "phone": "202-225-2065",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

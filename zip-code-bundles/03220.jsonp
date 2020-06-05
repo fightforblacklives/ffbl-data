@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "03220",
+  "state": "NH",
+  "city": "Belmont",
+  "latitude": 43.459555,
+  "longitude": -71.47352,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "Belknap 6",
+  "people": [
+    {
+      "name": "John R. Plumer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-408272.jpg",
+      "twitter": null,
+      "addresses": [
+        "34 Bean Hill Road;Belmont, NH 03220-3910"
+      ],
+      "phone": [
+        "603-527-3444"
+      ],
+      "email": [
+        "John.Plumer@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 6"
+    },
+    {
+      "name": "Michael J. Sylvia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-377177.jpg",
+      "twitter": null,
+      "addresses": [
+        "216 Farrarville Road;Belmont, NH 03220-3633"
+      ],
+      "phone": [
+        "603-707-8594"
+      ],
+      "email": [
+        "mike.sylvia@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 6"
+    },
+    {
+      "name": "Harold F. French",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-07.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-4063"
+      ],
+      "email": [
+        "Harold.French@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "7"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,162 @@
+callback({
+  "zipCode": "03032",
+  "state": "NH",
+  "city": "Auburn",
+  "latitude": 43.000345,
+  "longitude": -71.35141,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "Rockingham 4",
+  "people": [
+    {
+      "name": "Becky A. Owens",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "55 Chester Street;Chester, NH 03036-4308"
+      ],
+      "phone": [],
+      "email": [
+        "beckybco@yahoo.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 4"
+    },
+    {
+      "name": "Chris True",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-377268.jpg",
+      "twitter": null,
+      "addresses": [
+        "41 Hunt Pond Road;Sandown, NH 03873-2141"
+      ],
+      "phone": [
+        "603-887-2793"
+      ],
+      "email": [
+        "chris.true@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 4"
+    },
+    {
+      "name": "Jason M. Osborne",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-377253.jpg",
+      "twitter": null,
+      "addresses": [
+        "65 Miner Road;Auburn, NH 03032-3974"
+      ],
+      "phone": [
+        "603-391-2138"
+      ],
+      "email": [
+        "Jason@Osborne4NH.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 4"
+    },
+    {
+      "name": "Jess C. Edwards",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-408392.jpg",
+      "twitter": null,
+      "addresses": [
+        "33 Rattlesnake Hill Road;Auburn, NH 03032-3802"
+      ],
+      "phone": [
+        "603-370-7885"
+      ],
+      "email": [
+        "jess.edwards@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 4"
+    },
+    {
+      "name": "Tony Piemonte",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "4 Rangeway Avenue;Sandown, NH 03873-2142"
+      ],
+      "phone": [
+        "603-391-4676"
+      ],
+      "email": [
+        "Tony.Piemonte@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 4"
+    },
+    {
+      "name": "Sharon M Carson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-14.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 124\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3091"
+      ],
+      "email": [
+        "Sharon.Carson@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "14"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

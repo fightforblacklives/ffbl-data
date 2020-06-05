@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "11103",
+  "state": "NY",
+  "city": "Astoria",
+  "latitude": 40.762968,
+  "longitude": -73.91091,
+  "congressionalDistrict": [
+    "14",
+    "12"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Aravella Simotas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-036.jpg",
+      "twitter": null,
+      "addresses": [
+        "31-19 Newtown Ave.;Suite 401;Astoria, NY 11102",
+        "LOB 652;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-545-3889",
+        "518-455-5014"
+      ],
+      "email": [
+        "simotasa@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "36"
+    },
+    {
+      "name": "Michael Gianaris",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-hs_0.jpg%3Fitok%3DUftmYEIO",
+      "twitter": null,
+      "addresses": [
+        "31-19 Newtown AvenueSuite 402;Astoria,, NY 11102"
+      ],
+      "phone": [
+        "718-728-0960"
+      ],
+      "email": [
+        "gianaris@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "12"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "email": null,
+      "twitter": "RepAOC",
+      "addresses": [
+        "229 Cannon House Office Building; Washington DC 20515-3214"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-O000172.jpg",
+      "phone": "202-225-3965",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "14"
+    },
+    {
+      "name": "Carolyn Maloney",
+      "email": null,
+      "twitter": "RepMaloney",
+      "addresses": [
+        "2308 Rayburn House Office Building; Washington DC 20515-3212"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-M000087.jpg",
+      "phone": "202-225-7944",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "12"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

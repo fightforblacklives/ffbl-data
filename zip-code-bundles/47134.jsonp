@@ -1,0 +1,100 @@
+callback({
+  "zipCode": "47134",
+  "state": "IN",
+  "city": "Jeffersonville",
+  "latitude": 38.286819,
+  "longitude": -85.732062,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "71",
+  "people": [
+    {
+      "name": "Rita Fleming",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-legislator_rita_fleming_1",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9842"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IN",
+      "district": "71"
+    },
+    {
+      "name": "Ronald Grooms",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-legislator_ronald_grooms_1024",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9467"
+      ],
+      "email": [
+        "Senator.Grooms@iga.in.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "46"
+    },
+    {
+      "name": "Mike Braun",
+      "email": null,
+      "twitter": "SenatorBraun",
+      "addresses": [
+        "374 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "phone": "202-224-4814",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Todd Young",
+      "email": null,
+      "twitter": "SenToddYoung",
+      "addresses": [
+        "185 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "phone": "202-224-5623",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Eric Holcomb",
+      "addresses": [
+        "State House, Room 206 Indianapolis IN 46204-2797"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "twitter": "GovHolcomb",
+      "email": null,
+      "phone": "317-232-4567",
+      "type": "Governor",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Moore_Mike%212092.jpg",
+      "name": "Mike Moore",
+      "phone": "812-285-6400",
+      "email": "mmoore@cityofjeff.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IN",
+      "city": "Jeffersonville"
+    }
+  ]
+})

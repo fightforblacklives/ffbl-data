@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "45222",
+  "state": "OH",
+  "city": "Cincinnati",
+  "latitude": 39.166759,
+  "longitude": -84.53822,
+  "congressionalDistrict": [
+    "01",
+    "02"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Catherine D. Ingram",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-32.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;10th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-1645"
+      ],
+      "email": [
+        "rep32@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "32"
+    },
+    {
+      "name": "Cecil Thomas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-2801.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;2nd Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-5980"
+      ],
+      "email": [
+        "sd09@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "9"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-Cranley_John%21220.jpg",
+      "name": "John Cranley",
+      "phone": "513-352-3250",
+      "email": "mayor.cranley@cincinnati-oh.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Cincinnati"
+    }
+  ]
+})

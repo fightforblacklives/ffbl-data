@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "24506",
+  "state": "VA",
+  "city": "Lynchburg",
+  "latitude": 37.381692,
+  "longitude": -79.161046,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "22",
+  "people": [
+    {
+      "name": "Kathy J. Byron",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-H0115",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 900;Forest, Virginia 24551"
+      ],
+      "phone": [
+        "434-582-1592"
+      ],
+      "email": [
+        "DelKByron@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "22"
+    },
+    {
+      "name": "Stephen D. Newman",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Newman2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 480;Forest, Virginia 24551"
+      ],
+      "phone": [
+        "434-385-1065"
+      ],
+      "email": [
+        "district23@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "23"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-Tweedy_Treney%2154372.jpg",
+      "name": "Treney Tweedy",
+      "phone": "434-856-2489",
+      "email": "treney.tweedy@lynchburgva.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Lynchburg"
+    }
+  ]
+})

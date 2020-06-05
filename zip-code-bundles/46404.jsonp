@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "46404",
+  "state": "IN",
+  "city": "Gary",
+  "latitude": 41.588636,
+  "longitude": -87.37271,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "2",
+  "people": [
+    {
+      "name": "Earl Harris",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-legislator_earl_harris_1",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9842"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IN",
+      "district": "2"
+    },
+    {
+      "name": "Eddie Melton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-legislator_eddie_melton_1",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9467"
+      ],
+      "email": [
+        "s3@iga.in.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IN",
+      "district": "3"
+    },
+    {
+      "name": "Mike Braun",
+      "email": null,
+      "twitter": "SenatorBraun",
+      "addresses": [
+        "374 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "phone": "202-224-4814",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Todd Young",
+      "email": null,
+      "twitter": "SenToddYoung",
+      "addresses": [
+        "185 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "phone": "202-224-5623",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Eric Holcomb",
+      "addresses": [
+        "State House, Room 206 Indianapolis IN 46204-2797"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "twitter": "GovHolcomb",
+      "email": null,
+      "phone": "317-232-4567",
+      "type": "Governor",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-Prince_Jerome%2154788.jpg",
+      "name": "Jerome A. Prince",
+      "phone": "219-881-1302",
+      "email": "jprince@ci.gary.in.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IN",
+      "city": "Gary"
+    }
+  ]
+})

@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "27323",
+  "state": "NC",
+  "city": "Reidsville",
+  "latitude": 36.392135,
+  "longitude": -79.773094,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "Jerry Carter",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "303 Grady Rd;Reidsville, NC 27320",
+        "300 N. Salisbury Street, Rm. 418B;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5779",
+        "919-733-5779"
+      ],
+      "email": [
+        "Jerry.Carter@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "65"
+    },
+    {
+      "name": "Phil Berger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-64.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2007;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 2007;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5708",
+        "919-733-5708"
+      ],
+      "email": [
+        "Phil.Berger@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "30"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

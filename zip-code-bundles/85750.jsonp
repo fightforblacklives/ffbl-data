@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "85750",
+  "state": "AZ",
+  "city": "Tucson",
+  "latitude": 32.292078,
+  "longitude": -110.84384,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "9",
+  "people": [
+    {
+      "name": "Pamela Powers Hannley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-POWERS_HANNLEY.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 335;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4848"
+      ],
+      "email": [
+        "ppowershannley@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "9"
+    },
+    {
+      "name": "Randall Friese",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-FRIESE.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 330;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3138"
+      ],
+      "email": [
+        "rfriese@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "9"
+    },
+    {
+      "name": "Victoria Steele",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-STEELE.gif",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 315;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5683"
+      ],
+      "email": [
+        "vsteele@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "9"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Romero_Romero%2154772.jpg",
+      "name": "Regina Romero",
+      "phone": "520-791-4201",
+      "email": "mayor.romero@tucsonaz.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Tucson"
+    }
+  ]
+})

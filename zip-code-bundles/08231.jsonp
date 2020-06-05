@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08231",
+  "state": "NJ",
+  "city": "Oceanville",
+  "latitude": 39.509208,
+  "longitude": -74.608557,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "9",
+  "people": [
+    {
+      "name": "Brian E. Rumpf",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-rumpf_brian_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "620 West Lacey Rd.;Forked River, NJ 08731"
+      ],
+      "phone": [
+        "609-693-6700"
+      ],
+      "email": [
+        "AsmRumpf@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "9"
+    },
+    {
+      "name": "DiAnne C. Gove",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-gove_dianne_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "620 West Lacey Rd.;Forked River, NJ 08731"
+      ],
+      "phone": [
+        "609-693-6700"
+      ],
+      "email": [
+        "AswGove@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "9"
+    },
+    {
+      "name": "Christopher J. Connors",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-connors_chris_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "620 West Lacey Rd.;Forked River, NJ 08731"
+      ],
+      "phone": [
+        "609-693-6700"
+      ],
+      "email": [
+        "SenConnors@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "9"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

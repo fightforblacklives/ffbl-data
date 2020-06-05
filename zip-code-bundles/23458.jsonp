@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "23458",
+  "state": "VA",
+  "city": "Virginia Beach",
+  "latitude": 36.847388,
+  "longitude": -76.15581,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "90",
+  "people": [
+    {
+      "name": "Joseph C. Lindsey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-H0268",
+      "twitter": null,
+      "addresses": [
+        "500 East Plume Street;Suite 105;Norfolk, Virginia 23510"
+      ],
+      "phone": [
+        "757-623-6522"
+      ],
+      "email": [
+        "DelJLindsey@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "90"
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Kiggans7.jpg",
+      "twitter": null,
+      "addresses": [
+        ";,"
+      ],
+      "phone": [
+        "804-698-7400"
+      ],
+      "email": [
+        "district07@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "7"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Dyer_Robert%2154654.jpg",
+      "name": "Robert 'Bobby' M. Dyer",
+      "phone": "757-385-4581",
+      "email": "bdyer@vbgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Virginia Beach"
+    }
+  ]
+})

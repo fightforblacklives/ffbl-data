@@ -1,0 +1,113 @@
+callback({
+  "zipCode": "05481",
+  "state": "VT",
+  "city": "Saint Albans Bay",
+  "latitude": 44.824855,
+  "longitude": -72.895849,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "Franklin",
+  "stateLowerDistrict": "Franklin-6",
+  "people": [
+    {
+      "name": "James Gregoire",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Gregoire.James.jpg",
+      "twitter": null,
+      "addresses": [
+        "4668 Vt. Route 36;Fairfield, VT 05455",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-933-2667"
+      ],
+      "email": [
+        "jgregoire@leg.state.vt.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Franklin-6"
+    },
+    {
+      "name": "Corey Parent",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-Parent.Corey.jpg",
+      "twitter": null,
+      "addresses": [
+        "21 Bluff Lane;St. Albans, VT 05478",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-370-0494"
+      ],
+      "email": [
+        "CParent@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Franklin"
+    },
+    {
+      "name": "Randy Brock",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-RBrock.jpg",
+      "twitter": null,
+      "addresses": [
+        "2396 Highgate Rd.;St. Albans, VT 05478",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-868-2300"
+      ],
+      "email": [
+        "rbrock@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Franklin"
+    },
+    {
+      "name": "Bernard Sanders",
+      "email": null,
+      "twitter": "SenSanders",
+      "addresses": [
+        "332 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "phone": "202-224-5141",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Patrick Leahy",
+      "email": null,
+      "twitter": "SenatorLeahy",
+      "addresses": [
+        "437 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "phone": "202-224-4242",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Scott",
+      "addresses": [
+        "109 State Street 109 State Street Montpelier VT 05609"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "twitter": "govphilscott",
+      "email": null,
+      "phone": "802-828-3333",
+      "type": "Governor",
+      "state": "VT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

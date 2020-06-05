@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "98238",
+  "state": "WA",
+  "city": "Conway",
+  "latitude": 48.337796,
+  "longitude": -122.34517,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "Dave Paul",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-paul.jpg",
+      "twitter": null,
+      "addresses": [
+        "309 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7914"
+      ],
+      "email": [
+        "Dave.Paul@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "10"
+    },
+    {
+      "name": "Norma Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-smith.jpg",
+      "twitter": null,
+      "addresses": [
+        "435 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7884"
+      ],
+      "email": [
+        "Norma.Smith@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "10"
+    },
+    {
+      "name": "Ron Muzzall",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-muzzall.jpg",
+      "twitter": null,
+      "addresses": [
+        "109A Irv Newhouse Building;PO Box 40410;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7618"
+      ],
+      "email": [
+        "MUZZALL_RO@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "10"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

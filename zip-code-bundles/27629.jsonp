@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "27629",
+  "state": "NC",
+  "city": "Raleigh",
+  "latitude": 35.817497,
+  "longitude": -78.552388,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "39",
+  "people": [
+    {
+      "name": "Darren G. Jackson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-595.jpg",
+      "twitter": null,
+      "addresses": [
+        "1525 Crickett Rd;Raleigh, NC 27610",
+        "300 N. Salisbury Street, Rm. 506;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5974",
+        "919-733-5974"
+      ],
+      "email": [
+        "Darren.Jackson@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "39"
+    },
+    {
+      "name": "Dan Blue",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-268.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1129;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 1129;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5752",
+        "919-733-5752"
+      ],
+      "email": [
+        "Dan.Blue@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "14"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Baldwin_Mary-Ann%2154804.jpg",
+      "name": "Mary-Ann Baldwin",
+      "phone": "919-996-3050",
+      "email": "mary-ann.baldwin@raleighnc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Raleigh"
+    }
+  ]
+})

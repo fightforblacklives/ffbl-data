@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "33567",
+  "state": "FL",
+  "city": "Plant City",
+  "latitude": 27.982949,
+  "longitude": -82.14539,
+  "congressionalDistrict": [
+    "15"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Lawrence McClure",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-4686.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 204; 110 West Reynolds Street; Plant City, FL 33563-3379",
+        "1301 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "813-757-9110",
+        "850-717-5058"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "58"
+    },
+    {
+      "name": "Tom Lee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s20_5100.jpg",
+      "twitter": null,
+      "addresses": [
+        "915 Oakfield Drive; Suite D; Brandon, FL 33511",
+        "418 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "lee.tom.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "20"
+    },
+    {
+      "name": "Ross Spano",
+      "email": null,
+      "twitter": "RepRossSpano",
+      "addresses": [
+        "224 Cannon House Office Building; Washington DC 20515-0915"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001210.jpg",
+      "phone": "202-225-1252",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "15"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-Lott_Rick%213519.jpg",
+      "name": "Rick A. Lott",
+      "phone": "813-659-4200",
+      "email": "rlott@plantcitygov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Plant City"
+    }
+  ]
+})

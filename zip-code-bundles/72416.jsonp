@@ -1,0 +1,74 @@
+callback({
+  "zipCode": "72416",
+  "state": "AR",
+  "city": "Bono",
+  "latitude": 35.927057,
+  "longitude": -90.79589,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "59",
+  "people": [
+    {
+      "name": "Jack Ladyman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-488_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "2204 Doral Drive, Jonesboro, 72404"
+      ],
+      "phone": [
+        "870-340-7499"
+      ],
+      "email": [
+        "jackladyman@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "59"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

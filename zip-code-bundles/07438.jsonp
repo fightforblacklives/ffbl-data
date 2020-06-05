@@ -1,0 +1,125 @@
+callback({
+  "zipCode": "07438",
+  "state": "NJ",
+  "city": "Oak Ridge",
+  "latitude": 41.029555,
+  "longitude": -74.5071,
+  "congressionalDistrict": [
+    "11",
+    "05"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "26",
+  "people": [
+    {
+      "name": "BettyLou DeCroce",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-decroce_bettylou_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "90 East Halsey Road, Suite 380;Parsippany, NJ 07054"
+      ],
+      "phone": [
+        "862-701-5156"
+      ],
+      "email": [
+        "AswDeCroce@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "26"
+    },
+    {
+      "name": "Jay Webber",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-webber_jay_2019.jpg",
+      "twitter": null,
+      "addresses": [
+        "160 Littleton Road, Suite 204;Parsippany, NJ 07054"
+      ],
+      "phone": [
+        "973-917-3420"
+      ],
+      "email": [
+        "AsmWebber@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "26"
+    },
+    {
+      "name": "Joseph Pennacchio",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-pennacchio_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "170 Changebridge Rd., Unit A1;Montville, NJ 07045"
+      ],
+      "phone": [
+        "973-227-4012"
+      ],
+      "email": [
+        "SenPennacchio@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "26"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "email": null,
+      "twitter": "RepSherrill",
+      "addresses": [
+        "1208 Longworth House Office Building; Washington DC 20515-3011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "phone": "202-225-5034",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

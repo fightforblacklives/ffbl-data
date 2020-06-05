@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "60077",
+  "state": "IL",
+  "city": "Skokie",
+  "latitude": 42.033313,
+  "longitude": -87.75764,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Yehiel M. Kalish",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-%7B8557F695-678F-456C-B71C-CAA66E124B77%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "8707 Skokie Blvd.;Suite 102;Skokie, IL 60077",
+        "242-W Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "847-673-1131",
+        "217-782-1252"
+      ],
+      "email": [
+        "repymkalish@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "16"
+    },
+    {
+      "name": "Ram Villivalam",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-%7BDBF0BBF0-0E16-4C5F-894A-16C4A14CAF51%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "3851 W. Devon Ave.;Chicago, IL 60659",
+        "M120 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "872-208-5188",
+        "217-782-5500"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "8"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-Van_Dusen_George%211093.JPG",
+      "name": "George C. Van Dusen",
+      "phone": "847-933-8269",
+      "email": "info@skokie.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Skokie"
+    }
+  ]
+})

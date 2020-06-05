@@ -1,0 +1,147 @@
+callback({
+  "zipCode": "03826",
+  "state": "NH",
+  "city": "East Hampstead",
+  "latitude": 42.890357,
+  "longitude": -71.12296,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "Rockingham 13",
+  "people": [
+    {
+      "name": "David A. Welch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-330795.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 570;9 Fifth Street;Kingston, NH 03848-0570"
+      ],
+      "phone": [
+        "603-642-4402"
+      ],
+      "email": [
+        "welch4016@outlook.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 13"
+    },
+    {
+      "name": "Dennis E. Green",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-377777.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 776;Hampstead, NH 03841-0776"
+      ],
+      "phone": [
+        "603-234-7776"
+      ],
+      "email": [
+        "Dennis.Green@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 13"
+    },
+    {
+      "name": "Joseph A. Guthrie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-376127.jpg",
+      "twitter": null,
+      "addresses": [
+        "15 Madison Drive;Hampstead, NH 03841-2246"
+      ],
+      "phone": [
+        "603-489-1228"
+      ],
+      "email": [
+        "lojogut@gmail.com",
+        "joseph.guthrie@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 13"
+    },
+    {
+      "name": "Kenneth L. Weyler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-374470.jpg",
+      "twitter": null,
+      "addresses": [
+        "23 Scotland Road;Kingston, NH 03848-3232"
+      ],
+      "phone": [
+        "603-642-3518"
+      ],
+      "email": [
+        "kweyler@aol.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 13"
+    },
+    {
+      "name": "Regina Birdsell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-19.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 102-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3092"
+      ],
+      "email": [
+        "Regina.Birdsell@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "19"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

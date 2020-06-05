@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "34117",
+  "state": "FL",
+  "city": "Naples",
+  "latitude": 26.1785,
+  "longitude": -81.55495,
+  "congressionalDistrict": [
+    "25"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "105",
+  "people": [
+    {
+      "name": "Ana Maria Rodriguez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-4719.jpg",
+      "twitter": null,
+      "addresses": [
+        "City Hall - City of Doral; 8401 Northwest 53rd Terrace; Doral, FL 33166-4517",
+        "214 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "786-336-1127",
+        "850-717-5105"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "105"
+    },
+    {
+      "name": "Kathleen Passidomo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-s28_5196.jpg",
+      "twitter": null,
+      "addresses": [
+        "25 East Hickpoochee Avenue; Room J-126; LaBelle, FL 33935",
+        "330 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "passidomo.kathleen.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "28"
+    },
+    {
+      "name": "Mario Diaz-Balart",
+      "email": null,
+      "twitter": "MarioDB",
+      "addresses": [
+        "404 Cannon House Office Building; Washington DC 20515-0925"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-D000600.jpg",
+      "phone": "202-225-4211",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "25"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Avatar.jpg",
+      "name": "Bill Barnett",
+      "phone": "",
+      "email": "mayorbill@naplesgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Naples"
+    }
+  ]
+})

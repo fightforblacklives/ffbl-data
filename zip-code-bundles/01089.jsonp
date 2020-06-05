@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "01089",
+  "state": "MA",
+  "city": "West Springfield",
+  "latitude": 42.112793,
+  "longitude": -72.64066,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "Hampden",
+  "stateLowerDistrict": "Sixth Hampden",
+  "people": [
+    {
+      "name": "Michael J. Finn",
+      "image": "https://malegislature.gov/Legislators/Profile/170/MJF1.jpg",
+      "twitter": null,
+      "addresses": [
+        "71 Park Avenue;West Springfield, MA 01089",
+        "24 Beacon St.;Room 274;Boston, MA, 02133"
+      ],
+      "phone": [
+        "413-363-1965",
+        "617-722-2676"
+      ],
+      "email": [
+        "Michael.Finn@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Sixth Hampden"
+    },
+    {
+      "name": "James T. Welch",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JTW0.jpg",
+      "twitter": null,
+      "addresses": [
+        "32-34 Hampden Street;Springfield, MA 01103",
+        "24 Beacon St.;Room 413-B;Boston, MA, 02133"
+      ],
+      "phone": [
+        "413-737-7756",
+        "617-722-1660"
+      ],
+      "email": [
+        "James.Welch@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Hampden"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Reichelt_William%2153938.jpg",
+      "name": "William C. Reichelt",
+      "phone": "413-263-3041",
+      "email": "wreichelt@townofwestspringfield.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "West Springfield"
+    }
+  ]
+})

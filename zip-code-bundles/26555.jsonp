@@ -1,0 +1,154 @@
+callback({
+  "zipCode": "26555",
+  "state": "WV",
+  "city": "Fairmont",
+  "latitude": 39.514343,
+  "longitude": -80.218538,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "13",
+  "stateLowerDistrict": "50",
+  "people": [
+    {
+      "name": "Linda Longstreth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-longstreth_linda.jpg",
+      "twitter": null,
+      "addresses": [
+        "804 Ohio Avenue;Fairmont, WV, 26554",
+        "Room 6U-A, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-366-5251",
+        "304-340-3124"
+      ],
+      "email": [
+        "linda.longstreth@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "50"
+    },
+    {
+      "name": "Michael Angelucci",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-angelucci_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 231E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3331"
+      ],
+      "email": [
+        "michael.angelucci@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "50"
+    },
+    {
+      "name": "Mike Caputo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-caputo_mike.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 585;Rivesville, WV, 26588",
+        "Room 258M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-278-5419",
+        "304-340-3249"
+      ],
+      "email": [
+        "mike.caputo@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "50"
+    },
+    {
+      "name": "Robert D. Beach",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-beach_robert.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1620;Morgantown, WV, 26501",
+        "Room 204W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-932-7170",
+        "304-357-7919"
+      ],
+      "email": [
+        "bob.beach@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "13"
+    },
+    {
+      "name": "Roman Prezioso",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-prezioso_roman.jpg",
+      "twitter": null,
+      "addresses": [
+        "1806 Dogwood Drive;Fairmont, WV, 26554",
+        "Room 245M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-366-5308",
+        "304-357-7961"
+      ],
+      "email": [
+        "roman.prezioso@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "13"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

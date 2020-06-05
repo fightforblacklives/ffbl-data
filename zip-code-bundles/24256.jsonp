@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24256",
+  "state": "VA",
+  "city": "Haysi",
+  "latitude": 37.213189,
+  "longitude": -82.29759,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "4",
+  "people": [
+    {
+      "name": "William C. Wampler III",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-H0326",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1683;Abingdon, Virginia 24212"
+      ],
+      "phone": [
+        "804-698-1004"
+      ],
+      "email": [
+        "DelWWampler@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "4"
+    },
+    {
+      "name": "A. Benton \"Ben\" Chafin",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Chafin38.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1210;Lebanon, Virginia 24266"
+      ],
+      "phone": [
+        "276-889-1044"
+      ],
+      "email": [
+        "district38@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "38"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

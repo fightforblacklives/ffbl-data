@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "75146",
+  "state": "TX",
+  "city": "Lancaster",
+  "latitude": 32.590063,
+  "longitude": -96.75892,
+  "congressionalDistrict": [
+    "06",
+    "30"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "109",
+  "people": [
+    {
+      "name": "Carl Sherman Sr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-3675.jpg",
+      "twitter": null,
+      "addresses": [
+        "103 N. Dallas Avenue;Lancaster, Texas 75146",
+        "Room E1.416;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "972-227-1064",
+        "512-463-0953"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "109"
+    },
+    {
+      "name": "Royce West",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-West_86-0535D-073_web.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 12068 Capitol Station Austin, TX 78711",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "512-463-0123",
+        "512-463-0123"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "23"
+    },
+    {
+      "name": "Eddie Johnson",
+      "email": null,
+      "twitter": "RepEBJ",
+      "addresses": [
+        "2306 Rayburn House Office Building; Washington DC 20515-4330"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-J000126.jpg",
+      "phone": "202-225-8885",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Democrat",
+      "district": "30"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Hairston_Clyde%2154381.jpg",
+      "name": "Clyde Hairston",
+      "phone": "972-218-1300",
+      "email": "chairston@lancaster-tx.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "TX",
+      "city": "Lancaster"
+    }
+  ]
+})

@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "34736",
+  "state": "FL",
+  "city": "Groveland",
+  "latitude": 28.571677,
+  "longitude": -81.86649,
+  "congressionalDistrict": [
+    "15",
+    "11"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Anthony Sabatini",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-4725.jpg",
+      "twitter": null,
+      "addresses": [
+        "1172 South Grand Highway; Clermont, FL 34711-3203",
+        "1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "352-989-9100",
+        "850-717-5032"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "32"
+    },
+    {
+      "name": "Kelli Stargel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-s22_5105.jpg",
+      "twitter": null,
+      "addresses": [
+        "2033 East Edgewood Drive; Suite 1; Lakeland, FL 33803",
+        "408 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "stargel.kelli.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "22"
+    },
+    {
+      "name": "Daniel Webster",
+      "email": null,
+      "twitter": "RepWebster",
+      "addresses": [
+        "1210 Longworth House Office Building; Washington DC 20515-0911"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-W000806.jpg",
+      "phone": "202-225-1002",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Ross Spano",
+      "email": null,
+      "twitter": "RepRossSpano",
+      "addresses": [
+        "224 Cannon House Office Building; Washington DC 20515-0915"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001210.jpg",
+      "phone": "202-225-1252",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "15"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

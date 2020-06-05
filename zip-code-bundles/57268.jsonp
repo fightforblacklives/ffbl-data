@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57268",
+  "state": "SD",
+  "city": "Toronto",
+  "latitude": 44.573144,
+  "longitude": -96.68409,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "4",
+  "people": [
+    {
+      "name": "Fred Deutsch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "16452 449th Ave.;Florence, SD 57235"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Fred.Deutsch@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "4"
+    },
+    {
+      "name": "John Mills",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Mills_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "21730 464th Ave.;Volga, SD 57071"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "John.Mills@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "4"
+    },
+    {
+      "name": "John Wiik",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-Wiik_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 95;Big Stone City, SD 57216"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "John.Wiik@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "4"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

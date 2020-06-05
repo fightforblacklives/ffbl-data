@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "27549",
+  "state": "NC",
+  "city": "Louisburg",
+  "latitude": 36.062239,
+  "longitude": -78.24953,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Lisa Stone Barnes",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 531;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 531;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-715-3032",
+        "919-715-3032"
+      ],
+      "email": [
+        "Lisa.Barnes@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "7"
+    },
+    {
+      "name": "John M. Alexander, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-392.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 625;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 625;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5850",
+        "919-733-5850"
+      ],
+      "email": [
+        "John.Alexander@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "18"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

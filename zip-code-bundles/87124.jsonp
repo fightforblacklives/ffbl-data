@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "87124",
+  "state": "NM",
+  "city": "Rio Rancho",
+  "latitude": 35.290647,
+  "longitude": -106.71469,
+  "congressionalDistrict": [
+    "03",
+    "01"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "57",
+  "people": [
+    {
+      "name": "Jason C. Harper",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-HHARP.jpg",
+      "twitter": null,
+      "addresses": [
+        "4917 Foxmoore Court NE;Rio Rancho, NM 87144",
+        "Room 202b State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-554-7970",
+        "505-986-4220"
+      ],
+      "email": [
+        "JasonHarperNM@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NM",
+      "district": "57"
+    },
+    {
+      "name": "Craig W. Brandt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-SBRAN.jpg",
+      "twitter": null,
+      "addresses": [
+        "7012 Tampico Road NE;Rio Rancho, NM 87144",
+        "Room 414C State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-986-4385"
+      ],
+      "email": [
+        "craig.brandt@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NM",
+      "district": "40"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Hull_Greggory%21989.jpg",
+      "name": "Greggory D. Hull",
+      "phone": "505-891-5001",
+      "email": "ghull@ci.rio-rancho.nm.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NM",
+      "city": "Rio Rancho"
+    }
+  ]
+})

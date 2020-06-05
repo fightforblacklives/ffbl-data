@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "72034",
+  "state": "AR",
+  "city": "Conway",
+  "latitude": 35.074617,
+  "longitude": -92.44442599999999,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "72",
+  "people": [
+    {
+      "name": "Stephen Magie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-421_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1506, Conway, 72033"
+      ],
+      "phone": [
+        "501-327-4444"
+      ],
+      "email": [
+        "stephen.magie@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "72"
+    },
+    {
+      "name": "Jason Rapert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-344_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 10388, Conway, 72034"
+      ],
+      "phone": [
+        "501-336-0918"
+      ],
+      "email": [
+        "Jason.Rapert@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "35"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-Castleberry_Bart%2153224.jpg",
+      "name": "Bart Castleberry",
+      "phone": "501-450-6110",
+      "email": "mayor@cityofconway.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Conway"
+    }
+  ]
+})

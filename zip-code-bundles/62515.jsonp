@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "62515",
+  "state": "IL",
+  "city": "Buffalo",
+  "latitude": 39.861289,
+  "longitude": -89.37836,
+  "congressionalDistrict": [
+    "18"
+  ],
+  "stateUpperDistrict": "44",
+  "stateLowerDistrict": "87",
+  "people": [
+    {
+      "name": "Tim Butler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-%7B8D147B40-5711-4E50-AAC8-ED40137F3B46%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "E-1 Stratton Office Building;Springfield, IL 62706",
+        "E-1 Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "217-782-0053",
+        "217-782-0053"
+      ],
+      "email": [
+        "butler@ilhousegop.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "87"
+    },
+    {
+      "name": "William E. Brady",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-%7BD9BF6EBA-FC02-48DC-8505-B83436A46DD5%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "2203 Eastland Drive;Suite 3;Bloomington, IL 61704",
+        "309G. Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "309-664-4440",
+        "217-782-6216"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "44"
+    },
+    {
+      "name": "Darin LaHood",
+      "email": null,
+      "twitter": "RepLaHood",
+      "addresses": [
+        "1424 Longworth House Office Building; Washington DC 20515-1318"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-L000585.jpg",
+      "phone": "202-225-6201",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Republican",
+      "district": "18"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

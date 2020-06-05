@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "53187",
+  "state": "WI",
+  "city": "Waukesha",
+  "latitude": 43.018696,
+  "longitude": -88.302997,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "98",
+  "people": [
+    {
+      "name": "Adam Neylon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-1892.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 125 West;State Capitol;PO Box 8953;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-5120"
+      ],
+      "email": [
+        "Rep.Neylon@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "98"
+    },
+    {
+      "name": "Chris Kapenga",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-1905.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 15 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-9174"
+      ],
+      "email": [
+        "Sen.Kapenga@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "33"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-Reilly_Shawn%211232.jpg",
+      "name": "Shawn N. Reilly",
+      "phone": "262-524-3700",
+      "email": "sreilly@waukesha-wi.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Waukesha"
+    }
+  ]
+})

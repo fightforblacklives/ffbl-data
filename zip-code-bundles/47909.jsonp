@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "47909",
+  "state": "IN",
+  "city": "Lafayette",
+  "latitude": 40.35589,
+  "longitude": -86.88972,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "13",
+  "people": [
+    {
+      "name": "Sharon Negele",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-legislator_sharon_negele_1110",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9841"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "13"
+    },
+    {
+      "name": "Ron Alting",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-legislator_ron_alting_538",
+      "twitter": null,
+      "addresses": [
+        "200 W. Washington Street;Indianapolis, IN 46204"
+      ],
+      "phone": [
+        "800-382-9467"
+      ],
+      "email": [
+        "Senator.Alting@iga.in.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IN",
+      "district": "22"
+    },
+    {
+      "name": "Mike Braun",
+      "email": null,
+      "twitter": "SenatorBraun",
+      "addresses": [
+        "374 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "phone": "202-224-4814",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Todd Young",
+      "email": null,
+      "twitter": "SenToddYoung",
+      "addresses": [
+        "185 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "phone": "202-224-5623",
+      "type": "US Senator",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Eric Holcomb",
+      "addresses": [
+        "State House, Room 206 Indianapolis IN 46204-2797"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "twitter": "GovHolcomb",
+      "email": null,
+      "phone": "317-232-4567",
+      "type": "Governor",
+      "state": "IN",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-Roswarski_Tony%21601.JPG",
+      "name": "Tony Roswarski",
+      "phone": "765-807-1002",
+      "email": "troswarski@lafayette.in.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IN",
+      "city": "Lafayette"
+    }
+  ]
+})

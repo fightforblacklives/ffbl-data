@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "72559",
+  "state": "AR",
+  "city": "Salem",
+  "latitude": 34.640273,
+  "longitude": -92.558295,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Lanny Fite",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-478_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "3324 Highway 5, Benton, 72019"
+      ],
+      "phone": [
+        "501-317-2400"
+      ],
+      "email": [
+        "lanny.fite@att.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "23"
+    },
+    {
+      "name": "Kim Hammer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-576_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "1201 Military Road PMB #285, Benton, 72015"
+      ],
+      "phone": [
+        "501-840-3841"
+      ],
+      "email": [
+        "kim.hammer@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "33"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

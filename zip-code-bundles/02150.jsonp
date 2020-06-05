@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "02150",
+  "state": "MA",
+  "city": "Chelsea",
+  "latitude": 42.396382,
+  "longitude": -71.03352,
+  "congressionalDistrict": [
+    "05",
+    "07"
+  ],
+  "stateUpperDistrict": "Middlesex and Suffolk",
+  "stateLowerDistrict": "Second Suffolk",
+  "people": [
+    {
+      "name": "Daniel J. Ryan",
+      "image": "https://malegislature.gov/Legislators/Profile/170/djr1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 36;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2370"
+      ],
+      "email": [
+        "Dan.Ryan@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Second Suffolk"
+    },
+    {
+      "name": "Sal N. DiDomenico",
+      "image": "https://malegislature.gov/Legislators/Profile/170/SND0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 208;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1650"
+      ],
+      "email": [
+        "Sal.DiDomenico@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Middlesex and Suffolk"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Vidot_Damali%2154144.jpg",
+      "name": "Damali Vidot",
+      "phone": "617-466-4062",
+      "email": "damalividot@chelseama.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Chelsea"
+    }
+  ]
+})

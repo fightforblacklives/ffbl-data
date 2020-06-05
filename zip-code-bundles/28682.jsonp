@@ -1,0 +1,96 @@
+callback({
+  "zipCode": "28682",
+  "state": "NC",
+  "city": "Terrell",
+  "latitude": 35.585074,
+  "longitude": -80.96141,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "42",
+  "stateLowerDistrict": "89",
+  "people": [
+    {
+      "name": "Mitchell S. Setzer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-149.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 416;Catawba, NC 28609",
+        "16 West Jones Street, Rm. 2204;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "828-241-3570",
+        "919-733-4948"
+      ],
+      "email": [
+        "Mitchell.Setzer@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "89"
+    },
+    {
+      "name": "Andy Wells",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-388.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1028;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 1028;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5876",
+        "919-733-5876"
+      ],
+      "email": [
+        "Andy.Wells@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "42"
+    },
+    {
+      "name": "Patrick McHenry",
+      "email": null,
+      "twitter": "PatrickMcHenry",
+      "addresses": [
+        "2004 Rayburn House Office Building; Washington DC 20515-3310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-M001156.jpg",
+      "phone": "202-225-2576",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "61008",
+  "state": "IL",
+  "city": "Belvidere",
+  "latitude": 42.257229,
+  "longitude": -88.84755,
+  "congressionalDistrict": [
+    "16"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "69",
+  "people": [
+    {
+      "name": "Joe Sosnowski",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-%7B7DEBF89C-D2BA-4952-94A2-40F564A00144%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "305 Amphitheater Drive;Rockford, IL 61107",
+        "200-2N Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "815-547-3436",
+        "217-782-0548"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "69"
+    },
+    {
+      "name": "Dave Syverson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-%7B6FD168B8-C34B-4399-8E39-7373F7600882%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "State of Illinois Building;200 S. Wyman, Suite 302;Rockford, IL 61101",
+        "105E Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "815-987-7555",
+        "217-782-5413"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "35"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "email": null,
+      "twitter": "RepKinzinger",
+      "addresses": [
+        "2245 Rayburn House Office Building; Washington DC 20515-1316"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-K000378.jpg",
+      "phone": "202-225-3635",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

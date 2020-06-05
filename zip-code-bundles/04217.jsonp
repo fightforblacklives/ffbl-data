@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "04217",
+  "state": "ME",
+  "city": "Bethel",
+  "latitude": 44.372129,
+  "longitude": -70.8175,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "117",
+  "people": [
+    {
+      "name": "Frances M. Head",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-bfb56c96-3079-451c-ae1a-154f42d1f43a_headfm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P. O. Box 61, West Bethel, ME 04286"
+      ],
+      "phone": [
+        "207-824-2114"
+      ],
+      "email": [
+        "Frances.Head@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "117"
+    },
+    {
+      "name": "Lisa Keim",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-lisa-keim.jpg",
+      "twitter": null,
+      "addresses": [
+        "1505 Main St;Dixfield, ME 04224"
+      ],
+      "phone": [
+        "207-562-6023"
+      ],
+      "email": [
+        "Lisa.Keim@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "18"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

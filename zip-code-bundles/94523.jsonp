@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "94523",
+  "state": "CA",
+  "city": "Pleasant Hill",
+  "latitude": 37.951672,
+  "longitude": -122.07317,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "Timothy S. Grayson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-ad14_header.jpg",
+      "twitter": null,
+      "addresses": [
+        "420 Virginia Street, Suite C-1;Vallejo, CA 94590",
+        "P.O. Box 942849;Sacramento, CA 94249-0014"
+      ],
+      "phone": [
+        "707-642-0314",
+        "916-319-2014"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "14"
+    },
+    {
+      "name": "Bill Dodd",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-dodd.jpg",
+      "twitter": null,
+      "addresses": [
+        "50 D Street, Suite 300, Santa Rosa, CA 95404",
+        "State Capitol, Room 4032, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "707-576-2093",
+        "916-651-4003"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "3"
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "email": null,
+      "twitter": "RepDeSaulnier",
+      "addresses": [
+        "503 Cannon House Office Building; Washington DC 20515-0511"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-D000623.jpg",
+      "phone": "202-225-2095",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-Rinn_Matthew%2154932.jpg",
+      "name": "Matthew Rinn",
+      "phone": "925-671-5270",
+      "email": "mrinn@ci.pleasant-hill.ca.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Pleasant Hill"
+    }
+  ]
+})

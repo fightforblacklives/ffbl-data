@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "04047",
+  "state": "ME",
+  "city": "Parsonsfield",
+  "latitude": 43.755002,
+  "longitude": -70.8983,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Heidi H. Sampson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-f1758d00-0a1b-4cb2-92ba-41a0958293ab_samphh%5B1%5D.jpg",
+      "twitter": null,
+      "addresses": [
+        "465 Kennebunk Road, Alfred, ME 04002"
+      ],
+      "phone": [
+        "207-324-0307"
+      ],
+      "email": [
+        "Heidi.Sampson@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "21"
+    },
+    {
+      "name": "David C. Woodsome",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-woodsome-bw-cropped-1.jpg",
+      "twitter": null,
+      "addresses": [
+        "1156 Sokokis Trail;N. Waterboro, ME 04061"
+      ],
+      "phone": [
+        "207-432-5643"
+      ],
+      "email": [
+        "David.Woodsome@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "33"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

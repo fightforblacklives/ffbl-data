@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "21651",
+  "state": "MD",
+  "city": "Millington",
+  "latitude": 39.254014,
+  "longitude": -75.86239,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Jay A. Jacobs",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-jacobs%20j.jpg",
+      "twitter": null,
+      "addresses": [
+        "321 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3449"
+      ],
+      "email": [
+        "jay.jacobs@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "36"
+    },
+    {
+      "name": "Jefferson L. Ghrist",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-ghrist01.jpg",
+      "twitter": null,
+      "addresses": [
+        "430 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3555"
+      ],
+      "email": [
+        "Jeff.Ghrist@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "36"
+    },
+    {
+      "name": "Steven J. Arentz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-arentz01.jpg",
+      "twitter": null,
+      "addresses": [
+        "308 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3543"
+      ],
+      "email": [
+        "steven.arentz@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "36"
+    },
+    {
+      "name": "Stephen S. Hershey, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-hershey.jpg",
+      "twitter": null,
+      "addresses": [
+        "420 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3639"
+      ],
+      "email": [
+        "steve.hershey@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "36"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

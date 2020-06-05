@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "65723",
+  "state": "MO",
+  "city": "Pierce City",
+  "latitude": 36.956471,
+  "longitude": -94.02134,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "158",
+  "people": [
+    {
+      "name": "Scott Cupps",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "201 West Capitol Avenue 115-H, Jefferson City, MO 65101"
+      ],
+      "phone": [
+        "573-751-1488"
+      ],
+      "email": [
+        "Scott.Cupps@house.mo.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MO",
+      "district": "158"
+    },
+    {
+      "name": "David Sater",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Sater2019W-200x300.jpg",
+      "twitter": null,
+      "addresses": [
+        "201 W Capitol Ave., Rm. 416;Jefferson City, Missouri 65101"
+      ],
+      "phone": [
+        "573-751-1480"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MO",
+      "district": "29"
+    },
+    {
+      "name": "Joshua Hawley",
+      "email": null,
+      "twitter": "SenHawleyPress",
+      "addresses": [
+        "212 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-H001089.jpg",
+      "phone": "202-224-6154",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roy Blunt",
+      "email": null,
+      "twitter": "RoyBlunt",
+      "addresses": [
+        "260 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-B000575.jpg",
+      "phone": "202-224-5721",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Parson",
+      "addresses": [
+        "Capitol Building Capitol Building Jefferson City MO 65102"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-mo_parson.png",
+      "twitter": "mikeparson",
+      "email": null,
+      "phone": "573-751-3222",
+      "type": "Governor",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

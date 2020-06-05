@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "82059",
+  "state": "WY",
+  "city": "Granite Canon",
+  "latitude": 41.051097,
+  "longitude": -105.19216,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Clarence Styvar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-StyvarH12.jpg",
+      "twitter": null,
+      "addresses": [
+        "580 Willson Court, Cheyenne WY 82007"
+      ],
+      "phone": [
+        "307-631-2566"
+      ],
+      "email": [
+        "Clarence.Styvar@wyoleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "12"
+    },
+    {
+      "name": "Affie Ellis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-EllisAS08.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 454, Cheyenne WY 82003"
+      ],
+      "phone": [
+        "307-287-9095"
+      ],
+      "email": [
+        "Affie.Ellis@wyoleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "8"
+    },
+    {
+      "name": "John Barrasso",
+      "email": null,
+      "twitter": "SenJohnBarrasso",
+      "addresses": [
+        "307 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "phone": "202-224-6441",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Enzi",
+      "email": null,
+      "twitter": "SenatorEnzi",
+      "addresses": [
+        "379A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "phone": "202-224-3424",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mark Gordon",
+      "addresses": [
+        "State Capitol Building, Room 124 Cheyenne WY 82002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "twitter": "GordonGovernor",
+      "email": null,
+      "phone": "307-777-7434",
+      "type": "Governor",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

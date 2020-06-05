@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "99352",
+  "state": "WA",
+  "city": "Richland",
+  "latitude": 46.279657,
+  "longitude": -119.28137,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Brad Klippert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-klippert.jpg",
+      "twitter": null,
+      "addresses": [
+        "122A Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7882"
+      ],
+      "email": [
+        "Brad.Klippert@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "8"
+    },
+    {
+      "name": "Matt Boehnke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-boehnke.jpg",
+      "twitter": null,
+      "addresses": [
+        "122B Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7986"
+      ],
+      "email": [
+        "Matt.Boehnke@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "8"
+    },
+    {
+      "name": "Sharon Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-brown.jpg",
+      "twitter": null,
+      "addresses": [
+        "202 Irv Newhouse Building;PO Box 40408;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7614"
+      ],
+      "email": [
+        "Sharon.Brown@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "8"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Lukson_Ryan%2154997.jpg",
+      "name": "Ryan Lukson",
+      "phone": "509-946-5116",
+      "email": "rlukson@ci.richland.wa.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Richland"
+    }
+  ]
+})

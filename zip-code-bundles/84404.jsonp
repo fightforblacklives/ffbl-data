@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "84404",
+  "state": "UT",
+  "city": "Ogden",
+  "latitude": 41.270319,
+  "longitude": -112.01932,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "Lee B. Perry",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-PERRYLB.jpg",
+      "twitter": null,
+      "addresses": [
+        "977 W 2390 S, PERRY, UT, 84302"
+      ],
+      "phone": [
+        "435-225-0430"
+      ],
+      "email": [
+        "leeperry@le.utah.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "29"
+    },
+    {
+      "name": "David G. Buxton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-BUXTODG.jpg",
+      "twitter": null,
+      "addresses": [
+        "4162 S 2340 W, ROY, UT, 84067"
+      ],
+      "phone": [
+        "801-707-7095"
+      ],
+      "email": [
+        "gbuxton@le.utah.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "20"
+    },
+    {
+      "name": "Mike Lee",
+      "email": null,
+      "twitter": "SenMikeLee",
+      "addresses": [
+        "361A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "phone": "202-224-5444",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mitt Romney",
+      "email": null,
+      "twitter": "SenatorRomney",
+      "addresses": [
+        "124 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "phone": "202-224-5251",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Gary Herbert",
+      "addresses": [
+        "State Capitol, Suite 200 Salt Lake City UT 84114"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "twitter": "herbertforutah",
+      "email": null,
+      "phone": "801-538-1000",
+      "type": "Governor",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-Caldwell_Mike%21859.JPG",
+      "name": "Mike Caldwell",
+      "phone": "801-629-8111",
+      "email": "mayor@ogdencity.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "UT",
+      "city": "Ogden"
+    }
+  ]
+})

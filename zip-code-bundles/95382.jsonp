@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "95382",
+  "state": "CA",
+  "city": "Turlock",
+  "latitude": 37.523901,
+  "longitude": -120.8516,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Heath Flora",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-flora.jpg",
+      "twitter": null,
+      "addresses": [
+        "578 N. Wilma Avenue, Suite B;Ripon, CA 95366",
+        "P.O. Box 942849;Sacramento, CA 94249-0012"
+      ],
+      "phone": [
+        "209-599-2112",
+        "916-319-2012"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "12"
+    },
+    {
+      "name": "Andreas Borgeas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-official_portrait_cropped_borgeas_4623_llsed1_2.jpg",
+      "twitter": null,
+      "addresses": [
+        "460 Sutter Hill Road, Suite C, Sutter Creek, CA 95685",
+        "State Capitol, Room 3082, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "209-267-5033",
+        "916-651-4008"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "8"
+    },
+    {
+      "name": "Josh Harder",
+      "email": null,
+      "twitter": "RepJoshHarder",
+      "addresses": [
+        "131 Cannon House Office Building; Washington DC 20515-0510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-H001090.jpg",
+      "phone": "202-225-4540",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-Bublak_Amy%2154482.jpg",
+      "name": "Amy Bublak",
+      "phone": "209-668-5540",
+      "email": "abublak@turlock.ca.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Turlock"
+    }
+  ]
+})

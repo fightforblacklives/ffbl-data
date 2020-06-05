@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "10573",
+  "state": "NY",
+  "city": "Port Chester",
+  "latitude": 41.010376,
+  "longitude": -73.67326,
+  "congressionalDistrict": [
+    "17",
+    "16"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "91",
+  "people": [
+    {
+      "name": "Steven Otis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-091.jpg",
+      "twitter": null,
+      "addresses": [
+        "222 Grace Church Street;Port Chester, NY 10573",
+        "LOB 327;Albany, NY 12248"
+      ],
+      "phone": [
+        "914-939-7028",
+        "518-455-4897"
+      ],
+      "email": [
+        "OtisS@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "91"
+    },
+    {
+      "name": "Shelley Mayer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-senator_mayer_website_0.png%3Fitok%3DPEyO1oCn",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "smayer@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "37"
+    },
+    {
+      "name": "Eliot Engel",
+      "email": null,
+      "twitter": "RepEliotEngel",
+      "addresses": [
+        "2426 Rayburn House Office Building; Washington DC 20515-3216"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-E000179.jpg",
+      "phone": "202-225-2464",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "16"
+    },
+    {
+      "name": "Nita Lowey",
+      "email": null,
+      "twitter": "NitaLowey",
+      "addresses": [
+        "2365 Rayburn House Office Building; Washington DC 20515-3217"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-L000480.jpg",
+      "phone": "202-225-6506",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "17"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

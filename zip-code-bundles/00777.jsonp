@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00777",
+  "state": "PR",
+  "city": "Juncos",
+  "latitude": 18.224088,
+  "longitude": -65.91316,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VII",
+  "stateLowerDistrict": "33",
+  "people": [
+    {
+      "name": "Ángel R. Peña Ramírez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-03427777-2cf7-4b73-90a5-34dca0678c69.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do. PISO ANEXO"
+      ],
+      "phone": [
+        "787-622-4961"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "33"
+    },
+    {
+      "name": "José L. Dalmau Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-16.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "jldalmau@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "VII"
+    },
+    {
+      "name": "Miguel A. Laureano Correa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-senador-23.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mlaureano@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VII"
+    }
+  ]
+})

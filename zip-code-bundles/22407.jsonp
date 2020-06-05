@@ -1,0 +1,79 @@
+callback({
+  "zipCode": "22407",
+  "state": "VA",
+  "city": "Fredericksburg",
+  "latitude": 38.271028,
+  "longitude": -77.5559,
+  "congressionalDistrict": [
+    "07",
+    "01"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Robert D. Orrock, Sr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-H0073",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 458;Thornburg, Virginia 22565"
+      ],
+      "phone": [
+        "540-891-1322"
+      ],
+      "email": [
+        "DelBOrrock@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "54"
+    },
+    {
+      "name": "Bryce E. Reeves",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Reeves.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 7021;Fredericksburg, Virginia 22404"
+      ],
+      "phone": [
+        "540-645-8440"
+      ],
+      "email": [
+        "district17@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "17"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

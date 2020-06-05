@@ -1,0 +1,121 @@
+callback({
+  "zipCode": "15557",
+  "state": "PA",
+  "city": "Rockwood",
+  "latitude": 39.935728,
+  "longitude": -79.22093,
+  "congressionalDistrict": [
+    "13",
+    "14"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "69",
+  "people": [
+    {
+      "name": "Carl Walker Metzgar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-1174.jpg",
+      "twitter": null,
+      "addresses": [
+        "1605 Graham Avenue Windber Community Building Windber, PA 15963",
+        "111 Ryan Office Building PO Box 202069 Harrisburg, PA 17120-2069"
+      ],
+      "phone": [
+        "814-467-4011",
+        "717-783-8756"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "69"
+    },
+    {
+      "name": "Patrick J. Stefano",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-1697.jpg",
+      "twitter": null,
+      "addresses": [
+        "118 West Main Street Suite 204 Somerset, PA 15501",
+        "Senate Box 203032;Harrisburg, PA 17120-3032;Room:;187 Main Capitol"
+      ],
+      "phone": [
+        "814-443-2053",
+        "717-787-7175"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "32"
+    },
+    {
+      "name": "Guy Reschenthaler",
+      "email": null,
+      "twitter": "GReschenthaler",
+      "addresses": [
+        "531 Cannon House Office Building; Washington DC 20515-3814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-R000610.jpg",
+      "phone": "202-225-2065",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "John Joyce",
+      "email": null,
+      "twitter": "RepJohnJoyce",
+      "addresses": [
+        "1337 Longworth House Office Building; Washington DC 20515-3813"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-J000302.jpg",
+      "phone": "202-225-2431",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "13"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

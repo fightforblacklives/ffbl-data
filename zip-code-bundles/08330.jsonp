@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08330",
+  "state": "NJ",
+  "city": "Mays Landing",
+  "latitude": 39.478771,
+  "longitude": -74.7581,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "2",
+  "people": [
+    {
+      "name": "John Armato",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-armato_john_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "2312 New Road, Suite 101;Northfield, NJ 08225"
+      ],
+      "phone": [
+        "609-382-5421"
+      ],
+      "email": [
+        "AsmArmato@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "2"
+    },
+    {
+      "name": "Vincent Mazzeo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-mazzeo_vincent_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "2312 New Road, Suite 102;Northfield, NJ 08225"
+      ],
+      "phone": [
+        "609-383-1388"
+      ],
+      "email": [
+        "AsmMazzeo@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "2"
+    },
+    {
+      "name": "Chris A. Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-brown_chris_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "2021 New Rd., Suite 24;Linwood, NJ 08221"
+      ],
+      "phone": [
+        "609-677-8266"
+      ],
+      "email": [
+        "SenBrown@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "2"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

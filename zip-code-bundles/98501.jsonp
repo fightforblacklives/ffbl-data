@@ -1,0 +1,136 @@
+callback({
+  "zipCode": "98501",
+  "state": "WA",
+  "city": "Olympia",
+  "latitude": 47.014718,
+  "longitude": -122.8819,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "22",
+  "people": [
+    {
+      "name": "Beth Doglio",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-doglio.jpg",
+      "twitter": null,
+      "addresses": [
+        "317 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7992"
+      ],
+      "email": [
+        "Beth.Doglio@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "22"
+    },
+    {
+      "name": "Laurie Dolan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-dolan.jpg",
+      "twitter": null,
+      "addresses": [
+        "318 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7940"
+      ],
+      "email": [
+        "Laurie.Dolan@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "22"
+    },
+    {
+      "name": "Sam Hunt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-hunt.jpg",
+      "twitter": null,
+      "addresses": [
+        "405 Legislative Building;PO Box 40422;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7642"
+      ],
+      "email": [
+        "Sam.Hunt@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "22"
+    },
+    {
+      "name": "Denny Heck",
+      "email": null,
+      "twitter": "RepDennyHeck",
+      "addresses": [
+        "2452 Rayburn House Office Building; Washington DC 20515-4710"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-H001064.jpg",
+      "phone": "202-225-9740",
+      "type": "US Representative",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Selby_Cheryl%21864.JPG",
+      "name": "Cheryl L. Selby",
+      "phone": "360-753-8447",
+      "email": "cselby@ci.olympia.wa.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Olympia"
+    }
+  ]
+})

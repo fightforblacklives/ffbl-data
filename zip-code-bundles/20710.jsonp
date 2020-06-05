@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "20710",
+  "state": "MD",
+  "city": "Bladensburg",
+  "latitude": 38.941428,
+  "longitude": -76.93005,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "47",
+  "stateLowerDistrict": "47A",
+  "people": [
+    {
+      "name": "Diana M. Fennell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-fennell01.jpg",
+      "twitter": null,
+      "addresses": [
+        "404 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3478"
+      ],
+      "email": [
+        "Diana.Fennell@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "47A"
+    },
+    {
+      "name": "Julian Ivey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-ivey01.jpg",
+      "twitter": null,
+      "addresses": [
+        "217 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3326"
+      ],
+      "email": [
+        "julien.ivey@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "47A"
+    },
+    {
+      "name": "Malcolm Augustine",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-augustine01.jpg",
+      "twitter": null,
+      "addresses": [
+        "3E Miller Senate Office Building;11Bladen St.;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3745"
+      ],
+      "email": [
+        "malcolm.augustine@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "47"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

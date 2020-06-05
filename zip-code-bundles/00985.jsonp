@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00985",
+  "state": "PR",
+  "city": "Carolina",
+  "latitude": 18.374896,
+  "longitude": -65.94691,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VIII",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "Javier A. Aponte Dalmau",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-6caa6b19-7a9f-422e-87c5-8420bbf8db53.jpg",
+      "twitter": null,
+      "addresses": [
+        "Sótano Capitolio"
+      ],
+      "phone": [
+        "787-722-7780"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "38"
+    },
+    {
+      "name": "Eric Correa Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-senador-6.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ecorrea@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    },
+    {
+      "name": "Nayda C. Venegas Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senador-26.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "nvenegas@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    }
+  ]
+})

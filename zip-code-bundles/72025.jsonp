@@ -1,0 +1,75 @@
+callback({
+  "zipCode": "72025",
+  "state": "AR",
+  "city": "Casa",
+  "latitude": 35.043093,
+  "longitude": -93.00689,
+  "congressionalDistrict": [
+    "04",
+    "02"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "73",
+  "people": [
+    {
+      "name": "Mary Bentley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-469_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "142 Shady Lane, Perryville, 72126"
+      ],
+      "phone": [
+        "501-889-3556"
+      ],
+      "email": [
+        "mary.bentley@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "73"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

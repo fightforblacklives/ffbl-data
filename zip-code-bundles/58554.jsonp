@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "58554",
+  "state": "ND",
+  "city": "Mandan",
+  "latitude": 46.812148,
+  "longitude": -100.90891,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Nathan Toman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-nptoman.jpg%3Fitok%3Dw1R9T3hd",
+      "twitter": null,
+      "addresses": [
+        "203 Fourth Avenue NW;Mandan, ND;58554-3135"
+      ],
+      "phone": [
+        "701-484-1906"
+      ],
+      "email": [
+        "nptoman@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "34"
+    },
+    {
+      "name": "Todd Porter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-tkporter.jpg%3Fitok%3DswU12qIi",
+      "twitter": null,
+      "addresses": [
+        "4604 Borden Harbor Drive SE;Mandan, ND;58554-7961"
+      ],
+      "phone": [
+        "701-667-2922",
+        "701-255-0812"
+      ],
+      "email": [
+        "tkporter@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "34"
+    },
+    {
+      "name": "Dwight Cook",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-dcook.jpg%3Fitok%3DdsPKSg3M",
+      "twitter": null,
+      "addresses": [
+        "1408 17th Street SE;Mandan, ND;58554-4895"
+      ],
+      "phone": [
+        "701-220-3850"
+      ],
+      "email": [
+        "dcook@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "34"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

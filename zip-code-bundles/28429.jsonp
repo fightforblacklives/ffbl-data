@@ -1,0 +1,80 @@
+callback({
+  "zipCode": "28429",
+  "state": "NC",
+  "city": "Castle Hayne",
+  "latitude": 34.332126,
+  "longitude": -77.90554,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "Holly Grange",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-709.jpg",
+      "twitter": null,
+      "addresses": [
+        "8209A Market St #294;Wilmington, NC 28411",
+        "300 N. Salisbury Street, Rm. 526;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5830",
+        "919-733-5830"
+      ],
+      "email": [
+        "Holly.Grange@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "20"
+    },
+    {
+      "name": "Harper Peterson",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 518;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-715-2525"
+      ],
+      "email": [
+        "Harper.Peterson@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "9"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

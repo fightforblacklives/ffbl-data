@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "78005",
+  "state": "TX",
+  "city": "Bigfoot",
+  "latitude": 28.976757,
+  "longitude": -98.84426,
+  "congressionalDistrict": [
+    "23",
+    "28"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "80",
+  "people": [
+    {
+      "name": "Tracy O. King",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-3465.jpg",
+      "twitter": null,
+      "addresses": [
+        "5500 S. Zapata Highway;Building F, Room 130;Laredo, Texas 78046",
+        "Room GW.16;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "512-463-0194"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "80"
+    },
+    {
+      "name": "Pete Flores",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-Flores_86-0634D-001_web.jpg",
+      "twitter": null,
+      "addresses": [
+        "612 N. Main Street Ft. Stockton, TX 79735",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "432-336-8836",
+        "512-463-0119"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "19"
+    },
+    {
+      "name": "Henry Cuellar",
+      "email": null,
+      "twitter": "RepCuellar",
+      "addresses": [
+        "2372 Rayburn House Office Building; Washington DC 20515-4328"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-C001063.jpg",
+      "phone": "202-225-1640",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Democrat",
+      "district": "28"
+    },
+    {
+      "name": "Will Hurd",
+      "email": null,
+      "twitter": "hurdonthehill",
+      "addresses": [
+        "317 Cannon House Office Building; Washington DC 20515-4323"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001073.jpg",
+      "phone": "202-225-4511",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

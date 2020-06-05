@@ -1,0 +1,151 @@
+callback({
+  "zipCode": "07003",
+  "state": "NJ",
+  "city": "Bloomfield",
+  "latitude": 40.803,
+  "longitude": -74.18895,
+  "congressionalDistrict": [
+    "11",
+    "10"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Cleopatra G. Tucker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-tucker_cleopatra_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "400 Lyons Ave.;Newark, NJ 07112"
+      ],
+      "phone": [
+        "973-926-4320"
+      ],
+      "email": [
+        "AswTucker@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "28"
+    },
+    {
+      "name": "Ralph R. Caputo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-caputo_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "148-152 Franklin St.;Belleville, NJ 07109"
+      ],
+      "phone": [
+        "973-450-0484"
+      ],
+      "email": [
+        "AsmCaputo@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "28"
+    },
+    {
+      "name": "Ronald L. Rice",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-rice_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "1044 South Orange Ave.;Newark, NJ 07106"
+      ],
+      "phone": [
+        "973-371-5665"
+      ],
+      "email": [
+        "SenRice@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "28"
+    },
+    {
+      "name": "Donald Payne",
+      "email": null,
+      "twitter": "RepDonaldPayne",
+      "addresses": [
+        "103 Cannon House Office Building; Washington DC 20515-3010"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-P000604.jpg",
+      "phone": "202-225-3436",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "email": null,
+      "twitter": "RepSherrill",
+      "addresses": [
+        "1208 Longworth House Office Building; Washington DC 20515-3011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "phone": "202-225-5034",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-Venezia_Michael%21114.JPG",
+      "name": "Michael J. Venezia",
+      "phone": "973-680-4080",
+      "email": "michaeljosephvenezia@gmail.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Bloomfield"
+    }
+  ]
+})

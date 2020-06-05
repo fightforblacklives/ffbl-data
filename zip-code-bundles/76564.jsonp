@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "76564",
+  "state": "TX",
+  "city": "Pendleton",
+  "latitude": 31.036287,
+  "longitude": -97.492017,
+  "congressionalDistrict": [
+    "31"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "55",
+  "people": [
+    {
+      "name": "Hugh Shine",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-4455.jpg",
+      "twitter": null,
+      "addresses": [
+        "4 South 1st;Temple, TX 76501",
+        "Room E1.308;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "254-742-7616",
+        "512-463-0630"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "55"
+    },
+    {
+      "name": "Dawn Buckingham",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-buckingham-initial.jpg",
+      "twitter": null,
+      "addresses": [
+        "819 Water Street Suite 125 Kerrville, Texas 78028",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "830-257-0350",
+        "512-463-0124"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "24"
+    },
+    {
+      "name": "John Carter",
+      "email": null,
+      "twitter": "JudgeCarter",
+      "addresses": [
+        "2110 Rayburn House Office Building; Washington DC 20515-4331"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C001051.jpg",
+      "phone": "202-225-3864",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": "31"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

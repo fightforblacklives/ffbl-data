@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "02920",
+  "state": "RI",
+  "city": "Cranston",
+  "latitude": 41.7715,
+  "longitude": -71.46485,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Robert B. Jacquard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-jacquard.jpg",
+      "twitter": null,
+      "addresses": [
+        "34 Sagamore Road, Cranston, RI 02920"
+      ],
+      "phone": [
+        "401-943-7799"
+      ],
+      "email": [
+        "rep-jacquard@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "17"
+    },
+    {
+      "name": "Hanna M. Gallo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-gallo.jpg",
+      "twitter": null,
+      "addresses": [
+        "285 Meshanticut Valley Parkway, Cranston 02920"
+      ],
+      "phone": [
+        "401-276-5568"
+      ],
+      "email": [
+        "sen-gallo@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "27"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Fung_Allan%21259.JPG",
+      "name": "Allan W. Fung",
+      "phone": "401-780-3110",
+      "email": "afung@cranstonri.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Cranston"
+    }
+  ]
+})

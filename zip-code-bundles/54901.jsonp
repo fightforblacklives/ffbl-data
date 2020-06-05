@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "54901",
+  "state": "WI",
+  "city": "Oshkosh",
+  "latitude": 44.043984,
+  "longitude": -88.53528,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Gordon Hintz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-1848.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 201 West;State Capitol;PO Box 8952;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-2254"
+      ],
+      "email": [
+        "Rep.Hintz@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "54"
+    },
+    {
+      "name": "Dan Feyen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-1900.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 306 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-5300"
+      ],
+      "email": [
+        "Sen.Feyen@legis.wi.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "18"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-Palmeri_Lori%2154706.jpg",
+      "name": "Lori Palmeri",
+      "phone": "920-235-1116",
+      "email": null,
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Oshkosh"
+    }
+  ]
+})

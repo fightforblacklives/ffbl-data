@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "31412",
+  "state": "GA",
+  "city": "Savannah",
+  "latitude": 31.971394,
+  "longitude": -81.07156,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "166",
+  "people": [
+    {
+      "name": "Jesse Petrea",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-PetreaJesse862.jpg",
+      "twitter": null,
+      "addresses": [
+        "108 Loyer Lane;Savannah, GA 31411",
+        "408-A Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "912-354-3680",
+        "404-657-1803"
+      ],
+      "email": [
+        "jesse.petrea@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "166"
+    },
+    {
+      "name": "Ben Watson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-WatsonBen784.jpg",
+      "twitter": null,
+      "addresses": [
+        "1326 Eisenhower Drive #2;Savannah, GA 31406",
+        "320-B Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "912-527-5100",
+        "404-656-7880"
+      ],
+      "email": [
+        "ben.watson@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "1"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Johnson_Van%2154799.jpg",
+      "name": "Van R. Johnson II",
+      "phone": "912-651-6444",
+      "email": "vjohnson01@savannahga.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Savannah"
+    }
+  ]
+})

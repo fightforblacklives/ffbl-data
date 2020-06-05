@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "72452",
+  "state": "AR",
+  "city": "Paragould",
+  "latitude": 36.047718,
+  "longitude": -90.516585,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "57",
+  "people": [
+    {
+      "name": "Jimmy Gazaway",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-526_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "800 West Court Street, Paragould, 72450"
+      ],
+      "phone": [
+        "870-215-1243"
+      ],
+      "email": [
+        "jimmy.gazaway@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "57"
+    },
+    {
+      "name": "Blake Johnson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-509_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 8, Corning, 72422"
+      ],
+      "phone": [
+        "870-323-1766"
+      ],
+      "email": [
+        "Blake.Johnson@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "20"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

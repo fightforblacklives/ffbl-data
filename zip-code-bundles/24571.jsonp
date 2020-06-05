@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24571",
+  "state": "VA",
+  "city": "Lynch Station",
+  "latitude": 37.133274,
+  "longitude": -79.37324,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "59",
+  "people": [
+    {
+      "name": "C. Matthew Fariss",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-H0235",
+      "twitter": null,
+      "addresses": [
+        "243-C Livestock Road;Rustburg, Virginia 24588"
+      ],
+      "phone": [
+        "434-821-5929"
+      ],
+      "email": [
+        "DelMFariss@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "59"
+    },
+    {
+      "name": "Stephen D. Newman",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Newman2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 480;Forest, Virginia 24551"
+      ],
+      "phone": [
+        "434-385-1065"
+      ],
+      "email": [
+        "district23@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "23"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

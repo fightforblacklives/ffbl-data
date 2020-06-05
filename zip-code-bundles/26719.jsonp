@@ -1,0 +1,116 @@
+callback({
+  "zipCode": "26719",
+  "state": "WV",
+  "city": "Fort Ashby",
+  "latitude": 39.497698,
+  "longitude": -78.76381,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "57",
+  "people": [
+    {
+      "name": "Ruth Rowan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-rowan_ruth.jpg",
+      "twitter": null,
+      "addresses": [
+        "4070 Slanesville Pike;Points, WV, 25437",
+        "Room 210E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-492-5790",
+        "304-340-3157"
+      ],
+      "email": [
+        "ruth.rowan@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "57"
+    },
+    {
+      "name": "Charles S. Trump IV",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-trump_charles.jpg",
+      "twitter": null,
+      "addresses": [
+        "171 S. Washington Street;Berkeley Springs, WV, 25411",
+        "Room 210W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-258-5133",
+        "304-357-7980"
+      ],
+      "email": [
+        "charles.trump@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "15"
+    },
+    {
+      "name": "Craig Blair",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-blair_craig.jpg",
+      "twitter": null,
+      "addresses": [
+        "47 Wasser Drive;Martinsburg, WV, 25403",
+        "Room 461M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-754-5040",
+        "304-357-7867"
+      ],
+      "email": [
+        "craig.blair@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "15"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

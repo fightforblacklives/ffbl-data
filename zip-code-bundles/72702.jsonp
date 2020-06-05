@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "72702",
+  "state": "AR",
+  "city": "Fayetteville",
+  "latitude": 35.99403,
+  "longitude": -94.219977,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "84",
+  "people": [
+    {
+      "name": "Denise Garner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-555_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 646, Fayetteville, 72702"
+      ],
+      "phone": [
+        "479-283-5050"
+      ],
+      "email": [
+        "denise.garner@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "84"
+    },
+    {
+      "name": "Greg Leding",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-572_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1445, Fayetteville, 72702"
+      ],
+      "phone": [
+        "479-966-9201"
+      ],
+      "email": [
+        "greg.leding@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "4"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-Jordan_Lioneld%21386.jpg",
+      "name": "Lioneld Jordan",
+      "phone": "479-575-8330",
+      "email": "mayor@fayetteville-ar.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Fayetteville"
+    }
+  ]
+})

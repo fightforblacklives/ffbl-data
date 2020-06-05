@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "98310",
+  "state": "WA",
+  "city": "Bremerton",
+  "latitude": 47.58675,
+  "longitude": -122.62371,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Drew Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-hansen.jpg",
+      "twitter": null,
+      "addresses": [
+        "370 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7842"
+      ],
+      "email": [
+        "Drew.Hansen@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "23"
+    },
+    {
+      "name": "Sherry Appleton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-appleton.jpg",
+      "twitter": null,
+      "addresses": [
+        "132F Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7934"
+      ],
+      "email": [
+        "Sherry.Appleton@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "23"
+    },
+    {
+      "name": "Christine Rolfes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-rolfes.jpg",
+      "twitter": null,
+      "addresses": [
+        "303 John A. Cherberg Building;PO Box 40423;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7644"
+      ],
+      "email": [
+        "Christine.Rolfes@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "23"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-Wheeler_Greg%2154043.jpg",
+      "name": "Greg Wheeler",
+      "phone": "360-473-5266",
+      "email": "greg.wheeler@ci.bremerton.wa.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Bremerton"
+    }
+  ]
+})

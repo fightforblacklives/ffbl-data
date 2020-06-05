@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "60514",
+  "state": "IL",
+  "city": "Clarendon Hills",
+  "latitude": 41.779533,
+  "longitude": -87.95798,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Deanne M. Mazzochi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-%7BEFDF86C3-4EAD-4265-B666-C24FFF65F9E1%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 S. Cass Ave.;Westmont Centre, Suite 205;Westmont, IL 60559",
+        "210-N Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-852-8633",
+        "217-782-1448"
+      ],
+      "email": [
+        "mazzochi@ilhousegop.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "47"
+    },
+    {
+      "name": "Suzy Glowiak Hilton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-%7B8DE2D7E5-9F3D-43FD-B0EC-0010BDA8849A%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "17W715 East Butterfield Rd;Suite F;Oakbrook Terrace, IL 60181",
+        "124 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-785-3177",
+        "217-782-8148"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "24"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

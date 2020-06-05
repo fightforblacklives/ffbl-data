@@ -1,0 +1,60 @@
+callback({
+  "zipCode": "00654",
+  "state": "PR",
+  "city": "Jobos",
+  "latitude": 17.979518,
+  "longitude": -66.117219,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "VI",
+  "stateLowerDistrict": "30",
+  "people": [
+    {
+      "name": "Luis R. Ortiz Lugo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-2f2dc52-8c85-46a8-86a5-e0c550828eca.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO ANEXO Calle Morse #87 Arroyo, Puerto Rico 00714 | Tel. 787-839-1474 Fax. 787-839-4089"
+      ],
+      "phone": [
+        "787-723-8424"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "30"
+    },
+    {
+      "name": "Axel F. Roque Gracia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "aroque@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    },
+    {
+      "name": "Carlos J. Rodríguez Mateo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "cjrodriguez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    }
+  ]
+})

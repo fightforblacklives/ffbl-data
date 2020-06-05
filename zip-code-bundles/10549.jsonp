@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "10549",
+  "state": "NY",
+  "city": "Mount Kisco",
+  "latitude": 41.204027,
+  "longitude": -73.73045,
+  "congressionalDistrict": [
+    "17",
+    "18"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "93",
+  "people": [
+    {
+      "name": "David Buchwald",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-093.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 S. Bedford Rd.;Suite 150;Mount Kisco, NY 10549",
+        "LOB 331;Albany, NY 12248"
+      ],
+      "phone": [
+        "914-244-4450",
+        "518-455-5397"
+      ],
+      "email": [
+        "BuchwaldD@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "93"
+    },
+    {
+      "name": "Peter Harckham",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-sd-40_unofficialhs.jpg%3Fitok%3DoAc8lq7t",
+      "twitter": null,
+      "addresses": [
+        "188 State Street, Legislative Office Bldg;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-3111"
+      ],
+      "email": [
+        "harckham@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "40"
+    },
+    {
+      "name": "Nita Lowey",
+      "email": null,
+      "twitter": "NitaLowey",
+      "addresses": [
+        "2365 Rayburn House Office Building; Washington DC 20515-3217"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-L000480.jpg",
+      "phone": "202-225-6506",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "17"
+    },
+    {
+      "name": "Sean Maloney",
+      "email": null,
+      "twitter": "RepSeanMaloney",
+      "addresses": [
+        "2331 Rayburn House Office Building; Washington DC 20515-3218"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-M001185.jpg",
+      "phone": "202-225-5441",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "18"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

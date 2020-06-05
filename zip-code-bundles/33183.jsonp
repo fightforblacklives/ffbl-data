@@ -1,0 +1,132 @@
+callback({
+  "zipCode": "33183",
+  "state": "FL",
+  "city": "Miami",
+  "latitude": 25.699968,
+  "longitude": -80.40811,
+  "congressionalDistrict": [
+    "26",
+    "27"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "118",
+  "people": [
+    {
+      "name": "Anthony Rodriguez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-4711.jpg",
+      "twitter": null,
+      "addresses": [
+        "13372 Southwest 128th Street; Miami, FL 33186-5807",
+        "1301 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "305-252-4352",
+        "850-717-5118"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "118"
+    },
+    {
+      "name": "Annette Taddeo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-s40_5331.jpg",
+      "twitter": null,
+      "addresses": [
+        "10689 N. Kendall Drive, Suite 212; Miami, FL 33176",
+        "210 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "taddeo.annette.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "40"
+    },
+    {
+      "name": "Debbie Mucarsel-Powell",
+      "email": null,
+      "twitter": "RepDMP",
+      "addresses": [
+        "114 Cannon House Office Building; Washington DC 20515-0926"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-M001207.jpg",
+      "phone": "202-225-2778",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Donna Shalala",
+      "email": null,
+      "twitter": "RepShalala",
+      "addresses": [
+        "1320 Longworth House Office Building; Washington DC 20515-0927"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-S001206.jpg",
+      "phone": "202-225-3931",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "27"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Suarez_Francis%2153960.jpg",
+      "name": "Francis X. Suarez",
+      "phone": "305-250-5300",
+      "email": "fsuarez@miamigov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Miami"
+    }
+  ]
+})

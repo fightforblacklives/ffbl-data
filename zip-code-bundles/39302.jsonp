@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "39302",
+  "state": "MS",
+  "city": "Meridian",
+  "latitude": 32.431958,
+  "longitude": -88.641888,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "45",
+  "people": [
+    {
+      "name": "Michael T. Evans",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-evans_%2845th%29.jpg",
+      "twitter": null,
+      "addresses": [
+        "1147 Mount Harmony Rd;Preston, MS 39354",
+        "Room 400-F;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "662-677-3738",
+        "601-359-3311"
+      ],
+      "email": [
+        "mevans@house.ms.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Independent",
+      "state": "MS",
+      "district": "45"
+    },
+    {
+      "name": "Sampson Jackson II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-jackson_%2832nd%29.jpg",
+      "twitter": null,
+      "addresses": [
+        "749 Matthew Jackson Road;Preston, MS 39354",
+        "Room 407;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "601-677-2305",
+        "601-359-3232"
+      ],
+      "email": [
+        "sjackson@senate.ms.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MS",
+      "district": "32"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "email": null,
+      "twitter": "SenHydeSmith",
+      "addresses": [
+        "702 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "phone": "202-224-5054",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roger Wicker",
+      "email": null,
+      "twitter": "SenatorWicker",
+      "addresses": [
+        "555 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "phone": "202-224-6253",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tate Reeves",
+      "addresses": [
+        "P.O. Box 139 Jackson MS 39205"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "twitter": "philbryantms",
+      "email": null,
+      "phone": "601-359-3150",
+      "type": "Governor",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Bland_Percy%21730.jpg",
+      "name": "Percy L. Bland III",
+      "phone": "601-485-1927",
+      "email": "percybland@meridianms.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MS",
+      "city": "Meridian"
+    }
+  ]
+})

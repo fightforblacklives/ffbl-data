@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "02840",
+  "state": "RI",
+  "city": "Newport",
+  "latitude": 41.488002,
+  "longitude": -71.31262,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "13",
+  "stateLowerDistrict": "75",
+  "people": [
+    {
+      "name": "Lauren H. Carson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-carson.jpg",
+      "twitter": null,
+      "addresses": [
+        " 11 Willow Street #5, Newport, RI 02840"
+      ],
+      "phone": [
+        "401-222-2466"
+      ],
+      "email": [
+        "rep-carson@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "75"
+    },
+    {
+      "name": "Dawn Euer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-euer.jpg",
+      "twitter": null,
+      "addresses": [
+        "34 Bliss Road, Newport, RI 02840"
+      ],
+      "phone": [
+        "401-276-5589"
+      ],
+      "email": [
+        "sen-euer@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "13"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

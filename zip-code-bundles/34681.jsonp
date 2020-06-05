@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "34681",
+  "state": "FL",
+  "city": "Crystal Beach",
+  "latitude": 28.088443,
+  "longitude": -82.77834,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "Chris Sprowls",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-4609.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 100; 2364 Boy Scout Road; Clearwater, FL 33763-0901",
+        "422 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "727-793-2810",
+        "850-717-5065"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "65"
+    },
+    {
+      "name": "Ed Hooper",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-s16_5344.jpg",
+      "twitter": null,
+      "addresses": [
+        "3450 East Lake Road; Suite 305; Palm Harbor, FL 34685",
+        "326 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "hooper.ed.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "16"
+    },
+    {
+      "name": "Gus Bilirakis",
+      "email": null,
+      "twitter": "RepGusBilirakis",
+      "addresses": [
+        "2227 Rayburn House Office Building; Washington DC 20515-0912"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-B001257.jpg",
+      "phone": "202-225-5755",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

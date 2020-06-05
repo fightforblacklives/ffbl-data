@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03835",
+  "state": "NH",
+  "city": "Farmington",
+  "latitude": 43.395688,
+  "longitude": -71.06217,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "Strafford 2",
+  "people": [
+    {
+      "name": "James F. Horgan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-408434.jpg",
+      "twitter": null,
+      "addresses": [
+        "1255 Meaderboro Road;Farmington, NH 03835-4222"
+      ],
+      "phone": [
+        "603-859-3929"
+      ],
+      "email": [
+        "James.Horgan@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Strafford 2"
+    },
+    {
+      "name": "Joseph A. Pitre",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-377005.jpg",
+      "twitter": null,
+      "addresses": [
+        "76 Cocheco Road;Farmington, NH 03835-3803"
+      ],
+      "phone": [
+        "603-755-2447"
+      ],
+      "email": [
+        "house@joepitre.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Strafford 2"
+    },
+    {
+      "name": "James P. Gray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-06.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 103-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3092"
+      ],
+      "email": [
+        "James.Gray@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "6"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

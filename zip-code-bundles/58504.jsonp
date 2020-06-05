@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "58504",
+  "state": "ND",
+  "city": "Bismarck",
+  "latitude": 46.768617,
+  "longitude": -100.75381,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "30",
+  "people": [
+    {
+      "name": "Glenn Bosch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-gdbosch.jpg%3Fitok%3Dhu_eBi8_",
+      "twitter": null,
+      "addresses": [
+        "4117 Downing Street;Bismarck, ND;58504-8848"
+      ],
+      "phone": [
+        "701-226-1886"
+      ],
+      "email": [
+        "gdbosch@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "30"
+    },
+    {
+      "name": "Mike Nathe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-mrnathe.jpg%3Fitok%3DlDCRhvZi",
+      "twitter": null,
+      "addresses": [
+        "3723 Lockport Street;Bismarck, ND;58503-5537"
+      ],
+      "phone": [
+        "701-250-0645",
+        "701-223-4055"
+      ],
+      "email": [
+        "mrnathe@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "30"
+    },
+    {
+      "name": "Diane Larson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-dklarson.jpg%3Fitok%3DfhEmsuhh",
+      "twitter": null,
+      "addresses": [
+        "2525 Larson Road;Bismarck, ND;58504-8926"
+      ],
+      "phone": [
+        "701-400-7218"
+      ],
+      "email": [
+        "dklarson@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "30"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Bakken_Steve%2154379.jpg",
+      "name": "Steve Bakken",
+      "phone": "701-355-1300",
+      "email": "sbakken@bismarcknd.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ND",
+      "city": "Bismarck"
+    }
+  ]
+})

@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "04050",
+  "state": "ME",
+  "city": "Long Island",
+  "latitude": 43.692683,
+  "longitude": -70.15475,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Janice E. Cooper",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-fda2f277-064e-4457-b9e8-63745e891953_coopje.jpg",
+      "twitter": null,
+      "addresses": [
+        "53 West Elm Street, Yarmouth, ME 04096"
+      ],
+      "phone": [
+        "207-847-3193"
+      ],
+      "email": [
+        "Janice.Cooper@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "47"
+    },
+    {
+      "name": "Catherine Breen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-breen-bw-cropped.jpg",
+      "twitter": null,
+      "addresses": [
+        "15 Falmouth Ridges Drive;Falmouth, ME 04105"
+      ],
+      "phone": [
+        "207-329-6142"
+      ],
+      "email": [
+        "Cathy.Breen@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "25"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

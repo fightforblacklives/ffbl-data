@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "42104",
+  "state": "KY",
+  "city": "Bowling Green",
+  "latitude": 36.930527,
+  "longitude": -86.44751,
+  "congressionalDistrict": [
+    "01",
+    "02"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Steve Sheldon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-house17.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 351B;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 672"
+      ],
+      "email": [
+        "Steve.Sheldon@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "17"
+    },
+    {
+      "name": "Mike Wilson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senate132.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 242;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-2450"
+      ],
+      "email": [
+        "Mike.Wilson@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "32"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-Wilkerson_Bruce%21129.JPG",
+      "name": "Bruce Wilkerson",
+      "phone": "270-392-0817",
+      "email": "bruce.wilkerson@bgky.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Bowling Green"
+    }
+  ]
+})

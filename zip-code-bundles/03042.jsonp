@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03042",
+  "state": "NH",
+  "city": "Epping",
+  "latitude": 43.045076,
+  "longitude": -71.07095,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "Rockingham 9",
+  "people": [
+    {
+      "name": "Mark Vallone",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "252 Blake Road;Epping, NH 03042-3003"
+      ],
+      "phone": [
+        "603-679-5786"
+      ],
+      "email": [
+        "Mark.Vallone@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Rockingham 9"
+    },
+    {
+      "name": "Sean D. Morrison",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-408415.jpg",
+      "twitter": null,
+      "addresses": [
+        "98 Hamilton Drive;Epping, NH 03042-1804"
+      ],
+      "phone": [
+        "603-275-7494"
+      ],
+      "email": [
+        "sean.morrison@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 9"
+    },
+    {
+      "name": "Jon Morgan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 107\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-8631"
+      ],
+      "email": [
+        "Jon.Morgan@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "23"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

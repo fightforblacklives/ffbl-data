@@ -1,0 +1,116 @@
+callback({
+  "zipCode": "26184",
+  "state": "WV",
+  "city": "Waverly",
+  "latitude": 39.306083,
+  "longitude": -81.36639,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "William Anderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-anderson_bill.jpg",
+      "twitter": null,
+      "addresses": [
+        "1011 Highland Avenue;Williamstown, WV, 26187",
+        "Room 200E-C, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-375-7880",
+        "304-340-3168"
+      ],
+      "email": [
+        "bill.anderson@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "8"
+    },
+    {
+      "name": "Donna J. Boley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-boley_donna.jpg",
+      "twitter": null,
+      "addresses": [
+        "2332 Greens Run Road;St. Marys, WV, 26170-9735",
+        "Room 206W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-684-3266",
+        "304-357-7905"
+      ],
+      "email": [
+        "donna.boley@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "3"
+    },
+    {
+      "name": "Mike Azinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-azinger_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "1007 51st Street;Vienna, WV, 26105",
+        "Room 417M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-916-2177",
+        "304-357-7970"
+      ],
+      "email": [
+        "mike.azinger@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "3"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

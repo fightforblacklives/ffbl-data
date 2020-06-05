@@ -1,0 +1,138 @@
+callback({
+  "zipCode": "30101",
+  "state": "GA",
+  "city": "Acworth",
+  "latitude": 34.052285,
+  "longitude": -84.68483,
+  "congressionalDistrict": [
+    "14",
+    "11"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Ed Setzler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-SetzlerEd203.jpg",
+      "twitter": null,
+      "addresses": [
+        "1555 Boxwood Trace;Acworth, GA 30102",
+        "401-I State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-7857"
+      ],
+      "email": [
+        "ed.setzler@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "35"
+    },
+    {
+      "name": "Lindsey Tippins",
+      "image": "http://www.senate.ga.gov/SiteCollectionImages/TippinsLindsey750.jpg",
+      "twitter": null,
+      "addresses": [
+        "139 Midway Road;Marietta, GA 30064",
+        "121-E State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "770-424-2700",
+        "404-657-0406"
+      ],
+      "email": [
+        "lindsey.tippins@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "37"
+    },
+    {
+      "name": "Barry Loudermilk",
+      "email": null,
+      "twitter": "RepLoudermilk",
+      "addresses": [
+        "422 Cannon House Office Building; Washington DC 20515-1011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-L000583.jpg",
+      "phone": "202-225-2931",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Tom Graves",
+      "email": null,
+      "twitter": "RepTomGraves",
+      "addresses": [
+        "2078 Rayburn House Office Building; Washington DC 20515-1014"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-G000560.jpg",
+      "phone": "202-225-5211",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

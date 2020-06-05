@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "43235",
+  "state": "OH",
+  "city": "Columbus",
+  "latitude": 40.099204,
+  "longitude": -83.05567,
+  "congressionalDistrict": [
+    "15",
+    "12"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Beth Liston",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-21.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;10th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-644-6030"
+      ],
+      "email": [
+        "rep21@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "21"
+    },
+    {
+      "name": "Stephanie Kunze",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-2865.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-5981"
+      ],
+      "email": [
+        "sd16@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "16"
+    },
+    {
+      "name": "Steve Stivers",
+      "email": null,
+      "twitter": "RepSteveStivers",
+      "addresses": [
+        "2234 Rayburn House Office Building; Washington DC 20515-3515"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-S001187.jpg",
+      "phone": "202-225-2015",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "15"
+    },
+    {
+      "name": "Troy Balderson",
+      "email": null,
+      "twitter": "RepBalderson",
+      "addresses": [
+        "1221 Longworth House Office Building; Washington DC 20515-3512"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-B001306.jpg",
+      "phone": "202-225-5355",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Ginther_Andrew%21241.JPG",
+      "name": "Andrew J. Ginther",
+      "phone": "614-645-7671",
+      "email": "311@columbus.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Columbus"
+    }
+  ]
+})

@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "58503",
+  "state": "ND",
+  "city": "Bismarck",
+  "latitude": 46.861794,
+  "longitude": -100.78026,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Jason Dockter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-jddockter.jpg%3Fitok%3DmBqEFY1V",
+      "twitter": null,
+      "addresses": [
+        "4433 Cumberland Loop;Bismarck, ND;58503-8504"
+      ],
+      "phone": [
+        "701-214-0486",
+        "701-258-9848"
+      ],
+      "email": [
+        "jddockter@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "7"
+    },
+    {
+      "name": "Rick Becker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-rcbecker.jpg%3Fitok%3Do3wKQLc0",
+      "twitter": null,
+      "addresses": [
+        "6140 Ponderosa Avenue;Bismarck, ND;58503-9156"
+      ],
+      "phone": [
+        "701-527-6902"
+      ],
+      "email": [
+        "rcbecker@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "7"
+    },
+    {
+      "name": "Nicole Poolman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-npoolman.jpg%3Fitok%3D7wZDJmKW",
+      "twitter": null,
+      "addresses": [
+        "3609 Bogey Drive;Bismarck, ND;58503-9195"
+      ],
+      "phone": [
+        "701-250-6730"
+      ],
+      "email": [
+        "npoolman@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "7"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Bakken_Steve%2154379.jpg",
+      "name": "Steve Bakken",
+      "phone": "701-355-1300",
+      "email": "sbakken@bismarcknd.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ND",
+      "city": "Bismarck"
+    }
+  ]
+})

@@ -1,0 +1,134 @@
+callback({
+  "zipCode": "12601",
+  "state": "NY",
+  "city": "Poughkeepsie",
+  "latitude": 41.701443,
+  "longitude": -73.91922,
+  "congressionalDistrict": [
+    "18",
+    "19"
+  ],
+  "stateUpperDistrict": "41",
+  "stateLowerDistrict": "104",
+  "people": [
+    {
+      "name": "Jonathan Jacobson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-104.jpg",
+      "twitter": null,
+      "addresses": [
+        "154 North Plank Road;Suite 2;Newburgh, NY 12550"
+      ],
+      "phone": [
+        "845-562-0888",
+        "518-455-5762"
+      ],
+      "email": [
+        "jacobsonj@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "104"
+    },
+    {
+      "name": "Sue Serino",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-%252811-17-14%2529%2520Serino-075.jpg%3Fitok%3Dlq-v-yoF",
+      "twitter": null,
+      "addresses": [
+        "4254 Albany Post Road;Hyde Park,, NY 12538"
+      ],
+      "phone": [
+        "845-229-0106"
+      ],
+      "email": [
+        "Serino@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "41"
+    },
+    {
+      "name": "Antonio Delgado",
+      "email": null,
+      "twitter": "repdelgado",
+      "addresses": [
+        "1007 Longworth House Office Building; Washington DC 20515-3219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-D000630.jpg",
+      "phone": "202-225-5614",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "19"
+    },
+    {
+      "name": "Sean Maloney",
+      "email": null,
+      "twitter": "RepSeanMaloney",
+      "addresses": [
+        "2331 Rayburn House Office Building; Washington DC 20515-3218"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-M001185.jpg",
+      "phone": "202-225-5441",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "18"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Rolison_Robert%213555.jpg",
+      "name": "Robert G. Rolison",
+      "phone": "845-451-4073",
+      "email": "mayor@cityofpoughkeepsie.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Poughkeepsie"
+    }
+  ]
+})

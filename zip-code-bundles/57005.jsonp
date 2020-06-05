@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "57005",
+  "state": "SD",
+  "city": "Brandon",
+  "latitude": 43.590014,
+  "longitude": -96.58362,
+  "congressionalDistrict": [
+    "00",
+    "04"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "Doug Barthel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Barthel_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "8713 E. Palametto St.;Sioux Falls, SD 57110"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Doug.Barthel@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "10"
+    },
+    {
+      "name": "Steven G Haugaard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Haugaard_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "47629 258th St.;Sioux Falls, SD 57104"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Steven.Haugaard@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "10"
+    },
+    {
+      "name": "Margaret A Sutton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-SuttonM_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "408 N. Linwood Ct.;Sioux Falls, SD 57103"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "margaret.sutton@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "10"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

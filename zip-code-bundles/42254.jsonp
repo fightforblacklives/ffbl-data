@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "42254",
+  "state": "KY",
+  "city": "La Fayette",
+  "latitude": 36.657405,
+  "longitude": -87.65633,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Walker Thomas",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-house8.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 329C;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 658"
+      ],
+      "email": [
+        "Walker.Thomas@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "8"
+    },
+    {
+      "name": "Whitney Westerfield",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senate103.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 228;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 622"
+      ],
+      "email": [
+        "Whitney.Westerfield@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "3"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

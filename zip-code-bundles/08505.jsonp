@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08505",
+  "state": "NJ",
+  "city": "Bordentown",
+  "latitude": 40.132784,
+  "longitude": -74.71778,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Carol A. Murphy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-murphy_carol_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "504 Route 130 North, Suite 100;Cinnaminson, NJ 08077"
+      ],
+      "phone": [
+        "856-735-5334"
+      ],
+      "email": [
+        "AswMurphy@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "7"
+    },
+    {
+      "name": "Herb Conaway Jr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-conaway_herb_2019.jpg",
+      "twitter": null,
+      "addresses": [
+        "Delran Professional Center, 8008 Rt. 130 North, Bldg. C, Suite 450;Delran, NJ 08075"
+      ],
+      "phone": [
+        "856-461-3997"
+      ],
+      "email": [
+        "AsmConaway@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "7"
+    },
+    {
+      "name": "Troy Singleton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-singleton_troy_2019.jpg",
+      "twitter": null,
+      "addresses": [
+        "400 North Church St., Suite 260;Moorestown, NJ 08057"
+      ],
+      "phone": [
+        "856-234-2790"
+      ],
+      "email": [
+        "SenSingleton@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "7"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

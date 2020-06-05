@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03263",
+  "state": "NH",
+  "city": "Pittsfield",
+  "latitude": 43.30368,
+  "longitude": -71.3215,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "Merrimack 21",
+  "people": [
+    {
+      "name": "James C. Allard",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "540 Tilton Hill Road;Pittsfield, NH 03263-3114"
+      ],
+      "phone": [
+        "603-435-5169"
+      ],
+      "email": [
+        "JC.Allard@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Merrimack 21"
+    },
+    {
+      "name": "John F. Klose",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-374140.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 519;Epsom, NH 03234-0519"
+      ],
+      "phone": [
+        "603-494-1000"
+      ],
+      "email": [
+        "John.Klose@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Merrimack 21"
+    },
+    {
+      "name": "John Reagan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-17.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-4063"
+      ],
+      "email": [
+        "John.Reagan111@gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "17"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "33162",
+  "state": "FL",
+  "city": "Miami",
+  "latitude": 25.929571,
+  "longitude": -80.17839,
+  "congressionalDistrict": [
+    "24"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "107",
+  "people": [
+    {
+      "name": "Barbara Watson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-4532.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 204; 610 Northwest 183rd Street; Miami Gardens, FL 33169-4472",
+        "212 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "305-654-7100",
+        "850-717-5107"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "107"
+    },
+    {
+      "name": "Jason W. B. Pizzo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-s38_5345.jpg",
+      "twitter": null,
+      "addresses": [
+        "5582 N.E. 4th Court; Suite 7B; Miami, FL 33137",
+        "224 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "pizzo.jason.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "38"
+    },
+    {
+      "name": "Frederica Wilson",
+      "email": null,
+      "twitter": "RepWilson",
+      "addresses": [
+        "2445 Rayburn House Office Building; Washington DC 20515-0924"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-W000808.jpg",
+      "phone": "202-225-4506",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Suarez_Francis%2153960.jpg",
+      "name": "Francis X. Suarez",
+      "phone": "305-250-5300",
+      "email": "fsuarez@miamigov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Miami"
+    }
+  ]
+})

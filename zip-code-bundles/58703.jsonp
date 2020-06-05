@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "58703",
+  "state": "ND",
+  "city": "Minot",
+  "latitude": 48.277024,
+  "longitude": -101.31942,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Matthew Ruby",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-mruby.jpg%3Fitok%3DmIPfahXg",
+      "twitter": null,
+      "addresses": [
+        "315 Fourth Street NW;Minot, ND;58703-3129"
+      ],
+      "phone": [],
+      "email": [
+        "mruby@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "40"
+    },
+    {
+      "name": "Randy A. Schobinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-rschobinger.jpg%3Fitok%3DKRKLCqU9",
+      "twitter": null,
+      "addresses": [
+        "3500 30th Street NW;Minot, ND;58703-0312"
+      ],
+      "phone": [],
+      "email": [
+        "rschobinger@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "40"
+    },
+    {
+      "name": "Karen K. Krebsbach",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-kkrebsbach.jpg%3Fitok%3DS5CCggPB",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1767;Minot, ND;58702-1767"
+      ],
+      "phone": [
+        "701-838-0211",
+        "701-838-0211"
+      ],
+      "email": [
+        "kkrebsbach@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "40"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Sipma_Shaun%2154380.jpg",
+      "name": "Shaun Sipma",
+      "phone": "701-721-6839",
+      "email": "mayor@minotnd.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ND",
+      "city": "Minot"
+    }
+  ]
+})

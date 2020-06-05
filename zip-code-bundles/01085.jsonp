@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "01085",
+  "state": "MA",
+  "city": "Westfield",
+  "latitude": 42.133642,
+  "longitude": -72.75029,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": "Fourth Hampden",
+  "people": [
+    {
+      "name": "John C. Velis",
+      "image": "https://malegislature.gov/Legislators/Profile/170/jcv1.jpg",
+      "twitter": null,
+      "addresses": [
+        "52 Court Street;Westfield, MA 01085",
+        "24 Beacon St.;Room 174;Boston, MA, 02133"
+      ],
+      "phone": [
+        "413-572-3920",
+        "617-722-2877"
+      ],
+      "email": [
+        "john.velis@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Fourth Hampden"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Humason_Donald%2154862.jpg",
+      "name": "Donald F. Humason Jr.",
+      "phone": "413-572-6201",
+      "email": "mayor@cityofwestfield.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Westfield"
+    }
+  ]
+})

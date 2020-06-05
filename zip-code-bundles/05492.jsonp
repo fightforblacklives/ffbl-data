@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "05492",
+  "state": "VT",
+  "city": "Waterville",
+  "latitude": 44.708468,
+  "longitude": -72.7585,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "Lamoille",
+  "stateLowerDistrict": "Lamoille-3",
+  "people": [
+    {
+      "name": "Lucy Rogers",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-Rogers.Lucy.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 23;Waterville, VT 05492",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-730-0604"
+      ],
+      "email": [
+        "lrogers@leg.state.vt.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Lamoille-3"
+    },
+    {
+      "name": "Richard Westman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-RWestman.jpg",
+      "twitter": null,
+      "addresses": [
+        "2439 Iron Gate Rd.;Cambridge, VT 05444",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-644-2297"
+      ],
+      "email": [
+        "rawestman@gmail.com",
+        "rwestman@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VT",
+      "district": "Lamoille"
+    },
+    {
+      "name": "Bernard Sanders",
+      "email": null,
+      "twitter": "SenSanders",
+      "addresses": [
+        "332 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "phone": "202-224-5141",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Patrick Leahy",
+      "email": null,
+      "twitter": "SenatorLeahy",
+      "addresses": [
+        "437 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "phone": "202-224-4242",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Scott",
+      "addresses": [
+        "109 State Street 109 State Street Montpelier VT 05609"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "twitter": "govphilscott",
+      "email": null,
+      "phone": "802-828-3333",
+      "type": "Governor",
+      "state": "VT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

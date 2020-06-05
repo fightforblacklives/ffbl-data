@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "95820",
+  "state": "CA",
+  "city": "Sacramento",
+  "latitude": 38.535795,
+  "longitude": -121.44663,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Kevin McCarty",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-AD07_McCarty_Portrait150_20141201.jpg",
+      "twitter": null,
+      "addresses": [
+        "915 L Street, Suite 110;Sacramento, CA 95814",
+        "P.O. Box 942849;Sacramento, CA 94249-0007"
+      ],
+      "phone": [
+        "916-324-4676",
+        "916-319-2007"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "7"
+    },
+    {
+      "name": "Richard Pan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-pan-richard.jpg",
+      "twitter": null,
+      "addresses": [
+        "2251 Florin Road, Suite 156, Sacramento, CA 95822",
+        "State Capitol, Room 5114, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "916-262-2904",
+        "916-651-4006"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "6"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-Steinberg_Darrell%2153170.jpg",
+      "name": "Darrell Steinberg",
+      "phone": "916-808-5300",
+      "email": "mayorsteinberg@cityofsacramento.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Sacramento"
+    }
+  ]
+})

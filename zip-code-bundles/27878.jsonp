@@ -1,0 +1,82 @@
+callback({
+  "zipCode": "27878",
+  "state": "NC",
+  "city": "Sharpsburg",
+  "latitude": 35.867224,
+  "longitude": -77.83054,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "James D. Gailliard",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "9121 West Mount Dr;Rocky Mount, NC 27803",
+        "300 N. Salisbury Street, Rm. 536;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "252-822-4007",
+        "919-733-5802"
+      ],
+      "email": [
+        "James.Gailliard@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "25"
+    },
+    {
+      "name": "Rick Horner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-400.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2106;Raleigh, NC 27601-1096",
+        "16 West Jones Street, Rm. 2106;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-715-3030",
+        "919-715-3030"
+      ],
+      "email": [
+        "Rick.Horner@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "11"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

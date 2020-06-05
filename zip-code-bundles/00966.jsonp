@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00966",
+  "state": "PR",
+  "city": "Guaynabo",
+  "latitude": 18.398507,
+  "longitude": -66.11522,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "II",
+  "stateLowerDistrict": "6",
+  "people": [
+    {
+      "name": "Antonio L. Soto Torres",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-7e22dc7b-b52a-480d-b62f-a9e4b9c5fead.jpg",
+      "twitter": null,
+      "addresses": [
+        "3er. PISO MEDICINA TROPICAL"
+      ],
+      "phone": [
+        "787-725-2698"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "6"
+    },
+    {
+      "name": "Carmelo J. Ríos Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-senador-3.jpg%3FRenditionID%3D1",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "crios@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    },
+    {
+      "name": "Migdalia Padilla Alvelo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-senador-22.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mpadilla@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "II"
+    }
+  ]
+})

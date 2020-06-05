@@ -1,0 +1,191 @@
+callback({
+  "zipCode": "26541",
+  "state": "WV",
+  "city": "Maidsville",
+  "latitude": 39.69234,
+  "longitude": -79.97335,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "51",
+  "people": [
+    {
+      "name": "Barbara Evans Fleischauer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-fleischauer_barbara.jpg",
+      "twitter": null,
+      "addresses": [
+        "235 High Street, Suite 618;Morgantown, WV, 26505",
+        "Room 151R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3127"
+      ],
+      "email": [
+        "barbaraf@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "51"
+    },
+    {
+      "name": "Danielle Walker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-walker_danielle.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 230E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3900"
+      ],
+      "email": [
+        "danielle.walker@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "51"
+    },
+    {
+      "name": "Evan Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-hansen_evan.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3125"
+      ],
+      "email": [
+        "evan.hansen@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "51"
+    },
+    {
+      "name": "John Williams",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-williams_john.jpg",
+      "twitter": null,
+      "addresses": [
+        "4306 Kaustin Drive;Morgantown, WV, 26501",
+        "Room 6R-A, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-685-7669",
+        "304-340-3173"
+      ],
+      "email": [
+        "john.williams@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "51"
+    },
+    {
+      "name": "Rodney A. Pyles",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-pyles_rodney.jpg",
+      "twitter": null,
+      "addresses": [
+        "536 Harvard Avenue;Morgantown, WV, 26505",
+        "Room 233E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-599-6496",
+        "304-340-3153"
+      ],
+      "email": [
+        "rodney.pyles@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "51"
+    },
+    {
+      "name": "Charles H. Clements",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-clements_charles.jpg",
+      "twitter": null,
+      "addresses": [
+        "242 East Thistle Court;New Martinsville, WV, 26155",
+        "Room 217W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-455-5339",
+        "304-357-7827"
+      ],
+      "email": [
+        "charles.clements@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "2"
+    },
+    {
+      "name": "Mike Maroney",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-maroney_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "509 Wheeling Avenue;Glen Dale, WV, 26038",
+        "Room 439M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7902",
+        "304-357-7902"
+      ],
+      "email": [
+        "mike.maroney@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "2"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

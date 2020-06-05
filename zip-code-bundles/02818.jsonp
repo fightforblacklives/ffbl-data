@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "02818",
+  "state": "RI",
+  "city": "East Greenwich",
+  "latitude": 41.649733,
+  "longitude": -71.46815,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "30",
+  "people": [
+    {
+      "name": "Justine A. Caldwell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-caldwell.jpg",
+      "twitter": null,
+      "addresses": [
+        "8 Aurora Road, East Greenwich, RI 02818"
+      ],
+      "phone": [
+        "401-212-7320"
+      ],
+      "email": [
+        "rep-caldwell@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "30"
+    },
+    {
+      "name": "Bridget G. Valverde",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-valverde.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "401-276-5589"
+      ],
+      "email": [
+        "sen-valverde@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "35"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

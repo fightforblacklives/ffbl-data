@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "20764",
+  "state": "MD",
+  "city": "Shady Side",
+  "latitude": 38.839015,
+  "longitude": -76.5114,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "30B",
+  "people": [
+    {
+      "name": "Seth A. Howard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-howard01.jpg",
+      "twitter": null,
+      "addresses": [
+        "159 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3439"
+      ],
+      "email": [
+        "Seth.Howard@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "30B"
+    },
+    {
+      "name": "Sarah K. Elfreth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-elfreth01.jpg",
+      "twitter": null,
+      "addresses": [
+        "103 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3578"
+      ],
+      "email": [
+        "sarah.elfreth@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "30"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

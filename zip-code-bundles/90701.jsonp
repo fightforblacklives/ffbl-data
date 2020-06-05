@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "90701",
+  "state": "CA",
+  "city": "Artesia",
+  "latitude": 33.867215,
+  "longitude": -118.08062,
+  "congressionalDistrict": [
+    "38"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Cristina Garcia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-asm-c-garcia.jpg",
+      "twitter": null,
+      "addresses": [
+        "8255 Firestone Blvd, Suite 203;Downey, CA 90241",
+        "P.O. Box 942849;Sacramento, CA 94249-0058"
+      ],
+      "phone": [
+        "562-861-5803",
+        "916-319-2058"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "58"
+    },
+    {
+      "name": "Bob Archuleta",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-archuleta_bob.jpg",
+      "twitter": null,
+      "addresses": [
+        "12501 Imperial Highway, Suite 110, Norwalk, CA 90650",
+        "State Capitol, Room 4066, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "562-406-1001",
+        "916-651-4032"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "32"
+    },
+    {
+      "name": "Linda Sánchez",
+      "email": null,
+      "twitter": "RepLindaSanchez",
+      "addresses": [
+        "2329 Rayburn House Office Building; Washington DC 20515-0538"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-S001156.jpg",
+      "phone": "202-225-6676",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "38"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-Manalo_Victor%2145.jpg",
+      "name": "Victor Manalo",
+      "phone": "562-865-6262",
+      "email": "vmanalo@cityofartesia.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Artesia"
+    }
+  ]
+})

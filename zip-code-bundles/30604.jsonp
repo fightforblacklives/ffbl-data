@@ -1,0 +1,135 @@
+callback({
+  "zipCode": "30604",
+  "state": "GA",
+  "city": "Athens",
+  "latitude": 33.944339,
+  "longitude": -83.38908,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "117",
+  "people": [
+    {
+      "name": "Houston Gaines",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-GainesHouston4955.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1203;Athens, GA 30603",
+        "612-F Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0325"
+      ],
+      "email": [
+        "houston.gaines@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "117"
+    },
+    {
+      "name": "Bill Cowsert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-CowsertBill9.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 512;Athens, GA 30603",
+        "121- F State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "706-543-7700",
+        "404-463-1366"
+      ],
+      "email": [
+        "bill.cowsert@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "46"
+    },
+    {
+      "name": "Jody Hice",
+      "email": null,
+      "twitter": "congressmanhice",
+      "addresses": [
+        "409 Cannon House Office Building; Washington DC 20515-1010"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-H001071.jpg",
+      "phone": "202-225-4101",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Girtz_Kelly%2154548.jpg",
+      "name": "Kelly Girtz",
+      "phone": "706-613-3010",
+      "email": "kelly.girtz@accgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Athens"
+    }
+  ]
+})

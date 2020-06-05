@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "49745",
+  "state": "MI",
+  "city": "Hessel",
+  "latitude": 46.01207,
+  "longitude": -84.45048,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "107",
+  "people": [
+    {
+      "name": "Lee Chatfield",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-IMG_0024-191x300.jpg",
+      "twitter": null,
+      "addresses": [
+        "164 State Capitol Building;Lansing, MI 48909"
+      ],
+      "phone": [
+        "517-373-2629"
+      ],
+      "email": [
+        "LeeChatfield@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "107"
+    },
+    {
+      "name": "Wayne A Schmidt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-Schmidt.png",
+      "twitter": null,
+      "addresses": [
+        "S-8 State Capitol Building;Lansing, MI 48909"
+      ],
+      "phone": [
+        "517-373-2413"
+      ],
+      "email": [
+        "SenWSchmidt@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "37"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

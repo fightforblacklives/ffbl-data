@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "28083",
+  "state": "NC",
+  "city": "Kannapolis",
+  "latitude": 35.492989,
+  "longitude": -80.60293,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "83",
+  "people": [
+    {
+      "name": "Larry G. Pittman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-633.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 5959;Concord, NC 28027",
+        "16 West Jones Street, Rm. 1010;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "704-782-3528",
+        "919-715-2009"
+      ],
+      "email": [
+        "Larry.Pittman@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "83"
+    },
+    {
+      "name": "Paul Newton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-402.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2111;Raleigh, NC 27601-1096",
+        "300 N. Salisbury Street, Rm. 312;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-7223",
+        "919-733-7223"
+      ],
+      "email": [
+        "Paul.Newton@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "36"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Hinnant_M%212108.jpg",
+      "name": "M Darrell Hinnant",
+      "phone": "704-920-4300",
+      "email": "dhinnant@cityofkannapolis.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Kannapolis"
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08818",
+  "state": "NJ",
+  "city": "Edison",
+  "latitude": 40.430006,
+  "longitude": -74.417344,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "Nancy J. Pinkin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-pinkin_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 Stephenville Pkwy., Suite 2D;Edison, NJ 08820"
+      ],
+      "phone": [
+        "732-548-1406"
+      ],
+      "email": [
+        "AswPinkin@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "18"
+    },
+    {
+      "name": "Robert J. Karabinchak",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-karabinchak_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 Stephenville Pkwy., Suite 2D;Edison, NJ 08820"
+      ],
+      "phone": [
+        "732-548-1406"
+      ],
+      "email": [
+        "AsmKarabinchak@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "18"
+    },
+    {
+      "name": "Patrick J. Diegnan Jr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-diegnan_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "908 Oak Tree Ave., Unit P;South Plainfield, NJ 07080"
+      ],
+      "phone": [
+        "908-757-1677"
+      ],
+      "email": [
+        "SenDiegnan@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "18"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

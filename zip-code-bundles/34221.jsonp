@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "34221",
+  "state": "FL",
+  "city": "Palmetto",
+  "latitude": 27.549314,
+  "longitude": -82.55981,
+  "congressionalDistrict": [
+    "16"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "71",
+  "people": [
+    {
+      "name": "William Cloud \"Will\" Robinson , Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-4733.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 100; 717 Manatee Avenue West; Bradenton, FL 34205-8654",
+        "1401 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "941-708-4968",
+        "850-717-5071"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "71"
+    },
+    {
+      "name": "Bill Galvano",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-s21_5098.jpg",
+      "twitter": null,
+      "addresses": [
+        "1023 Manatee Avenue West; Suite 201; Bradenton, FL 34205",
+        "305 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "galvano.bill.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "21"
+    },
+    {
+      "name": "Vern Buchanan",
+      "email": null,
+      "twitter": "VernBuchanan",
+      "addresses": [
+        "2427 Rayburn House Office Building; Washington DC 20515-0916"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-B001260.jpg",
+      "phone": "202-225-5015",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

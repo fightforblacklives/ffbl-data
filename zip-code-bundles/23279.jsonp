@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "23279",
+  "state": "VA",
+  "city": "Richmond",
+  "latitude": 37.524246,
+  "longitude": -77.493157,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "69",
+  "people": [
+    {
+      "name": "Betsy B. Carr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-H0212",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 406;Richmond, Virginia 23218"
+      ],
+      "phone": [
+        "804-698-1069"
+      ],
+      "email": [
+        "DelBCarr@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "69"
+    },
+    {
+      "name": "Ghazala F. Hashmi",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Hashmi10.jpg",
+      "twitter": null,
+      "addresses": [
+        ";,"
+      ],
+      "phone": [
+        "804-698-7400"
+      ],
+      "email": [
+        "district10@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "10"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Stoney_Levar%2153221.jpg",
+      "name": "Levar Stoney",
+      "phone": "804-646-7970",
+      "email": "levar.stoney@richmondgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Richmond"
+    }
+  ]
+})

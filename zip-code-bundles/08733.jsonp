@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "08733",
+  "state": "NJ",
+  "city": "Lakehurst",
+  "latitude": 40.017117,
+  "longitude": -74.30491,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "Gregory P. McGuckin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-mcguckin_gregory_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "852 Highway 70;Brick, NJ 08724"
+      ],
+      "phone": [
+        "732-840-9028"
+      ],
+      "email": [
+        "AsmMcGuckin@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "10"
+    },
+    {
+      "name": "John Catalano",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-catalano_john_2020.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "AsmCatalano@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "10"
+    },
+    {
+      "name": "James W. Holzapfel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-holzapfel_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "852 Highway 70;Brick, NJ 08724"
+      ],
+      "phone": [
+        "732-840-9028"
+      ],
+      "email": [
+        "SenHolzapfel@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "10"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,97 @@
+callback({
+  "zipCode": "28645",
+  "state": "NC",
+  "city": "Lenoir",
+  "latitude": 35.934783,
+  "longitude": -81.54476,
+  "congressionalDistrict": [
+    "11",
+    "05"
+  ],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "87",
+  "people": [
+    {
+      "name": "Destin Hall",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-719.jpg",
+      "twitter": null,
+      "addresses": [
+        "606 College Ave SW;Lenoir, NC 28645",
+        "300 N. Salisbury Street, Rm. 530;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5931",
+        "919-733-5931"
+      ],
+      "email": [
+        "Destin.Hall@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "87"
+    },
+    {
+      "name": "Warren Daniel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-295.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 627;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 627;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-715-7823",
+        "919-715-7823"
+      ],
+      "email": [
+        "Warren.Daniel@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "46"
+    },
+    {
+      "name": "Mark Meadows",
+      "email": null,
+      "twitter": "RepMarkMeadows",
+      "addresses": [
+        "2160 Rayburn House Office Building; Washington DC 20515-3311"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M001187.jpg",
+      "phone": "202-225-6401",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

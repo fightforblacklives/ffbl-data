@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "80020",
+  "state": "CO",
+  "city": "Broomfield",
+  "latitude": 39.93404,
+  "longitude": -105.05454,
+  "congressionalDistrict": [
+    "02",
+    "07"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "33",
+  "people": [
+    {
+      "name": "Matt Gray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-2020a_gray%252C%2520matt.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4667"
+      ],
+      "email": [
+        "matt@matthewgray.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "33"
+    },
+    {
+      "name": "Vicki Marble",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-2020a_marble%252C%2520vicki.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4876"
+      ],
+      "email": [
+        "vicki.marble.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "23"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-Quinn_Patrick%2154818.jpg",
+      "name": "Patrick Quinn",
+      "phone": "303-623-1580",
+      "email": "pquinn@broomfieldcitycouncil.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Broomfield"
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57328",
+  "state": "SD",
+  "city": "Corsica",
+  "latitude": 43.438138,
+  "longitude": -98.44031,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "19",
+  "people": [
+    {
+      "name": "Kent Peterson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Peterson_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "720 N. Dakota St.;Salem, SD 57058"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Kent.Peterson@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "19"
+    },
+    {
+      "name": "Kyle Schoenfish",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Schoenfish_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "42472 Maxwell Rd.;Scotland, SD 57059"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Kyle.Schoenfish@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "19"
+    },
+    {
+      "name": "Stace Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-Nelson_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "24739 420th Ave.;Fulton, SD 57340"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Stace.Nelson@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "19"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

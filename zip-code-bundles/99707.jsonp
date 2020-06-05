@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "99707",
+  "state": "AK",
+  "city": "Fairbanks",
+  "latitude": 64.699839,
+  "longitude": -147.405134,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "C",
+  "stateLowerDistrict": "5",
+  "people": [
+    {
+      "name": "Adam Wool",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-woo.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 412; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-4976"
+      ],
+      "email": [
+        "Representative.Adam.Wool@akleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AK",
+      "district": "5"
+    },
+    {
+      "name": "Click Bishop",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-bis.jpg",
+      "twitter": null,
+      "addresses": [
+        "State Capitol Room 121; Juneau AK, 99801"
+      ],
+      "phone": [
+        "907-465-2327"
+      ],
+      "email": [
+        "Senator.Click.Bishop@akleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AK",
+      "district": "C"
+    },
+    {
+      "name": "Dan Sullivan",
+      "email": null,
+      "twitter": "SenDanSullivan",
+      "addresses": [
+        "302 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-S001198.jpg",
+      "phone": "202-224-3004",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "email": null,
+      "twitter": "LisaMurkowski",
+      "addresses": [
+        "522 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-M001153.jpg",
+      "phone": "202-224-6665",
+      "type": "US Senator",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Dunleavy",
+      "addresses": [
+        "State Capitol State Capitol Juneau AK 99811-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-ak_dunleavy.png",
+      "twitter": "govdunleavy",
+      "email": null,
+      "phone": "907-465-3500",
+      "type": "Governor",
+      "state": "AK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Matherly_Jim%2153134.jpg",
+      "name": "Jim Matherly",
+      "phone": "907-459-6793",
+      "email": "jmatherly@fairbanks.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AK",
+      "city": "Fairbanks"
+    }
+  ]
+})

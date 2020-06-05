@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "32235",
+  "state": "FL",
+  "city": "Jacksonville",
+  "latitude": 30.34494,
+  "longitude": -81.683107,
+  "congressionalDistrict": [
+    "05",
+    "04"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "13",
+  "people": [
+    {
+      "name": "Tracie Davis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-4651.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 402; 101 East Union Street; Jacksonville, FL 32202-3065",
+        "200 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "904-353-2180",
+        "850-717-5013"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "13"
+    },
+    {
+      "name": "Audrey Gibson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-s06_4765.jpg",
+      "twitter": null,
+      "addresses": [
+        "101 East Union Street; Suite 104; Jacksonville, FL 32202",
+        "200 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "gibson.audrey.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "6"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Curry_Lenny%21560.JPG",
+      "name": "Lenny Curry",
+      "phone": "904-630-1776",
+      "email": "mayorlennycurry@coj.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Jacksonville"
+    }
+  ]
+})

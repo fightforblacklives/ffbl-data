@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "04937",
+  "state": "ME",
+  "city": "Fairfield",
+  "latitude": 44.603329,
+  "longitude": -69.63627,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "108",
+  "people": [
+    {
+      "name": "Shelley Rudnicki",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-f5ef18ca-04bc-4226-a57d-0857e0087153_rudnicki.jpg",
+      "twitter": null,
+      "addresses": [
+        "211 Norridgewock Road, Fairfield, ME 04937"
+      ],
+      "phone": [],
+      "email": [
+        "Shelley.Rudnicki@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "108"
+    },
+    {
+      "name": "Scott W. Cyrway",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-cyrway-headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "363 Albion Road;Benton, ME 04901"
+      ],
+      "phone": [
+        "207-453-7787"
+      ],
+      "email": [
+        "Scott.Cyrway@legislature.maine.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "16"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "98201",
+  "state": "WA",
+  "city": "Everett",
+  "latitude": 47.986274,
+  "longitude": -122.20222,
+  "congressionalDistrict": [
+    "01",
+    "02"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "June Robinson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-robinson.jpg",
+      "twitter": null,
+      "addresses": [
+        "332 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7864"
+      ],
+      "email": [
+        "June.Robinson@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "38"
+    },
+    {
+      "name": "Mike Sells",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-sells.jpg",
+      "twitter": null,
+      "addresses": [
+        "438B Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7840"
+      ],
+      "email": [
+        "Mike.Sells@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "38"
+    },
+    {
+      "name": "John McCoy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-mccoy.jpg",
+      "twitter": null,
+      "addresses": [
+        "305 Legislative Building;PO Box 40438;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7674"
+      ],
+      "email": [
+        "John.McCoy@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "38"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Franklin_Cassie%2154033.jpg",
+      "name": "Cassie Franklin",
+      "phone": "425-257-8700",
+      "email": "cfranklin@everettwa.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Everett"
+    }
+  ]
+})

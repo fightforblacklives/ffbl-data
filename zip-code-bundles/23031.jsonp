@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "23031",
+  "state": "VA",
+  "city": "Christchurch",
+  "latitude": 37.598391,
+  "longitude": -76.447551,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "98",
+  "people": [
+    {
+      "name": "M. Keith Hodges",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-H0238",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 928;Urbanna, Virginia 23175"
+      ],
+      "phone": [
+        "804-277-9801"
+      ],
+      "email": [
+        "DelKHodges@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "98"
+    },
+    {
+      "name": "Ryan T. McDougle",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/McDougle04.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 187;Mechanicsville, Virginia 23111"
+      ],
+      "phone": [
+        "804-730-1026"
+      ],
+      "email": [
+        "district04@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "4"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

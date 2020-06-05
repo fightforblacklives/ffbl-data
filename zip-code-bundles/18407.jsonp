@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "18407",
+  "state": "PA",
+  "city": "Carbondale",
+  "latitude": 41.583517,
+  "longitude": -75.51015,
+  "congressionalDistrict": [
+    "12",
+    "08"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "114",
+  "people": [
+    {
+      "name": "Bridget M. Kosierowski",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-1866.jpg",
+      "twitter": null,
+      "addresses": [
+        "802 South Main Street Taylor, PA 18517",
+        "106B East Wing PO Box 202114 Harrisburg, PA"
+      ],
+      "phone": [
+        "570-562-2350",
+        "717-783-4874"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "PA",
+      "district": "114"
+    },
+    {
+      "name": "John P. Blake",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-1227.jpg",
+      "twitter": null,
+      "addresses": [
+        "Oppenheim Building 409 Lackawanna Ave. Suite 210;Scranton, PA 18503",
+        "Senate Box 203022;Harrisburg, PA 17120-3022;Room:;17 East Wing"
+      ],
+      "phone": [
+        "877-346-5721",
+        "717-787-6481"
+      ],
+      "email": [
+        "senatorblake@pasenate.com",
+        "senatorblake@pasenate.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "PA",
+      "district": "22"
+    },
+    {
+      "name": "Fred Keller",
+      "email": null,
+      "twitter": "RepFredKeller",
+      "addresses": [
+        "1717 Longworth House Office Building; Washington DC 20515-3812"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-K000395.jpg",
+      "phone": "202-225-3731",
+      "type": "US Representative",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

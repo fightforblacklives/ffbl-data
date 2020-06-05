@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "02919",
+  "state": "RI",
+  "city": "Johnston",
+  "latitude": 41.825131999999996,
+  "longitude": -71.49468,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "43",
+  "people": [
+    {
+      "name": "Deborah A. Fellela",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-fellela.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 Diaz Street, Johnston, RI 02919"
+      ],
+      "phone": [
+        "401-231-2014"
+      ],
+      "email": [
+        "rep-fellela@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "43"
+    },
+    {
+      "name": "Frank Lombardo III",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-lombardo.jpg",
+      "twitter": null,
+      "addresses": [
+        "68 Rollingwood Drive, Johnston 02919"
+      ],
+      "phone": [
+        "401-270-1379"
+      ],
+      "email": [
+        "sen-lombardo@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "25"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

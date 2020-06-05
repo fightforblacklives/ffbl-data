@@ -1,0 +1,98 @@
+callback({
+  "zipCode": "19810",
+  "state": "DE",
+  "city": "Wilmington",
+  "latitude": 39.817645,
+  "longitude": -75.50242,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Raymond Seigfried",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-placeholder_leg.png",
+      "twitter": null,
+      "addresses": [
+        "411 Legislative Ave. Dover, DE 19901"
+      ],
+      "phone": [
+        "302-744-4351"
+      ],
+      "email": [
+        "Ray.Seigfried@state.de.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "DE",
+      "district": "7"
+    },
+    {
+      "name": "Catherine Cloutier",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-CatherineCloutier.jpg%3Fsfvrsn%3D2",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "DE",
+      "district": "5"
+    },
+    {
+      "name": "Chris Coons",
+      "email": null,
+      "twitter": "ChrisCoons",
+      "addresses": [
+        "218 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-C001088.jpg",
+      "phone": "202-224-5042",
+      "type": "US Senator",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Thomas Carper",
+      "email": null,
+      "twitter": "SenatorCarper",
+      "addresses": [
+        "513 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-C000174.jpg",
+      "phone": "202-224-2441",
+      "type": "US Senator",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "John Carney",
+      "addresses": [
+        "Legislative Hall Dover DE 19902"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-de_carney.png",
+      "twitter": "JohnCarneyDE",
+      "email": null,
+      "phone": "302-744-4101",
+      "type": "Governor",
+      "state": "DE",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-Purzycki_Michael%2153226.jpg",
+      "name": "Michael S. Purzycki",
+      "phone": "302-576-2100",
+      "email": "mspurzycki@wilmingtonde.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "DE",
+      "city": "Wilmington"
+    }
+  ]
+})

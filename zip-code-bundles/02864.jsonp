@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "02864",
+  "state": "RI",
+  "city": "Cumberland",
+  "latitude": 41.949099,
+  "longitude": -71.41181,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "52",
+  "people": [
+    {
+      "name": "Alex Marszalkowski",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-marszalkowski.jpg",
+      "twitter": null,
+      "addresses": [
+        "140 Sumner Brown Road Cumberland, RI 02864 "
+      ],
+      "phone": [
+        "401-714-4425"
+      ],
+      "email": [
+        "rep-Marszalkowski@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "52"
+    },
+    {
+      "name": "Ryan W. Pearson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-pearson.jpg",
+      "twitter": null,
+      "addresses": [
+        "23 Circuit Drive, Cumberland, RI 02864"
+      ],
+      "phone": [
+        "401-276-5568"
+      ],
+      "email": [
+        "sen-pearson@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "19"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-Mutter_Jeffrey%2154549.jpg",
+      "name": "Jeffrey J. Mutter",
+      "phone": "401-728-2400",
+      "email": "jmutter@cumberlandri.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "Cumberland"
+    }
+  ]
+})

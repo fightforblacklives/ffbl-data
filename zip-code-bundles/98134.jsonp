@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "98134",
+  "state": "WA",
+  "city": "Seattle",
+  "latitude": 47.57867,
+  "longitude": -122.33441,
+  "congressionalDistrict": [
+    "09",
+    "07"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "11",
+  "people": [
+    {
+      "name": "Steve Bergquist",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-bergquist.jpg",
+      "twitter": null,
+      "addresses": [
+        "322 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7862"
+      ],
+      "email": [
+        "Steve.Bergquist@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "11"
+    },
+    {
+      "name": "Zack Hudgins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-hudgins.jpg",
+      "twitter": null,
+      "addresses": [
+        "438A Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7956"
+      ],
+      "email": [
+        "Zack.Hudgins@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "11"
+    },
+    {
+      "name": "Bob Hasegawa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-hasegawa.jpg",
+      "twitter": null,
+      "addresses": [
+        "223 John A. Cherberg Building;PO Box 40411;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7616"
+      ],
+      "email": [
+        "Bob.Hasegawa@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "11"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-Durkan_Jenny%2153935.jpg",
+      "name": "Jenny A. Durkan",
+      "phone": "206-684-4000",
+      "email": "jenny.durkan@seattle.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Seattle"
+    }
+  ]
+})

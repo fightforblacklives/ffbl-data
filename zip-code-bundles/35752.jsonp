@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "35752",
+  "state": "AL",
+  "city": "Hollywood",
+  "latitude": 34.745259,
+  "longitude": -85.94729,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Tommy Hanes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Hanes_23.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 527-D;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0551"
+      ],
+      "email": [
+        "jhanes55@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "23"
+    },
+    {
+      "name": "Steve Livingston",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-Livingston_8.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 731;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0858"
+      ],
+      "email": [
+        "steve.livingston@alsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "8"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

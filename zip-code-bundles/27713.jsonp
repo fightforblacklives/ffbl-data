@@ -1,0 +1,89 @@
+callback({
+  "zipCode": "27713",
+  "state": "NC",
+  "city": "Durham",
+  "latitude": 35.905765,
+  "longitude": -78.92113,
+  "congressionalDistrict": [
+    "04",
+    "02",
+    "01",
+    "06"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Robert T. Reives, II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-684.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1323;Raleigh, NC 27601-1096",
+        "16 West Jones Street, Rm. 1323;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "919-733-0057",
+        "919-733-0057"
+      ],
+      "email": [
+        "Robert.Reives@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "54"
+    },
+    {
+      "name": "Henry M. Michaux, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-High",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "20"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Schewel_Steve%2153971.jpg",
+      "name": "Steve Schewel",
+      "phone": "919-560-4396",
+      "email": "steve.schewel@durhamnc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Durham"
+    }
+  ]
+})

@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "78301",
+  "state": "TX",
+  "city": "McAllen",
+  "latitude": 26.200001,
+  "longitude": -98.231166,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Bobby Guerra",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-2325.jpg",
+      "twitter": null,
+      "addresses": [
+        "10213 North 10th St. Suite B;McAllen, Texas 78504",
+        "Room GN.12;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "956-292-0407",
+        "512-463-0578"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "41"
+    },
+    {
+      "name": "Eddie Lucio, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "700 FM 3168 Raymondville, TX 78580",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "956-689-1860",
+        "512-463-0127"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "TX",
+      "district": "27"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Darling_James%21712.jpg",
+      "name": "James E. Darling",
+      "phone": "956-681-1020",
+      "email": "jdarling@mcallen.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "TX",
+      "city": "McAllen"
+    }
+  ]
+})

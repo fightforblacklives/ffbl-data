@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "60940",
+  "state": "IL",
+  "city": "Grant Park",
+  "latitude": 41.244016,
+  "longitude": -87.64464,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Nicholas K. Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-%7B4D7D283C-73C8-40F8-A3F0-7FA9301456F5%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "113 E. 95th Street;Suite A;Chicago, IL 60619",
+        "282-S Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "773-783-8800",
+        "217-782-6476"
+      ],
+      "email": [
+        "repsmith34@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "34"
+    },
+    {
+      "name": "Elgie R. Sims, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-%7B1EAF7721-A189-4CD1-B31D-CD39F79DBD04%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "8658 S. Cottage Grove Ave.;Suite 404;Chicago, IL 60619",
+        "417B Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "773-933-7715",
+        "217-782-3201"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "17"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

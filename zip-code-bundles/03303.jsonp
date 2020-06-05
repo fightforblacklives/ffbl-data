@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "03303",
+  "state": "NH",
+  "city": "Concord",
+  "latitude": 43.283796,
+  "longitude": -71.63832,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "Merrimack 8",
+  "people": [
+    {
+      "name": "Robert L. Forsythe",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "41 Forest Lane;Boscawen, NH 03303-2421"
+      ],
+      "phone": [
+        "805-708-2665"
+      ],
+      "email": [
+        "docrlf@yahoo.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Merrimack 8"
+    },
+    {
+      "name": "Harold F. French",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-07.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-4063"
+      ],
+      "email": [
+        "Harold.French@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "7"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-Bouley_Jim%21245.jpg",
+      "name": "Jim Bouley",
+      "phone": "603-753-4533",
+      "email": "cityclerk@concordnh.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NH",
+      "city": "Concord"
+    }
+  ]
+})

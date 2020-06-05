@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "40469",
+  "state": "KY",
+  "city": "Brodhead",
+  "latitude": 37.40382,
+  "longitude": -84.405839,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "71",
+  "people": [
+    {
+      "name": "R. Travis Brenda",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-house71.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 316E;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 651"
+      ],
+      "email": [
+        "Travis.Brenda@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "71"
+    },
+    {
+      "name": "Jared Carpenter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-senate134.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 209;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 730"
+      ],
+      "email": [
+        "Jared.Carpenter@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "34"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

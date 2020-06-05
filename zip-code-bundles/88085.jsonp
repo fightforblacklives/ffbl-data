@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "88085",
+  "state": "NM",
+  "city": "Las Cruces",
+  "latitude": 32.336251,
+  "longitude": -106.792993,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Angelica Rubio",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-HRUBI.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2155;Las Cruces, NM 88004",
+        "Room 203A State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "575-616-1090",
+        "505-986-4227"
+      ],
+      "email": [
+        "angelica.rubio@nmlegis.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "35"
+    },
+    {
+      "name": "Jeff Steinborn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-SSTEI.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 562;Las Cruces, NM 88004",
+        "Room 416F State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-986-4862"
+      ],
+      "email": [
+        "jeff.steinborn@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "36"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Miyagishima_Ken%21620.jpg",
+      "name": "Kenneth D. Miyagishima",
+      "phone": "575-541-2067",
+      "email": "mayor@las-cruces.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NM",
+      "city": "Las Cruces"
+    }
+  ]
+})

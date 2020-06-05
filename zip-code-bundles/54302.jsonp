@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "54302",
+  "state": "WI",
+  "city": "Green Bay",
+  "latitude": 44.505781999999996,
+  "longitude": -87.97947,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "90",
+  "people": [
+    {
+      "name": "Staush Gruszynski",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "Room 15 West;State Capitol;PO Box 8952;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-0616"
+      ],
+      "email": [
+        "Rep.Gruszynski@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "90"
+    },
+    {
+      "name": "Dave Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-1903.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 323 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-5670"
+      ],
+      "email": [
+        "Sen.Hansen@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "30"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-Genrich_Eric%2154705.jpg",
+      "name": "Eric Genrich",
+      "phone": "920-448-3005",
+      "email": "mayorgenrich@greenbaywi.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Green Bay"
+    }
+  ]
+})

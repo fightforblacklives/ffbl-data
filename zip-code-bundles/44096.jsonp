@@ -1,0 +1,70 @@
+callback({
+  "zipCode": "44096",
+  "state": "OH",
+  "city": "Willoughby",
+  "latitude": 41.910676,
+  "longitude": -81.249027,
+  "congressionalDistrict": [
+    "14"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "name": "David Joyce",
+      "email": null,
+      "twitter": "RepDaveJoyce",
+      "addresses": [
+        "1124 Longworth House Office Building; Washington DC 20515-3514"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-J000295.jpg",
+      "phone": "202-225-5731",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

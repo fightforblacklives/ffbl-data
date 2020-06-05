@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "83013",
+  "state": "WY",
+  "city": "Moran",
+  "latitude": 44.04215,
+  "longitude": -110.97876,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Andy Schwartz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-schwartzaH23.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2654, Jackson WY 83001"
+      ],
+      "phone": [
+        "307-413-6464"
+      ],
+      "email": [
+        "Andy.Schwartz@wyoleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WY",
+      "district": "23"
+    },
+    {
+      "name": "Mike Gierau",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-GierauMH16.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2975, Jackson WY 83001"
+      ],
+      "phone": [
+        "307-413-0109"
+      ],
+      "email": [
+        "Mike.Gierau@wyoleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WY",
+      "district": "17"
+    },
+    {
+      "name": "John Barrasso",
+      "email": null,
+      "twitter": "SenJohnBarrasso",
+      "addresses": [
+        "307 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "phone": "202-224-6441",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Enzi",
+      "email": null,
+      "twitter": "SenatorEnzi",
+      "addresses": [
+        "379A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "phone": "202-224-3424",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mark Gordon",
+      "addresses": [
+        "State Capitol Building, Room 124 Cheyenne WY 82002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "twitter": "GordonGovernor",
+      "email": null,
+      "phone": "307-777-7434",
+      "type": "Governor",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "98290",
+  "state": "WA",
+  "city": "Snohomish",
+  "latitude": 47.930902,
+  "longitude": -122.03976,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "44",
+  "stateLowerDistrict": "44",
+  "people": [
+    {
+      "name": "Jared Mead",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-mead.jpg",
+      "twitter": null,
+      "addresses": [
+        "336 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7892"
+      ],
+      "email": [
+        "Jared.Mead@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "44"
+    },
+    {
+      "name": "John Lovick",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-lovick.jpg",
+      "twitter": null,
+      "addresses": [
+        "429B Legislative Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7804"
+      ],
+      "email": [
+        "John.Lovick@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "44"
+    },
+    {
+      "name": "Steve Hobbs",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-hobbs.jpg",
+      "twitter": null,
+      "addresses": [
+        "305 John A. Cherberg Building;PO Box 40444;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7686"
+      ],
+      "email": [
+        "Steve.Hobbs@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "44"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57312",
+  "state": "SD",
+  "city": "Alpena",
+  "latitude": 44.195319,
+  "longitude": -98.3734,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "Lance R Koth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "1311 Firesteel Dr.;Mitchell, SD 57301"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Lance.Koth@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "20"
+    },
+    {
+      "name": "Paul R Miskimins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "1225 Summit Dr.;Mitchell, SD 57301"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Paul.Miskimins@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "20"
+    },
+    {
+      "name": "Joshua Klumb",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Klumb_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "26296 401st Ave.;Mount Vernon, SD 57363"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Joshua.Klumb@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "20"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

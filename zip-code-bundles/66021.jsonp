@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "66021",
+  "state": "KS",
+  "city": "Edgerton",
+  "latitude": 38.762545,
+  "longitude": -95.00622,
+  "congressionalDistrict": [
+    "02",
+    "03"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "43",
+  "people": [
+    {
+      "name": "Bill Sutton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-rep_sutton_william_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 274-W;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7676"
+      ],
+      "email": [
+        "bill.sutton@house.ks.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KS",
+      "district": "43"
+    },
+    {
+      "name": "Molly Baumgardner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-sen_baumgardner_molly_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 445-S;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7368"
+      ],
+      "email": [
+        "Molly.Baumgardner@senate.ks.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KS",
+      "district": "37"
+    },
+    {
+      "name": "Jerry Moran",
+      "email": null,
+      "twitter": "JerryMoran",
+      "addresses": [
+        "521 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M000934.jpg",
+      "phone": "202-224-6521",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Pat Roberts",
+      "email": null,
+      "twitter": "SenPatRoberts",
+      "addresses": [
+        "109 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-R000307.jpg",
+      "phone": "202-224-4774",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Laura Kelly",
+      "addresses": [
+        "Capitol, 300 SW 10th Avenue  Capitol, 300 SW 10th Avenue  Topeka KS 66612-1590"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-ks_kelly.png",
+      "twitter": "GovLauraKelly",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KS",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "80212",
+  "state": "CO",
+  "city": "Denver",
+  "latitude": 39.770336,
+  "longitude": -105.04688,
+  "congressionalDistrict": [
+    "07",
+    "01"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "4",
+  "people": [
+    {
+      "name": "Serena Gonzales-Gutierrez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-2020a_gonzales-gutierrez%252C%2520serena.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2954"
+      ],
+      "email": [
+        "serena.gonzales-gutierrez.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "4"
+    },
+    {
+      "name": "Julie Gonzales",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-2020a_gonzales%252C%2520julie.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4862"
+      ],
+      "email": [
+        "julie.gonzales.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "34"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-Hancock_Michael%21291.JPG",
+      "name": "Michael B. Hancock",
+      "phone": "720-865-9090",
+      "email": "mayorsoffice@denvergov.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Denver"
+    }
+  ]
+})

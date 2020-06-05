@@ -1,0 +1,156 @@
+callback({
+  "zipCode": "25054",
+  "state": "WV",
+  "city": "Dawes",
+  "latitude": 38.108987,
+  "longitude": -81.46418,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Amanda Estep-Burton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-estepburton_amanda.jpg",
+      "twitter": null,
+      "addresses": [
+        "49 Ashworth Drive;Charleston, WV, 25309",
+        "Room 229E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-415-7780",
+        "304-340-3138"
+      ],
+      "email": [
+        "amanda.estepburton@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "36"
+    },
+    {
+      "name": "Andrew Robinson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-robinson_andrew.jpg",
+      "twitter": null,
+      "addresses": [
+        "5506 Staunton Avenue;Charleston, WV, 25304",
+        "Room 151R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-545-7378",
+        "304-340-3156"
+      ],
+      "email": [
+        "andrew.robinson@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "36"
+    },
+    {
+      "name": "Larry L. Rowe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-rowe_larry.jpg",
+      "twitter": null,
+      "addresses": [
+        "202 Wayne Isaac Lane;Charleston, WV, 25306",
+        "Room 6R-A, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-925-9382",
+        "304-340-3287"
+      ],
+      "email": [
+        "larry.rowe@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "36"
+    },
+    {
+      "name": "Corey Palumbo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-palumbo_corey.jpg",
+      "twitter": null,
+      "addresses": [
+        "1206 Williamsburg Way;Charleston, WV, 25314",
+        "Room 209W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-746-7933",
+        "304-357-7854"
+      ],
+      "email": [
+        "corey.palumbo@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "17"
+    },
+    {
+      "name": "Tom Takubo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-takubo_tom.jpg",
+      "twitter": null,
+      "addresses": [
+        "101 Bowling Lane;Charleston, WV, 25314",
+        "Room 227M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-306-4118",
+        "304-357-7990"
+      ],
+      "email": [
+        "tom.takubo@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "17"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

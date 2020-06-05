@@ -1,0 +1,116 @@
+callback({
+  "zipCode": "25165",
+  "state": "WV",
+  "city": "Racine",
+  "latitude": 38.140732,
+  "longitude": -81.66005,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Rodney Miller",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-miller_rodney.jpg",
+      "twitter": null,
+      "addresses": [
+        "325 1st Street West;Madison, WV, 25130",
+        "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-369-6022",
+        "304-340-3184"
+      ],
+      "email": [
+        "rodney.miller@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "23"
+    },
+    {
+      "name": "Richard Ojeda",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-ojeda_richard.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 624;Holden, WV, 25625",
+        "Room 213W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-792-9833",
+        "304-357-7857"
+      ],
+      "email": [
+        "richard.ojeda@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "7"
+    },
+    {
+      "name": "Ron Stollings",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-stollings_ron.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 365;Madison, WV, 25130",
+        "Room 209W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-369-6194",
+        "304-357-7939"
+      ],
+      "email": [
+        "ron.stollings@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "7"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

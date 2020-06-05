@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57257",
+  "state": "SD",
+  "city": "Peever",
+  "latitude": 45.478644,
+  "longitude": -97.02057,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Steven D McCleerey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-McCleerey_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "45708 116th St.;Sisseton, SD 57262"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Steven.McCleerey@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "SD",
+      "district": "1"
+    },
+    {
+      "name": "Tamara St. John",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "702 Old Agency Dr. #142;Sisseton, SD 57262"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Tamara.StJohn@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "1"
+    },
+    {
+      "name": "Susan Wismer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Wismer_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 147;Britton, SD 57430"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Susan.Wismer@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "SD",
+      "district": "1"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

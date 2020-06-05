@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57006",
+  "state": "SD",
+  "city": "Brookings",
+  "latitude": 44.305418,
+  "longitude": -96.7906,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Doug Post",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "21692 466th Ave.;Volga, SD 57071"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Doug.Post@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "7"
+    },
+    {
+      "name": "Tim Reed",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Reed_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "627 Medary Ave.;Brookings, SD 57006"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Tim.Reed@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "7"
+    },
+    {
+      "name": "V. J. Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "PO Box 742;Brookings, SD 57006"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "VJ.Smith@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "7"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

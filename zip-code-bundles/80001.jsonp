@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "80001",
+  "state": "CO",
+  "city": "Arvada",
+  "latitude": 39.522014,
+  "longitude": -105.223945,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Lisa Cutter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-2020a_cutter%252C%2520lisa.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2582"
+      ],
+      "email": [
+        "lisa.cutter.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "25"
+    },
+    {
+      "name": "Tammy Story",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-2020a_story%252C%2520tammy.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4873"
+      ],
+      "email": [
+        "tammy.story.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "16"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Williams_Marc%2146.JPG",
+      "name": "Marc Williams",
+      "phone": "720-898-7000",
+      "email": "mwilliams@arvada.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Arvada"
+    }
+  ]
+})

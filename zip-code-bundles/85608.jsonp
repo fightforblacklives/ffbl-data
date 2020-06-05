@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "85608",
+  "state": "AZ",
+  "city": "Douglas",
+  "latitude": 31.569536,
+  "longitude": -109.23407,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "Becky A. Nutt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-NUTT.png",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 207;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4852"
+      ],
+      "email": [
+        "bnutt@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "14"
+    },
+    {
+      "name": "Gail Griffin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-GRIFFIN.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 225;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5895"
+      ],
+      "email": [
+        "ggriffin@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "14"
+    },
+    {
+      "name": "David Gowan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-GOWAN.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 200;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5154"
+      ],
+      "email": [
+        "dgowan@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "14"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

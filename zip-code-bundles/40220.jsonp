@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "40220",
+  "state": "KY",
+  "city": "Louisville",
+  "latitude": 38.214982,
+  "longitude": -85.62207,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "31",
+  "people": [
+    {
+      "name": "Josie Raymond",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-house31.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 451B;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 616"
+      ],
+      "email": [
+        "Josie.Raymond@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "31"
+    },
+    {
+      "name": "Morgan McGarvey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-senate119.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 254;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-2470"
+      ],
+      "email": [
+        "Morgan.McGarvey@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "19"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Fischer_Greg%21668.JPG",
+      "name": "Greg Fischer",
+      "phone": "502-574-2003",
+      "email": "greg.fischer@louisvilleky.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Louisville"
+    }
+  ]
+})

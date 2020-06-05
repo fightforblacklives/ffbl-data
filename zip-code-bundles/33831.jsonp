@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "33831",
+  "state": "FL",
+  "city": "Bartow",
+  "latitude": 27.955426,
+  "longitude": -81.951673,
+  "congressionalDistrict": [
+    "17"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Colleen Burton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-4616.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 260; 100 South Kentucky Avenue; Lakeland, FL 33801-5093",
+        "214 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "863-413-2640",
+        "850-717-5040"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "40"
+    },
+    {
+      "name": "Ben Albritton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-s26_5342.jpg",
+      "twitter": null,
+      "addresses": [
+        "410 Taylor Street, Suite 106; Punta Gorda, FL 33950",
+        "308 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "albritton.ben.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "26"
+    },
+    {
+      "name": "W. Steube",
+      "email": null,
+      "twitter": "RepGregSteube",
+      "addresses": [
+        "521 Cannon House Office Building; Washington DC 20515-0917"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-S001214.jpg",
+      "phone": "202-225-5792",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "17"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

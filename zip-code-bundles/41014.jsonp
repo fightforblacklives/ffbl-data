@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "41014",
+  "state": "KY",
+  "city": "Covington",
+  "latitude": 39.067811,
+  "longitude": -84.5039,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "Buddy Wheatley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-house65.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 462A;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 722"
+      ],
+      "email": [
+        "Buddy.Wheatley@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "65"
+    },
+    {
+      "name": "Christian McDaniel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-senate123.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 204;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 615"
+      ],
+      "email": [
+        "Chris.McDaniel@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "23"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Meyer_Joseph%2153242.jpg",
+      "name": "Joseph U. Meyer",
+      "phone": "859-292-2334",
+      "email": "jumeyer@covingtonky.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Covington"
+    }
+  ]
+})

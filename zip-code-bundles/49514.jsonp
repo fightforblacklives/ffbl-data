@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "49514",
+  "state": "MI",
+  "city": "Grand Rapids",
+  "latitude": 43.031413,
+  "longitude": -85.550267,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "73",
+  "people": [
+    {
+      "name": "Lynn Afendoulis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-HS_AFNDOULIS_0119-214x300.jpg",
+      "twitter": null,
+      "addresses": [
+        "N1092 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
+      ],
+      "phone": [
+        "517-373-0218"
+      ],
+      "email": [
+        "LynnAfendoulis@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "73"
+    },
+    {
+      "name": "Peter MacGregor",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-MacGregor.png",
+      "twitter": null,
+      "addresses": [
+        "S-132 State Capitol Building;Lansing, MI 48909"
+      ],
+      "phone": [
+        "517-373-0797"
+      ],
+      "email": [
+        "SenPMacGregor@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "28"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Bliss_Rosalynn%21454.JPG",
+      "name": "Rosalynn Bliss",
+      "phone": "616-456-3168",
+      "email": "rbliss@grand-rapids.mi.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MI",
+      "city": "Grand Rapids"
+    }
+  ]
+})

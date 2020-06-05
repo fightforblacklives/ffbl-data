@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00783",
+  "state": "PR",
+  "city": "Corozal",
+  "latitude": 18.304874,
+  "longitude": -66.32305,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VI",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Rafael Rivera Ortega",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-56d9c1fd-bcc0-49bf-a566-b1689aa1cdd7.jpg",
+      "twitter": null,
+      "addresses": [
+        "SOTANO CAPITOLIO"
+      ],
+      "phone": [
+        "787-977-2418"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "28"
+    },
+    {
+      "name": "Axel F. Roque Gracia",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "aroque@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    },
+    {
+      "name": "Carlos J. Rodríguez Mateo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "cjrodriguez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VI"
+    }
+  ]
+})

@@ -1,0 +1,103 @@
+callback({
+  "zipCode": "32176",
+  "state": "FL",
+  "city": "Ormond Beach",
+  "latitude": 29.316606,
+  "longitude": -81.05611,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Thomas J. \"Tom\" Leek",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-4662.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 240; 1540 Cornerstone Boulevard; Daytona Beach, FL 32117-7144",
+        "402 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "386-238-4865",
+        "850-717-5025"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "25"
+    },
+    {
+      "name": "Travis Hutson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s07_5186.jpg",
+      "twitter": null,
+      "addresses": [
+        "4875 Palm Coast Parkway, NW; Suite 5; Palm Coast, FL 32137",
+        "314 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "hutson.travis.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "7"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-Partington_Bill%2153147.jpg",
+      "name": "Bill Partington",
+      "phone": "386-871-8232",
+      "email": "bill.partington@ormondbeach.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Ormond Beach"
+    }
+  ]
+})

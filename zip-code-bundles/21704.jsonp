@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "21704",
+  "state": "MD",
+  "city": "Frederick",
+  "latitude": 39.363415,
+  "longitude": -77.37849,
+  "congressionalDistrict": [
+    "06",
+    "08"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "3B",
+  "people": [
+    {
+      "name": "Ken Kerr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-kerr01.jpg",
+      "twitter": null,
+      "addresses": [
+        "209 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3240"
+      ],
+      "email": [
+        "ken.kerr@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "3B"
+    },
+    {
+      "name": "Ronald N. Young",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-young.jpg",
+      "twitter": null,
+      "addresses": [
+        "301 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3575"
+      ],
+      "email": [
+        "ronald.young@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "3"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-OConnor_Michael%2154009.jpg",
+      "name": "Michael O'Connor",
+      "phone": "301-600-1385",
+      "email": "moconnor@cityoffrederick.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Frederick"
+    }
+  ]
+})

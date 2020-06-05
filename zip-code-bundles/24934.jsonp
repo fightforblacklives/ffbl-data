@@ -1,0 +1,136 @@
+callback({
+  "zipCode": "24934",
+  "state": "WV",
+  "city": "Dunmore",
+  "latitude": 38.325205,
+  "longitude": -79.90179,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "43",
+  "people": [
+    {
+      "name": "Cody Thompson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-thompson_cody.jpg",
+      "twitter": null,
+      "addresses": [
+        "311 Graham Street;Elkins, WV, 26241",
+        "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-904-1620",
+        "304-340-3145"
+      ],
+      "email": [
+        "cody.thompson@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "43"
+    },
+    {
+      "name": "William G.Hartman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-hartman_william.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 243;Elkins, WV, 26241",
+        "Room 228E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-636-0400",
+        "304-340-3178"
+      ],
+      "email": [
+        "billhartman@suddenlink.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "43"
+    },
+    {
+      "name": "Bill Hamilton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-hamilton_bill.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1192;Buckhannon, WV, 26201",
+        "Room 223W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-997-2625",
+        "304-357-7906"
+      ],
+      "email": [
+        "bill.hamilton@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "11"
+    },
+    {
+      "name": "Greg Boso",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-boso_gregory.jpg",
+      "twitter": null,
+      "addresses": [
+        "401 Main Street;Summersville, WV, 26651",
+        "Room 217W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-872-1308",
+        "304-357-7973"
+      ],
+      "email": [
+        "greg.boso@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "11"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "07701",
+  "state": "NJ",
+  "city": "Red Bank",
+  "latitude": 40.352953,
+  "longitude": -74.07703,
+  "congressionalDistrict": [
+    "04",
+    "06"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "11",
+  "people": [
+    {
+      "name": "Eric Houghtaling",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-houghtaling_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "802 West Park Avenue, Suite 221;Ocean Twp., NJ 07712"
+      ],
+      "phone": [
+        "732-695-3371"
+      ],
+      "email": [
+        "AsmHoughtaling@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "11"
+    },
+    {
+      "name": "Joann Downey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-downey_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "802 West Park Avenue, Suite 221;Ocean Twp., NJ 07712"
+      ],
+      "phone": [
+        "732-695-3371"
+      ],
+      "email": [
+        "AswDowney@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "11"
+    },
+    {
+      "name": "Vin Gopal",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-gopal_vin_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "802 West Park Ave., Suite 221;Ocean Twp., NJ 07712"
+      ],
+      "phone": [
+        "732-695-3371"
+      ],
+      "email": [
+        "SenGopal@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "11"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

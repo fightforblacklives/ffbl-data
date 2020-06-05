@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "71854",
+  "state": "AR",
+  "city": "Texarkana",
+  "latitude": 33.428618,
+  "longitude": -93.99236,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Carol Dalby",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-525_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "10 Brookside Drive, Texarkana, 71854"
+      ],
+      "phone": [
+        "870-772-1255"
+      ],
+      "email": [
+        "carol.dalby@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "1"
+    },
+    {
+      "name": "Jimmy Hickey, Jr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-409_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "3216 East 35th Street, Texarkana, 71854"
+      ],
+      "phone": [
+        "870-772-4444"
+      ],
+      "email": [
+        "jimmy.hickey@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "11"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Brown_Allen%2154467.jpg",
+      "name": "Allen L. Brown",
+      "phone": "870-773-1923",
+      "email": "ab@allenbrownmayor.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Texarkana"
+    }
+  ]
+})

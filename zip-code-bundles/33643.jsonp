@@ -1,0 +1,101 @@
+callback({
+  "zipCode": "33643",
+  "state": "FL",
+  "city": "Tampa",
+  "latitude": 28.130402,
+  "longitude": -82.337751,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "63",
+  "people": [
+    {
+      "name": "Fentrice Driskell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-4745.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 118; 12421 North Florida Avenue; Tampa, FL 33612-4271",
+        "1402 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "813-936-0854",
+        "850-717-5063"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "63"
+    },
+    {
+      "name": "Tom Lee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s20_5100.jpg",
+      "twitter": null,
+      "addresses": [
+        "915 Oakfield Drive; Suite D; Brandon, FL 33511",
+        "418 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "lee.tom.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "20"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-Castor_Jane%2154694.jpg",
+      "name": "Jane Castor",
+      "phone": "813-274-8251",
+      "email": "jane.castor@tampagov.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Tampa"
+    }
+  ]
+})

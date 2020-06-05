@@ -1,0 +1,166 @@
+callback({
+  "zipCode": "26101",
+  "state": "WV",
+  "city": "Parkersburg",
+  "latitude": 39.265408,
+  "longitude": -81.53706,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "10",
+  "people": [
+    {
+      "name": "John R. Kelly",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-kelly_john.jpg",
+      "twitter": null,
+      "addresses": [
+        "2802 Brookview Street;Parkersburg, WV, 26104",
+        "Room 201E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-428-2846",
+        "304-340-3394"
+      ],
+      "email": [
+        "john.kelly@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Tom Azinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-azinger_tom.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 204E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3137"
+      ],
+      "email": [
+        "tom.azinger@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Vernon Criss",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-criss_vernon.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 1652;Parkersburg, WV, 26104",
+        "Room 472M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-481-0167",
+        "304-340-3202"
+      ],
+      "email": [
+        "vernon.criss@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "10"
+    },
+    {
+      "name": "Donna J. Boley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-boley_donna.jpg",
+      "twitter": null,
+      "addresses": [
+        "2332 Greens Run Road;St. Marys, WV, 26170-9735",
+        "Room 206W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-684-3266",
+        "304-357-7905"
+      ],
+      "email": [
+        "donna.boley@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "3"
+    },
+    {
+      "name": "Mike Azinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-azinger_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "1007 51st Street;Vienna, WV, 26105",
+        "Room 417M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-916-2177",
+        "304-357-7970"
+      ],
+      "email": [
+        "mike.azinger@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "3"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-Joyce_Tom%2153303.jpg",
+      "name": "Tom Joyce",
+      "phone": "304-424-8420",
+      "email": "connie.shaffer@parkersburgwv.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WV",
+      "city": "Parkersburg"
+    }
+  ]
+})

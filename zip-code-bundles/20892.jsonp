@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "20892",
+  "state": "MD",
+  "city": "Bethesda",
+  "latitude": 39.002375,
+  "longitude": -77.10341,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Ariana B. Kelly",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-kelly%20a.jpg",
+      "twitter": null,
+      "addresses": [
+        "425 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3642"
+      ],
+      "email": [
+        "ariana.kelly@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "16"
+    },
+    {
+      "name": "Marc Korman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-korman01.jpg",
+      "twitter": null,
+      "addresses": [
+        "210 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3649"
+      ],
+      "email": [
+        "Marc.Korman@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "16"
+    },
+    {
+      "name": "Sara Love",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-love01.jpg",
+      "twitter": null,
+      "addresses": [
+        "210 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3454"
+      ],
+      "email": [
+        "sara.love@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "16"
+    },
+    {
+      "name": "Susan C. Lee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-lee.jpg",
+      "twitter": null,
+      "addresses": [
+        "223 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3124"
+      ],
+      "email": [
+        "susan.lee@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "16"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

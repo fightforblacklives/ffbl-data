@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "11754",
+  "state": "NY",
+  "city": "Kings Park",
+  "latitude": 40.888497,
+  "longitude": -73.24258,
+  "congressionalDistrict": [
+    "01",
+    "03"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Michael Fitzpatrick",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-008.jpg",
+      "twitter": null,
+      "addresses": [
+        "50 Route 111;Suite 202;Smithtown, NY 11787",
+        "LOB 458;Albany, NY 12248"
+      ],
+      "phone": [
+        "631-724-2929",
+        "518-455-5021"
+      ],
+      "email": [
+        "FitzpatrickM@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "8"
+    },
+    {
+      "name": "John J. Flanagan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-square.2015.senator%2520flanagan%2520headshot.jpg%3Fitok%3Ddtsm-4zz",
+      "twitter": null,
+      "addresses": [
+        "Room 315, State Capitol Building;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2071"
+      ],
+      "email": [
+        "flanagan@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "2"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

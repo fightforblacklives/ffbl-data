@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "53263",
+  "state": "WI",
+  "city": "Milwaukee",
+  "latitude": 43.074583,
+  "longitude": -88.06044,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "Robyn Vining",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "Room 321 West;State Capitol;PO Box 8953;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-9180"
+      ],
+      "email": [
+        "Rep.Vining@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "14"
+    },
+    {
+      "name": "Dale Kooyenga",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-1942.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 310 South;State Capitol;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-2512"
+      ],
+      "email": [
+        "Sen.Kooyenga@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "5"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Barrett_Tom%21749.jpg",
+      "name": "Thomas 'Tom' Barrett",
+      "phone": "414-286-2200",
+      "email": "mayor@milwaukee.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Milwaukee"
+    }
+  ]
+})

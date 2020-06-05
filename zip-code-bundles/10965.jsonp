@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "10965",
+  "state": "NY",
+  "city": "Pearl River",
+  "latitude": 41.063329,
+  "longitude": -74.01734,
+  "congressionalDistrict": [
+    "17"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "97",
+  "people": [
+    {
+      "name": "Ellen Jaffee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-097.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 Blue Hill Plaza, Ste. 1116;POB 1549;Pearl River, NY 10965",
+        "LOB 626;Albany, NY 12248"
+      ],
+      "phone": [
+        "845-624-4601",
+        "518-455-5118"
+      ],
+      "email": [
+        "JaffeeE@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "97"
+    },
+    {
+      "name": "David Carlucci",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-%252812-07-10%2529%2520Carlucci-HS-028.jpg%3Fitok%3Dcfqre4Kp",
+      "twitter": null,
+      "addresses": [
+        "181 State Street;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2991"
+      ],
+      "email": [
+        "carlucci@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "38"
+    },
+    {
+      "name": "Nita Lowey",
+      "email": null,
+      "twitter": "NitaLowey",
+      "addresses": [
+        "2365 Rayburn House Office Building; Washington DC 20515-3217"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-L000480.jpg",
+      "phone": "202-225-6506",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "17"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

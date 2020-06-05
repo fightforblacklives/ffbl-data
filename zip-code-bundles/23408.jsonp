@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "23408",
+  "state": "VA",
+  "city": "Marionville",
+  "latitude": 37.424497,
+  "longitude": -75.877143,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "100",
+  "people": [
+    {
+      "name": "Robert S. Bloxom, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-H0267",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 27;Mappsville, Virginia 23407"
+      ],
+      "phone": [
+        "757-824-3456"
+      ],
+      "email": [
+        "DelRBloxom@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "100"
+    },
+    {
+      "name": "Lynwood W. Lewis, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Lewis.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 760;Accomac, Virginia 23301"
+      ],
+      "phone": [
+        "757-787-1094"
+      ],
+      "email": [
+        "district06@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "6"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

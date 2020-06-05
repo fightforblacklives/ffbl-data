@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "57701",
+  "state": "SD",
+  "city": "Rapid City",
+  "latitude": 44.085288,
+  "longitude": -103.21335,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Jess Olson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "3115 Stockade Dr.;Rapid City, SD 57702"
+      ],
+      "phone": [
+        "605-773-3251"
+      ],
+      "email": [
+        "Jess.Olson@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "34"
+    },
+    {
+      "name": "Michael G Diedrich",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Diedrich_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "4884 Cliff Dr.;Rapid City, SD 57702"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Mike.Diedrich@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "34"
+    },
+    {
+      "name": "Jeffrey D Partridge",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Partridge_2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "Jeffrey.Partridge@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "34"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Allender_Steve%21967.JPG",
+      "name": "Steve Allender",
+      "phone": "605-394-4110",
+      "email": "mayorsoffice@rcgov.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "SD",
+      "city": "Rapid City"
+    }
+  ]
+})

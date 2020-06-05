@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "02911",
+  "state": "RI",
+  "city": "North Providence",
+  "latitude": 41.853699,
+  "longitude": -71.47354,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "William W.O'Brien",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-o%27brien.jpg",
+      "twitter": null,
+      "addresses": [
+        "626 Smithfield Road #806, North Providence, RI 02904"
+      ],
+      "phone": [
+        "401-440-4063"
+      ],
+      "email": [
+        "rep-obrien@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "54"
+    },
+    {
+      "name": "Frank A. Ciccone, III",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-ciccone.jpg",
+      "twitter": null,
+      "addresses": [
+        "15 Mercy Street, Providence 02909"
+      ],
+      "phone": [
+        "401-275-0949"
+      ],
+      "email": [
+        "sen-ciccone@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "7"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Lombardi_Charles%21834.jpg",
+      "name": "Charles A. Lombardi",
+      "phone": "401-232-0900",
+      "email": "mlanni@northprovidenceri.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "RI",
+      "city": "North Providence"
+    }
+  ]
+})

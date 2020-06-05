@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "45424",
+  "state": "OH",
+  "city": "Dayton",
+  "latitude": 39.840308,
+  "longitude": -84.12227,
+  "congressionalDistrict": [
+    "10",
+    "08"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Phil Plummer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-40.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;11th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-644-8051"
+      ],
+      "email": [
+        "rep40@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "40"
+    },
+    {
+      "name": "Peggy Lehner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-1682.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;2nd Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-4538"
+      ],
+      "email": [
+        "sd06@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "6"
+    },
+    {
+      "name": "Michael Turner",
+      "email": null,
+      "twitter": "RepMikeTurner",
+      "addresses": [
+        "2082 Rayburn House Office Building; Washington DC 20515-3510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-T000463.jpg",
+      "phone": "202-225-6465",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Whaley_Nan%21277.jpg",
+      "name": "Nan Whaley",
+      "phone": "937-333-3636",
+      "email": "nan.whaley@daytonohio.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Dayton"
+    }
+  ]
+})

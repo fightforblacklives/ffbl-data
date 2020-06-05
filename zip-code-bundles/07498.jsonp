@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "07498",
+  "state": "NJ",
+  "city": "Mahwah",
+  "latitude": 40.948054,
+  "longitude": -74.083231,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "Lisa Swain",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-swain_lisa_2018a.jpg",
+      "twitter": null,
+      "addresses": [
+        "205 Robin Rd., Suite 122;Paramus, NJ 07652"
+      ],
+      "phone": [
+        "201-576-9199"
+      ],
+      "email": [
+        "AswSwain@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "38"
+    },
+    {
+      "name": "P. Christopher Tully",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-tully_christopher_2018b.jpg",
+      "twitter": null,
+      "addresses": [
+        "205 Robin Rd., Suite 122;Paramus, NJ 07652"
+      ],
+      "phone": [
+        "201-576-9199"
+      ],
+      "email": [
+        "AsmTully@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "38"
+    },
+    {
+      "name": "Joseph A. Lagana",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-lagana_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "205 Robin Rd., Suite 122;Paramus, NJ 07652"
+      ],
+      "phone": [
+        "201-576-9199"
+      ],
+      "email": [
+        "SenLagana@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "38"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

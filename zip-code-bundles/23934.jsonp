@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "23934",
+  "state": "VA",
+  "city": "Cullen",
+  "latitude": 37.164981,
+  "longitude": -78.62592,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "60",
+  "people": [
+    {
+      "name": "James E. Edmunds, II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-H0216",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1115;Halifax, Virginia 24558"
+      ],
+      "phone": [
+        "434-476-0077"
+      ],
+      "email": [
+        "DelJEdmunds@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "60"
+    },
+    {
+      "name": "Frank M. Ruff, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Ruff15.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 332;Clarksville, Virginia 23927"
+      ],
+      "phone": [
+        "434-374-5129"
+      ],
+      "email": [
+        "district15@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "15"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

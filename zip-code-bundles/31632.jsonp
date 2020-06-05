@@ -1,0 +1,109 @@
+callback({
+  "zipCode": "31632",
+  "state": "GA",
+  "city": "Hahira",
+  "latitude": 30.991859,
+  "longitude": -83.36415,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "176",
+  "people": [
+    {
+      "name": "James Burchett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-BurchettJames4967.jpg",
+      "twitter": null,
+      "addresses": [
+        "6810 Albany Hwy;Waycross, GA 31552",
+        "504-C Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0188"
+      ],
+      "email": [
+        "james.burchett@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "176"
+    },
+    {
+      "name": "Ellis Black",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-BlackEllis66.jpg",
+      "twitter": null,
+      "addresses": [
+        "5900 Jumping Gully Road;Valdosta, GA 31601",
+        "303-B Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "229-559-7546",
+        "404-463-6597"
+      ],
+      "email": [
+        "ellis.black@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "8"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

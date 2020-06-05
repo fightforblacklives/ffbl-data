@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "10010",
+  "state": "NY",
+  "city": "New York",
+  "latitude": 40.739022,
+  "longitude": -73.98205,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "74",
+  "people": [
+    {
+      "name": "Harvey Epstein",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-074.jpg",
+      "twitter": null,
+      "addresses": [
+        "250 Broadway,;22nd Floor;New York, NY 10007",
+        "427 LOB;Albany, NY 12248"
+      ],
+      "phone": [
+        "212-979-9696",
+        "518-455-5506"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "74"
+    },
+    {
+      "name": "Liz Krueger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-%252803-05-09%2529%2520Liz%2520Krueger8x10HS-002.jpg%3Fitok%3DUhcv13n6",
+      "twitter": null,
+      "addresses": [
+        "211 E 43rd Street;New York,, NY 10017"
+      ],
+      "phone": [
+        "212-490-9535"
+      ],
+      "email": [
+        "lkrueger@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "28"
+    },
+    {
+      "name": "Carolyn Maloney",
+      "email": null,
+      "twitter": "RepMaloney",
+      "addresses": [
+        "2308 Rayburn House Office Building; Washington DC 20515-3212"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-M000087.jpg",
+      "phone": "202-225-7944",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "12"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-deBlasio_Bill%21809.jpg",
+      "name": "Bill de Blasio",
+      "phone": "212-788-3000",
+      "email": "acaplan@cityhall.nyc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "New York"
+    }
+  ]
+})

@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "01115",
+  "state": "MA",
+  "city": "Springfield",
+  "latitude": 42.102894,
+  "longitude": -72.591633,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "Hampden",
+  "stateLowerDistrict": "Tenth Hampden",
+  "people": [
+    {
+      "name": "Carlos González",
+      "image": "https://malegislature.gov/Legislators/Profile/170/C_G1.jpg",
+      "twitter": null,
+      "addresses": [
+        "44 Dover Street;Springfield, MA 01107",
+        "24 Beacon St.;Room 26;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2080",
+        "617-722-2080"
+      ],
+      "email": [
+        "Carlos.Gonzalez@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Tenth Hampden"
+    },
+    {
+      "name": "James T. Welch",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JTW0.jpg",
+      "twitter": null,
+      "addresses": [
+        "32-34 Hampden Street;Springfield, MA 01103",
+        "24 Beacon St.;Room 413-B;Boston, MA, 02133"
+      ],
+      "phone": [
+        "413-737-7756",
+        "617-722-1660"
+      ],
+      "email": [
+        "James.Welch@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Hampden"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Sarno_Domenic%211110.jpg",
+      "name": "Domenic J. Sarno",
+      "phone": "413-787-6100",
+      "email": "msarno@springfieldcityhall.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Springfield"
+    }
+  ]
+})

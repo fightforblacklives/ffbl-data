@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "50041",
+  "state": "IA",
+  "city": "Bradford",
+  "latitude": 42.632923,
+  "longitude": -93.2459,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Linda L. Upmeyer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D180",
+      "twitter": null,
+      "addresses": [
+        "1811 N 8th St, Clear Lake, IA 50428"
+      ],
+      "phone": [
+        "641-357-8807",
+        "515-281-3221"
+      ],
+      "email": [
+        "linda.upmeyer@legis.iowa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IA",
+      "district": "54"
+    },
+    {
+      "name": "Amanda Ragan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D110",
+      "twitter": null,
+      "addresses": [
+        "361 S Pennsylvania Ave 1-D, Mason City, IA 50401"
+      ],
+      "phone": [
+        "641-424-0874",
+        "515-281-3371"
+      ],
+      "email": [
+        "amanda.ragan@legis.iowa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IA",
+      "district": "27"
+    },
+    {
+      "name": "Charles Grassley",
+      "email": null,
+      "twitter": "ChuckGrassley",
+      "addresses": [
+        "135 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-G000386.jpg",
+      "phone": "202-224-3744",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Joni Ernst",
+      "email": null,
+      "twitter": "SenJoniErnst",
+      "addresses": [
+        "730 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-E000295.jpg",
+      "phone": "202-224-3254",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kim Reynolds",
+      "addresses": [
+        "State Capitol Des Moines IA 50319-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ia_reynolds.png",
+      "twitter": "terrybranstad",
+      "email": null,
+      "phone": "515- 281-5211",
+      "type": "Governor",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

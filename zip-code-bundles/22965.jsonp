@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "22965",
+  "state": "VA",
+  "city": "Quinque",
+  "latitude": 38.330132,
+  "longitude": -78.475018,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Robert B. Bell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-H0139",
+      "twitter": null,
+      "addresses": [
+        "2309 Finch Court;Charlottesville, Virginia 22911"
+      ],
+      "phone": [
+        "434-245-8900"
+      ],
+      "email": [
+        "DelRBell@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "58"
+    },
+    {
+      "name": "Emmett W. Hanger, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Hanger24.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2;Mount Solon, Virginia 22843-0002"
+      ],
+      "phone": [
+        "540-885-6898"
+      ],
+      "email": [
+        "district24@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "24"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

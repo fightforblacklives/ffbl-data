@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "89440",
+  "state": "NV",
+  "city": "Virginia City",
+  "latitude": 39.298192,
+  "longitude": -119.65351,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "39",
+  "people": [
+    {
+      "name": "Jim Wheeler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Wheeler%2CJ.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2135;Minden, NV 89423-2135"
+      ],
+      "phone": [
+        "775-546-3471"
+      ],
+      "email": [
+        "Jim.Wheeler@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "39"
+    },
+    {
+      "name": "James A. Settelmeyer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Settelmeyer.jpg",
+      "twitter": null,
+      "addresses": [
+        "2388 Highway 395;Minden, NV 89423-8923"
+      ],
+      "phone": [
+        "775-450-6114"
+      ],
+      "email": [
+        "James.Settelmeyer@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "17"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

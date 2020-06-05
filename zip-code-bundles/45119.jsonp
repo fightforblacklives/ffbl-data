@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "45119",
+  "state": "OH",
+  "city": "Feesburg",
+  "latitude": 38.880632,
+  "longitude": -84.00874,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Doug Green",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-66.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-644-6034"
+      ],
+      "email": [
+        "rep66@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "66"
+    },
+    {
+      "name": "Terry Johnson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-2932.jpg",
+      "twitter": null,
+      "addresses": [
+        "Statehouse;1 Capitol Square;2nd Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8082"
+      ],
+      "email": [
+        "sd14@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "14"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

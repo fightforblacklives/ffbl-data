@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "62243",
+  "state": "IL",
+  "city": "Freeburg",
+  "latitude": 38.425949,
+  "longitude": -89.90389,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "57",
+  "stateLowerDistrict": "114",
+  "people": [
+    {
+      "name": "LaToya Greenwood",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-%7B87BFA17C-40F4-48B9-AFF5-5A0F37E8EEAF%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "4700 State Street;Suite 2;East St. Louis, IL 62205",
+        "254-W Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "618-646-9557",
+        "217-782-5951"
+      ],
+      "email": [
+        "staterepgreenwood@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "114"
+    },
+    {
+      "name": "Christopher Belt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-%7BEFE7513C-260C-46DE-BAB3-A12F250B2937%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "Kenneth Hall Regional office Bldg.#10;Collinsville Ave. Suite 201A;East St. Louis, IL 62201",
+        "M118 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "618-875-1212",
+        "217-782-5399"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "57"
+    },
+    {
+      "name": "Mike Bost",
+      "email": null,
+      "twitter": "RepBost",
+      "addresses": [
+        "1440 Longworth House Office Building; Washington DC 20515-1312"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-B001295.jpg",
+      "phone": "202-225-5661",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

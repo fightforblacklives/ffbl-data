@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "30806",
+  "state": "GA",
+  "city": "Boneville",
+  "latitude": 33.527993,
+  "longitude": -82.5104,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "121",
+  "people": [
+    {
+      "name": "Barry Fleming",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-FlemingBarry101.jpg",
+      "twitter": null,
+      "addresses": [
+        "132 State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-5125"
+      ],
+      "email": [
+        "barry.fleming@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "121"
+    },
+    {
+      "name": "Jesse Stone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-StoneJesse748.jpg",
+      "twitter": null,
+      "addresses": [
+        "827 N. Liberty Street;Waynesboro, GA 30830",
+        "325-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "706-554-5223",
+        "404-463-1314"
+      ],
+      "email": [
+        "jesse.stone@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "23"
+    },
+    {
+      "name": "Jody Hice",
+      "email": null,
+      "twitter": "congressmanhice",
+      "addresses": [
+        "409 Cannon House Office Building; Washington DC 20515-1010"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-H001071.jpg",
+      "phone": "202-225-4101",
+      "type": "US Representative",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "33712",
+  "state": "FL",
+  "city": "Saint Petersburg",
+  "latitude": 27.745355,
+  "longitude": -82.66572,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "70",
+  "people": [
+    {
+      "name": "Wengay \"Newt\" Newton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-4659.jpg",
+      "twitter": null,
+      "addresses": [
+        "541 49th Street South; St. Petersburg, FL 33707-2660",
+        "1003 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "727-892-2468",
+        "850-717-5070"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "70"
+    },
+    {
+      "name": "Darryl Ervin Rouson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-s19_5203.jpg",
+      "twitter": null,
+      "addresses": [
+        "By Appointment Only; The Cuban Club; 2010 Avenida Republica de Cuba; Tampa, FL 33605",
+        "212 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "rouson.darryl.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "19"
+    },
+    {
+      "name": "Charlie Crist",
+      "email": null,
+      "twitter": "repcharliecrist",
+      "addresses": [
+        "215 Cannon House Office Building; Washington DC 20515-0913"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-C001111.jpg",
+      "phone": "202-225-5961",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

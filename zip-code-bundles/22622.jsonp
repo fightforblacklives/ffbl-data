@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "22622",
+  "state": "VA",
+  "city": "Brucetown",
+  "latitude": 39.2543,
+  "longitude": -78.066373,
+  "congressionalDistrict": [
+    "10"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "33",
+  "people": [
+    {
+      "name": "Dave A. LaRock",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-H0261",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 6;Hamilton, Virginia 20159"
+      ],
+      "phone": [
+        "540-751-8364"
+      ],
+      "email": [
+        "DelDLaRock@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "33"
+    },
+    {
+      "name": "Jill Holtzman Vogel",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Vogel27.jpg",
+      "twitter": null,
+      "addresses": [
+        "45 North Hill Drive;Suite 100;Warrenton, Virginia 20186"
+      ],
+      "phone": [
+        "540-662-4551"
+      ],
+      "email": [
+        "district27@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "27"
+    },
+    {
+      "name": "Jennifer Wexton",
+      "email": null,
+      "twitter": "RepWexton",
+      "addresses": [
+        "1217 Longworth House Office Building; Washington DC 20515-4610"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000825.jpg",
+      "phone": "202-225-5136",
+      "type": "US Representative",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

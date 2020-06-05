@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "58104",
+  "state": "ND",
+  "city": "Fargo",
+  "latitude": 46.812118,
+  "longitude": -96.839,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "41",
+  "stateLowerDistrict": "41",
+  "people": [
+    {
+      "name": "Michelle Strinden",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-mstrinden.jpg%3Fitok%3DtHpp2G4m",
+      "twitter": null,
+      "addresses": [
+        "245 Prairiewood Drive South;Fargo, ND;58103-4625"
+      ],
+      "phone": [
+        "701-566-9768"
+      ],
+      "email": [
+        "mstrinden@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "41"
+    },
+    {
+      "name": "Pamela Anderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-pkanderson.jpg%3Fitok%3D3lUIkV3g",
+      "twitter": null,
+      "addresses": [
+        "3001 40th Avenue South, Unit H;Fargo, ND;58104-4406"
+      ],
+      "phone": [
+        "701-306-3362"
+      ],
+      "email": [
+        "pkanderson@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ND",
+      "district": "41"
+    },
+    {
+      "name": "Kyle Davison",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-kdavison.jpg%3Fitok%3DPq34Pd-1",
+      "twitter": null,
+      "addresses": [
+        "4918 Meadow Creek Drive South;Fargo, ND;58104-7116"
+      ],
+      "phone": [
+        "701-261-8703"
+      ],
+      "email": [
+        "kdavison@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "41"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Mahoney_Tim%21382.jpg",
+      "name": "Tim Mahoney",
+      "phone": "701-241-1310",
+      "email": "tmahoney@cityoffargo.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ND",
+      "city": "Fargo"
+    }
+  ]
+})

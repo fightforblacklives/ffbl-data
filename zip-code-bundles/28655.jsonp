@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "28655",
+  "state": "NC",
+  "city": "Morganton",
+  "latitude": 35.742752,
+  "longitude": -81.71625,
+  "congressionalDistrict": [
+    "11",
+    "10"
+  ],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "86",
+  "people": [
+    {
+      "name": "Hugh Blackwell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-580.jpg",
+      "twitter": null,
+      "addresses": [
+        "321 Mountain View Ave SE;Valdese, NC 28690",
+        "300 N. Salisbury Street, Rm. 541;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-733-5805",
+        "919-733-5805"
+      ],
+      "email": [
+        "Hugh.Blackwell@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "86"
+    },
+    {
+      "name": "Warren Daniel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-295.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 627;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 627;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-715-7823",
+        "919-715-7823"
+      ],
+      "email": [
+        "Warren.Daniel@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "46"
+    },
+    {
+      "name": "Mark Meadows",
+      "email": null,
+      "twitter": "RepMarkMeadows",
+      "addresses": [
+        "2160 Rayburn House Office Building; Washington DC 20515-3311"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M001187.jpg",
+      "phone": "202-225-6401",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "11"
+    },
+    {
+      "name": "Patrick McHenry",
+      "email": null,
+      "twitter": "PatrickMcHenry",
+      "addresses": [
+        "2004 Rayburn House Office Building; Washington DC 20515-3310"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-M001156.jpg",
+      "phone": "202-225-2576",
+      "type": "US Representative",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

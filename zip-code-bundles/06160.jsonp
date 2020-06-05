@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "06160",
+  "state": "CT",
+  "city": "Hartford",
+  "latitude": 41.766499,
+  "longitude": -72.693337,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Joshua M. Hall",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "28 Canterbury Street;Hartford, CT 06112",
+        "Legislative Office Building;Room 5007;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-810-0471",
+        "860-240-8500"
+      ],
+      "email": [
+        "Joshua.Hall@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "7"
+    },
+    {
+      "name": "Douglas McCrory",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "235 Blue Hills Avenue;Hartford, CT 06112",
+        "Legislative Office Building;Room 3105;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8600"
+      ],
+      "email": [
+        "douglas.mccrory@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "2"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-Bronin_Luke%21490.JPG",
+      "name": "Luke Bronin",
+      "phone": "860-757-9500",
+      "email": "luke.bronin@hartford.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "Hartford"
+    }
+  ]
+})

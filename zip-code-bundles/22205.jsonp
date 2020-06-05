@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "22205",
+  "state": "VA",
+  "city": "Arlington",
+  "latitude": 38.88275,
+  "longitude": -77.13999,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Patrick A. Hope",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-H0219",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 3148;Arlington, Virginia 22203"
+      ],
+      "phone": [
+        "703-486-1010"
+      ],
+      "email": [
+        "DelPHope@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "47"
+    },
+    {
+      "name": "Janet D. Howell",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Howell32.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2608;Reston, Virginia 20195-0608"
+      ],
+      "phone": [
+        "703-709-8283"
+      ],
+      "email": [
+        "district32@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "32"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

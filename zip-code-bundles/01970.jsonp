@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "01970",
+  "state": "MA",
+  "city": "Salem",
+  "latitude": 42.516845,
+  "longitude": -70.8985,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "Second Essex",
+  "stateLowerDistrict": "Seventh Essex",
+  "people": [
+    {
+      "name": "Paul F. Tucker",
+      "image": "https://malegislature.gov/Legislators/Profile/170/PFT1.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 344;Salem, MA 01970;",
+        "24 Beacon St.;Room 473G;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2070"
+      ],
+      "email": [
+        "Paul.Tucker@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Seventh Essex"
+    },
+    {
+      "name": "Joan B. Lovely",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JBL0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 413-A;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1410"
+      ],
+      "email": [
+        "Joan.Lovely@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Second Essex"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-Driscoll_Kimberly%211027.jpg",
+      "name": "Kimberly Driscoll",
+      "phone": "978-619-5600",
+      "email": "mayor@salem.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Salem"
+    }
+  ]
+})

@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "04102",
+  "state": "ME",
+  "city": "Portland",
+  "latitude": 43.658632,
+  "longitude": -70.2911,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "37",
+  "people": [
+    {
+      "name": "Richard R. Farnsworth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-85008bb1-fca7-4bb7-92b2-fc96cab89d49_farnrr.jpg",
+      "twitter": null,
+      "addresses": [
+        "55 Old Mast Road, Portland, ME 04102"
+      ],
+      "phone": [
+        "207-874-6399"
+      ],
+      "email": [
+        "Richard.Farnsworth@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "37"
+    },
+    {
+      "name": "Heather Sanborn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-sanborn.jpg",
+      "twitter": null,
+      "addresses": [
+        "82 Frost Hill Road, Portland, ME 04103"
+      ],
+      "phone": [],
+      "email": [
+        "Heather.Sanborn@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "28"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Snyder_Kate%2154864.jpg",
+      "name": "Kate Snyder",
+      "phone": "207-874-8941",
+      "email": "ksnyder@portlandmaine.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "ME",
+      "city": "Portland"
+    }
+  ]
+})

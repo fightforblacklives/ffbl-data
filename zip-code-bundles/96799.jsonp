@@ -1,0 +1,11 @@
+callback({
+  "zipCode": "96799",
+  "state": "AS",
+  "city": "Pago Pago",
+  "latitude": -7.209975,
+  "longitude": -170.7716,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

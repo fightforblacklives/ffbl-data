@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "13731",
+  "state": "NY",
+  "city": "Andes",
+  "latitude": 42.152105,
+  "longitude": -74.78184,
+  "congressionalDistrict": [
+    "19"
+  ],
+  "stateUpperDistrict": "51",
+  "stateLowerDistrict": "101",
+  "people": [
+    {
+      "name": "Brian Miller",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-101.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "millerb@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "101"
+    },
+    {
+      "name": "James L. Seward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-%252811-18-08%2529%2520Seward-HS-050.jpg%3Fitok%3DxYWkG2LS",
+      "twitter": null,
+      "addresses": [
+        "172 State Street;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-3131"
+      ],
+      "email": [
+        "seward@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "51"
+    },
+    {
+      "name": "Antonio Delgado",
+      "email": null,
+      "twitter": "repdelgado",
+      "addresses": [
+        "1007 Longworth House Office Building; Washington DC 20515-3219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-D000630.jpg",
+      "phone": "202-225-5614",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "19"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

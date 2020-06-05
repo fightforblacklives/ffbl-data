@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "11365",
+  "state": "NY",
+  "city": "Fresh Meadows",
+  "latitude": 40.738983,
+  "longitude": -73.79209,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Nily Rozic",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-025.jpg",
+      "twitter": null,
+      "addresses": [
+        "159-16 Union Turnpike;Flushing, NY 11366",
+        "LOB 547;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-820-0241",
+        "518-455-5172"
+      ],
+      "email": [
+        "RozicN@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "25"
+    },
+    {
+      "name": "Toby Ann Stavisky",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-%252802-09-09%2529%2520Stavisky-HS-034-ret.jpg%3Fitok%3D7GY17zRh",
+      "twitter": null,
+      "addresses": [
+        "142-29 37th AveSuite 1;Flushing,, NY 11354"
+      ],
+      "phone": [
+        "718-445-0004"
+      ],
+      "email": [
+        "stavisky@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "16"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

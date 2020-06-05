@@ -1,0 +1,121 @@
+callback({
+  "zipCode": "30312",
+  "state": "GA",
+  "city": "Atlanta",
+  "latitude": 33.745739,
+  "longitude": -84.3764,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "59",
+  "people": [
+    {
+      "name": "David Dreyer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-DreyerDavid4888.jpg",
+      "twitter": null,
+      "addresses": [
+        "275 Memorial Dr Suite 415;Atlanta, GA 30312",
+        "604-D Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-656-0265"
+      ],
+      "email": [
+        "david.dreyer@house.ga.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "59"
+    },
+    {
+      "name": "Nan Orrock",
+      "image": "http://www.senate.ga.gov/SiteCollectionImages/OrrockNan33.jpg",
+      "twitter": null,
+      "addresses": [
+        "1070 Delaware Avenue SE;Atlanta, GA 30316",
+        "420-B State Capitol;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-524-5999",
+        "404-463-8054"
+      ],
+      "email": [
+        "nan.orrock@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "36"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Bottoms_Keisha%2153974.jpg",
+      "name": "Keisha Lance Bottoms",
+      "phone": "404-330-6100",
+      "email": "kljohnson@atlantaga.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Atlanta"
+    }
+  ]
+})

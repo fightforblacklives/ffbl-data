@@ -1,0 +1,86 @@
+callback({
+  "zipCode": "72404",
+  "state": "AR",
+  "city": "Jonesboro",
+  "latitude": 35.781707,
+  "longitude": -90.74506,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "58",
+  "people": [
+    {
+      "name": "Brandt Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-498_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "3501 Ridgeway Circle, Jonesboro, 72404"
+      ],
+      "phone": [
+        "870-351-7459"
+      ],
+      "email": [
+        "brandt.smith@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "58"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Perrin_Harold%21568.jpg",
+      "name": "Harold Perrin",
+      "phone": "870-932-1052",
+      "email": "hperrin@jonesboro.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Jonesboro"
+    }
+  ]
+})

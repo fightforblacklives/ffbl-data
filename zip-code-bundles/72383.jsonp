@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "72383",
+  "state": "AR",
+  "city": "Turner",
+  "latitude": 34.498519,
+  "longitude": -91.05167,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Chris Richey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-435_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2356, West Helena, 72390"
+      ],
+      "phone": [
+        "870-995-2499"
+      ],
+      "email": [
+        "chris.richey@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "12"
+    },
+    {
+      "name": "Stephanie Flowers",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-339_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "217 South Main Street, Pine Bluff, 71601"
+      ],
+      "phone": [
+        "870-535-1032"
+      ],
+      "email": [
+        "Stephanie.Flowers@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AR",
+      "district": "25"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,137 @@
+callback({
+  "zipCode": "07114",
+  "state": "NJ",
+  "city": "Newark",
+  "latitude": 40.707553,
+  "longitude": -74.17883,
+  "congressionalDistrict": [
+    "10",
+    "08"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "Eliana Pintor Marin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-pintormarin_eliana_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "263 Lafayette St. 1st Floor;Newark, NJ 07105"
+      ],
+      "phone": [
+        "973-589-0713"
+      ],
+      "email": [
+        "AswPintorMarin@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "29"
+    },
+    {
+      "name": "Shanique Speight",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-speight_shanique_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "59 Lincoln Park, Suite 375;Newark, NJ 07102"
+      ],
+      "phone": [
+        "862-237-9752"
+      ],
+      "email": [
+        "AswSpeight@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "29"
+    },
+    {
+      "name": "M. Teresa Ruiz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ruiz_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "166 Bloomfield Ave.;Newark, NJ 07104"
+      ],
+      "phone": [
+        "973-484-1000"
+      ],
+      "email": [
+        "SenRuiz@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "29"
+    },
+    {
+      "name": "Donald Payne",
+      "email": null,
+      "twitter": "RepDonaldPayne",
+      "addresses": [
+        "103 Cannon House Office Building; Washington DC 20515-3010"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-P000604.jpg",
+      "phone": "202-225-3436",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-Baraka_Ras%21811.jpg",
+      "name": "Ras J. Baraka",
+      "phone": "(973) 733-6400",
+      "email": null,
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Newark"
+    }
+  ]
+})

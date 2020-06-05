@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08083",
+  "state": "NJ",
+  "city": "Somerdale",
+  "latitude": 39.842613,
+  "longitude": -75.02496,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "6",
+  "people": [
+    {
+      "name": "Louis D. Greenwald",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-greenwald_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "1101 Laurel Oak Rd., Suite 150;Voorhees, NJ 08043"
+      ],
+      "phone": [
+        "856-435-1247"
+      ],
+      "email": [
+        "AsmGreenwald@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "6"
+    },
+    {
+      "name": "Pamela R. Lampitt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-lampitt_pamela_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "1101 Laurel Oak Rd., Suite 150;Voorhees, NJ 08043"
+      ],
+      "phone": [
+        "856-435-1247"
+      ],
+      "email": [
+        "AswLampitt@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "6"
+    },
+    {
+      "name": "James Beach",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-beach_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "1309 Route 70 West;Cherry Hill, NJ 08002"
+      ],
+      "phone": [
+        "856-429-1572"
+      ],
+      "email": [
+        "SenBeach@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "6"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

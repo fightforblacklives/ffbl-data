@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "82325",
+  "state": "WY",
+  "city": "Encampment",
+  "latitude": 41.159654,
+  "longitude": -106.66284,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Jerry Paxton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-PaxtonH47.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 692, Encampment WY 82325"
+      ],
+      "phone": [
+        "307-327-5373"
+      ],
+      "email": [
+        "Jerry.Paxton@wyoleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "47"
+    },
+    {
+      "name": "Larry Hicks",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-HicksS11.jpg",
+      "twitter": null,
+      "addresses": [
+        "P O Box 413, Baggs WY 82321"
+      ],
+      "phone": [
+        "307-383-7192"
+      ],
+      "email": [
+        "Larry.Hicks@wyoleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WY",
+      "district": "11"
+    },
+    {
+      "name": "John Barrasso",
+      "email": null,
+      "twitter": "SenJohnBarrasso",
+      "addresses": [
+        "307 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "phone": "202-224-6441",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Enzi",
+      "email": null,
+      "twitter": "SenatorEnzi",
+      "addresses": [
+        "379A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "phone": "202-224-3424",
+      "type": "US Senator",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mark Gordon",
+      "addresses": [
+        "State Capitol Building, Room 124 Cheyenne WY 82002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "twitter": "GordonGovernor",
+      "email": null,
+      "phone": "307-777-7434",
+      "type": "Governor",
+      "state": "WY",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

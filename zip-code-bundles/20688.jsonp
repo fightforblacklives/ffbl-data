@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "20688",
+  "state": "MD",
+  "city": "Solomons",
+  "latitude": 38.339176,
+  "longitude": -76.46568,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "29C",
+  "people": [
+    {
+      "name": "Jerry Clark",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-clark01.jpg",
+      "twitter": null,
+      "addresses": [
+        "325 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3314"
+      ],
+      "email": [
+        "jerry.clark@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "29C"
+    },
+    {
+      "name": "Jack Bailey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-bailey01.jpg",
+      "twitter": null,
+      "addresses": [
+        "402 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3673"
+      ],
+      "email": [
+        "jack.bailey@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "29"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

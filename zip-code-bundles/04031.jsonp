@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "04031",
+  "state": "ME",
+  "city": "Raymond",
+  "latitude": 43.916911999999996,
+  "longitude": -70.43911,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Jessica L. Fay",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-709042d1-fb4a-4254-b88e-53b178c8ad27_fay_jl.jpg",
+      "twitter": null,
+      "addresses": [
+        "141 Spiller Hill Road, Raymond, ME 04071"
+      ],
+      "phone": [],
+      "email": [
+        "Jessica.Fay@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "66"
+    },
+    {
+      "name": "G. William Diamond",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-diamond-color.jpg",
+      "twitter": null,
+      "addresses": [
+        "10 Crown Point Road;Windham, ME 04062"
+      ],
+      "phone": [
+        "207-892-8941"
+      ],
+      "email": [
+        "William.Diamond@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ME",
+      "district": "26"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

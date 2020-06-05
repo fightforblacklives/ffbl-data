@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "06473",
+  "state": "CT",
+  "city": "North Haven",
+  "latitude": 41.378447,
+  "longitude": -72.85897,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "87",
+  "people": [
+    {
+      "name": "Dave W. Yaccarino",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "1804 Hartford Tpke;North Haven, CT 06473",
+        "Legislative Office Building;Room 4057;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-980-0030",
+        "860-240-8700"
+      ],
+      "email": [
+        "dave.yaccarino@housegop.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "87"
+    },
+    {
+      "name": "Leonard A. Fasano",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "7 Sycamore Lane;North Haven, CT 06473",
+        "Legislative Office Building;Room 3402;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8800"
+      ],
+      "email": [
+        "Len.Fasano@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "34"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

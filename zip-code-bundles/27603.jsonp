@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "27603",
+  "state": "NC",
+  "city": "Raleigh",
+  "latitude": 35.716105,
+  "longitude": -78.65734,
+  "congressionalDistrict": [
+    "04",
+    "02"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Julie von Haefen",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "PO Box 267;Apex, NC 27502",
+        "16 West Jones Street, Rm. 1311;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "919-715-0795",
+        "919-715-0795"
+      ],
+      "email": [
+        "Julie.vonHaefen@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "36"
+    },
+    {
+      "name": "Sam Searcy",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1118;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5653"
+      ],
+      "email": [
+        "Sam.Searcy@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "17"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Baldwin_Mary-Ann%2154804.jpg",
+      "name": "Mary-Ann Baldwin",
+      "phone": "919-996-3050",
+      "email": "mary-ann.baldwin@raleighnc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Raleigh"
+    }
+  ]
+})

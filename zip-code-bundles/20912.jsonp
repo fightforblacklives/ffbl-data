@@ -1,0 +1,141 @@
+callback({
+  "zipCode": "20912",
+  "state": "MD",
+  "city": "Takoma Park",
+  "latitude": 38.98236,
+  "longitude": -77.00044,
+  "congressionalDistrict": [
+    "08",
+    "04"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "David Moon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-moon01.jpg",
+      "twitter": null,
+      "addresses": [
+        "220 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3474"
+      ],
+      "email": [
+        "David.Moon@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "20"
+    },
+    {
+      "name": "Jheanelle K. Wilkins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-wilkins01.jpg",
+      "twitter": null,
+      "addresses": [
+        "225 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3493"
+      ],
+      "email": [
+        "jheanelle.wilkins@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "20"
+    },
+    {
+      "name": "Lorig Charkoudian",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-charkoudian01.jpg",
+      "twitter": null,
+      "addresses": [
+        "226 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3423"
+      ],
+      "email": [
+        "lorig.charkoudian@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "20"
+    },
+    {
+      "name": "William C. Smith, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-smith02.jpg",
+      "twitter": null,
+      "addresses": [
+        "2 East Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3634"
+      ],
+      "email": [
+        "will.smith@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "20"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Avatar.jpg",
+      "name": "Kate Stewart",
+      "phone": "",
+      "email": null,
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Takoma Park"
+    }
+  ]
+})

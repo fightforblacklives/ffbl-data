@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24147",
+  "state": "VA",
+  "city": "Rich Creek",
+  "latitude": 37.38389,
+  "longitude": -80.81734,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Chris L. Hurst",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H0298",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 11389;Blacksburg, Virginia 24062"
+      ],
+      "phone": [
+        "540-739-2553"
+      ],
+      "email": [
+        "DelCHurst@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "12"
+    },
+    {
+      "name": "John S. Edwards",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Edwards21.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1179;Roanoke, Virginia 24006-1179"
+      ],
+      "phone": [
+        "540-985-8690"
+      ],
+      "email": [
+        "district21@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "21"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

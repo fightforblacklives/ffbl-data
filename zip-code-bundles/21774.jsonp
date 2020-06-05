@@ -1,0 +1,129 @@
+callback({
+  "zipCode": "21774",
+  "state": "MD",
+  "city": "New Market",
+  "latitude": 39.408627,
+  "longitude": -77.28676,
+  "congressionalDistrict": [
+    "06",
+    "08"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "4",
+  "people": [
+    {
+      "name": "Barrie S. Ciliberti",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-ciliberti01.jpg",
+      "twitter": null,
+      "addresses": [
+        "323 House Office Bldg.;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3080"
+      ],
+      "email": [
+        "Barrie.Ciliberti@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "4"
+    },
+    {
+      "name": "Dan Cox",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-cox01.jpg",
+      "twitter": null,
+      "addresses": [
+        "326 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3288"
+      ],
+      "email": [
+        "dan.cox@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "4"
+    },
+    {
+      "name": "Jesse T. Pippy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-pippy01.jpg",
+      "twitter": null,
+      "addresses": [
+        "326 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3118"
+      ],
+      "email": [
+        "jesse.pippy@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "4"
+    },
+    {
+      "name": "Michael J. Hough",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-hough.jpg",
+      "twitter": null,
+      "addresses": [
+        "403 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3704"
+      ],
+      "email": [
+        "michael.hough@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "4"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "80155",
+  "state": "CO",
+  "city": "Englewood",
+  "latitude": 39.738752,
+  "longitude": -104.408349,
+  "congressionalDistrict": [
+    "06",
+    "01"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "56",
+  "people": [
+    {
+      "name": "Rod Bockenfeld",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-2020a_bockenfeld%252C%2520rod.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2912"
+      ],
+      "email": [
+        "rod.bockenfeld.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "56"
+    },
+    {
+      "name": "Kevin Priola",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-2020a_priola%252C%2520kevin.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4855"
+      ],
+      "email": [
+        "kpriola@gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "25"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-Olson_Linda%2154854.jpg",
+      "name": "Linda Olson",
+      "phone": "720-315-3915",
+      "email": "lolson@englewoodco.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Englewood"
+    }
+  ]
+})

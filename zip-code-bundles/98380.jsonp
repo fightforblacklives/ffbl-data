@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "98380",
+  "state": "WA",
+  "city": "Seabeck",
+  "latitude": 47.596122,
+  "longitude": -122.89456,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Dan Griffey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-griffey.jpg",
+      "twitter": null,
+      "addresses": [
+        "403 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7966"
+      ],
+      "email": [
+        "Dan.Griffey@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "35"
+    },
+    {
+      "name": "Drew MacEwen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-macewen.jpg",
+      "twitter": null,
+      "addresses": [
+        "434 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7902"
+      ],
+      "email": [
+        "Drew.MacEwen@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WA",
+      "district": "35"
+    },
+    {
+      "name": "Tim Sheldon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-sheldon.jpg",
+      "twitter": null,
+      "addresses": [
+        "417 Legislative Building;PO Box 40435;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7668"
+      ],
+      "email": [
+        "Timothy.Sheldon@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "35"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

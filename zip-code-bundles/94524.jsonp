@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "94524",
+  "state": "CA",
+  "city": "Concord",
+  "latitude": 37.777208,
+  "longitude": -121.955399,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Rebecca Bauer-Kahan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-a16_r_b_kahan.jpg",
+      "twitter": null,
+      "addresses": [
+        "2440 Camino Ramon, Suite 345;San Ramon, CA 94583",
+        "P.O. Box 942849;Sacramento, CA 94249-0016"
+      ],
+      "phone": [
+        "925-328-1515",
+        "916-319-2016"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "16"
+    },
+    {
+      "name": "Steven M. Glazer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-glazer-steven.jpg",
+      "twitter": null,
+      "addresses": [
+        "420 W. 3rd Street, Antioch, CA 94509",
+        "State Capitol, Room 5108, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "925-754-1461",
+        "916-651-4007"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "7"
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "email": null,
+      "twitter": "RepDeSaulnier",
+      "addresses": [
+        "503 Cannon House Office Building; Washington DC 20515-0511"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-D000623.jpg",
+      "phone": "202-225-2095",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-McGallian_Tim%2154783.jpg",
+      "name": "Tim McGallian",
+      "phone": "925-671-3158",
+      "email": "tim.mcgallian@cityofconcord.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Concord"
+    }
+  ]
+})

@@ -1,0 +1,146 @@
+callback({
+  "zipCode": "03249",
+  "state": "NH",
+  "city": "Laconia",
+  "latitude": 43.555878,
+  "longitude": -71.398521,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "Belknap 2",
+  "people": [
+    {
+      "name": "Deanna E. Jurius",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "49 Stoney Brook Road;Meredith, NH 03253-4707"
+      ],
+      "phone": [
+        "603-707-1624"
+      ],
+      "email": [
+        "Deanna.Jurius@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 2"
+    },
+    {
+      "name": "Harry H. Bean",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "234 Saltmarsh Pond Road;Gilford, 03249-7567"
+      ],
+      "phone": [
+        "603-524-2640"
+      ],
+      "email": [
+        "Harry.Bean@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 2"
+    },
+    {
+      "name": "Herbert R. Vadney",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-377184.jpg",
+      "twitter": null,
+      "addresses": [
+        "10 Sleepy Hollow Road;Meredith, NH 03253-5308"
+      ],
+      "phone": [
+        "603-279-1141"
+      ],
+      "email": [
+        "herb.vadney@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 2"
+    },
+    {
+      "name": "Jonathan D. Mackie",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "20 Campground Road;Meredith, NH 03253"
+      ],
+      "phone": [
+        "603-279-0234"
+      ],
+      "email": [
+        "Jon.Mackie@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Belknap 2"
+    },
+    {
+      "name": "Harold F. French",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-07.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-4063"
+      ],
+      "email": [
+        "Harold.French@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "7"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

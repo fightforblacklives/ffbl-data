@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "31904",
+  "state": "GA",
+  "city": "Columbus",
+  "latitude": 32.513391,
+  "longitude": -84.97753,
+  "congressionalDistrict": [
+    "02",
+    "03"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "135",
+  "people": [
+    {
+      "name": "Calvin Smyre",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-SmyreCalvin216.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 181;Columbus, GA 319020120",
+        "404-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "706-649-2243",
+        "404-656-0109"
+      ],
+      "email": [
+        "calvinsmyre@synovus.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "GA",
+      "district": "135"
+    },
+    {
+      "name": "Randy Robertson",
+      "image": "http://www.senate.ga.gov/SiteCollectionImages/RobertsonRandy4926.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 62;Cataula, GA 31804",
+        "305-A Coverdell Legislative Office Building;Atlanta, GA 30334"
+      ],
+      "phone": [
+        "404-463-3931"
+      ],
+      "email": [
+        "randy.robertson@senate.ga.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "GA",
+      "district": "29"
+    },
+    {
+      "name": "David Perdue",
+      "email": null,
+      "twitter": "sendavidperdue",
+      "addresses": [
+        "455 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "phone": "202-224-3521",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Isakson",
+      "email": null,
+      "twitter": "SenatorIsakson",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kelly Loeffler",
+      "email": null,
+      "twitter": "SenatorLoeffler",
+      "addresses": [
+        "131 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "phone": "202-224-3643",
+      "type": "US Senator",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brian Kemp",
+      "addresses": [
+        "203 State Capitol Atlanta GA 30334"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "twitter": "GovKemp",
+      "email": null,
+      "phone": "404-656-1776\n",
+      "type": "Governor",
+      "state": "GA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-Henderson_Skip%2154536.jpg",
+      "name": "B. H. 'Skip' Henderson III",
+      "phone": "706-225-4712",
+      "email": "skiphenderson@columbusga.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "GA",
+      "city": "Columbus"
+    }
+  ]
+})

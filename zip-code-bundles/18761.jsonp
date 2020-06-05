@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "18761",
+  "state": "PA",
+  "city": "Wilkes Barre",
+  "latitude": 41.272248,
+  "longitude": -75.880146,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "120",
+  "people": [
+    {
+      "name": "Aaron D. Kaufer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-1693.jpg",
+      "twitter": null,
+      "addresses": [
+        "161 Main Street Suite 201 Keller Complex Luzerne, PA 18709",
+        "B14 Main Capitol Building PO Box 202120 Harrisburg, PA 17120-2120"
+      ],
+      "phone": [
+        "570-283-1001",
+        "717-787-3798"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "120"
+    },
+    {
+      "name": "Lisa Baker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-1077.jpg",
+      "twitter": null,
+      "addresses": [
+        "2512 Route 6 Hawley, PA 18428",
+        "Senate Box 203020;Harrisburg, PA 17120-3020;Room:;362 Main Capitol"
+      ],
+      "phone": [
+        "570-226-5960",
+        "717-787-7428"
+      ],
+      "email": [
+        "lbaker@pasen.gov",
+        "lbaker@pasen.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "20"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "80139",
+  "state": "CO",
+  "city": "Parker",
+  "latitude": 39.51474,
+  "longitude": -104.744145,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "44",
+  "people": [
+    {
+      "name": "Kim Ransom",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-2020a_ransom%252C%2520kim.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2933"
+      ],
+      "email": [
+        "kim.ransom.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "44"
+    },
+    {
+      "name": "Jim Smallwood",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-2020a_smallwood%252C%2520jim.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4869"
+      ],
+      "email": [
+        "senatorsmallwood@gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "4"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-Waid_Mike%213431.JPG",
+      "name": "Mike Waid",
+      "phone": "303-841-0353",
+      "email": "mwaid@parkeronline.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Parker"
+    }
+  ]
+})

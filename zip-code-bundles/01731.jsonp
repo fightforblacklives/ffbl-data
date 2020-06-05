@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "01731",
+  "state": "MA",
+  "city": "Hanscom AFB",
+  "latitude": 42.459085,
+  "longitude": -71.27556,
+  "congressionalDistrict": [
+    "06",
+    "05"
+  ],
+  "stateUpperDistrict": "Third Middlesex",
+  "stateLowerDistrict": "Ninth Middlesex",
+  "people": [
+    {
+      "name": "Thomas M. Stanley",
+      "image": "https://malegislature.gov/Legislators/Profile/170/TMS1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 167;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2230"
+      ],
+      "email": [
+        "Thomas.Stanley@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Ninth Middlesex"
+    },
+    {
+      "name": "Michael J. Barrett",
+      "image": "https://malegislature.gov/Legislators/Profile/170/MJB0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 109-D;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1572"
+      ],
+      "email": [
+        "Mike.Barrett@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Third Middlesex"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

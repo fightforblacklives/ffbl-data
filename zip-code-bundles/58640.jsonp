@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "58640",
+  "state": "ND",
+  "city": "Killdeer",
+  "latitude": 47.411564,
+  "longitude": -102.82766,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "39",
+  "stateLowerDistrict": "39",
+  "people": [
+    {
+      "name": "Denton Zubke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-dzubke.jpg%3Fitok%3DxB4GXR1M",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 927;Watford City, ND;58854-0927"
+      ],
+      "phone": [
+        "701-842-3081"
+      ],
+      "email": [
+        "dzubke@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "39"
+    },
+    {
+      "name": "Keith Kempenich",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-kkempenich.jpg%3Fitok%3Dgc89NnG2",
+      "twitter": null,
+      "addresses": [
+        "9005 151st Avenue SW;Bowman, ND;58623-8857"
+      ],
+      "phone": [
+        "701-523-3858"
+      ],
+      "email": [
+        "kkempenich@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "39"
+    },
+    {
+      "name": "Dale Patten",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-dpatten.jpg%3Fitok%3DeErgXUQ1",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 812;Watford City, ND;58854-0812"
+      ],
+      "phone": [
+        "701-570-4908"
+      ],
+      "email": [
+        "dpatten@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "39"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

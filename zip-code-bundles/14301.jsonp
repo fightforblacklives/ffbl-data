@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "14301",
+  "state": "NY",
+  "city": "Niagara Falls",
+  "latitude": 43.096555,
+  "longitude": -79.03925,
+  "congressionalDistrict": [
+    "26"
+  ],
+  "stateUpperDistrict": "62",
+  "stateLowerDistrict": "145",
+  "people": [
+    {
+      "name": "Angelo Morinello",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-145.jpg",
+      "twitter": null,
+      "addresses": [
+        "800 Main Street, Suite 2C;Niagara Falls, NY 14301",
+        "LOB 721;Albany, NY 12248"
+      ],
+      "phone": [
+        "716-282-6062",
+        "518-455-5284"
+      ],
+      "email": [
+        "morinelloa@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "145"
+    },
+    {
+      "name": "Robert G. Ortt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-%252803-19-15%2529%2520Ortt-HS-057.jpg%3Fitok%3Dk0cugWta",
+      "twitter": null,
+      "addresses": [
+        "175 Walnut Street, Suite 6;Lockport,, NY 14094"
+      ],
+      "phone": [
+        "716-434-0680"
+      ],
+      "email": [
+        "Ortt@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "62"
+    },
+    {
+      "name": "Brian Higgins",
+      "email": null,
+      "twitter": "RepBrianHiggins",
+      "addresses": [
+        "2459 Rayburn House Office Building; Washington DC 20515-3226"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-H001038.jpg",
+      "phone": "202-225-3306",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Restaino_Robert%2154851.jpg",
+      "name": "Robert Restaino",
+      "phone": "716-286-4310",
+      "email": "robert.restaino@niagarafallsny.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Niagara Falls"
+    }
+  ]
+})

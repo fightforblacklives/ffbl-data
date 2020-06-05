@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "93534",
+  "state": "CA",
+  "city": "Lancaster",
+  "latitude": 34.698696,
+  "longitude": -118.15015,
+  "congressionalDistrict": [
+    "25",
+    "23"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Tom Lackey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-lackey.png",
+      "twitter": null,
+      "addresses": [
+        "41301 12th Street West, Suite F;Palmdale, CA 93551",
+        "P.O. Box 942849;Sacramento, CA 94249-0036"
+      ],
+      "phone": [
+        "661-267-7636",
+        "916-319-2036"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "36"
+    },
+    {
+      "name": "Scott Wilk",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-wilk.jpg",
+      "twitter": null,
+      "addresses": [
+        "14343 Civic Drive, First Floor, Victorville, CA 92392",
+        "State Capitol, Room 3063, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "760-843-8414",
+        "916-651-4021"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "21"
+    },
+    {
+      "name": "Katie Hill",
+      "email": null,
+      "twitter": "RepKatieHill",
+      "addresses": [
+        "1130 Longworth House Office Building; Washington DC 20515-0525"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-H001087.jpg",
+      "phone": "202-225-1956",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "25"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "email": null,
+      "twitter": "GOPLeader",
+      "addresses": [
+        "2468 Rayburn House Office Building; Washington DC 20515-0523"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-M001165.jpg",
+      "phone": "202-225-2915",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Parris_R_Rex%21612.jpg",
+      "name": "R Rex Parris",
+      "phone": "661-723-6019",
+      "email": "rrparris@cityoflancasterca.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Lancaster"
+    }
+  ]
+})

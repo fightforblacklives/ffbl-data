@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "84910",
+  "state": "UT",
+  "city": "North Salt Lake",
+  "latitude": 40.858481,
+  "longitude": -111.898438,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "Melissa Garff Ballard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-BALLAMG.jpg",
+      "twitter": null,
+      "addresses": [
+        "407 ELK HOLLOW CIRCLE, NORTH SALT LAKE, UT, 84054"
+      ],
+      "phone": [
+        "385-226-2485"
+      ],
+      "email": [
+        "mballard@le.utah.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "20"
+    },
+    {
+      "name": "Todd Weiler",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-WEILET.jpg",
+      "twitter": null,
+      "addresses": [
+        "1248 W 1900 S, WOODS CROSS, UT, 84087"
+      ],
+      "phone": [
+        "801-599-9823"
+      ],
+      "email": [
+        "tweiler@le.utah.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "23"
+    },
+    {
+      "name": "Mike Lee",
+      "email": null,
+      "twitter": "SenMikeLee",
+      "addresses": [
+        "361A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "phone": "202-224-5444",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mitt Romney",
+      "email": null,
+      "twitter": "SenatorRomney",
+      "addresses": [
+        "124 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "phone": "202-224-5251",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Gary Herbert",
+      "addresses": [
+        "State Capitol, Suite 200 Salt Lake City UT 84114"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "twitter": "herbertforutah",
+      "email": null,
+      "phone": "801-538-1000",
+      "type": "Governor",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

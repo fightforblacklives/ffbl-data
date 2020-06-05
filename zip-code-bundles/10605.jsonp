@@ -1,0 +1,131 @@
+callback({
+  "zipCode": "10605",
+  "state": "NY",
+  "city": "White Plains",
+  "latitude": 41.01002,
+  "longitude": -73.75158,
+  "congressionalDistrict": [
+    "17",
+    "16"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "88",
+  "people": [
+    {
+      "name": "Amy Paulin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-088.jpg",
+      "twitter": null,
+      "addresses": [
+        "700 White Plains Rd.;Suite 252;Scarsdale, NY 10583",
+        "LOB 422;Albany, NY 12248"
+      ],
+      "phone": [
+        "914-723-1115",
+        "518-455-5585"
+      ],
+      "email": [
+        "PaulinA@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "88"
+    },
+    {
+      "name": "Shelley Mayer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-senator_mayer_website_0.png%3Fitok%3DPEyO1oCn",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "smayer@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "37"
+    },
+    {
+      "name": "Eliot Engel",
+      "email": null,
+      "twitter": "RepEliotEngel",
+      "addresses": [
+        "2426 Rayburn House Office Building; Washington DC 20515-3216"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-E000179.jpg",
+      "phone": "202-225-2464",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "16"
+    },
+    {
+      "name": "Nita Lowey",
+      "email": null,
+      "twitter": "NitaLowey",
+      "addresses": [
+        "2365 Rayburn House Office Building; Washington DC 20515-3217"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-L000480.jpg",
+      "phone": "202-225-6506",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "17"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Roach_Thomas%211276.JPG",
+      "name": "Thomas M. Roach",
+      "phone": "914-422-1411",
+      "email": "troach@whiteplainsny.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "White Plains"
+    }
+  ]
+})

@@ -1,0 +1,147 @@
+callback({
+  "zipCode": "25704",
+  "state": "WV",
+  "city": "Huntington",
+  "latitude": 38.386966,
+  "longitude": -82.49609,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "19",
+  "people": [
+    {
+      "name": "Kenneth Hicks",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-hicks_kenneth.jpg",
+      "twitter": null,
+      "addresses": [
+        "182 Hidden Valley Drive;Kenova, WV, 25530",
+        "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-453-3523",
+        "304-340-3155"
+      ],
+      "email": [
+        "ken.hicks@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "19"
+    },
+    {
+      "name": "Robert Thompson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-thompson_robert.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 221;Wayne, WV, 25570",
+        "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-416-2661",
+        "304-340-3355"
+      ],
+      "email": [
+        "robert.thompson@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "19"
+    },
+    {
+      "name": "Mike Woelfel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-woelfel_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "801 8th Street;Huntington, WV, 25701",
+        "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7956"
+      ],
+      "email": [
+        "mike.woelfel@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "5"
+    },
+    {
+      "name": "Robert H. Plymale",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-plymale_robert.jpg",
+      "twitter": null,
+      "addresses": [
+        "206 Cliffview Drive;Huntington, WV, 25704",
+        "Room 218W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-453-6321",
+        "304-357-7937"
+      ],
+      "email": [
+        "robert.plymale@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "5"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Williams_Steve%21534.jpg",
+      "name": "Steve Williams",
+      "phone": "304-696-5540",
+      "email": "williamss@huntingtonwv.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WV",
+      "city": "Huntington"
+    }
+  ]
+})

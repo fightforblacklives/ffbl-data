@@ -1,0 +1,154 @@
+callback({
+  "zipCode": "24740",
+  "state": "WV",
+  "city": "Princeton",
+  "latitude": 37.368167,
+  "longitude": -81.07307,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "6",
+  "stateLowerDistrict": "27",
+  "people": [
+    {
+      "name": "Eric Porterfield",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-porterfield_eric.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 276M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3179"
+      ],
+      "email": [
+        "eric.porterfield@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "27"
+    },
+    {
+      "name": "Joe Ellington",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-ellington_joe.jpg",
+      "twitter": null,
+      "addresses": [
+        "613 Pigeon Roost Trail;Princeton, WV, 24740",
+        "Room 217E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-487-6526",
+        "304-340-3269"
+      ],
+      "email": [
+        "joe.ellington@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "27"
+    },
+    {
+      "name": "John Shott",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-shott_john.jpg",
+      "twitter": null,
+      "addresses": [
+        "422 Oakhurst Avenue;Bluefield, WV, 24701",
+        "Room 418M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-325-7534",
+        "304-340-3252"
+      ],
+      "email": [
+        "john.shott@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "27"
+    },
+    {
+      "name": "Chandler Swope",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-swope_chandler.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Three Springs Drive;Bluefield, WV, 24701",
+        "Room 229W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-920-2460",
+        "304-357-7843"
+      ],
+      "email": [
+        "chandler.swope@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "6"
+    },
+    {
+      "name": "Mark R. Maynard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-maynard_mark.jpg",
+      "twitter": null,
+      "addresses": [
+        "17070 Route 152 Road;Genoa, WV, 25517",
+        "Room 206W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-360-6272",
+        "304-357-7808"
+      ],
+      "email": [
+        "Mark.Maynard@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "6"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

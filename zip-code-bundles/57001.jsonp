@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57001",
+  "state": "SD",
+  "city": "Alcester",
+  "latitude": 42.974216,
+  "longitude": -96.63848,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "David L Anderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-Anderson_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "29177 477th Ave.;Hudson, SD 57034"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "David.Anderson@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "16"
+    },
+    {
+      "name": "Kevin D Jensen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Jensen_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "27808 484th Ave.;Canton, SD 57013"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Kevin.Jensen@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "16"
+    },
+    {
+      "name": "Jim Bolin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Bolin_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "403 W. 11th St.;Canton, SD 57013"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Jim.Bolin@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "16"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

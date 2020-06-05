@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "50704",
+  "state": "IA",
+  "city": "Waterloo",
+  "latitude": 42.469768,
+  "longitude": -92.309475,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "61",
+  "people": [
+    {
+      "name": "Timi Brown-Powers",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D14805",
+      "twitter": null,
+      "addresses": [
+        "1920 W 7th St, Waterloo, IA 50702"
+      ],
+      "phone": [
+        "319-404-3380",
+        "515-281-3221"
+      ],
+      "email": [
+        "Timi.Brown-Powers@legis.iowa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IA",
+      "district": "61"
+    },
+    {
+      "name": "William A. Dotzler Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D157",
+      "twitter": null,
+      "addresses": [
+        "2837 Cedar Terrace Dr, Waterloo, IA 50702"
+      ],
+      "phone": [
+        "319-296-2947",
+        "515-281-3371"
+      ],
+      "email": [
+        "bill.dotzler@legis.iowa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IA",
+      "district": "31"
+    },
+    {
+      "name": "Charles Grassley",
+      "email": null,
+      "twitter": "ChuckGrassley",
+      "addresses": [
+        "135 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-G000386.jpg",
+      "phone": "202-224-3744",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Joni Ernst",
+      "email": null,
+      "twitter": "SenJoniErnst",
+      "addresses": [
+        "730 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-E000295.jpg",
+      "phone": "202-224-3254",
+      "type": "US Senator",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kim Reynolds",
+      "addresses": [
+        "State Capitol Des Moines IA 50319-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ia_reynolds.png",
+      "twitter": "terrybranstad",
+      "email": null,
+      "phone": "515- 281-5211",
+      "type": "Governor",
+      "state": "IA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-Hart_Quentin%211228.jpg",
+      "name": "Quentin M. Hart",
+      "phone": "319-291-4301",
+      "email": "mayor@waterloo-ia.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IA",
+      "city": "Waterloo"
+    }
+  ]
+})

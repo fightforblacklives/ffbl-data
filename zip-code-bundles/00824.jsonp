@@ -1,0 +1,11 @@
+callback({
+  "zipCode": "00824",
+  "state": "VI",
+  "city": "Christiansted",
+  "latitude": 17.734211,
+  "longitude": -64.734694,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

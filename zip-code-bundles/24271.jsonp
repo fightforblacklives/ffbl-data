@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24271",
+  "state": "VA",
+  "city": "Nickelsville",
+  "latitude": 36.741128,
+  "longitude": -82.41823,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Terry G. Kilgore",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-H0056",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 669;Gate City, Virginia 24251"
+      ],
+      "phone": [
+        "276-386-7011"
+      ],
+      "email": [
+        "DelTKilgore@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "1"
+    },
+    {
+      "name": "Charles W. Carrico, Sr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Carrico40.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 17717;Bristol, Virginia 24209"
+      ],
+      "phone": [
+        "276-236-0098"
+      ],
+      "email": [
+        "district40@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "40"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

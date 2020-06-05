@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00726",
+  "state": "PR",
+  "city": "Caguas",
+  "latitude": 18.212965,
+  "longitude": -66.058033,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VII",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "José M. Varela Fernández",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-cb852a64-2bd1-433d-83d8-4836488d8cbe.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er.PISO ANEXO"
+      ],
+      "phone": [
+        "787-725-3928"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "32"
+    },
+    {
+      "name": "José L. Dalmau Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-16.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "jldalmau@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "VII"
+    },
+    {
+      "name": "Miguel A. Laureano Correa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-senador-23.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "mlaureano@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VII"
+    }
+  ]
+})

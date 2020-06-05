@@ -1,0 +1,88 @@
+callback({
+  "zipCode": "89433",
+  "state": "NV",
+  "city": "Sun Valley",
+  "latitude": 39.59218,
+  "longitude": -119.77467,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "27",
+  "people": [
+    {
+      "name": "Teresa Benitez-Thompson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Benitez-Thompson.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 5730;Reno, NV 89513-5730"
+      ],
+      "phone": [
+        "775-247-7665"
+      ],
+      "email": [
+        "Teresa.BenitezThompson@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "27"
+    },
+    {
+      "name": "Heidi Seevers Gansert",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-Gansert.jpg",
+      "twitter": null,
+      "addresses": [
+        "316 California Ave., #519;Reno, NV 89509"
+      ],
+      "phone": [],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "15"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

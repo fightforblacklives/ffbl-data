@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "40209",
+  "state": "KY",
+  "city": "Louisville",
+  "latitude": 38.19187,
+  "longitude": -85.75298,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "40",
+  "people": [
+    {
+      "name": "Nima Kulkarni",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-house40.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 429E;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 603"
+      ],
+      "email": [
+        "Nima.Kulkarni@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "40"
+    },
+    {
+      "name": "Denise Harper Angel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-senate135.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 254;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-2470 ext. 633"
+      ],
+      "email": [
+        "Denise.HarperAngel@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "35"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Fischer_Greg%21668.JPG",
+      "name": "Greg Fischer",
+      "phone": "502-574-2003",
+      "email": "greg.fischer@louisvilleky.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Louisville"
+    }
+  ]
+})

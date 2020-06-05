@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "87111",
+  "state": "NM",
+  "city": "Albuquerque",
+  "latitude": 35.135303,
+  "longitude": -106.52223,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Elizabeth \"Liz\" Thomson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-HTHOE.jpg",
+      "twitter": null,
+      "addresses": [
+        "1216 Westerfeld Drive NE;Albuquerque, NM 87112",
+        "Room 314B State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-239-1781",
+        "505-986-4425"
+      ],
+      "email": [
+        "liz.thomson@nmlegis.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "24"
+    },
+    {
+      "name": "Bill Tallman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-STALL.jpg",
+      "twitter": null,
+      "addresses": [
+        "5909 Canyon Pointe Court;Albuquerque, NM 87111",
+        "Room 300C State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-702-6828",
+        "505-986-4373"
+      ],
+      "email": [
+        "bill.tallman@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "18"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-Keller_Tim%2153943.jpg",
+      "name": "Tim Keller",
+      "phone": "505-768-3000",
+      "email": "tkeller@cabq.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NM",
+      "city": "Albuquerque"
+    }
+  ]
+})

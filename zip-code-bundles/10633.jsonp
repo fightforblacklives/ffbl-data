@@ -1,0 +1,100 @@
+callback({
+  "zipCode": "10633",
+  "state": "NY",
+  "city": "White Plains",
+  "latitude": 41.119008,
+  "longitude": -73.732996,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "93",
+  "people": [
+    {
+      "name": "David Buchwald",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-093.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 S. Bedford Rd.;Suite 150;Mount Kisco, NY 10549",
+        "LOB 331;Albany, NY 12248"
+      ],
+      "phone": [
+        "914-244-4450",
+        "518-455-5397"
+      ],
+      "email": [
+        "BuchwaldD@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "93"
+    },
+    {
+      "name": "Shelley Mayer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-senator_mayer_website_0.png%3Fitok%3DPEyO1oCn",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "smayer@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "37"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Roach_Thomas%211276.JPG",
+      "name": "Thomas M. Roach",
+      "phone": "914-422-1411",
+      "email": "troach@whiteplainsny.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "White Plains"
+    }
+  ]
+})

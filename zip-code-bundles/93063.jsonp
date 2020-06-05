@@ -1,0 +1,148 @@
+callback({
+  "zipCode": "93063",
+  "state": "CA",
+  "city": "Simi Valley",
+  "latitude": 34.279343,
+  "longitude": -118.69607,
+  "congressionalDistrict": [
+    "25",
+    "26",
+    "30"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "Christy Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-a38_c_smith.jpg",
+      "twitter": null,
+      "addresses": [
+        "27441 Tourney Road, Suite 160;Santa Clarita, CA 91355",
+        "P.O. Box 942849;Sacramento, CA 94249-0038"
+      ],
+      "phone": [
+        "661-286-1565",
+        "916-319-2038"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "38"
+    },
+    {
+      "name": "Henry I. Stern",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-stern.jpg",
+      "twitter": null,
+      "addresses": [
+        "5016 N. Parkway Calabasas, Suite 222, Calabasas, CA 91302",
+        "State Capitol, Room 5080, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "818-876-3352",
+        "916-651-4027"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "27"
+    },
+    {
+      "name": "Brad Sherman",
+      "email": null,
+      "twitter": "BradSherman",
+      "addresses": [
+        "2181 Rayburn House Office Building; Washington DC 20515-0530"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-S000344.jpg",
+      "phone": "202-225-5911",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "30"
+    },
+    {
+      "name": "Julia Brownley",
+      "email": null,
+      "twitter": "RepBrownley",
+      "addresses": [
+        "2262 Rayburn House Office Building; Washington DC 20515-0526"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-B001285.jpg",
+      "phone": "202-225-5811",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Katie Hill",
+      "email": null,
+      "twitter": "RepKatieHill",
+      "addresses": [
+        "1130 Longworth House Office Building; Washington DC 20515-0525"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-H001087.jpg",
+      "phone": "202-225-1956",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "25"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-Mashburn_Keith%2154518.jpg",
+      "name": "Keith L. Mashburn",
+      "phone": "805-583-6701",
+      "email": "kmashburn@simivalley.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Simi Valley"
+    }
+  ]
+})

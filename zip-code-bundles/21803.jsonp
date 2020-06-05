@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "21803",
+  "state": "MD",
+  "city": "Salisbury",
+  "latitude": 38.388434,
+  "longitude": -75.6276,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "37A",
+  "people": [
+    {
+      "name": "Sheree Sample-Hughes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-sample01.jpg",
+      "twitter": null,
+      "addresses": [
+        "427 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3427"
+      ],
+      "email": [
+        "Sheree.Sample.Hughes@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "37A"
+    },
+    {
+      "name": "Adelaide C. Eckardt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-eckardt.jpg",
+      "twitter": null,
+      "addresses": [
+        "322 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3590"
+      ],
+      "email": [
+        "adelaide.eckardt@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "37"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-Day_Jacob%212713.JPG",
+      "name": "Jacob R. Day",
+      "phone": "410-548-3100",
+      "email": "jday@salisbury.md",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Salisbury"
+    }
+  ]
+})

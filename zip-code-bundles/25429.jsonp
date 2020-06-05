@@ -1,0 +1,112 @@
+callback({
+  "zipCode": "25429",
+  "state": "WV",
+  "city": "Kearneysville",
+  "latitude": 39.349586,
+  "longitude": -77.878957,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "Sammi Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-brown_sammi.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 229E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3366"
+      ],
+      "email": [
+        "sammi.brown@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "65"
+    },
+    {
+      "name": "John R. Unger II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-unger_john.jpg",
+      "twitter": null,
+      "addresses": [
+        "1022 Williamsport Pike;Martinsburg, WV, 25404",
+        "Room 200W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-263-5488",
+        "304-357-7933"
+      ],
+      "email": [
+        "john.unger@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "16"
+    },
+    {
+      "name": "Patricia Rucker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-rucker_patricia.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 507;Harpers Ferry, WV, 25425",
+        "Room 417M, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-279-1619",
+        "304-357-7957"
+      ],
+      "email": [
+        "patricia.rucker@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "16"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

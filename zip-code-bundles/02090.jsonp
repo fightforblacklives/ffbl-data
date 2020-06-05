@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "02090",
+  "state": "MA",
+  "city": "Westwood",
+  "latitude": 42.212949,
+  "longitude": -71.20735,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "Norfolk and Suffolk",
+  "stateLowerDistrict": "Eleventh Norfolk",
+  "people": [
+    {
+      "name": "Paul McMurtry",
+      "image": "https://malegislature.gov/Legislators/Profile/170/P_M1.jpg",
+      "twitter": null,
+      "addresses": [
+        "580 High Street;Dedham, MA 02026",
+        "24 Beacon St.;Room 171;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2015"
+      ],
+      "email": [
+        "Paul.McMurtry@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Eleventh Norfolk"
+    },
+    {
+      "name": "Michael F. Rush",
+      "image": "https://malegislature.gov/Legislators/Profile/170/MFR0.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 109-C;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1348"
+      ],
+      "email": [
+        "Mike.Rush@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Norfolk and Suffolk"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "44710",
+  "state": "OH",
+  "city": "Canton",
+  "latitude": 40.791108,
+  "longitude": -81.41672,
+  "congressionalDistrict": [
+    "07",
+    "16"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "49",
+  "people": [
+    {
+      "name": "Thomas West",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-49.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;10th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8030"
+      ],
+      "email": [
+        "rep49@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "49"
+    },
+    {
+      "name": "Kirk Schuring",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-2921.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;2nd Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-0626"
+      ],
+      "email": [
+        "sd29@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "29"
+    },
+    {
+      "name": "Anthony Gonzalez",
+      "email": null,
+      "twitter": "RepAGonzalez",
+      "addresses": [
+        "1023 Longworth House Office Building; Washington DC 20515-3516"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-G000588.jpg",
+      "phone": "202-225-3876",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Bernabei_Thomas%21173.jpg",
+      "name": "Thomas M. Bernabei",
+      "phone": "330-438-4307",
+      "email": "thomas.bernabei@cantonohio.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Canton"
+    }
+  ]
+})

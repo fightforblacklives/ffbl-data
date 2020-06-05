@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "98655",
+  "state": "WA",
+  "city": "Hazel Dell North",
+  "latitude": 45.678557,
+  "longitude": -122.663954,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "49",
+  "stateLowerDistrict": "49",
+  "people": [
+    {
+      "name": "Monica Jurado Stonier",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-stonier.jpg",
+      "twitter": null,
+      "addresses": [
+        "331 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7872"
+      ],
+      "email": [
+        "Monica.Stonier@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "49"
+    },
+    {
+      "name": "Sharon Wylie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-wylie.jpg",
+      "twitter": null,
+      "addresses": [
+        "414 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7924"
+      ],
+      "email": [
+        "Sharon.Wylie@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "49"
+    },
+    {
+      "name": "Annette Cleveland",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-cleveland.jpg",
+      "twitter": null,
+      "addresses": [
+        "220 John A. Cherberg Building;PO Box 40449;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7696"
+      ],
+      "email": [
+        "Annette.Cleveland@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "49"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

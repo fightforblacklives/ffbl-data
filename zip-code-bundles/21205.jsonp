@@ -1,0 +1,141 @@
+callback({
+  "zipCode": "21205",
+  "state": "MD",
+  "city": "Baltimore",
+  "latitude": 39.301157,
+  "longitude": -76.57478,
+  "congressionalDistrict": [
+    "07",
+    "03"
+  ],
+  "stateUpperDistrict": "45",
+  "stateLowerDistrict": "45",
+  "people": [
+    {
+      "name": "Cheryl D. Glenn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-glenn.jpg",
+      "twitter": null,
+      "addresses": [
+        "301 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3257"
+      ],
+      "email": [
+        "cheryl.glenn@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "45"
+    },
+    {
+      "name": "Stephanie Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-smith03.jpg",
+      "twitter": null,
+      "addresses": [
+        "316 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3486"
+      ],
+      "email": [
+        "stephanie.smith@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "45"
+    },
+    {
+      "name": "Talmadge Branch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-branch.jpg",
+      "twitter": null,
+      "addresses": [
+        "151 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3398"
+      ],
+      "email": [
+        "talmadge.branch@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "45"
+    },
+    {
+      "name": "Cory V. McCray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-mccray02.jpg",
+      "twitter": null,
+      "addresses": [
+        "221 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3165"
+      ],
+      "email": [
+        "cory.mccray@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "45"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Young_Bernard%2154693.jpg",
+      "name": "Bernard 'Jack' C. Young",
+      "phone": "410-387-1847",
+      "email": "mayor@baltimorecity.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Baltimore"
+    }
+  ]
+})

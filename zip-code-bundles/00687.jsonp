@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00687",
+  "state": "PR",
+  "city": "Morovis",
+  "latitude": 18.31708,
+  "longitude": -66.41528,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "III",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Guillermo Miranda Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-23f801c8-a36d-4d31-92da-27eb8327f676.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO CATACUMBAS CAPITOLIO"
+      ],
+      "phone": [
+        "787-721-5007"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "12"
+    },
+    {
+      "name": "Angel R. Martínez Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-senador-11.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "anmartinez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    },
+    {
+      "name": "José O. Pérez Rosa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-senador-15.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "josperez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    }
+  ]
+})

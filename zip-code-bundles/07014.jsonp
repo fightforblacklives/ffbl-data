@@ -1,0 +1,137 @@
+callback({
+  "zipCode": "07014",
+  "state": "NJ",
+  "city": "Clifton",
+  "latitude": 40.834049,
+  "longitude": -74.13669,
+  "congressionalDistrict": [
+    "09",
+    "11"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Britnee N. Timberlake",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-timberlake_britnee_2018.jpg",
+      "twitter": null,
+      "addresses": [
+        "520 Main Street, Suite 1;East Orange, NJ 07018"
+      ],
+      "phone": [
+        "973-395-1166"
+      ],
+      "email": [
+        "AswTimberlake@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "34"
+    },
+    {
+      "name": "Thomas P. Giblin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-giblin_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "855 Valley Road, Suite 104;Clifton, NJ 07013"
+      ],
+      "phone": [
+        "973-779-3125"
+      ],
+      "email": [
+        "AsmGiblin@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "34"
+    },
+    {
+      "name": "Nia H. Gill Esq",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-gill_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "39 South Fullerton Ave., 2nd Fl., Suite 7;Montclair, NJ 07042"
+      ],
+      "phone": [
+        "973-509-0388"
+      ],
+      "email": [
+        "SenGill@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "34"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "email": null,
+      "twitter": "RepSherrill",
+      "addresses": [
+        "1208 Longworth House Office Building; Washington DC 20515-3011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "phone": "202-225-5034",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Anzaldi_James%21227.jpg",
+      "name": "James Anzaldi",
+      "phone": "973-470-5757",
+      "email": "janzaldi@cliftonnj.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Clifton"
+    }
+  ]
+})

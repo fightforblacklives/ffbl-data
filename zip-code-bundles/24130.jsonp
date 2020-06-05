@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24130",
+  "state": "VA",
+  "city": "Oriskany",
+  "latitude": 37.555083,
+  "longitude": -79.786151,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "23",
+  "stateLowerDistrict": "19",
+  "people": [
+    {
+      "name": "Terry L. Austin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-H0253",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 400;Buchanan, Virginia 24066"
+      ],
+      "phone": [
+        "540-254-1500"
+      ],
+      "email": [
+        "DelTAustin@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "19"
+    },
+    {
+      "name": "Stephen D. Newman",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Newman2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 480;Forest, Virginia 24551"
+      ],
+      "phone": [
+        "434-385-1065"
+      ],
+      "email": [
+        "district23@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "23"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

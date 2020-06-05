@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03224",
+  "state": "NH",
+  "city": "Canterbury",
+  "latitude": 43.346137,
+  "longitude": -71.54434,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "Merrimack 9",
+  "people": [
+    {
+      "name": "George L. Saunderson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-377322.jpg",
+      "twitter": null,
+      "addresses": [
+        "615 Lovejoy Road;Loudon, NH 03307-1109"
+      ],
+      "phone": [
+        "603-783-4750"
+      ],
+      "email": [
+        "George.Saunderson@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Merrimack 9"
+    },
+    {
+      "name": "Howard M. Moffett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-377148.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 267;2 Baptist Rd;Canterbury, NH 03224-0267"
+      ],
+      "phone": [
+        "603-783-4993"
+      ],
+      "email": [
+        "Howard.Moffett@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Merrimack 9"
+    },
+    {
+      "name": "Harold F. French",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-07.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-4063"
+      ],
+      "email": [
+        "Harold.French@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "7"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

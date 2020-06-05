@@ -1,0 +1,72 @@
+callback({
+  "zipCode": "39476",
+  "state": "MS",
+  "city": "Richton",
+  "latitude": 31.355717,
+  "longitude": -88.85881,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": "86",
+  "people": [
+    {
+      "name": "Shane Barnett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-barnett.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 400-F;P. O. Box 1018;Jackson, MS 39215"
+      ],
+      "phone": [
+        "601-359-2426"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MS",
+      "district": "86"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "email": null,
+      "twitter": "SenHydeSmith",
+      "addresses": [
+        "702 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "phone": "202-224-5054",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roger Wicker",
+      "email": null,
+      "twitter": "SenatorWicker",
+      "addresses": [
+        "555 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "phone": "202-224-6253",
+      "type": "US Senator",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tate Reeves",
+      "addresses": [
+        "P.O. Box 139 Jackson MS 39205"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "twitter": "philbryantms",
+      "email": null,
+      "phone": "601-359-3150",
+      "type": "Governor",
+      "state": "MS",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

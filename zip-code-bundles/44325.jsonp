@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "44325",
+  "state": "OH",
+  "city": "Akron",
+  "latitude": 41.076425,
+  "longitude": -81.51026,
+  "congressionalDistrict": [
+    "11",
+    "13"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "34",
+  "people": [
+    {
+      "name": "Emilia Strong Sykes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-34.jpg",
+      "twitter": null,
+      "addresses": [
+        "Minority Leader;77 S. High St;14th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-3100"
+      ],
+      "email": [
+        "rep34@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "34"
+    },
+    {
+      "name": "Vernon Sykes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-2867.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-7041"
+      ],
+      "email": [
+        "sd28@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "28"
+    },
+    {
+      "name": "Marcia Fudge",
+      "email": null,
+      "twitter": "RepMarciaFudge",
+      "addresses": [
+        "2344 Rayburn House Office Building; Washington DC 20515-3511"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-F000455.jpg",
+      "phone": "202-225-7032",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Tim Ryan",
+      "email": null,
+      "twitter": "RepTimRyan",
+      "addresses": [
+        "1126 Longworth House Office Building; Washington DC 20515-3513"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-R000577.jpg",
+      "phone": "202-225-5261",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-Horrigan_Dan%218.JPG",
+      "name": "Dan Horrigan",
+      "phone": "330-375-2345",
+      "email": "mayor@akronohio.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Akron"
+    }
+  ]
+})

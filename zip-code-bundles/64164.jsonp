@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "64164",
+  "state": "MO",
+  "city": "Kansas City",
+  "latitude": 39.335365,
+  "longitude": -94.62462,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "13",
+  "people": [
+    {
+      "name": "Vic Allred",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "201 West Capitol Avenue 118CC, Jefferson City, MO 65101"
+      ],
+      "phone": [
+        "573-751-6593"
+      ],
+      "email": [
+        "Vic.Allred@house.mo.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MO",
+      "district": "13"
+    },
+    {
+      "name": "Tony Luetkemeyer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-010720-002-200x300.jpg",
+      "twitter": null,
+      "addresses": [
+        "201 W Capitol Ave., Rm. 220;Jefferson City, Missouri 65101"
+      ],
+      "phone": [
+        "573-751-2183"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MO",
+      "district": "34"
+    },
+    {
+      "name": "Joshua Hawley",
+      "email": null,
+      "twitter": "SenHawleyPress",
+      "addresses": [
+        "212 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-H001089.jpg",
+      "phone": "202-224-6154",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roy Blunt",
+      "email": null,
+      "twitter": "RoyBlunt",
+      "addresses": [
+        "260 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-B000575.jpg",
+      "phone": "202-224-5721",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Parson",
+      "addresses": [
+        "Capitol Building Capitol Building Jefferson City MO 65102"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-mo_parson.png",
+      "twitter": "mikeparson",
+      "email": null,
+      "phone": "573-751-3222",
+      "type": "Governor",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Lucas_Quinton%2154759.jpg",
+      "name": "Quinton Lucas",
+      "phone": "816-513-3500",
+      "email": "quinton.lucas@kcmo.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MO",
+      "city": "Kansas City"
+    }
+  ]
+})

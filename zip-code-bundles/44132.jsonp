@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "44132",
+  "state": "OH",
+  "city": "Euclid",
+  "latitude": 41.608298,
+  "longitude": -81.50041,
+  "congressionalDistrict": [
+    "11",
+    "14"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Kent Smith",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-8.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;14th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-5441"
+      ],
+      "email": [
+        "rep08@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "8"
+    },
+    {
+      "name": "Kenny Yuko",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-2829.jpg",
+      "twitter": null,
+      "addresses": [
+        "Statehouse;1 Capitol Square;3rd Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-4583"
+      ],
+      "email": [
+        "sd25@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OH",
+      "district": "25"
+    },
+    {
+      "name": "David Joyce",
+      "email": null,
+      "twitter": "RepDaveJoyce",
+      "addresses": [
+        "1124 Longworth House Office Building; Washington DC 20515-3514"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-J000295.jpg",
+      "phone": "202-225-5731",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "14"
+    },
+    {
+      "name": "Marcia Fudge",
+      "email": null,
+      "twitter": "RepMarciaFudge",
+      "addresses": [
+        "2344 Rayburn House Office Building; Washington DC 20515-3511"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-F000455.jpg",
+      "phone": "202-225-7032",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Gail_Kirsten%21360.JPG",
+      "name": "Kirsten Holzheimer Gail",
+      "phone": "216-289-2751",
+      "email": "mayor@cityofeuclid.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Euclid"
+    }
+  ]
+})

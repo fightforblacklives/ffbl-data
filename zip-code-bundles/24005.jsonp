@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "24005",
+  "state": "VA",
+  "city": "Roanoke",
+  "latitude": 37.274175,
+  "longitude": -79.95786,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "11",
+  "people": [
+    {
+      "name": "Sam Rasoul",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-H0266",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 13842;Roanoke, Virginia 24037"
+      ],
+      "phone": [
+        "804-698-1011"
+      ],
+      "email": [
+        "DelSRasoul@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "11"
+    },
+    {
+      "name": "John S. Edwards",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Edwards21.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1179;Roanoke, Virginia 24006-1179"
+      ],
+      "phone": [
+        "540-985-8690"
+      ],
+      "email": [
+        "district21@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "21"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Lea_Sherman%2153074.jpg",
+      "name": "Sherman P. Lea Sr.",
+      "phone": "540-853-2444",
+      "email": "sherman.lea@roanokeva.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Roanoke"
+    }
+  ]
+})

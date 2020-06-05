@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "06250",
+  "state": "CT",
+  "city": "Mansfield Center",
+  "latitude": 41.768455,
+  "longitude": -72.20007,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Gregory Haddad",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "28 Storrs Heights Road;Storrs, CT 06268",
+        "Legislative Office Building;Room 1804;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-429-8517",
+        "860-240-8500"
+      ],
+      "email": [
+        "Gregory.Haddad@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "54"
+    },
+    {
+      "name": "Mae Flexer",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "300 Capitol Avenue, Legislative Office Bldg;Hartford, CT 06106",
+        "Legislative Office Building;Room 1805;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-208-0429",
+        "860-240-8634"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "29"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

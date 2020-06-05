@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "10703",
+  "state": "NY",
+  "city": "Yonkers",
+  "latitude": 40.956546,
+  "longitude": -73.8799,
+  "congressionalDistrict": [
+    "16"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "90",
+  "people": [
+    {
+      "name": "Nader Sayegh",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-090.jpg",
+      "twitter": null,
+      "addresses": [
+        "35 East Grassy Sprain Rd.;406B;Yonkers, NY 10710"
+      ],
+      "phone": [
+        "914-779-8805",
+        "518-455-3662"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "90"
+    },
+    {
+      "name": "Andrea Stewart-Cousins",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-asc_headshot.jpg%3Fitok%3DRHphZkr2",
+      "twitter": null,
+      "addresses": [
+        "28 Wells Avenue, Building #3;Yonkers,, NY 10701"
+      ],
+      "phone": [
+        "914-423-4031"
+      ],
+      "email": [
+        "scousins@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "35"
+    },
+    {
+      "name": "Eliot Engel",
+      "email": null,
+      "twitter": "RepEliotEngel",
+      "addresses": [
+        "2426 Rayburn House Office Building; Washington DC 20515-3216"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-E000179.jpg",
+      "phone": "202-225-2464",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "16"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Spano_Mike%211307.JPG",
+      "name": "Mike Spano",
+      "phone": "914-377-6300",
+      "email": "cityhall@yonkersny.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Yonkers"
+    }
+  ]
+})

@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "22312",
+  "state": "VA",
+  "city": "Alexandria",
+  "latitude": 38.817362,
+  "longitude": -77.1537,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "38",
+  "people": [
+    {
+      "name": "Kaye Kory",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-H0222",
+      "twitter": null,
+      "addresses": [
+        "6505 Waterway Drive;Falls Church, Virginia 22044"
+      ],
+      "phone": [
+        "703-354-6024"
+      ],
+      "email": [
+        "DelKKory@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "38"
+    },
+    {
+      "name": "Richard L. Saslaw",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Saslaw35.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1856;Springfield, Virginia 22151-0856"
+      ],
+      "phone": [
+        "703-978-0200"
+      ],
+      "email": [
+        "district35@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "35"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Wilson_Justin%2154486.jpg",
+      "name": "Justin Wilson",
+      "phone": "703-746-4500",
+      "email": "justin.wilson@alexandriava.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Alexandria"
+    }
+  ]
+})

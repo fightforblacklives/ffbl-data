@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "53141",
+  "state": "WI",
+  "city": "Kenosha",
+  "latitude": 42.58098,
+  "longitude": -87.662878,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "61",
+  "people": [
+    {
+      "name": "Samantha Kerkman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-1855.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 315 North;State Capitol;PO Box 8952;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-2530"
+      ],
+      "email": [
+        "Rep.Kerkman@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "61"
+    },
+    {
+      "name": "Van H. Wanggaard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-1925.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 313 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-1832"
+      ],
+      "email": [
+        "Sen.Wanggaard@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "21"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Antaramian_John%2153020.jpg",
+      "name": "John Martin Antaramian",
+      "phone": "262-653-4000",
+      "email": "mayor@kenosha.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Kenosha"
+    }
+  ]
+})

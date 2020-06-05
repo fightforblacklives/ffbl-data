@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "02806",
+  "state": "RI",
+  "city": "Barrington",
+  "latitude": 41.746834,
+  "longitude": -71.32031,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Liana M. Cassar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-cassar.jpg",
+      "twitter": null,
+      "addresses": [
+        "2 Hope Court, Barrington, RI 02806"
+      ],
+      "phone": [
+        "401-433-9539"
+      ],
+      "email": [
+        "rep-cassar@rilegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "66"
+    },
+    {
+      "name": "Cynthia Armour Coyne",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-coyne.jpg",
+      "twitter": null,
+      "addresses": [
+        "8 Newbrook Drive, Barrington, RI 02806"
+      ],
+      "phone": [
+        "401-222-6655"
+      ],
+      "email": [
+        "sen-coyne@rilegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "RI",
+      "district": "32"
+    },
+    {
+      "name": "John Reed",
+      "email": null,
+      "twitter": "SenJackReed",
+      "addresses": [
+        "728 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "phone": "202-224-4642",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "email": null,
+      "twitter": "SenWhitehouse",
+      "addresses": [
+        "530 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "phone": "202-224-2921",
+      "type": "US Senator",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gina Raimondo",
+      "addresses": [
+        "State House State House Providence RI 02903"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "twitter": "ginaraimondo",
+      "email": null,
+      "phone": "401-222-2080",
+      "type": "Governor",
+      "state": "RI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

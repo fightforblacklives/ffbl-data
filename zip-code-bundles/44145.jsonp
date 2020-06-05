@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "44145",
+  "state": "OH",
+  "city": "Westlake",
+  "latitude": 41.454439,
+  "longitude": -81.92865,
+  "congressionalDistrict": [
+    "07",
+    "16"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Dave Greenspan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-16.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-0961"
+      ],
+      "email": [
+        "rep16@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "16"
+    },
+    {
+      "name": "Matt Dolan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-2866.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-8056"
+      ],
+      "email": [
+        "sd24@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "24"
+    },
+    {
+      "name": "Anthony Gonzalez",
+      "email": null,
+      "twitter": "RepAGonzalez",
+      "addresses": [
+        "1023 Longworth House Office Building; Washington DC 20515-3516"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-G000588.jpg",
+      "phone": "202-225-3876",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Clough_Dennis%211264.jpg",
+      "name": "Dennis M. Clough",
+      "phone": "440-617-4193",
+      "email": "dclough@cityofwestlake.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OH",
+      "city": "Westlake"
+    }
+  ]
+})

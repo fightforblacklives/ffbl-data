@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "58444",
+  "state": "ND",
+  "city": "Goodrich",
+  "latitude": 47.480027,
+  "longitude": -100.13717,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "14",
+  "people": [
+    {
+      "name": "Jon O. Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-jonelson.jpg%3Fitok%3DyWIDB4v9",
+      "twitter": null,
+      "addresses": [
+        "420 Sixth Avenue SE;Rugby, ND;58368-2320"
+      ],
+      "phone": [
+        "701-776-6738"
+      ],
+      "email": [
+        "jonelson@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "14"
+    },
+    {
+      "name": "Robin Weisz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-rweisz.jpg%3Fitok%3DOyE9eqvS",
+      "twitter": null,
+      "addresses": [
+        "2639 First Street SE;Hurdsfield, ND;58451-9029"
+      ],
+      "phone": [
+        "701-962-3299",
+        "701-962-3799"
+      ],
+      "email": [
+        "rweisz@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "14"
+    },
+    {
+      "name": "Jerry Klein",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-jklein.jpg%3Fitok%3Ds5iRhWJ6",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 265;Fessenden, ND;58438-0265"
+      ],
+      "phone": [
+        "701-547-3517"
+      ],
+      "email": [
+        "jklein@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "14"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

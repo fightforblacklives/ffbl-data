@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24273",
+  "state": "VA",
+  "city": "Norton",
+  "latitude": 36.942047,
+  "longitude": -82.63138000000001,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "38",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Terry G. Kilgore",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-H0056",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 669;Gate City, Virginia 24251"
+      ],
+      "phone": [
+        "276-386-7011"
+      ],
+      "email": [
+        "DelTKilgore@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "1"
+    },
+    {
+      "name": "A. Benton \"Ben\" Chafin",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Chafin38.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1210;Lebanon, Virginia 24266"
+      ],
+      "phone": [
+        "276-889-1044"
+      ],
+      "email": [
+        "district38@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "38"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

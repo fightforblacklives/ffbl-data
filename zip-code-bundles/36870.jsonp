@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "36870",
+  "state": "AL",
+  "city": "Phenix City",
+  "latitude": 32.484671,
+  "longitude": -85.0752,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "13",
+  "stateLowerDistrict": "80",
+  "people": [
+    {
+      "name": "Chris Blackshear",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-Blackshear_80.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 427-M;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0428"
+      ],
+      "email": [
+        "chris.blackshear@alhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "80"
+    },
+    {
+      "name": "Randy Price",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-Price_13.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite732;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0874"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AL",
+      "district": "13"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Lowe_Eddie%212583.jpg",
+      "name": "Eddie N. Lowe",
+      "phone": "334-448-2701",
+      "email": "elowe@phenixcityal.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Phenix City"
+    }
+  ]
+})

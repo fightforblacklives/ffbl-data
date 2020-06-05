@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "35208",
+  "state": "AL",
+  "city": "Birmingham",
+  "latitude": 33.494545,
+  "longitude": -86.88115,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "55",
+  "people": [
+    {
+      "name": "Rod Scott",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Scott_55.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 425;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0452"
+      ],
+      "email": [
+        "rodhscott@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "55"
+    },
+    {
+      "name": "Priscilla Dunn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-Dunn_19.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 737;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0793"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "19"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Woodfin_Randall%2153936.jpg",
+      "name": "Randall Woodfin",
+      "phone": "205-254-2277",
+      "email": "randall.woodfin@birminghamal.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Birmingham"
+    }
+  ]
+})

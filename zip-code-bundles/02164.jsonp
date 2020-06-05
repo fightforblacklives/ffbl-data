@@ -1,0 +1,103 @@
+callback({
+  "zipCode": "02164",
+  "state": "MA",
+  "city": "Newton",
+  "latitude": 42.446396,
+  "longitude": -71.459405,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "Middlesex and Worcester",
+  "stateLowerDistrict": "Third Middlesex",
+  "people": [
+    {
+      "name": "Kate Hogan",
+      "image": "https://malegislature.gov/Legislators/Profile/170/K_H1.jpg",
+      "twitter": null,
+      "addresses": [
+        "24 Beacon St.;Room 163;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-2199"
+      ],
+      "email": [
+        "Kate.Hogan@mahouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Third Middlesex"
+    },
+    {
+      "name": "James B. Eldridge",
+      "image": "https://malegislature.gov/Legislators/Profile/170/JBE0.jpg",
+      "twitter": null,
+      "addresses": [
+        "255 Main Street;Marlborough, MA 01752",
+        "24 Beacon St.;Room 511-C;Boston, MA, 02133"
+      ],
+      "phone": [
+        "617-722-1120"
+      ],
+      "email": [
+        "James.Eldridge@masenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MA",
+      "district": "Middlesex and Worcester"
+    },
+    {
+      "name": "Edward Markey",
+      "email": null,
+      "twitter": "SenMarkey",
+      "addresses": [
+        "255 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "phone": "202-224-2742",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Elizabeth Warren",
+      "email": null,
+      "twitter": "SenWarren",
+      "addresses": [
+        "309 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "phone": "202-224-4543",
+      "type": "US Senator",
+      "state": "MA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Charlie Baker",
+      "addresses": [
+        "State House, Room 360 Boston MA 02133"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "twitter": "charliebakerma",
+      "email": null,
+      "phone": "617-725-4005",
+      "type": "Governor",
+      "state": "MA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Fuller_Ruthanne%2154003.jpg",
+      "name": "Ruthanne Fuller",
+      "phone": "617-796-1100",
+      "email": "rfuller@newtonma.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MA",
+      "city": "Newton"
+    }
+  ]
+})

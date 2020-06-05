@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "83250",
+  "state": "ID",
+  "city": "McCammon",
+  "latitude": 42.659404,
+  "longitude": -112.21484,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Kevin Andrus",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Andrus5367.jpg",
+      "twitter": null,
+      "addresses": [
+        "6948 E. Old Oregon Trail, Lava Hot Springs, ID 83246"
+      ],
+      "phone": [
+        "208-332-1045"
+      ],
+      "email": [
+        "kandrus@house.idaho.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ID",
+      "district": "28"
+    },
+    {
+      "name": "Randy Armstrong",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Armstrong4279.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 8, Inkom, ID 83245"
+      ],
+      "phone": [
+        "208-332-1046"
+      ],
+      "email": [
+        "armstrong@house.idaho.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ID",
+      "district": "28"
+    },
+    {
+      "name": "Jim Guthrie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-Guthrie1179.jpg",
+      "twitter": null,
+      "addresses": [
+        "320 S. Marsh Creek Road, Inkom, ID 83245"
+      ],
+      "phone": [
+        "208-332-1348"
+      ],
+      "email": [
+        "jguthrie@senate.idaho.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ID",
+      "district": "28"
+    },
+    {
+      "name": "James Risch",
+      "email": null,
+      "twitter": "SenatorRisch",
+      "addresses": [
+        "483 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "phone": "202-224-2752",
+      "type": "US Senator",
+      "state": "ID",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Crapo",
+      "email": null,
+      "twitter": "MikeCrapo",
+      "addresses": [
+        "239 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "phone": "202-224-6142",
+      "type": "US Senator",
+      "state": "ID",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Brad Little",
+      "addresses": [
+        "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "twitter": "GovernorLittle",
+      "email": null,
+      "phone": "208-334-2100",
+      "type": "Governor",
+      "state": "ID",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

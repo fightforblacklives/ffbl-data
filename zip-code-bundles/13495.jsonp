@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "13495",
+  "state": "NY",
+  "city": "Yorkville",
+  "latitude": 43.110619,
+  "longitude": -75.27716,
+  "congressionalDistrict": [
+    "22"
+  ],
+  "stateUpperDistrict": "47",
+  "stateLowerDistrict": "119",
+  "people": [
+    {
+      "name": "Marianne Buttenschon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-119.jpg",
+      "twitter": null,
+      "addresses": [
+        "207 Genesee Street;Rm 401;Utica, NY 13501"
+      ],
+      "phone": [
+        "315-732-1055",
+        "518-455-5454"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "119"
+    },
+    {
+      "name": "Joseph A. Griffo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-%252811-18-08%2529%2520Griffo-HS-020.jpg%3Fitok%3DrGK6kVTU",
+      "twitter": null,
+      "addresses": [
+        "207 Genesee Street Room 408;Utica,, NY 13501"
+      ],
+      "phone": [
+        "315-793-9072"
+      ],
+      "email": [
+        "griffo@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "47"
+    },
+    {
+      "name": "Anthony Brindisi",
+      "email": null,
+      "twitter": "RepBrindisi",
+      "addresses": [
+        "329 Cannon House Office Building; Washington DC 20515-3222"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-B001308.jpg",
+      "phone": "202-225-3665",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "22"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

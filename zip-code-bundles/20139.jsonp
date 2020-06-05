@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "20139",
+  "state": "VA",
+  "city": "Casanova",
+  "latitude": 38.651558,
+  "longitude": -77.70361,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "31",
+  "people": [
+    {
+      "name": "Elizabeth R. Guzman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-H0297",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1818;Woodbridge, Virginia 22195"
+      ],
+      "phone": [
+        "571-403-1213"
+      ],
+      "email": [
+        "DelEGuzman@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "31"
+    },
+    {
+      "name": "Jill Holtzman Vogel",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Vogel27.jpg",
+      "twitter": null,
+      "addresses": [
+        "45 North Hill Drive;Suite 100;Warrenton, Virginia 20186"
+      ],
+      "phone": [
+        "540-662-4551"
+      ],
+      "email": [
+        "district27@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "27"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

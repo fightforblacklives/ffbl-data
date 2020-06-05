@@ -1,0 +1,103 @@
+callback({
+  "zipCode": "29406",
+  "state": "SC",
+  "city": "Charleston",
+  "latitude": 32.918757,
+  "longitude": -80.0228,
+  "congressionalDistrict": [
+    "06",
+    "01"
+  ],
+  "stateUpperDistrict": "42",
+  "stateLowerDistrict": "113",
+  "people": [
+    {
+      "name": "Marvin R. Pendarvis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-1457812326.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 60715North Charleston 29419",
+        "328A Blatt Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "843-225-2520",
+        "803-212-6716"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "SC",
+      "district": "113"
+    },
+    {
+      "name": "Marlon E. Kimpson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-0994318063.jpg",
+      "twitter": null,
+      "addresses": [
+        "508 Gressette Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "803-212-6132"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "SC",
+      "district": "42"
+    },
+    {
+      "name": "Lindsey Graham",
+      "email": null,
+      "twitter": "GrahamBlog",
+      "addresses": [
+        "290 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "phone": "202-224-5972",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tim Scott",
+      "email": null,
+      "twitter": "SenatorTimScott",
+      "addresses": [
+        "104 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "phone": "202-224-6121",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Henry McMaster",
+      "addresses": [
+        "1205 Pendleton Street Columbia SC 29201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "twitter": "henrymcmaster",
+      "email": null,
+      "phone": "803-734-2100",
+      "type": "Governor",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Tecklenburg_John%21198.JPG",
+      "name": "John J. Tecklenburg",
+      "phone": "843-577-4727",
+      "email": "tecklenburgj@charleston-sc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "SC",
+      "city": "Charleston"
+    }
+  ]
+})

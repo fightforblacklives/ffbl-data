@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "18024",
+  "state": "PA",
+  "city": "Bethlehem",
+  "latitude": 40.650883,
+  "longitude": -75.306102,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "18",
+  "stateLowerDistrict": "138",
+  "people": [
+    {
+      "name": "Marcia M. Hahn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-1195.jpg",
+      "twitter": null,
+      "addresses": [
+        "196 West Moorestown Road Wind Gap, PA 18091",
+        "402-A Irvis Office Building P O Box 202138 Harrisburg, PA 17120-2138"
+      ],
+      "phone": [
+        "610-746-2100",
+        "717-783-8573"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "PA",
+      "district": "138"
+    },
+    {
+      "name": "Lisa M. Boscola",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-179.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 East Broad Street Suite 120;Bethlehem, PA 18018",
+        "Senate Box 203018;Harrisburg, PA 17120-3018;Room:;458 Main Capitol"
+      ],
+      "phone": [
+        "610-868-8667",
+        "717-787-4236"
+      ],
+      "email": [
+        "boscola@pasenate.com",
+        "boscola@pasenate.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "PA",
+      "district": "18"
+    },
+    {
+      "name": "Patrick Toomey",
+      "email": null,
+      "twitter": "SenToomey",
+      "addresses": [
+        "248 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "phone": "202-224-4254",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Robert Casey",
+      "email": null,
+      "twitter": "SenBobCasey",
+      "addresses": [
+        "393 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "phone": "202-224-6324",
+      "type": "US Senator",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Wolf",
+      "addresses": [
+        "Main Capitol Building, Room 225 Harrisburg PA 17120"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "twitter": "governortomwolf",
+      "email": null,
+      "phone": "717-787-2500",
+      "type": "Governor",
+      "state": "PA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Donchez_Robert%21101.jpg",
+      "name": "Robert Donchez",
+      "phone": "610-865-7100",
+      "email": "rdonchez@bethlehem-pa.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "PA",
+      "city": "Bethlehem"
+    }
+  ]
+})

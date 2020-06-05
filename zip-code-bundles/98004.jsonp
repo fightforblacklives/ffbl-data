@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "98004",
+  "state": "WA",
+  "city": "Bellevue",
+  "latitude": 47.618371,
+  "longitude": -122.20308,
+  "congressionalDistrict": [
+    "01",
+    "09"
+  ],
+  "stateUpperDistrict": "48",
+  "stateLowerDistrict": "48",
+  "people": [
+    {
+      "name": "Amy Walen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-walen.jpg",
+      "twitter": null,
+      "addresses": [
+        "418 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7848"
+      ],
+      "email": [
+        "Amy.Walen@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "48"
+    },
+    {
+      "name": "Vandana Slatter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-slatter.jpg",
+      "twitter": null,
+      "addresses": [
+        "419 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7936"
+      ],
+      "email": [
+        "Vandana.Slatter@leg.wa.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "48"
+    },
+    {
+      "name": "Patty Kuderer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-kuderer.jpg",
+      "twitter": null,
+      "addresses": [
+        "411 Legislative Building;PO Box 40448;Olympia, WA 98504"
+      ],
+      "phone": [
+        "360-786-7694"
+      ],
+      "email": [
+        "Patty.Kuderer@leg.wa.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WA",
+      "district": "48"
+    },
+    {
+      "name": "Maria Cantwell",
+      "email": null,
+      "twitter": "SenatorCantwell",
+      "addresses": [
+        "511 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "phone": "202-224-3441",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Patty Murray",
+      "email": null,
+      "twitter": "PattyMurray",
+      "addresses": [
+        "154 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "phone": "202-224-2621",
+      "type": "US Senator",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jay Inslee",
+      "addresses": [
+        "P.O. Box 40002 Olympia WA 98504-0002"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "twitter": "govinslee",
+      "email": null,
+      "phone": "360-902-4111",
+      "type": "Governor",
+      "state": "WA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-Robinson_Lynne%2154991.jpg",
+      "name": "Lynne Robinson",
+      "phone": "425-452-7810",
+      "email": "lrobinson@bellevuewa.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WA",
+      "city": "Bellevue"
+    }
+  ]
+})

@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "60505",
+  "state": "IL",
+  "city": "Aurora",
+  "latitude": 41.756129,
+  "longitude": -88.29699,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "42",
+  "stateLowerDistrict": "83",
+  "people": [
+    {
+      "name": "Barbara Hernandez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-%7BE3518E4F-7AAF-4D93-8985-336197D96094%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "540 W. Galena Blvd.;Aurora, IL 60506",
+        "233-E Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-270-1848",
+        "217-558-1002"
+      ],
+      "email": [
+        "Repbarbarahernandez@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "83"
+    },
+    {
+      "name": "Linda Holmes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-%7B9A39C8B9-4B06-4BF7-85CE-4C6F4FD07769%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "76 S. LaSalle Street;Suite 202;Aurora, IL 60505",
+        "129 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-801-8985",
+        "217-782-0422"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "42"
+    },
+    {
+      "name": "Bill Foster",
+      "email": null,
+      "twitter": "RepBillFoster",
+      "addresses": [
+        "2366 Rayburn House Office Building; Washington DC 20515-1311"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-F000454.jpg",
+      "phone": "202-225-3515",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Irvin_Richard%2153496.jpg",
+      "name": "Richard C. Irvin",
+      "phone": "630-256-3010",
+      "email": "mayorsoffice@aurora-il.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Aurora"
+    }
+  ]
+})

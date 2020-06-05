@@ -1,0 +1,94 @@
+callback({
+  "zipCode": "28311",
+  "state": "NC",
+  "city": "Fayetteville",
+  "latitude": 35.134301,
+  "longitude": -78.89411,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "43",
+  "people": [
+    {
+      "name": "Elmer Floyd",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-583.jpg",
+      "twitter": null,
+      "addresses": [
+        "207 Courtney St;Fayetteville, NC 28301",
+        "16 West Jones Street, Rm. 1325;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "910-488-6903",
+        "919-733-5959"
+      ],
+      "email": [
+        "Elmer.Floyd@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "43"
+    },
+    {
+      "name": "Ben Clark",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-380.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1117;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 1117;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-9349",
+        "919-733-9349"
+      ],
+      "email": [
+        "Ben.Clark@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "21"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-Colvin_Mitch%2154027.jpg",
+      "name": "Mitch Colvin",
+      "phone": "910-670-5186",
+      "email": "mitch.colvin@ci.fay.nc.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Fayetteville"
+    }
+  ]
+})

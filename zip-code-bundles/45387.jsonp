@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "45387",
+  "state": "OH",
+  "city": "Yellow Springs",
+  "latitude": 39.797227,
+  "longitude": -83.89239,
+  "congressionalDistrict": [
+    "10",
+    "08"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "73",
+  "people": [
+    {
+      "name": "Rick Perales",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-73.jpg",
+      "twitter": null,
+      "addresses": [
+        "77 S. High St;13th Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-644-6020"
+      ],
+      "email": [
+        "rep73@ohiohouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "73"
+    },
+    {
+      "name": "Bob D. Hackett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-2836.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
+      ],
+      "phone": [
+        "614-466-3780"
+      ],
+      "email": [
+        "sd10@ohiosenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OH",
+      "district": "10"
+    },
+    {
+      "name": "Michael Turner",
+      "email": null,
+      "twitter": "RepMikeTurner",
+      "addresses": [
+        "2082 Rayburn House Office Building; Washington DC 20515-3510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-T000463.jpg",
+      "phone": "202-225-6465",
+      "type": "US Representative",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": "10"
+    },
+    {
+      "name": "Robert Portman",
+      "email": null,
+      "twitter": "SenRobPortman",
+      "addresses": [
+        "448 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "phone": "202-224-3353",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Sherrod Brown",
+      "email": null,
+      "twitter": "SenSherrodBrown",
+      "addresses": [
+        "503 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "phone": "202-224-2315",
+      "type": "US Senator",
+      "state": "OH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Mike DeWine",
+      "addresses": [
+        "77 South High Street, 30th Floor Columbus OH 43215"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "twitter": "GovMikeDeWine",
+      "email": null,
+      "phone": "614-466-3555",
+      "type": "Governor",
+      "state": "OH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

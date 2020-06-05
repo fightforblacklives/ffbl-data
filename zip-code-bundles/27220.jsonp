@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "27220",
+  "state": "NC",
+  "city": "Burlington",
+  "latitude": 36.046677,
+  "longitude": -79.389631,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "63",
+  "people": [
+    {
+      "name": "Stephen M. Ross",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-664.jpg",
+      "twitter": null,
+      "addresses": [
+        "1314 McCuiston Dr;Burlington, NC 27215",
+        "16 West Jones Street, Rm. 1229;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "919-733-5820",
+        "919-733-5820"
+      ],
+      "email": [
+        "Stephen.Ross@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "63"
+    },
+    {
+      "name": "Rick Gunn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-276.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 523;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 314;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-301-1446",
+        "919-301-1446"
+      ],
+      "email": [
+        "Rick.Gunn@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "24"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-Baltutis_Ian%2153125.jpg",
+      "name": "Ian Baltutis",
+      "phone": "336-222-5020",
+      "email": "ibaltutis@ci.burlington.nc.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Burlington"
+    }
+  ]
+})

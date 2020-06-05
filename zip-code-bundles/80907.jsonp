@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "80907",
+  "state": "CO",
+  "city": "Colorado Springs",
+  "latitude": 38.873692,
+  "longitude": -104.81869,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Larry Liston",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-2020a_liston%252C%2520larry.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2937"
+      ],
+      "email": [
+        "larry.liston.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "16"
+    },
+    {
+      "name": "Owen Hill",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-2020a_hill%252C%2520owen.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2737"
+      ],
+      "email": [
+        "owen.hill.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "10"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Suthers_John%21233.JPG",
+      "name": "John Suthers",
+      "phone": "719-385-5900",
+      "email": "jsuthers@springsgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Colorado Springs"
+    }
+  ]
+})

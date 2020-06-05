@@ -1,0 +1,60 @@
+callback({
+  "zipCode": "00648",
+  "state": "PR",
+  "city": "Fajardo",
+  "latitude": 18.333038,
+  "longitude": -65.656182,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "VIII",
+  "stateLowerDistrict": "36",
+  "people": [
+    {
+      "name": "Carlos \"Johnny\" Méndez Núñez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-388b73fb-2107-4068-8b63-e496fb7dd165.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do Piso - Capitolio - Oficina Presidente"
+      ],
+      "phone": [
+        "787-722-3539"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "36"
+    },
+    {
+      "name": "Eric Correa Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-senador-6.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ecorrea@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    },
+    {
+      "name": "Nayda C. Venegas Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senador-26.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "nvenegas@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    }
+  ]
+})

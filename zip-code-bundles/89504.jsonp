@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "89504",
+  "state": "NV",
+  "city": "Reno",
+  "latitude": 40.541218,
+  "longitude": -119.586934,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Alexis Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-Hansen.Alexis.366.jpg",
+      "twitter": null,
+      "addresses": [
+        "68 Amigo Court;Sparks, NV 89441-6213"
+      ],
+      "phone": [
+        "775-626-1122"
+      ],
+      "email": [
+        "Alexis.Hansen@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "32"
+    },
+    {
+      "name": "Ira Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Hansen.Ira.157.jpg",
+      "twitter": null,
+      "addresses": [
+        "68 Amigo Court;Sparks, NV 89441-6213"
+      ],
+      "phone": [
+        "775-221-2502"
+      ],
+      "email": [
+        "Ira.Hansen@sen.state.nv.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NV",
+      "district": "14"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Schieve_Hillary%21976.JPG",
+      "name": "Hillary Schieve",
+      "phone": "775-334-2001",
+      "email": "schieveh@reno.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "Reno"
+    }
+  ]
+})

@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "33054",
+  "state": "FL",
+  "city": "Opa Locka",
+  "latitude": 25.909039,
+  "longitude": -80.24945,
+  "congressionalDistrict": [
+    "24",
+    "25"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "109",
+  "people": [
+    {
+      "name": "Dr. James Bush  III",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-4011.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 5; 13300 Northwest 27th Avenue; Opa Locka, FL 33054-4827",
+        "1102 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "305-953-3086",
+        "850-717-5109"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "109"
+    },
+    {
+      "name": "Oscar Braynon II",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-s35_5007.jpg",
+      "twitter": null,
+      "addresses": [
+        "606 NW 183rd Street; Miami Gardens, FL 33169",
+        "412 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "braynon.oscar.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "FL",
+      "district": "35"
+    },
+    {
+      "name": "Frederica Wilson",
+      "email": null,
+      "twitter": "RepWilson",
+      "addresses": [
+        "2445 Rayburn House Office Building; Washington DC 20515-0924"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-W000808.jpg",
+      "phone": "202-225-4506",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "24"
+    },
+    {
+      "name": "Mario Diaz-Balart",
+      "email": null,
+      "twitter": "MarioDB",
+      "addresses": [
+        "404 Cannon House Office Building; Washington DC 20515-0925"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-D000600.jpg",
+      "phone": "202-225-4211",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "25"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

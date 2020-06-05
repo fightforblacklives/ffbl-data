@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "87032",
+  "state": "NM",
+  "city": "McIntosh",
+  "latitude": 34.862981,
+  "longitude": -106.01328,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "39",
+  "stateLowerDistrict": "50",
+  "people": [
+    {
+      "name": "Matthew McQueen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-HMCQU.jpg",
+      "twitter": null,
+      "addresses": [
+        "7 Avenida Vista Grande B7-120;Santa Fe, NM 87508",
+        "Room 316A State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-986-4423"
+      ],
+      "email": [
+        "matthew.mcqueen@nmlegis.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "50"
+    },
+    {
+      "name": "Elizabeth \"Liz\" Stefanics",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-SSTEF.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 720;Cerrillos, NM 87010",
+        "Room 416C State Capitol;Santa Fe, NM 87501"
+      ],
+      "phone": [
+        "505-699-4808",
+        "505-986-4377"
+      ],
+      "email": [
+        "liz.stefanics@nmlegis.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NM",
+      "district": "39"
+    },
+    {
+      "name": "Martin Heinrich",
+      "email": null,
+      "twitter": "MartinHeinrich",
+      "addresses": [
+        "303 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "phone": "202-224-5521",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tom Udall",
+      "email": null,
+      "twitter": "SenatorTomUdall",
+      "addresses": [
+        "531 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "phone": "202-224-6621",
+      "type": "US Senator",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Michelle Lujan Grisham",
+      "addresses": [
+        "State Capitol, Fourth Floor Santa Fe NM 87501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "twitter": "replujangrisham",
+      "email": null,
+      "phone": "505-476-2200",
+      "type": "Governor",
+      "state": "NM",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

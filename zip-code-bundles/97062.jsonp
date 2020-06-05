@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "97062",
+  "state": "OR",
+  "city": "Tualatin",
+  "latitude": 45.373991,
+  "longitude": -122.77127,
+  "congressionalDistrict": [
+    "01",
+    "05"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "37",
+  "people": [
+    {
+      "name": "Rachel Prusak",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-prusak.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, H-489, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1437"
+      ],
+      "email": [
+        "Rep.RachelPrusak@oregonlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "OR",
+      "district": "37"
+    },
+    {
+      "name": "Rob Wagner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-wagner.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, S-215, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1719"
+      ],
+      "email": [
+        "Sen.RobWagner@oregonlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OR",
+      "district": "19"
+    },
+    {
+      "name": "Jeff Merkley",
+      "email": null,
+      "twitter": "SenJeffMerkley",
+      "addresses": [
+        "313 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-M001176.jpg",
+      "phone": "202-224-3753",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ron Wyden",
+      "email": null,
+      "twitter": "RonWyden",
+      "addresses": [
+        "221 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-W000779.jpg",
+      "phone": "202-224-5244",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kate Brown",
+      "addresses": [
+        "State Capitol Building State Capitol Building Salem OR 97301-4047"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-OR.jpg",
+      "twitter": "oregongovbrown",
+      "email": null,
+      "phone": "503-378-4582",
+      "type": "Governor",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Ogden_Lou%212914.JPG",
+      "name": "Lou Ogden",
+      "phone": "503-692-0163",
+      "email": "lou.ogden@juno.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OR",
+      "city": "Tualatin"
+    }
+  ]
+})

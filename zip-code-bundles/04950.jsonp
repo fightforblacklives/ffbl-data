@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "04950",
+  "state": "ME",
+  "city": "Madison",
+  "latitude": 44.819206,
+  "longitude": -69.82782,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "111",
+  "people": [
+    {
+      "name": "Philip A. Curtis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-bb863903-924a-40c1-a5e3-5c8c1964c758_curtpa.jpg",
+      "twitter": null,
+      "addresses": [
+        "93 Blackwell Hill Road, Madison, ME 04950"
+      ],
+      "phone": [],
+      "email": [
+        "Philip.Curtis@legislature.maine.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "111"
+    },
+    {
+      "name": "Bradlee Farrin",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-farrin.jpg",
+      "twitter": null,
+      "addresses": [
+        "262 Skowhegan Road, Norridgewock, ME 04957"
+      ],
+      "phone": [
+        "207-634-3074"
+      ],
+      "email": [
+        "Brad.Farrin@legislature.maine.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ME",
+      "district": "3"
+    },
+    {
+      "name": "Angus King",
+      "email": null,
+      "twitter": "SenAngusKing",
+      "addresses": [
+        "133 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "phone": "202-224-5344",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Susan Collins",
+      "email": null,
+      "twitter": "SenatorCollins",
+      "addresses": [
+        "413 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "phone": "202-224-2523",
+      "type": "US Senator",
+      "state": "ME",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Janet Mills",
+      "addresses": [
+        "1 State House Station Augusta ME 04333"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "twitter": "janetmillsforme",
+      "email": null,
+      "phone": "207-287-3531",
+      "type": "Governor",
+      "state": "ME",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

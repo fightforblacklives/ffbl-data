@@ -1,0 +1,83 @@
+callback({
+  "zipCode": "27851",
+  "state": "NC",
+  "city": "Lucama",
+  "latitude": 35.640324,
+  "longitude": -78.02336,
+  "congressionalDistrict": [
+    "02",
+    "07"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Jean Farmer-Butterfield",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-379.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 2962;Wilson, NC 27894",
+        "16 West Jones Street, Rm. 1220;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "919-733-5898",
+        "919-733-5898"
+      ],
+      "email": [
+        "Jean.Farmer-Butterfield@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "24"
+    },
+    {
+      "name": "Milton F. \"Toby\" Fitch, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-404.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 206-C;Raleigh, NC 27603-5925",
+        "16 West Jones Street, Rm. 1127;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5878",
+        "919-733-5878"
+      ],
+      "email": [
+        "Toby.Fitch@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "4"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

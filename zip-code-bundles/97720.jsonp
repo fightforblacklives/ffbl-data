@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "97720",
+  "state": "OR",
+  "city": "Burns",
+  "latitude": 43.600795,
+  "longitude": -118.96382,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "60",
+  "people": [
+    {
+      "name": "Lynn Findley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-findley.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, H-475, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1460"
+      ],
+      "email": [
+        "Rep.LynnFindley@oregonlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OR",
+      "district": "60"
+    },
+    {
+      "name": "Cliff Bentz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-bentz.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, S-403, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1730"
+      ],
+      "email": [
+        "Sen.CliffBentz@oregonlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OR",
+      "district": "30"
+    },
+    {
+      "name": "Jeff Merkley",
+      "email": null,
+      "twitter": "SenJeffMerkley",
+      "addresses": [
+        "313 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-M001176.jpg",
+      "phone": "202-224-3753",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ron Wyden",
+      "email": null,
+      "twitter": "RonWyden",
+      "addresses": [
+        "221 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-W000779.jpg",
+      "phone": "202-224-5244",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kate Brown",
+      "addresses": [
+        "State Capitol Building State Capitol Building Salem OR 97301-4047"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-OR.jpg",
+      "twitter": "oregongovbrown",
+      "email": null,
+      "phone": "503-378-4582",
+      "type": "Governor",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

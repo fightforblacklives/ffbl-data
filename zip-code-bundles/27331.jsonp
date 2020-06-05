@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "27331",
+  "state": "NC",
+  "city": "Sanford",
+  "latitude": 35.372577,
+  "longitude": -79.276577,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "51",
+  "people": [
+    {
+      "name": "John Sauls",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-393.jpg",
+      "twitter": null,
+      "addresses": [
+        "2609 Wellington Dr;Sanford, NC 27330",
+        "300 N. Salisbury Street, Rm. 408;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "919-775-8033",
+        "919-715-3026"
+      ],
+      "email": [
+        "John.Sauls@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "51"
+    },
+    {
+      "name": "Jim Burgin",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2113;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-5748"
+      ],
+      "email": [
+        "Jim.Burgin@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "12"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-Mann_T%212724.jpg",
+      "name": "T Chet Mann",
+      "phone": "919-777-1110",
+      "email": "sanfordmayor@yahoo.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Sanford"
+    }
+  ]
+})

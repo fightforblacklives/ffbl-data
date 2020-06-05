@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "14241",
+  "state": "NY",
+  "city": "Buffalo",
+  "latitude": 42.938258,
+  "longitude": -78.744053,
+  "congressionalDistrict": [
+    "26"
+  ],
+  "stateUpperDistrict": "63",
+  "stateLowerDistrict": "143",
+  "people": [
+    {
+      "name": "Monica Wallace",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-143.jpg",
+      "twitter": null,
+      "addresses": [
+        "2562 Walden Avenue;Suite 102;Cheektowaga, NY 14225",
+        "LOB Room 821;Albany, NY 12248"
+      ],
+      "phone": [
+        "716-686-0080",
+        "518-455-5921"
+      ],
+      "email": [
+        "wallacem@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "143"
+    },
+    {
+      "name": "Timothy M. Kennedy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-tk-sd63hs.jpg%3Fitok%3DL845-gcE",
+      "twitter": null,
+      "addresses": [
+        "2239 South Park Ave.;Buffalo,, NY 14220"
+      ],
+      "phone": [
+        "716-826-2683"
+      ],
+      "email": [
+        "kennedy@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "63"
+    },
+    {
+      "name": "Brian Higgins",
+      "email": null,
+      "twitter": "RepBrianHiggins",
+      "addresses": [
+        "2459 Rayburn House Office Building; Washington DC 20515-3226"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-H001038.jpg",
+      "phone": "202-225-3306",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Brown_Byron%21154.jpg",
+      "name": "Byron W. Brown",
+      "phone": "716-851-4841",
+      "email": "mayorwebmail@city-buffalo.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Buffalo"
+    }
+  ]
+})

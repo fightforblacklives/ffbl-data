@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "14127",
+  "state": "NY",
+  "city": "Orchard Park",
+  "latitude": 42.759917,
+  "longitude": -78.75294,
+  "congressionalDistrict": [
+    "26",
+    "27"
+  ],
+  "stateUpperDistrict": "60",
+  "stateLowerDistrict": "142",
+  "people": [
+    {
+      "name": "Patrick Burke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-142.jpg",
+      "twitter": null,
+      "addresses": [
+        "1074 Union Road;West Seneca, NY 14224",
+        "LOB 538;Albany, NY 12248"
+      ],
+      "phone": [
+        "716-608-6099",
+        "518-455-4691"
+      ],
+      "email": [
+        "burkep@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "142"
+    },
+    {
+      "name": "Chris Jacobs",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-chris-jacobs.jpg%3Fitok%3DurXZhku-",
+      "twitter": null,
+      "addresses": [
+        "Legislative Office Building;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-3240"
+      ],
+      "email": [
+        "jacobs@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "60"
+    },
+    {
+      "name": "Brian Higgins",
+      "email": null,
+      "twitter": "RepBrianHiggins",
+      "addresses": [
+        "2459 Rayburn House Office Building; Washington DC 20515-3226"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-H001038.jpg",
+      "phone": "202-225-3306",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "26"
+    },
+    {
+      "name": "Chris Collins",
+      "email": null,
+      "twitter": "RepChrisCollins",
+      "addresses": [
+        "2243 Rayburn House Office Building; Washington DC 20515-3227"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-C001092.jpg",
+      "phone": "202-225-5265",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Republican",
+      "district": "27"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

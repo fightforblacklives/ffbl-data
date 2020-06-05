@@ -1,0 +1,86 @@
+callback({
+  "zipCode": "64101",
+  "state": "MO",
+  "city": "Kansas City",
+  "latitude": 39.103037,
+  "longitude": -94.60066,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Judy Morgan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "201 West Capitol Avenue 105-A, Jefferson City, MO 65101"
+      ],
+      "phone": [
+        "573-751-4485"
+      ],
+      "email": [
+        "Judy.Morgan@house.mo.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MO",
+      "district": "24"
+    },
+    {
+      "name": "Joshua Hawley",
+      "email": null,
+      "twitter": "SenHawleyPress",
+      "addresses": [
+        "212 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-H001089.jpg",
+      "phone": "202-224-6154",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Roy Blunt",
+      "email": null,
+      "twitter": "RoyBlunt",
+      "addresses": [
+        "260 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-B000575.jpg",
+      "phone": "202-224-5721",
+      "type": "US Senator",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Parson",
+      "addresses": [
+        "Capitol Building Capitol Building Jefferson City MO 65102"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-mo_parson.png",
+      "twitter": "mikeparson",
+      "email": null,
+      "phone": "573-751-3222",
+      "type": "Governor",
+      "state": "MO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Lucas_Quinton%2154759.jpg",
+      "name": "Quinton Lucas",
+      "phone": "816-513-3500",
+      "email": "quinton.lucas@kcmo.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MO",
+      "city": "Kansas City"
+    }
+  ]
+})

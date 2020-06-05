@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "36612",
+  "state": "AL",
+  "city": "Mobile",
+  "latitude": 30.753155,
+  "longitude": -88.11116,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "98",
+  "people": [
+    {
+      "name": "Napoleon Bracy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Bracy_98.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 540-A;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0556"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "98"
+    },
+    {
+      "name": "Vivian Davis Figures",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-Figures_33.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 736;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0871"
+      ],
+      "email": [
+        "vivian.figures@alsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "33"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Stimpson_Sandy%21759.jpg",
+      "name": "William 'Sandy' S. Stimpson",
+      "phone": "251-208-7395",
+      "email": "mayorstimpson@cityofmobile.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Mobile"
+    }
+  ]
+})

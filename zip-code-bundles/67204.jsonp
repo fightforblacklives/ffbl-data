@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "67204",
+  "state": "KS",
+  "city": "Wichita",
+  "latitude": 37.754443,
+  "longitude": -97.35763,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "91",
+  "people": [
+    {
+      "name": "Emil Bergquist",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-rep_bergquist_emil_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 165-W;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7681"
+      ],
+      "email": [
+        "emil.bergquist@house.ks.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KS",
+      "district": "91"
+    },
+    {
+      "name": "Oletha Faust-Goudeau",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-sen_faust_goudeau_oletha_1.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 135-E;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
+      ],
+      "phone": [
+        "785-296-7387"
+      ],
+      "email": [
+        "Oletha.Faust-Goudeau@senate.ks.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "KS",
+      "district": "29"
+    },
+    {
+      "name": "Jerry Moran",
+      "email": null,
+      "twitter": "JerryMoran",
+      "addresses": [
+        "521 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M000934.jpg",
+      "phone": "202-224-6521",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Pat Roberts",
+      "email": null,
+      "twitter": "SenPatRoberts",
+      "addresses": [
+        "109 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-R000307.jpg",
+      "phone": "202-224-4774",
+      "type": "US Senator",
+      "state": "KS",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Laura Kelly",
+      "addresses": [
+        "Capitol, 300 SW 10th Avenue  Capitol, 300 SW 10th Avenue  Topeka KS 66612-1590"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-ks_kelly.png",
+      "twitter": "GovLauraKelly",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KS",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-Whipple_Brandon%2154832.jpg",
+      "name": "Brandon Whipple",
+      "phone": "316-268-4331",
+      "email": "bwhipple@wichita.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KS",
+      "city": "Wichita"
+    }
+  ]
+})

@@ -1,0 +1,124 @@
+callback({
+  "zipCode": "11220",
+  "state": "NY",
+  "city": "Brooklyn",
+  "latitude": 40.641436,
+  "longitude": -74.01574,
+  "congressionalDistrict": [
+    "11",
+    "07",
+    "10"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "51",
+  "people": [
+    {
+      "name": "Félix Ortiz",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-051.jpg",
+      "twitter": null,
+      "addresses": [
+        "5004 4th Avenue;Brooklyn, NY 11220",
+        "LOB 731;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-492-6334",
+        "518-455-3821"
+      ],
+      "email": [
+        "OrtizF@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "51"
+    },
+    {
+      "name": "Zellnor Myrie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-sd-20_unofficialhs.jpg%3Fitok%3DAk7vL6jI",
+      "twitter": null,
+      "addresses": [
+        "188 State Street., Legislative Office Bldg.,;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2431"
+      ],
+      "email": [
+        "myrie@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "20"
+    },
+    {
+      "name": "Jerrold Nadler",
+      "email": null,
+      "twitter": "RepJerryNadler",
+      "addresses": [
+        "2132 Rayburn House Office Building; Washington DC 20515-3210"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-N000002.jpg",
+      "phone": "202-225-5635",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "10"
+    },
+    {
+      "name": "Max Rose",
+      "email": null,
+      "twitter": "RepMaxRose",
+      "addresses": [
+        "1529 Longworth House Office Building; Washington DC 20515-3211"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-R000613.jpg",
+      "phone": "202-225-3371",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

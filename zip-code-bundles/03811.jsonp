@@ -1,0 +1,148 @@
+callback({
+  "zipCode": "03811",
+  "state": "NH",
+  "city": "Atkinson",
+  "latitude": 42.836245,
+  "longitude": -71.16246,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "Rockingham 14",
+  "people": [
+    {
+      "name": "Debra L. DeSimone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-376807.jpg",
+      "twitter": null,
+      "addresses": [
+        "11 Providence Hill Road;Atkinson, NH 03811-2328"
+      ],
+      "phone": [
+        "603-362-4314"
+      ],
+      "email": [
+        "debra.desimone@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 14"
+    },
+    {
+      "name": "Norman L. Major",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-376087.jpg",
+      "twitter": null,
+      "addresses": [
+        "12 Kingston Road;Plaistow, NH 03865-2211"
+      ],
+      "phone": [
+        "603-382-5429"
+      ],
+      "email": [
+        "norman.major@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 14"
+    },
+    {
+      "name": "Peter E. Torosian",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-408418.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 373;Atkinson, NH 03811-0373"
+      ],
+      "phone": [
+        "603-362-5202"
+      ],
+      "email": [
+        "flybirdair@aol.com",
+        "peter.torosian@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 14"
+    },
+    {
+      "name": "Robert D. Harb",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "18 Hilltop Road;Plaistow, NH 03865-2916"
+      ],
+      "phone": [
+        "603-382-8067"
+      ],
+      "email": [
+        "Robert.Harb@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Rockingham 14"
+    },
+    {
+      "name": "Chuck Morse",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-22.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 120\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3207"
+      ],
+      "email": [
+        "Chuck.Morse@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "22"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

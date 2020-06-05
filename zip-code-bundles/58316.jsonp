@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "58316",
+  "state": "ND",
+  "city": "Belcourt",
+  "latitude": 48.837507,
+  "longitude": -99.76388,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "9",
+  "people": [
+    {
+      "name": "Marvin E. Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-menelson.jpg%3Fitok%3DzAA9TSAv",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 577;Rolla, ND;58367-0577"
+      ],
+      "phone": [
+        "701-550-9731"
+      ],
+      "email": [
+        "menelson@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ND",
+      "district": "9"
+    },
+    {
+      "name": "Tracy Boe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-tboe.jpg%3Fitok%3DgTOY0yOK",
+      "twitter": null,
+      "addresses": [
+        "5125 89th Street;Mylo, ND;58353-9438"
+      ],
+      "phone": [
+        "701-656-3427"
+      ],
+      "email": [
+        "tboe@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "ND",
+      "district": "9"
+    },
+    {
+      "name": "Richard Marcellais",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-rmarcellais.jpg%3Fitok%3D0dcpvpyI",
+      "twitter": null,
+      "addresses": [
+        "301 Laite Loop NE;Belcourt, ND;58316-3877"
+      ],
+      "phone": [
+        "701-477-8985",
+        "701-477-8985"
+      ],
+      "email": [
+        "rmarcellais@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "ND",
+      "district": "9"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

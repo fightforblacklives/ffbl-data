@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "06819",
+  "state": "CT",
+  "city": "Danbury",
+  "latitude": 41.391956,
+  "longitude": -73.475844,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "2",
+  "people": [
+    {
+      "name": "Raghib Allie-Brennan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "26 Grassy Plain Street, Unit 106;Bethel, CT 06801",
+        "Legislative Office Building;Room 4000;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-241-6034",
+        "860-240-8585"
+      ],
+      "email": [
+        "Raghib.Allie-Brennan@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "2"
+    },
+    {
+      "name": "Julie Kushner",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "75 Old Ridgebury Road;Danbury, CT 06810",
+        "Legislative Office Building;Room 3800;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-470-7957",
+        "860-240-0509"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "24"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-Boughton_Mark%21269.jpg",
+      "name": "Mark D. Boughton",
+      "phone": "203-797-4511",
+      "email": "e.etcheto@danbury-ct.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "Danbury"
+    }
+  ]
+})

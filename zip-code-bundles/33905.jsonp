@@ -1,0 +1,132 @@
+callback({
+  "zipCode": "33905",
+  "state": "FL",
+  "city": "Fort Myers",
+  "latitude": 26.680407,
+  "longitude": -81.74812,
+  "congressionalDistrict": [
+    "17",
+    "19"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "79",
+  "people": [
+    {
+      "name": "Spencer Roach",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-4729.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 6; 3436 Marinatown Lane; North Fort Myers, FL 33903-7058",
+        "1401 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "239-656-7790",
+        "850-717-5079"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "79"
+    },
+    {
+      "name": "Lizbeth Benacquisto",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-s27_5047.jpg",
+      "twitter": null,
+      "addresses": [
+        "2000 Main Street; Suite 401; Fort Myers, FL 33901",
+        "400 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "benacquisto.lizbeth.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "27"
+    },
+    {
+      "name": "Francis Rooney",
+      "email": null,
+      "twitter": "RepRooney",
+      "addresses": [
+        "120 Cannon House Office Building; Washington DC 20515-0919"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-R000607.jpg",
+      "phone": "202-225-2536",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "19"
+    },
+    {
+      "name": "W. Steube",
+      "email": null,
+      "twitter": "RepGregSteube",
+      "addresses": [
+        "521 Cannon House Office Building; Washington DC 20515-0917"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-S001214.jpg",
+      "phone": "202-225-5792",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": "17"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-Henderson_Randall%21402.jpg",
+      "name": "Randall P. Henderson Jr.",
+      "phone": "239-321-7020",
+      "email": "mayorhenderson@cityftmyers.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Fort Myers"
+    }
+  ]
+})

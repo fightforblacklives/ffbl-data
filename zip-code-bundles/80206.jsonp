@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "80206",
+  "state": "CO",
+  "city": "Denver",
+  "latitude": 39.731237,
+  "longitude": -104.95243,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Leslie Herod",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-2020a_herod-17.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2959"
+      ],
+      "email": [
+        "leslie.herod.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "8"
+    },
+    {
+      "name": "Chris Hansen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-2020a_hansen%252C%2520chris.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4861"
+      ],
+      "email": [
+        "chris.hansen.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CO",
+      "district": "31"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-Hancock_Michael%21291.JPG",
+      "name": "Michael B. Hancock",
+      "phone": "720-865-9090",
+      "email": "mayorsoffice@denvergov.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Denver"
+    }
+  ]
+})

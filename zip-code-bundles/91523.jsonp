@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "91523",
+  "state": "CA",
+  "city": "Burbank",
+  "latitude": 33.786594,
+  "longitude": -118.298662,
+  "congressionalDistrict": [
+    "30"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Al Muratsuchi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-ad66.jpg",
+      "twitter": null,
+      "addresses": [
+        "3424 W. Carson Street, Suite 450;Torrance, CA 90503",
+        "P.O. Box 942849;Sacramento, CA 94249-0066"
+      ],
+      "phone": [
+        "310-375-0691",
+        "916-319-2066"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "66"
+    },
+    {
+      "name": "Steven Bradford",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-bradford.jpg",
+      "twitter": null,
+      "addresses": [
+        "302 W. 5th Street, Suite 203 San Pedro, CA 90731. (310) 514-8573",
+        "State Capitol, Room 2059, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "310-412-6120",
+        "916-651-4035"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "35"
+    },
+    {
+      "name": "Brad Sherman",
+      "email": null,
+      "twitter": "BradSherman",
+      "addresses": [
+        "2181 Rayburn House Office Building; Washington DC 20515-0530"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-S000344.jpg",
+      "phone": "202-225-5911",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "30"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Springer_Sharon%2154898.jpg",
+      "name": "Sharon Springer",
+      "phone": "818-238-5750",
+      "email": "sspringer@burbankca.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Burbank"
+    }
+  ]
+})

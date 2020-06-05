@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00646",
+  "state": "PR",
+  "city": "Dorado",
+  "latitude": 18.442798,
+  "longitude": -66.27689,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "III",
+  "stateLowerDistrict": "11",
+  "people": [
+    {
+      "name": "Rafael Hernández Montañez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-fa251794-6b94-4041-be9a-0e7ba7399493.jpg",
+      "twitter": null,
+      "addresses": [
+        "2do. PISO ANEXO"
+      ],
+      "phone": [
+        "787-622-4998"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Popular Democrático",
+      "state": "PR",
+      "district": "11"
+    },
+    {
+      "name": "Angel R. Martínez Santiago",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-senador-11.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "anmartinez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    },
+    {
+      "name": "José O. Pérez Rosa",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-senador-15.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "josperez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "III"
+    }
+  ]
+})

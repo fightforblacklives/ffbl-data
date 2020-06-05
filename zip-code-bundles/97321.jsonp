@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "97321",
+  "state": "OR",
+  "city": "Albany",
+  "latitude": 44.635395,
+  "longitude": -123.0896,
+  "congressionalDistrict": [
+    "04",
+    "05"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "15",
+  "people": [
+    {
+      "name": "Shelly Boshart Davis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-boshartdavis.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, H-389, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1415"
+      ],
+      "email": [
+        "Rep.ShellyBoshartDavis@oregonlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OR",
+      "district": "15"
+    },
+    {
+      "name": "Sara  Gelser",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-gelser.jpg",
+      "twitter": null,
+      "addresses": [
+        "900 Court St NE, S-405, Salem, OR, 97301"
+      ],
+      "phone": [
+        "503-986-1708"
+      ],
+      "email": [
+        "Sen.SaraGelser@oregonlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "OR",
+      "district": "8"
+    },
+    {
+      "name": "Jeff Merkley",
+      "email": null,
+      "twitter": "SenJeffMerkley",
+      "addresses": [
+        "313 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-M001176.jpg",
+      "phone": "202-224-3753",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ron Wyden",
+      "email": null,
+      "twitter": "RonWyden",
+      "addresses": [
+        "221 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-W000779.jpg",
+      "phone": "202-224-5244",
+      "type": "US Senator",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kate Brown",
+      "addresses": [
+        "State Capitol Building State Capitol Building Salem OR 97301-4047"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-OR.jpg",
+      "twitter": "oregongovbrown",
+      "email": null,
+      "phone": "503-378-4582",
+      "type": "Governor",
+      "state": "OR",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Konopa_Sharon%211344.JPG",
+      "name": "Sharon Konopa",
+      "phone": "541-926-6812",
+      "email": "sharon.konopa@cityofalbany.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OR",
+      "city": "Albany"
+    }
+  ]
+})

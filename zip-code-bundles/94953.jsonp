@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "94953",
+  "state": "CA",
+  "city": "Petaluma",
+  "latitude": 38.463088,
+  "longitude": -122.989975,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "2",
+  "stateLowerDistrict": "2",
+  "people": [
+    {
+      "name": "Jim Wood",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-asm_wood_120_x_170.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 South School Street, Suite D;Ukiah, CA 95482",
+        "P.O. Box 942849;Sacramento, CA 94249-0002"
+      ],
+      "phone": [
+        "707-463-5770",
+        "916-319-2002"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "2"
+    },
+    {
+      "name": "Mike McGuire",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-mcguire-mike.jpg",
+      "twitter": null,
+      "addresses": [
+        "885 Lakeport Blvd., Lakeport, CA 95453",
+        "State Capitol, Room 5061, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "707-468-8914",
+        "916-651-4002"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "2"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Barrett_Teresa%2154516.jpg",
+      "name": "Teresa Barrett",
+      "phone": "707-778-4360",
+      "email": "teresa4petaluma@comcast.net",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Petaluma"
+    }
+  ]
+})

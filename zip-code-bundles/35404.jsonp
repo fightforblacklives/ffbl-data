@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "35404",
+  "state": "AL",
+  "city": "Tuscaloosa",
+  "latitude": 33.217168,
+  "longitude": -87.49461,
+  "congressionalDistrict": [
+    "04",
+    "07"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "70",
+  "people": [
+    {
+      "name": "Chris England",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-England_70.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 539-B;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0503"
+      ],
+      "email": [
+        "cengland1@hotmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "70"
+    },
+    {
+      "name": "Bobby D. Singleton",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Singleton_24.jpeg",
+      "twitter": null,
+      "addresses": [
+        "Suite 738;11 S. Union Street;Montgomery, AL 36130"
+      ],
+      "phone": [
+        "334-261-0335"
+      ],
+      "email": [
+        "bsingle362@gmail.com"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "AL",
+      "district": "24"
+    },
+    {
+      "name": "Doug Jones",
+      "email": null,
+      "twitter": "sendougjones",
+      "addresses": [
+        "330 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "phone": "202-224-4124",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Shelby",
+      "email": null,
+      "twitter": "SenShelby",
+      "addresses": [
+        "304 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "phone": "202-224-5744",
+      "type": "US Senator",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kay Ivey",
+      "addresses": [
+        "State Capitol State Capitol Montgomery AL 36130-2751"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "twitter": "GovernorKayIvey",
+      "email": null,
+      "phone": "334-242-7100",
+      "type": "Governor",
+      "state": "AL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Maddox_Walter%211184.jpg",
+      "name": "Walter Maddox",
+      "phone": "205-248-5001",
+      "email": "mayor@tuscaloosa.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AL",
+      "city": "Tuscaloosa"
+    }
+  ]
+})

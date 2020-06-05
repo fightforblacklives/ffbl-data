@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "42701",
+  "state": "KY",
+  "city": "Elizabethtown",
+  "latitude": 37.704287,
+  "longitude": -85.86403,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Jim DuPlessis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-house25.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 376;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-8100 ext. 650"
+      ],
+      "email": [
+        "Jim.DuPlessis@lrc.ky.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "KY",
+      "district": "25"
+    },
+    {
+      "name": "Dennis Parrett",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-senate110.jpg",
+      "twitter": null,
+      "addresses": [
+        "702 Capital Ave;Annex Room 254;Frankfort, KY 40601"
+      ],
+      "phone": [
+        "502-564-2470"
+      ],
+      "email": [
+        "Dennis.Parrett@lrc.ky.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "KY",
+      "district": "10"
+    },
+    {
+      "name": "Mitch McConnell",
+      "email": null,
+      "twitter": "McConnellPress",
+      "addresses": [
+        "317 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "phone": "202-224-2541",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rand Paul",
+      "email": null,
+      "twitter": "RandPaul",
+      "addresses": [
+        "167 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "phone": "202-224-4343",
+      "type": "US Senator",
+      "state": "KY",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Andy Beshear",
+      "addresses": [
+        "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "twitter": "govandybeshear",
+      "email": null,
+      "phone": "785-296-3232",
+      "type": "Governor",
+      "state": "KY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-0034N00002lFuX2.jpg",
+      "name": "Jeff Gregory",
+      "phone": "(270) 765-6121",
+      "email": "jeff.gregory@elizabethtownky.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "KY",
+      "city": "Elizabethtown"
+    }
+  ]
+})

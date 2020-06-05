@@ -1,0 +1,11 @@
+callback({
+  "zipCode": "00840",
+  "state": "VI",
+  "city": "Frederiksted",
+  "latitude": 17.734211,
+  "longitude": -64.734694,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

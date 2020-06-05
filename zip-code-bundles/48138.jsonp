@@ -1,0 +1,106 @@
+callback({
+  "zipCode": "48138",
+  "state": "MI",
+  "city": "Grosse Ile",
+  "latitude": 42.130091,
+  "longitude": -83.16017,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "23",
+  "people": [
+    {
+      "name": "Darrin Camilleri",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-camilleri_at_podium_headshot.png",
+      "twitter": null,
+      "addresses": [
+        "S0787 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
+      ],
+      "phone": [
+        "517-373-0855"
+      ],
+      "email": [
+        "DarrinCamilleri@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MI",
+      "district": "23"
+    },
+    {
+      "name": "Stephanie Chang",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "S-9 State Capitol Building;Lansing, MI 48909"
+      ],
+      "phone": [
+        "517-373-7346"
+      ],
+      "email": [
+        "senschang@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MI",
+      "district": "1"
+    },
+    {
+      "name": "Debbie Dingell",
+      "email": null,
+      "twitter": "RepDebDingell",
+      "addresses": [
+        "116 Cannon House Office Building; Washington DC 20515-2212"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-D000624.jpg",
+      "phone": "202-225-4071",
+      "type": "US Representative",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": "12"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

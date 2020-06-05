@@ -1,0 +1,80 @@
+callback({
+  "zipCode": "28103",
+  "state": "NC",
+  "city": "Marshville",
+  "latitude": 34.99545,
+  "longitude": -80.35635,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "55",
+  "people": [
+    {
+      "name": "Mark Brody",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-663.jpg",
+      "twitter": null,
+      "addresses": [
+        "5315 Rocky River Rd;Monroe, NC 28112",
+        "300 N. Salisbury Street, Rm. 416B;Raleigh, NC 27603-5925"
+      ],
+      "phone": [
+        "704-965-6585",
+        "919-715-3029"
+      ],
+      "email": [
+        "Mark.Brody@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "55"
+    },
+    {
+      "name": "Todd Johnson",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 2115;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-733-7659"
+      ],
+      "email": [
+        "Todd.Johnson@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "35"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

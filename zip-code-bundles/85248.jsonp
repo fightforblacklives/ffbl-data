@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "85248",
+  "state": "AZ",
+  "city": "Chandler",
+  "latitude": 33.239097,
+  "longitude": -111.86355,
+  "congressionalDistrict": [
+    "01",
+    "05"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Jeff Weninger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-WENINGER.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 312;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3092"
+      ],
+      "email": [
+        "jweninger@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "17"
+    },
+    {
+      "name": "Jennifer Pawlik",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-PAWLIK.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 118;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3193"
+      ],
+      "email": [
+        "jpawlik@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "AZ",
+      "district": "17"
+    },
+    {
+      "name": "J.D. Mesnard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-MESNARD.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 309;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4481"
+      ],
+      "email": [
+        "jmesnard@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "17"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Hartke_Kevin%2154553.jpg",
+      "name": "Kevin Hartke",
+      "phone": "480-782-2200",
+      "email": "kevin.hartke@chandleraz.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Chandler"
+    }
+  ]
+})

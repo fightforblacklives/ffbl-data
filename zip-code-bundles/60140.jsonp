@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "60140",
+  "state": "IL",
+  "city": "Hampshire",
+  "latitude": 42.086218,
+  "longitude": -88.5036,
+  "congressionalDistrict": [
+    "16",
+    "14"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "65",
+  "people": [
+    {
+      "name": "Dan Ugaste",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-%7B2552FBE4-D977-4283-B00C-78FC085BD955%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "2325 Dean Street;Suite 800;St. Charles, IL 60175",
+        "230-N Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "630-797-5530",
+        "217-782-5457"
+      ],
+      "email": [
+        "ugaste@ilhousegop.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "65"
+    },
+    {
+      "name": "Donald P. DeWitte",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-%7B21A3B029-3423-410E-818A-84512CD0D231%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "641 S. 8th St.;West Dundee, IL 60118",
+        "105B Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "847-214-8245",
+        "217-782-1977"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "33"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "email": null,
+      "twitter": "RepKinzinger",
+      "addresses": [
+        "2245 Rayburn House Office Building; Washington DC 20515-1316"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-K000378.jpg",
+      "phone": "202-225-3635",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Republican",
+      "district": "16"
+    },
+    {
+      "name": "Lauren Underwood",
+      "email": null,
+      "twitter": "RepUnderwood",
+      "addresses": [
+        "1118 Longworth House Office Building; Washington DC 20515-1314"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-U000040.jpg",
+      "phone": "202-225-2976",
+      "type": "US Representative",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": "14"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

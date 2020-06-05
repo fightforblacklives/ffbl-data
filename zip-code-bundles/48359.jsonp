@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "48359",
+  "state": "MI",
+  "city": "Lake Orion",
+  "latitude": 42.722932,
+  "longitude": -83.28537,
+  "congressionalDistrict": [
+    "08",
+    "11"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "John Reilly",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-HS_Reilly_0117-1-214x300.jpg",
+      "twitter": null,
+      "addresses": [
+        "N0895 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
+      ],
+      "phone": [
+        "517-373-1798"
+      ],
+      "email": [
+        "JohnReilly@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MI",
+      "district": "46"
+    },
+    {
+      "name": "Rosemary Bayer",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "3600 Binsfeld Bldg"
+      ],
+      "phone": [
+        "517-373-2417"
+      ],
+      "email": [
+        "senrbayer@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MI",
+      "district": "12"
+    },
+    {
+      "name": "Haley Stevens",
+      "email": null,
+      "twitter": "RepHaleyStevens",
+      "addresses": [
+        "227 Cannon House Office Building; Washington DC 20515-2211"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001215.jpg",
+      "phone": "202-225-8171",
+      "type": "US Representative",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,80 @@
+callback({
+  "zipCode": "28379",
+  "state": "NC",
+  "city": "Rockingham",
+  "latitude": 34.937078,
+  "longitude": -79.7605,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "66",
+  "people": [
+    {
+      "name": "Scott Brewer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-High",
+      "twitter": null,
+      "addresses": [
+        "109 W Franklin St, Suite 3 Rockingham, NC 28379"
+      ],
+      "phone": [
+        "910-817-7077"
+      ],
+      "email": [
+        "Scott.Brewer@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "66"
+    },
+    {
+      "name": "Tom McInnis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-389.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 N. Salisbury Street, Rm. 620;Raleigh, NC 27603-5925",
+        "300 N. Salisbury Street, Rm. 620;Raleigh, NC 27603"
+      ],
+      "phone": [
+        "919-733-5953",
+        "919-733-5953"
+      ],
+      "email": [
+        "Tom.McInnis@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NC",
+      "district": "25"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

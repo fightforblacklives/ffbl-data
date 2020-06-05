@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "33766",
+  "state": "FL",
+  "city": "Clearwater",
+  "latitude": 27.891809,
+  "longitude": -82.724763,
+  "congressionalDistrict": [
+    "13"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "67",
+  "people": [
+    {
+      "name": "Chris Latvala",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-4610.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 206; 2963 Gulf to Bay Boulevard; Clearwater, FL 33759-4200",
+        "222 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "727-724-3000",
+        "850-717-5067"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "67"
+    },
+    {
+      "name": "Jeff Brandes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-s24_5095.jpg",
+      "twitter": null,
+      "addresses": [
+        "9800 4th Street North; Suite 200; St. Petersburg, FL 33702",
+        "416 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "brandes.jeff.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "24"
+    },
+    {
+      "name": "Charlie Crist",
+      "email": null,
+      "twitter": "repcharliecrist",
+      "addresses": [
+        "215 Cannon House Office Building; Washington DC 20515-0913"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-C001111.jpg",
+      "phone": "202-225-5961",
+      "type": "US Representative",
+      "state": "FL",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-0034N00002iJI1z.jpg",
+      "name": "Frank Hibbard",
+      "phone": "727-562-4042",
+      "email": "frank.hibbard@myclearwater.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "FL",
+      "city": "Clearwater"
+    }
+  ]
+})

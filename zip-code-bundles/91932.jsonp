@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "91932",
+  "state": "CA",
+  "city": "Imperial Beach",
+  "latitude": 32.579555,
+  "longitude": -117.11708,
+  "congressionalDistrict": [
+    "51",
+    "52"
+  ],
+  "stateUpperDistrict": "40",
+  "stateLowerDistrict": "78",
+  "people": [
+    {
+      "name": "Todd Gloria",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-ad78_gloria_roster150_20161205.jpg",
+      "twitter": null,
+      "addresses": [
+        "1350 Front Street, Suite 6054;San Diego, CA 92101",
+        "P.O. Box 942849;Sacramento, CA 94249-0078"
+      ],
+      "phone": [
+        "619-645-3090",
+        "916-319-2078"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "78"
+    },
+    {
+      "name": "Ben Hueso",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-hueso-ben.jpg",
+      "twitter": null,
+      "addresses": [
+        "1224 State Street, Suite D, El Centro, CA 92243",
+        "State Capitol, Room 4035, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "760-335-3442",
+        "916-651-4040"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "40"
+    },
+    {
+      "name": "Juan Vargas",
+      "email": null,
+      "twitter": "RepJuanVargas",
+      "addresses": [
+        "2244 Rayburn House Office Building; Washington DC 20515-0551"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-V000130.jpg",
+      "phone": "202-225-8045",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "51"
+    },
+    {
+      "name": "Scott Peters",
+      "email": null,
+      "twitter": "RepScottPeters",
+      "addresses": [
+        "2338 Rayburn House Office Building; Washington DC 20515-0552"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-P000608.jpg",
+      "phone": "202-225-0508",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "52"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-0036100001BJ033.jpg",
+      "name": "Serge Dedina",
+      "phone": "(619) 623-5975",
+      "email": "serge.dedina@imperialbeachca.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Imperial Beach"
+    }
+  ]
+})

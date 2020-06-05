@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "06510",
+  "state": "CT",
+  "city": "New Haven",
+  "latitude": 41.306197,
+  "longitude": -72.92479,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "96",
+  "people": [
+    {
+      "name": "Roland J. Lemar",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "552 Chapel Street;New Haven, CT 06511",
+        "Legislative Office Building;Room 2300;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-903-5003",
+        "860-240-8500"
+      ],
+      "email": [
+        "roland.lemar@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "96"
+    },
+    {
+      "name": "Martin M. Looney",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "132 Fort Hale Road;New Haven, CT 06512",
+        "Legislative Office Building;Room 3300;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-468-8829",
+        "860-240-8614"
+      ],
+      "email": [
+        "Looney@senatedems.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "11"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Elicker_Justin%2154798.jpg",
+      "name": "Justin Elicker",
+      "phone": "203-946-8200",
+      "email": "smatteson@newhavenct.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "New Haven"
+    }
+  ]
+})

@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "29587",
+  "state": "SC",
+  "city": "Myrtle Beach",
+  "latitude": 33.621094,
+  "longitude": -78.963155,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "34",
+  "stateLowerDistrict": "107",
+  "people": [
+    {
+      "name": "Alan D. Clemmons",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-0353977231.jpg",
+      "twitter": null,
+      "addresses": [
+        "1800 North Oak St.Myrtle Beach 29577",
+        "519C Blatt Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "843-448-4246",
+        "803-734-3113"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SC",
+      "district": "107"
+    },
+    {
+      "name": "Stephen L. Goldfinch",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-0682386282.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 823Murrells Inlet 29576",
+        "513 Gressette Bldg.Columbia 29201"
+      ],
+      "phone": [
+        "843-385-4302",
+        "803-212-6172"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SC",
+      "district": "34"
+    },
+    {
+      "name": "Lindsey Graham",
+      "email": null,
+      "twitter": "GrahamBlog",
+      "addresses": [
+        "290 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "phone": "202-224-5972",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tim Scott",
+      "email": null,
+      "twitter": "SenatorTimScott",
+      "addresses": [
+        "104 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "phone": "202-224-6121",
+      "type": "US Senator",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Henry McMaster",
+      "addresses": [
+        "1205 Pendleton Street Columbia SC 29201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "twitter": "henrymcmaster",
+      "email": null,
+      "phone": "803-734-2100",
+      "type": "Governor",
+      "state": "SC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Bethune_Brenda%2154042.jpg",
+      "name": "Brenda Bethune",
+      "phone": "843-918-1004",
+      "email": "bbethune@cityofmyrtlebeach.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "SC",
+      "city": "Myrtle Beach"
+    }
+  ]
+})

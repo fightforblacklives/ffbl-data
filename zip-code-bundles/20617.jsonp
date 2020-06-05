@@ -1,0 +1,128 @@
+callback({
+  "zipCode": "20617",
+  "state": "MD",
+  "city": "Bryantown",
+  "latitude": 38.55223,
+  "longitude": -76.84477,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "C. T. Wilson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-wilson.jpg",
+      "twitter": null,
+      "addresses": [
+        "410 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3325"
+      ],
+      "email": [
+        "ct.wilson@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "28"
+    },
+    {
+      "name": "Debra Davis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-davis02.jpg",
+      "twitter": null,
+      "addresses": [
+        "204 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3337"
+      ],
+      "email": [
+        "debra.davis@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "28"
+    },
+    {
+      "name": "Edith J. Patterson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-patterson02.jpg",
+      "twitter": null,
+      "addresses": [
+        "429 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3247"
+      ],
+      "email": [
+        "Edith.Patterson@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "28"
+    },
+    {
+      "name": "Arthur Ellis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-ellis01.jpg",
+      "twitter": null,
+      "addresses": [
+        "302 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3616"
+      ],
+      "email": [
+        "arthur.ellis@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "28"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

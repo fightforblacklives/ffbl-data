@@ -1,0 +1,78 @@
+callback({
+  "zipCode": "24401",
+  "state": "VA",
+  "city": "Staunton",
+  "latitude": 38.146216,
+  "longitude": -79.07625,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "20",
+  "people": [
+    {
+      "name": "G. \"John\" Avoli",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-H0312",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1942;Staunton, Virginia 24402"
+      ],
+      "phone": [
+        "804-698-1020"
+      ],
+      "email": [
+        "DelJAvoli@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "20"
+    },
+    {
+      "name": "Emmett W. Hanger, Jr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Hanger24.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 2;Mount Solon, Virginia 22843-0002"
+      ],
+      "phone": [
+        "540-885-6898"
+      ],
+      "email": [
+        "district24@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "24"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

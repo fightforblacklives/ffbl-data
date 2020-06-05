@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "85501",
+  "state": "AZ",
+  "city": "Globe",
+  "latitude": 33.53457,
+  "longitude": -110.75681,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "8",
+  "people": [
+    {
+      "name": "Thomas \"T.J.\" Shope, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-SHOPE.png",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 204;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3012"
+      ],
+      "email": [
+        "tshope@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "8"
+    },
+    {
+      "name": "Frank Pratt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-PRATT.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 310;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5761"
+      ],
+      "email": [
+        "fpratt@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "8"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

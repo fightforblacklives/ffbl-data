@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "60074",
+  "state": "IL",
+  "city": "Palatine",
+  "latitude": 42.143819,
+  "longitude": -88.02546,
+  "congressionalDistrict": [
+    "08",
+    "06",
+    "09"
+  ],
+  "stateUpperDistrict": "27",
+  "stateLowerDistrict": "54",
+  "people": [
+    {
+      "name": "Thomas Morrison",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-%7B590FA09F-B685-4E88-B384-B5EE3F2D58E8%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "117 East Palatine Road;Suite 106;Palatine, IL 60067",
+        "215-N Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "847-202-6584",
+        "217-782-8026"
+      ],
+      "email": [
+        "Repmorrison54@gmail.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "IL",
+      "district": "54"
+    },
+    {
+      "name": "Ann Gillespie",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-%7BD11CC547-0960-44F1-80C9-99F8CE5D5479%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "120 W. Eastman;Suite 207;Arlington Heights, IL 60004",
+        "108D Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "847-749-1880",
+        "217-782-4471"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "27"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-Schwantz_James%21880.jpg",
+      "name": "James W. Schwantz",
+      "phone": "847-359-9007",
+      "email": "jschwantz@palatine.il.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Palatine"
+    }
+  ]
+})

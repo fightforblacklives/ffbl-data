@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "94578",
+  "state": "CA",
+  "city": "San Leandro",
+  "latitude": 37.703427,
+  "longitude": -122.128,
+  "congressionalDistrict": [
+    "13",
+    "15"
+  ],
+  "stateUpperDistrict": "10",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "Rob Bonta",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-AD18-Bonta.jpg",
+      "twitter": null,
+      "addresses": [
+        "1515 Clay Street, Suite 2204;Oakland, CA 94612",
+        "P.O. Box 942849;Sacramento, CA 94249-0018"
+      ],
+      "phone": [
+        "510-286-1670",
+        "916-319-2018"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "18"
+    },
+    {
+      "name": "Bob Wieckowski",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-wieckowski_9781_lls.jpg",
+      "twitter": null,
+      "addresses": [
+        "39510 Paseo Padre Parkway, Suite 280, Fremont, CA 94538",
+        "State Capitol, Room 4085, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "510-794-3900",
+        "916-651-4010"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "10"
+    },
+    {
+      "name": "Barbara Lee",
+      "email": null,
+      "twitter": "RepBarbaraLee",
+      "addresses": [
+        "2470 Rayburn House Office Building; Washington DC 20515-0513"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-L000551.jpg",
+      "phone": "202-225-2661",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "13"
+    },
+    {
+      "name": "Eric Swalwell",
+      "email": null,
+      "twitter": "RepSwalwell",
+      "addresses": [
+        "407 Cannon House Office Building; Washington DC 20515-0515"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-S001193.jpg",
+      "phone": "202-225-5065",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "15"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-Cutter_Pauline%211045.JPG",
+      "name": "Pauline Russo Cutter",
+      "phone": "510-577-3355",
+      "email": "pcutter@sanleandro.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "San Leandro"
+    }
+  ]
+})

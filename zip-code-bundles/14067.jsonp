@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "14067",
+  "state": "NY",
+  "city": "Gasport",
+  "latitude": 43.20258,
+  "longitude": -78.56868,
+  "congressionalDistrict": [
+    "27"
+  ],
+  "stateUpperDistrict": "62",
+  "stateLowerDistrict": "144",
+  "people": [
+    {
+      "name": "Michael Norris",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-144.jpg",
+      "twitter": null,
+      "addresses": [
+        "8180 Main Street;Clarence, NY 14221",
+        "LOB 718;Albany, NY 12248"
+      ],
+      "phone": [
+        "716-839-4691",
+        "518-455-4601"
+      ],
+      "email": [
+        "norrism@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "144"
+    },
+    {
+      "name": "Robert G. Ortt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-%252803-19-15%2529%2520Ortt-HS-057.jpg%3Fitok%3Dk0cugWta",
+      "twitter": null,
+      "addresses": [
+        "175 Walnut Street, Suite 6;Lockport,, NY 14094"
+      ],
+      "phone": [
+        "716-434-0680"
+      ],
+      "email": [
+        "Ortt@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "62"
+    },
+    {
+      "name": "Chris Collins",
+      "email": null,
+      "twitter": "RepChrisCollins",
+      "addresses": [
+        "2243 Rayburn House Office Building; Washington DC 20515-3227"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-C001092.jpg",
+      "phone": "202-225-5265",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Republican",
+      "district": "27"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

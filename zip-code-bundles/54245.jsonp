@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "54245",
+  "state": "WI",
+  "city": "Valders",
+  "latitude": 44.037618,
+  "longitude": -87.90026,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "9",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Paul Tittl",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-1819.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 219 North;State Capitol;PO Box 8953;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-0315"
+      ],
+      "email": [
+        "Rep.Tittl@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "25"
+    },
+    {
+      "name": "Devin LeMahieu",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-1907.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 409 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-2056"
+      ],
+      "email": [
+        "Sen.LeMahieu@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "WI",
+      "district": "9"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

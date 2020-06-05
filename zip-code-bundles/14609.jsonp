@@ -1,0 +1,117 @@
+callback({
+  "zipCode": "14609",
+  "state": "NY",
+  "city": "Rochester",
+  "latitude": 43.175113,
+  "longitude": -77.56272,
+  "congressionalDistrict": [
+    "25"
+  ],
+  "stateUpperDistrict": "55",
+  "stateLowerDistrict": "136",
+  "people": [
+    {
+      "name": "Jamie Romeo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-136.jpg",
+      "twitter": null,
+      "addresses": [
+        "564 East Ridge Rd.;Suite 103;Rochester, NY 14621"
+      ],
+      "phone": [
+        "585-467-0410",
+        "518-455-5373"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "136"
+    },
+    {
+      "name": "Rich Funke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-%252811-17-14%2529%2520Funke-015.jpg%3Fitok%3DIwGtEQ5j",
+      "twitter": null,
+      "addresses": [
+        "230 Packett's Landing;Fairport,, NY 14450"
+      ],
+      "phone": [
+        "585-223-1800"
+      ],
+      "email": [
+        "Funke@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "55"
+    },
+    {
+      "name": "Joseph Morelle",
+      "email": null,
+      "twitter": "RepJoeMorelle",
+      "addresses": [
+        "1317 Longworth House Office Building; Washington DC 20515-3225"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-M001206.jpg",
+      "phone": "202-225-3615",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "25"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Warren_Lovely%21955.JPG",
+      "name": "Lovely A. Warren",
+      "phone": "585-428-7045",
+      "email": "info@cityofrochester.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "Rochester"
+    }
+  ]
+})

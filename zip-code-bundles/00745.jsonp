@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00745",
+  "state": "PR",
+  "city": "Rio Grande",
+  "latitude": 18.366213,
+  "longitude": -65.82277,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "VIII",
+  "stateLowerDistrict": "37",
+  "people": [
+    {
+      "name": "Angel Bulerín Ramos",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-ba7ff98-f29b-430e-a54b-af7b24c2fc8c.jpg",
+      "twitter": null,
+      "addresses": [
+        "SÓTANO CAPITOLIO"
+      ],
+      "phone": [
+        "787-622-4380"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "37"
+    },
+    {
+      "name": "Eric Correa Rivera",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-senador-6.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "ecorrea@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    },
+    {
+      "name": "Nayda C. Venegas Brown",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senador-26.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "nvenegas@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "VIII"
+    }
+  ]
+})

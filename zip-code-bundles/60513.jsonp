@@ -1,0 +1,95 @@
+callback({
+  "zipCode": "60513",
+  "state": "IL",
+  "city": "Brookfield",
+  "latitude": 41.822681,
+  "longitude": -87.84753,
+  "congressionalDistrict": [
+    "03",
+    "04"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "24",
+  "people": [
+    {
+      "name": "Elizabeth Hernandez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-%7B4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "6117 West Cermak Road;Cicero, IL 60804",
+        "109 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "708-222-5240",
+        "217-782-8173"
+      ],
+      "email": [
+        "repehernandez@yahoo.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "24"
+    },
+    {
+      "name": "Steven M. Landek",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-%7BCB30B8CB-1FBB-4869-A78E-D08AF0616D74%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "6215 W. 79th Street;Suite 1A;Burbank, IL 60459",
+        "113 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "708-430-2510",
+        "217-782-0054"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "12"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

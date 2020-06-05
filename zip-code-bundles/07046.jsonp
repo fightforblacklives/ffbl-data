@@ -1,0 +1,134 @@
+callback({
+  "zipCode": "07046",
+  "state": "NJ",
+  "city": "Mountain Lakes",
+  "latitude": 40.892021,
+  "longitude": -74.44022,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Aura Dunn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-dunn_aura_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "1040 Route 10 West; 1st Floor; Randolph, NJ 07869"
+      ],
+      "phone": [
+        "973-927-2526"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "25"
+    },
+    {
+      "name": "Brian Bergen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-bergen_brian_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "146 Speedwell Avenue;Morris Plains, NJ 07950"
+      ],
+      "phone": [
+        "973-539-8113"
+      ],
+      "email": [
+        "AsmBergen@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "25"
+    },
+    {
+      "name": "Anthony M. Bucco",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-bucco_a_m_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "75 Bloomfield Ave., Suite 302, 3rd Floor;Denville, NJ 07834"
+      ],
+      "phone": [
+        "973-627-9700"
+      ],
+      "email": [
+        "SenBucco@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "25"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "email": null,
+      "twitter": "RepSherrill",
+      "addresses": [
+        "1208 Longworth House Office Building; Washington DC 20515-3011"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "phone": "202-225-5034",
+      "type": "US Representative",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-Avatar.jpg",
+      "name": "Peter Holmberg",
+      "phone": "",
+      "email": "pholmberg@mtnlakes.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Mountain Lakes"
+    }
+  ]
+})

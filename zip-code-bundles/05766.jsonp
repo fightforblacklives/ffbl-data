@@ -1,0 +1,113 @@
+callback({
+  "zipCode": "05766",
+  "state": "VT",
+  "city": "Ripton",
+  "latitude": 43.981681,
+  "longitude": -73.0155,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "Addison",
+  "stateLowerDistrict": "Addison-2",
+  "people": [
+    {
+      "name": "Peter Conlon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-PConlon.jpg",
+      "twitter": null,
+      "addresses": [
+        "33 West St.;Cornwall, VT 05753",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-462-3134"
+      ],
+      "email": [
+        "PConlon@leg.state.vt.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Addison-2"
+    },
+    {
+      "name": "Christopher Bray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Bray.Christopher.jpg",
+      "twitter": null,
+      "addresses": [
+        "115 State St;Montpelier, VT 05633",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-453-3444"
+      ],
+      "email": [
+        "cbray@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Addison"
+    },
+    {
+      "name": "Ruth Hardy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-Hardy.Ruth.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 343;East Middlebury, VT 05740",
+        "Vermont State House;115 State Street;Montpelier, VT 05633"
+      ],
+      "phone": [
+        "802-989-5278"
+      ],
+      "email": [
+        "rhardy@leg.state.vt.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VT",
+      "district": "Addison"
+    },
+    {
+      "name": "Bernard Sanders",
+      "email": null,
+      "twitter": "SenSanders",
+      "addresses": [
+        "332 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "phone": "202-224-5141",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Independent",
+      "district": null
+    },
+    {
+      "name": "Patrick Leahy",
+      "email": null,
+      "twitter": "SenatorLeahy",
+      "addresses": [
+        "437 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "phone": "202-224-4242",
+      "type": "US Senator",
+      "state": "VT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Scott",
+      "addresses": [
+        "109 State Street 109 State Street Montpelier VT 05609"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "twitter": "govphilscott",
+      "email": null,
+      "phone": "802-828-3333",
+      "type": "Governor",
+      "state": "VT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

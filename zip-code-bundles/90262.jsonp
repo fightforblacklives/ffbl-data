@@ -1,0 +1,120 @@
+callback({
+  "zipCode": "90262",
+  "state": "CA",
+  "city": "Lynwood",
+  "latitude": 33.924642,
+  "longitude": -118.20186,
+  "congressionalDistrict": [
+    "44"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "63",
+  "people": [
+    {
+      "name": "Anthony Rendon",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-ad63-rendon_0.jpg",
+      "twitter": null,
+      "addresses": [
+        "4909 Lakewood Blvd, Suite 400;Lakewood, CA 90712",
+        "P.O. Box 942849;Sacramento, CA 94249-0063"
+      ],
+      "phone": [
+        "562-529-3250",
+        "916-319-2063"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "63"
+    },
+    {
+      "name": "Lena A. Gonzalez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-senator-lena-gonzalez.jpg",
+      "twitter": null,
+      "addresses": [
+        "6550 Miles Avenue, Room 214, Huntington Park, CA 90255",
+        "State Capitol, Room 2068, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "323-277-4560",
+        "916-651-4033"
+      ],
+      "email": [
+        "senator.gonzalez@sen.ca.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "33"
+    },
+    {
+      "name": "Nanette Barragán",
+      "email": null,
+      "twitter": "RepBarragan",
+      "addresses": [
+        "1030 Longworth House Office Building; Washington DC 20515-0544"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-B001300.jpg",
+      "phone": "202-225-8220",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "44"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-Castro_Aide%2154923.jpg",
+      "name": "Aide Castro",
+      "phone": "310-603-0220",
+      "email": "acastro@lynwood.ca.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Lynwood"
+    }
+  ]
+})

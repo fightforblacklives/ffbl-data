@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57367",
+  "state": "SD",
+  "city": "Pickstown",
+  "latitude": 43.062919,
+  "longitude": -98.53232,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Caleb Finck",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "40976 294th St.;Tripp, SD 57376"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Caleb.Finck@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "21"
+    },
+    {
+      "name": "Lee Qualm",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-Qualm_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "27507 John Qualm Rd.;Platte, SD 57369"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Lee.Qualm@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "21"
+    },
+    {
+      "name": "Rocky Blare",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "31176 269th St.;Ideal, SD 57541"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Rocky.Blare@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "21"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

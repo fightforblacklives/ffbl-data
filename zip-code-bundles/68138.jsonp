@@ -1,0 +1,86 @@
+callback({
+  "zipCode": "68138",
+  "state": "NE",
+  "city": "Omaha",
+  "latitude": 41.175935,
+  "longitude": -96.13394,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "49",
+  "stateLowerDistrict": null,
+  "people": [
+    {
+      "name": "Andrew La Grone",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-dist49.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room #1423;P.O. Box 94604;Lincoln, NE 68509"
+      ],
+      "phone": [
+        "402-471-2725"
+      ],
+      "email": [
+        "alagrone@leg.ne.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Nonpartisan",
+      "state": "NE",
+      "district": "49"
+    },
+    {
+      "name": "Benjamin Sasse",
+      "email": null,
+      "twitter": "SenSasse",
+      "addresses": [
+        "107 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-S001197.jpg",
+      "phone": "202-224-4224",
+      "type": "US Senator",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Deb Fischer",
+      "email": null,
+      "twitter": "SenatorFischer",
+      "addresses": [
+        "454 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-F000463.jpg",
+      "phone": "202-224-6551",
+      "type": "US Senator",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Pete Ricketts",
+      "addresses": [
+        "P.O. Box 94848 Lincoln NE 68509-4848"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-NE.jpg",
+      "twitter": "govricketts",
+      "email": null,
+      "phone": "402-471-2244",
+      "type": "Governor",
+      "state": "NE",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-Stothert_Jean%21865.jpg",
+      "name": "Jean Stothert",
+      "phone": "402-444-5000",
+      "email": "mayor.stothert@cityofomaha.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NE",
+      "city": "Omaha"
+    }
+  ]
+})

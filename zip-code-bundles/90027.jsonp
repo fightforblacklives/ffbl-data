@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "90027",
+  "state": "CA",
+  "city": "Los Angeles",
+  "latitude": 34.111208,
+  "longitude": -118.28842,
+  "congressionalDistrict": [
+    "28"
+  ],
+  "stateUpperDistrict": "25",
+  "stateLowerDistrict": "43",
+  "people": [
+    {
+      "name": "Laura Friedman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-ad43_friedman.jpg",
+      "twitter": null,
+      "addresses": [
+        "300 East Magnolia Blvd, Suite 504;Burbank, CA 91502",
+        "P.O. Box 942849;Sacramento, CA 94249-0043"
+      ],
+      "phone": [
+        "818-558-3043",
+        "916-319-2043"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "43"
+    },
+    {
+      "name": "Anthony J. Portantino",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-portantino_en_3444_lls_ed_v.jpg",
+      "twitter": null,
+      "addresses": [
+        "201 E. Bonita Avenue, San Dimas, CA 91773",
+        "State Capitol, Room 3086, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "909-599-7351",
+        "916-651-4025"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "25"
+    },
+    {
+      "name": "Adam Schiff",
+      "email": null,
+      "twitter": "RepAdamSchiff",
+      "addresses": [
+        "2269 Rayburn House Office Building; Washington DC 20515-0528"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-S001150.jpg",
+      "phone": "202-225-4176",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "28"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Garcetti_Eric%21665.jpg",
+      "name": "Eric Garcetti",
+      "phone": "213-978-0600",
+      "email": "mayor.garcetti@lacity.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Los Angeles"
+    }
+  ]
+})

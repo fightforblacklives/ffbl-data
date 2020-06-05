@@ -1,0 +1,129 @@
+callback({
+  "zipCode": "21013",
+  "state": "MD",
+  "city": "Baldwin",
+  "latitude": 39.508739,
+  "longitude": -76.49191,
+  "congressionalDistrict": [
+    "01",
+    "07"
+  ],
+  "stateUpperDistrict": "7",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Kathy Szeliga",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-szeliga.jpg",
+      "twitter": null,
+      "addresses": [
+        "212 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3698"
+      ],
+      "email": [
+        "kathy.szeliga@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "7"
+    },
+    {
+      "name": "Lauren Arikan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-arikan01.jpg",
+      "twitter": null,
+      "addresses": [
+        "324 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3334"
+      ],
+      "email": [
+        "lauren.arikan@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "7"
+    },
+    {
+      "name": "Rick Impallaria",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-impallaria.jpg",
+      "twitter": null,
+      "addresses": [
+        "411 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3289"
+      ],
+      "email": [
+        "rick.impallaria@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "7"
+    },
+    {
+      "name": "J. B. Jennings",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-jennings.jpg",
+      "twitter": null,
+      "addresses": [
+        "423 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3706"
+      ],
+      "email": [
+        "jb.jennings@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "7"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

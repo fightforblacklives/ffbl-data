@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "03745",
+  "state": "NH",
+  "city": "Cornish",
+  "latitude": 43.476337,
+  "longitude": -72.33337,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "Sullivan 1",
+  "people": [
+    {
+      "name": "Brian M. Sullivan",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-408813.jpg",
+      "twitter": null,
+      "addresses": [
+        "642 Olde Farms Road;Grantham, NH 03753-3124"
+      ],
+      "phone": [
+        "603-381-7889"
+      ],
+      "email": [
+        "brian.sullivan@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Sullivan 1"
+    },
+    {
+      "name": "Lee Walker Oxenham",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-377310.jpg",
+      "twitter": null,
+      "addresses": [
+        "92 Methodist Hill Road;Plainfield, NH 03781-5415"
+      ],
+      "phone": [
+        "603-727-9368"
+      ],
+      "email": [
+        "Lee.Oxenham@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Sullivan 1"
+    },
+    {
+      "name": "Martha S. Hennessey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-05.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3042"
+      ],
+      "email": [
+        "Martha.Hennessey@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "5"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

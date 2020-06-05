@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "06722",
+  "state": "CT",
+  "city": "Waterbury",
+  "latitude": 41.365709,
+  "longitude": -72.927507,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "91",
+  "people": [
+    {
+      "name": "Michael D'Agostino",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "575 Ridge Road;Hamden, CT 06517",
+        "Legislative Office Building;Room 3504;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8585"
+      ],
+      "email": [
+        "Michael.DAgostino@cga.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "91"
+    },
+    {
+      "name": "George S. Logan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "10 LaRovera Terrace;Ansonia, CT 06401",
+        "Legislative Office Building;Room 2102;Hartford, CT 06106"
+      ],
+      "phone": [
+        "203-734-8658",
+        "860-240-8800"
+      ],
+      "email": [
+        "George.Logan@cga.ct.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "17"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-OLeary_Neil%211227.JPG",
+      "name": "Neil M. O'Leary",
+      "phone": "203-574-6712",
+      "email": "mluddy@waterburyct.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CT",
+      "city": "Waterbury"
+    }
+  ]
+})

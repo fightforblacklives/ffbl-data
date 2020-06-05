@@ -1,0 +1,102 @@
+callback({
+  "zipCode": "73170",
+  "state": "OK",
+  "city": "Oklahoma City",
+  "latitude": 35.338716,
+  "longitude": -97.53569,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "24",
+  "stateLowerDistrict": "91",
+  "people": [
+    {
+      "name": "Chris Kannady",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Kannady%2C%2520Chris.jpg",
+      "twitter": null,
+      "addresses": [
+        "2300 N. Lincoln Blvd.;Room 240;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-557-7337"
+      ],
+      "email": [
+        "chris.kannady@okhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "OK",
+      "district": "91"
+    },
+    {
+      "name": "Darrell Weaver",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-weaver_bio.jpg",
+      "twitter": null,
+      "addresses": [
+        "2300 N. Lincoln Blvd., Rm. 526.1;Oklahoma City, OK 73105"
+      ],
+      "phone": [
+        "405-521-5569"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "OK",
+      "district": "24"
+    },
+    {
+      "name": "James Inhofe",
+      "email": null,
+      "twitter": "InhofePress",
+      "addresses": [
+        "205 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-I000024.jpg",
+      "phone": "202-224-4721",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "James Lankford",
+      "email": null,
+      "twitter": "SenatorLankford",
+      "addresses": [
+        "316 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-L000575.jpg",
+      "phone": "202-224-5754",
+      "type": "US Senator",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Stitt",
+      "addresses": [
+        "State Capitol Building State Capitol Building Oklahoma City OK 73105"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-ok_stitt.png",
+      "twitter": null,
+      "email": null,
+      "phone": "405- 521-2342",
+      "type": "Governor",
+      "state": "OK",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Holt_David%2154271.jpg",
+      "name": "David Holt",
+      "phone": "405-297-2424",
+      "email": "mayor@okc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "OK",
+      "city": "Oklahoma City"
+    }
+  ]
+})

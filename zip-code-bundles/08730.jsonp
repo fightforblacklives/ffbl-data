@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08730",
+  "state": "NJ",
+  "city": "Brielle",
+  "latitude": 40.108433,
+  "longitude": -74.06226,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "30",
+  "stateLowerDistrict": "30",
+  "people": [
+    {
+      "name": "Edward H. Thomson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-thomson_edward_2018.jpg",
+      "twitter": null,
+      "addresses": [
+        "1967 Highway 34, Bldg. C, Suite 202;Wall Township, NJ 07719"
+      ],
+      "phone": [
+        "732-974-0400"
+      ],
+      "email": [
+        "AsmThomson@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "30"
+    },
+    {
+      "name": "Sean T. Kean",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-kean_sean_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "1967 Highway 34, Bldg. C, Suite 202;Wall Township, NJ 07719"
+      ],
+      "phone": [
+        "732-974-0400"
+      ],
+      "email": [
+        "AsmKean@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "30"
+    },
+    {
+      "name": "Robert W. Singer",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-singer_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "1771 Madison Ave., Suite 202;Lakewood, NJ 08701"
+      ],
+      "phone": [
+        "732-987-5669"
+      ],
+      "email": [
+        "SenSinger@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "30"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

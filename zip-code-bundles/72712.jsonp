@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "72712",
+  "state": "AR",
+  "city": "Bentonville",
+  "latitude": 36.362525,
+  "longitude": -94.23308,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "1",
+  "stateLowerDistrict": "93",
+  "people": [
+    {
+      "name": "Jim Dotson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-431_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 651, Bentonville, 72712"
+      ],
+      "phone": [
+        "479-222-1234"
+      ],
+      "email": [
+        "jim.dotson@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "93"
+    },
+    {
+      "name": "Bart Hester",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-396_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 85, Cave Springs, 72718"
+      ],
+      "phone": [
+        "479-531-4176"
+      ],
+      "email": [
+        "bart.hester@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "1"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-Orman_Stephanie%2154465.jpg",
+      "name": "Stephanie Orman",
+      "phone": "479-271-3112",
+      "email": "sorman@bentonvillear.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Bentonville"
+    }
+  ]
+})

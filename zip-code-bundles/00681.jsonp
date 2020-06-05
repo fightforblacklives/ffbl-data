@@ -1,0 +1,13 @@
+callback({
+  "zipCode": "00681",
+  "state": "PR",
+  "city": "Mayaguez",
+  "latitude": 18.219023,
+  "longitude": -67.508068,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

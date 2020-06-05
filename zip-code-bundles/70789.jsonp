@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "70789",
+  "state": "LA",
+  "city": "Wilson",
+  "latitude": 30.925815,
+  "longitude": -91.09672,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "62",
+  "people": [
+    {
+      "name": "Roy Daryl Adams",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-rep62.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 217;Jackson, LA 70748"
+      ],
+      "phone": [
+        "225-634-7470"
+      ],
+      "email": [
+        "hse062@legis.la.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Independent",
+      "state": "LA",
+      "district": "62"
+    },
+    {
+      "name": "Rick Ward, III",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "3741 Highway 1;Port Allen, LA 70767"
+      ],
+      "phone": [
+        "225-246-8838"
+      ],
+      "email": [
+        "wardr@legis.la.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "LA",
+      "district": "17"
+    },
+    {
+      "name": "Bill Cassidy",
+      "email": null,
+      "twitter": "SenBillCassidy",
+      "addresses": [
+        "520 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-C001075.jpg",
+      "phone": "202-224-5824",
+      "type": "US Senator",
+      "state": "LA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Kennedy",
+      "email": null,
+      "twitter": "SenJohnKennedy",
+      "addresses": [
+        "416 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-K000393.jpg",
+      "phone": "202-224-4623",
+      "type": "US Senator",
+      "state": "LA",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "John Bel Edwards",
+      "addresses": [
+        "P.O. Box 94004 Baton Rouge LA 70804-9004"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-LA.jpg",
+      "twitter": "louisianagov",
+      "email": null,
+      "phone": "225-342-7015",
+      "type": "Governor",
+      "state": "LA",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

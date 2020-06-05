@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "10072",
+  "state": "NY",
+  "city": "New York",
+  "latitude": 40.780751,
+  "longitude": -73.977182,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "67",
+  "people": [
+    {
+      "name": "Linda Rosenthal",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-067.jpg",
+      "twitter": null,
+      "addresses": [
+        "230 West 72nd Street;Suite 2F;New York, NY 10023",
+        "LOB 627;Albany, NY 12248"
+      ],
+      "phone": [
+        "212-873-6368",
+        "518-455-5802"
+      ],
+      "email": [
+        "RosentL@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "67"
+    },
+    {
+      "name": "José M. Serrano",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-%252802-11-13%2529%2520Serrano-HS-028RET.jpg%3Fitok%3DU6wrLa0A",
+      "twitter": null,
+      "addresses": [
+        "172 State Street, Capitol Building;Albany,, NY 12247"
+      ],
+      "phone": [
+        "518-455-2795"
+      ],
+      "email": [
+        "serrano@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "29"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-deBlasio_Bill%21809.jpg",
+      "name": "Bill de Blasio",
+      "phone": "212-788-3000",
+      "email": "acaplan@cityhall.nyc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "New York"
+    }
+  ]
+})

@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "57626",
+  "state": "SD",
+  "city": "Faith",
+  "latitude": 44.947869,
+  "longitude": -102.02661,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "29",
+  "stateLowerDistrict": "29",
+  "people": [
+    {
+      "name": "Kirk Chaffee",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-LegPlaceholder.png",
+      "twitter": null,
+      "addresses": [
+        "PO Box 280;Whitewood, SD 57793"
+      ],
+      "phone": [
+        "605-773-3251"
+      ],
+      "email": [
+        "Kirk.Chaffee@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "29"
+    },
+    {
+      "name": "Thomas J Brunner",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Brunner_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "18769 Quin Rd.;Nisland, SD 57762"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Thomas.Brunner@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "29"
+    },
+    {
+      "name": "Gary L Cammack",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Cammack_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 100;Union Center, SD 57787"
+      ],
+      "phone": [
+        "605-773-3821"
+      ],
+      "email": [
+        "Gary.Cammack@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "29"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

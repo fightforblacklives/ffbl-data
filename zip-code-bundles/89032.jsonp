@@ -1,0 +1,98 @@
+callback({
+  "zipCode": "89032",
+  "state": "NV",
+  "city": "North Las Vegas",
+  "latitude": 36.224218,
+  "longitude": -115.1763,
+  "congressionalDistrict": [
+    "04"
+  ],
+  "stateUpperDistrict": "4",
+  "stateLowerDistrict": "7",
+  "people": [
+    {
+      "name": "Dina Neal",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Neal.jpg",
+      "twitter": null,
+      "addresses": [
+        "3217 Brautigan Court;North Las Vegas, NV 89032-6030"
+      ],
+      "phone": [
+        "702-738-5870"
+      ],
+      "email": [
+        "Dina.Neal@asm.state.nv.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "7"
+    },
+    {
+      "name": "Marcia Washington",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-Washington.Marcia.369.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NV",
+      "district": "4"
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "email": null,
+      "twitter": "sencortezmasto",
+      "addresses": [
+        "516 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "phone": "202-224-3542",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "email": null,
+      "twitter": "SenJackyRosen",
+      "addresses": [
+        "144 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "phone": "202-224-6244",
+      "type": "US Senator",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Stephen Sisolak",
+      "addresses": [
+        "State Capitol Building State Capitol Building Carson City NV 89701"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "twitter": "GovSisolak",
+      "email": null,
+      "phone": "775-684-5670",
+      "type": "Governor",
+      "state": "NV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-Lee_John%21829.jpg",
+      "name": "John J. Lee",
+      "phone": "702-633-1007",
+      "email": "leej@cityofnorthlasvegas.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NV",
+      "city": "North Las Vegas"
+    }
+  ]
+})

@@ -1,0 +1,123 @@
+callback({
+  "zipCode": "13734",
+  "state": "NY",
+  "city": "Barton",
+  "latitude": 42.063671,
+  "longitude": -76.40638,
+  "congressionalDistrict": [
+    "23",
+    "22"
+  ],
+  "stateUpperDistrict": "52",
+  "stateLowerDistrict": "124",
+  "people": [
+    {
+      "name": "Christopher Friend",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-124.jpg",
+      "twitter": null,
+      "addresses": [
+        "1250 Schweizer Rd.;Horseheads, NY 14845",
+        "LOB 938;Albany, NY 12248"
+      ],
+      "phone": [
+        "607-562-3602",
+        "518-455-4538"
+      ],
+      "email": [
+        "friendc@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "124"
+    },
+    {
+      "name": "Fred Akshar",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-official_akshar_headshot_-_fixed_2.jpg%3Fitok%3DLj-i_Qup",
+      "twitter": null,
+      "addresses": [
+        "44 Hawley Street;Binghamton,, NY 13901"
+      ],
+      "phone": [
+        "607-773-8771"
+      ],
+      "email": [
+        "akshar@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NY",
+      "district": "52"
+    },
+    {
+      "name": "Anthony Brindisi",
+      "email": null,
+      "twitter": "RepBrindisi",
+      "addresses": [
+        "329 Cannon House Office Building; Washington DC 20515-3222"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-B001308.jpg",
+      "phone": "202-225-3665",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "22"
+    },
+    {
+      "name": "Tom Reed",
+      "email": null,
+      "twitter": "RepTomReed",
+      "addresses": [
+        "2263 Rayburn House Office Building; Washington DC 20515-3223"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-R000585.jpg",
+      "phone": "202-225-3161",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

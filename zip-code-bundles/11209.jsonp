@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "11209",
+  "state": "NY",
+  "city": "Brooklyn",
+  "latitude": 40.62327,
+  "longitude": -74.0295,
+  "congressionalDistrict": [
+    "11"
+  ],
+  "stateUpperDistrict": "22",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "Mathylde Frontus",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-046.jpg",
+      "twitter": null,
+      "addresses": [
+        "2823 West 12 Street;Suite 1F;Brooklyn, NY 11224"
+      ],
+      "phone": [
+        "718-266-0267"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "46"
+    },
+    {
+      "name": "Andrew Gounardes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-sd-22_unofficialhs.jpg%3Fitok%3DWLjnHngF",
+      "twitter": null,
+      "addresses": [
+        "Legislative Office Bldg.;Albany,, NY 12247"
+      ],
+      "phone": [
+        "718-238-6044"
+      ],
+      "email": [
+        "gounardes@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "22"
+    },
+    {
+      "name": "Max Rose",
+      "email": null,
+      "twitter": "RepMaxRose",
+      "addresses": [
+        "1529 Longworth House Office Building; Washington DC 20515-3211"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-R000613.jpg",
+      "phone": "202-225-3371",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "11"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

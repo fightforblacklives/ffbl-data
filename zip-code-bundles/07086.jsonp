@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "07086",
+  "state": "NJ",
+  "city": "Union City",
+  "latitude": 40.769796,
+  "longitude": -74.022351,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "33",
+  "stateLowerDistrict": "33",
+  "people": [
+    {
+      "name": "Annette Chaparro",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-chaparro_annette_2020.jpg",
+      "twitter": null,
+      "addresses": [
+        "80 River St., 2nd Floor;Hoboken, NJ 07030"
+      ],
+      "phone": [
+        "201-683-7917"
+      ],
+      "email": [
+        "AswChaparro@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "33"
+    },
+    {
+      "name": "Raj Mukherji",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-mukherji_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "433 Palisade Ave.;Jersey City, NJ 07307"
+      ],
+      "phone": [
+        "201-626-4000"
+      ],
+      "email": [
+        "AsmMukherji@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "33"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-Stack_Brian%211188.JPG",
+      "name": "Brian P. Stack",
+      "phone": "201-348-5757",
+      "email": "senstack@njleg.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Union City"
+    }
+  ]
+})

@@ -1,0 +1,62 @@
+callback({
+  "zipCode": "00602",
+  "state": "PR",
+  "city": "Aguada",
+  "latitude": 18.363285,
+  "longitude": -67.18024,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "IV",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "José J. Pérez Cordero",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-c588e98d-6534-4500-8f45-4db34af87964.jpg",
+      "twitter": null,
+      "addresses": [
+        "1er. PISO ANEXO"
+      ],
+      "phone": [
+        "787-725-9133"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "18"
+    },
+    {
+      "name": "Evelyn Vázquez Nieves",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-senador-12.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "evevazquez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    },
+    {
+      "name": "Luis Daniel Muñiz Cortes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-senador-20.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lmuniz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    }
+  ]
+})

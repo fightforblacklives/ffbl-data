@@ -1,0 +1,119 @@
+callback({
+  "zipCode": "48220",
+  "state": "MI",
+  "city": "Ferndale",
+  "latitude": 42.460986,
+  "longitude": -83.13398,
+  "congressionalDistrict": [
+    "14",
+    "09"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "27",
+  "people": [
+    {
+      "name": "Robert Wittenberg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Wittenberg_Headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "N0791 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
+      ],
+      "phone": [
+        "517-373-0478"
+      ],
+      "email": [
+        "RobertWittenberg@house.mi.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MI",
+      "district": "27"
+    },
+    {
+      "name": "Jeremy Moss",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "6400 Binsfeld Bldg"
+      ],
+      "phone": [
+        "517-373-7888"
+      ],
+      "email": [
+        "senjmoss@senate.michigan.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MI",
+      "district": "11"
+    },
+    {
+      "name": "Brenda Lawrence",
+      "email": null,
+      "twitter": "RepLawrence",
+      "addresses": [
+        "2463 Rayburn House Office Building; Washington DC 20515-2214"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-L000581.jpg",
+      "phone": "202-225-5802",
+      "type": "US Representative",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": "14"
+    },
+    {
+      "name": "Debbie Stabenow",
+      "email": null,
+      "twitter": "SenStabenow",
+      "addresses": [
+        "731 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "phone": "202-224-4822",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gary Peters",
+      "email": null,
+      "twitter": "SenGaryPeters",
+      "addresses": [
+        "724 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "phone": "202-224-6221",
+      "type": "US Senator",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "addresses": [
+        "P.O. Box 30013 Lansing MI 48909"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "twitter": "gretchenwhitmer",
+      "email": null,
+      "phone": "517-373-3400",
+      "type": "Governor",
+      "state": "MI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Coulter_David1849.jpg",
+      "name": "David Coulter",
+      "phone": "248-546-2384",
+      "email": "dcoulter@ferndalemi.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MI",
+      "city": "Ferndale"
+    }
+  ]
+})

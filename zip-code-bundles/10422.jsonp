@@ -1,0 +1,100 @@
+callback({
+  "zipCode": "10422",
+  "state": "NY",
+  "city": "New York",
+  "latitude": 40.828279,
+  "longitude": -73.869454,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "32",
+  "stateLowerDistrict": "85",
+  "people": [
+    {
+      "name": "Marcos Crespo",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-085.jpg",
+      "twitter": null,
+      "addresses": [
+        "1163 Manor Ave.;Store Front #3;Bronx, NY 10472",
+        "LOB 454;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-893-0202",
+        "518-455-5514"
+      ],
+      "email": [
+        "CrespoM@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "85"
+    },
+    {
+      "name": "Luis R. Sepúlveda",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-hssepulveda2.jpg%3Fitok%3DWvXJvenH",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "sepulveda@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "32"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-deBlasio_Bill%21809.jpg",
+      "name": "Bill de Blasio",
+      "phone": "212-788-3000",
+      "email": "acaplan@cityhall.nyc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NY",
+      "city": "New York"
+    }
+  ]
+})

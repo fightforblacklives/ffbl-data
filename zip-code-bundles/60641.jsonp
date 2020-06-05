@@ -1,0 +1,107 @@
+callback({
+  "zipCode": "60641",
+  "state": "IL",
+  "city": "Chicago",
+  "latitude": 41.946431,
+  "longitude": -87.74576,
+  "congressionalDistrict": [
+    "05",
+    "04"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "39",
+  "people": [
+    {
+      "name": "Will Guzzardi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-%7BC127AF36-0EAE-48B6-8C31-86AAE3935790%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "3458 N. Cicero Ave.;Chicago, IL 60647",
+        "200-3S Stratton Office Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "773-853-2570",
+        "217-558-1032"
+      ],
+      "email": [
+        "will@repguzzardi.com"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "39"
+    },
+    {
+      "name": "Iris Y. Martinez",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-%7B274BFBAB-00D7-4DB2-A9CD-FFABCDA5AD08%7D.jpg",
+      "twitter": null,
+      "addresses": [
+        "2921 N. Milwaukee Ave.;Chicago, IL 60618",
+        "413 Capitol Building;Springfield, IL 62706"
+      ],
+      "phone": [
+        "773-278-2020",
+        "217-782-8191"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "IL",
+      "district": "20"
+    },
+    {
+      "name": "Richard Durbin",
+      "email": null,
+      "twitter": "SenatorDurbin",
+      "addresses": [
+        "711 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "phone": "202-224-2152",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "email": null,
+      "twitter": "SenDuckworth",
+      "addresses": [
+        "524 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "phone": "202-224-2854",
+      "type": "US Senator",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "J.B. Pritzker",
+      "addresses": [
+        "207 State House Springfield IL 62706"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "twitter": "JBPritzker",
+      "email": null,
+      "phone": "217-782-0244",
+      "type": "Governor",
+      "state": "IL",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Lightfoot_Lori%2154730.jpg",
+      "name": "Lori E. Lightfoot",
+      "phone": "312-744-5000",
+      "email": "alyssa.fisher@cityofchicago.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "IL",
+      "city": "Chicago"
+    }
+  ]
+})

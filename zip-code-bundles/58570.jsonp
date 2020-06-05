@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "58570",
+  "state": "ND",
+  "city": "Solen",
+  "latitude": 46.421762,
+  "longitude": -100.93017,
+  "congressionalDistrict": [
+    "00"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "31",
+  "people": [
+    {
+      "name": "Jim Schmidt",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-jeschmidt.jpg%3Fitok%3D2LyMU_Sb",
+      "twitter": null,
+      "addresses": [
+        "5165 Highway 1806;Huff, ND;58554-8721"
+      ],
+      "phone": [
+        "701-426-2102"
+      ],
+      "email": [
+        "jeschmidt@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "31"
+    },
+    {
+      "name": "Karen M. Rohr",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-kmrohr.jpg%3Fitok%3D96299jIY",
+      "twitter": null,
+      "addresses": [
+        "1704 Fourth Street NE;Mandan, ND;58554-3814"
+      ],
+      "phone": [
+        "701-202-1956"
+      ],
+      "email": [
+        "kmrohr@nd.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "31"
+    },
+    {
+      "name": "Donald Schaible",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-dgschaible.jpg%3Fitok%3D6jztCQ0i",
+      "twitter": null,
+      "addresses": [
+        "9115 Highway 21;Mott, ND;58646-9200"
+      ],
+      "phone": [
+        "701-824-3168"
+      ],
+      "email": [
+        "dgschaible@nd.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "ND",
+      "district": "31"
+    },
+    {
+      "name": "John Hoeven",
+      "email": null,
+      "twitter": "SenJohnHoeven",
+      "addresses": [
+        "338 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "phone": "202-224-2551",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "email": null,
+      "twitter": "SenKevinCramer",
+      "addresses": [
+        "400 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "phone": "202-224-2043",
+      "type": "US Senator",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Burgum",
+      "addresses": [
+        "State Capitol State Capitol Bismarck ND 58505-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "twitter": "dougburgum",
+      "email": null,
+      "phone": "701-328-2200",
+      "type": "Governor",
+      "state": "ND",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

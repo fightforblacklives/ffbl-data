@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "93311",
+  "state": "CA",
+  "city": "Bakersfield",
+  "latitude": 35.200467,
+  "longitude": -119.17399,
+  "congressionalDistrict": [
+    "23",
+    "21"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "32",
+  "people": [
+    {
+      "name": "Rudy Salas, Jr.",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-AD32-Salas_0.jpg",
+      "twitter": null,
+      "addresses": [
+        "113 Court Street, Suite 201;Hanford, CA 93230",
+        "P.O. Box 942849;Sacramento, CA 94249-0032"
+      ],
+      "phone": [
+        "559-585-7170",
+        "916-319-2032"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "32"
+    },
+    {
+      "name": "Melissa Hurtado",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-senator_hurtado_0.jpg",
+      "twitter": null,
+      "addresses": [
+        "2550 Mariposa Mall, Suite 2016, Fresno, CA 93721",
+        "State Capitol, Room 2054, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "559-264-3070",
+        "916-651-4014"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "14"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "email": null,
+      "twitter": "GOPLeader",
+      "addresses": [
+        "2468 Rayburn House Office Building; Washington DC 20515-0523"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-M001165.jpg",
+      "phone": "202-225-2915",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Republican",
+      "district": "23"
+    },
+    {
+      "name": "TJ Cox",
+      "email": null,
+      "twitter": "RepTjCox",
+      "addresses": [
+        "1728 Longworth House Office Building; Washington DC 20515-0521"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-C001124.jpg",
+      "phone": "202-225-4695",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "21"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Goh_Karen%2153239.jpg",
+      "name": "Karen K. Goh",
+      "phone": "661-326-3770",
+      "email": "mayor@bakersfieldcity.us",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Bakersfield"
+    }
+  ]
+})

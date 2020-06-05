@@ -1,0 +1,110 @@
+callback({
+  "zipCode": "08556",
+  "state": "NJ",
+  "city": "Rosemont",
+  "latitude": 40.419965,
+  "longitude": -74.988619,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "16",
+  "people": [
+    {
+      "name": "Andrew Zwicker",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-zwicker_andrew_2019.jpg",
+      "twitter": null,
+      "addresses": [
+        "1 Deer Park Drive, Suite D-1;Monmouth Junction, NJ 08852"
+      ],
+      "phone": [
+        "732-823-1684"
+      ],
+      "email": [
+        "AsmZwicker@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "16"
+    },
+    {
+      "name": "Roy Freiman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-freiman_roy_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "390 Amwell Road, Suite 301;Hillsborough, NJ 08844"
+      ],
+      "phone": [
+        "908-829-4191"
+      ],
+      "email": [
+        "AsmFreiman@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "16"
+    },
+    {
+      "name": "Christopher Bateman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-bateman_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "36 East Main St.;Somerville, NJ 08876"
+      ],
+      "phone": [
+        "908-526-3600"
+      ],
+      "email": [
+        "SenBateman@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "NJ",
+      "district": "16"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

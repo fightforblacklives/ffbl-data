@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "80538",
+  "state": "CO",
+  "city": "Loveland",
+  "latitude": 40.435645,
+  "longitude": -105.08726,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "51",
+  "people": [
+    {
+      "name": "Hugh McKean",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-2020a_mckean%252C%2520hugh.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 307;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-2947"
+      ],
+      "email": [
+        "hugh.mckean.house@state.co.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "51"
+    },
+    {
+      "name": "Rob Woodward",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-2020a_woodward%252C%2520rob.jpg",
+      "twitter": null,
+      "addresses": [
+        "200 E. Colfax;RM 346;Denver, CO 80203"
+      ],
+      "phone": [
+        "303-866-4853"
+      ],
+      "email": [
+        "rob.woodward.senate@state.co.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CO",
+      "district": "15"
+    },
+    {
+      "name": "Cory Gardner",
+      "email": null,
+      "twitter": "SenCoryGardner",
+      "addresses": [
+        "354 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "phone": "202-224-5941",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Michael Bennet",
+      "email": null,
+      "twitter": "SenatorBennet",
+      "addresses": [
+        "261 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "phone": "202-224-5852",
+      "type": "US Senator",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Jared Polis",
+      "addresses": [
+        "136 State Capitol Denver CO 80203-1792"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "twitter": "jaredpolis",
+      "email": null,
+      "phone": "303-866-2471",
+      "type": "Governor",
+      "state": "CO",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-Marsh_Jacki%2153984.jpg",
+      "name": "Jacki Marsh",
+      "phone": "970-962-2303",
+      "email": "jacki.marsh@cityofloveland.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CO",
+      "city": "Loveland"
+    }
+  ]
+})

@@ -1,0 +1,129 @@
+callback({
+  "zipCode": "03031",
+  "state": "NH",
+  "city": "Amherst",
+  "latitude": 42.854886,
+  "longitude": -71.6082,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "11",
+  "stateLowerDistrict": "Hillsborough 22",
+  "people": [
+    {
+      "name": "Julie Radhakrishnan",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "16 Conifer Lane;Amherst, NH 03031-1949"
+      ],
+      "phone": [
+        "603-321-1965"
+      ],
+      "email": [
+        "Julie.Radhakrishnan@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 22"
+    },
+    {
+      "name": "Megan A. Murray",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "2 Steeple Lane;Amherst, NH 03031"
+      ],
+      "phone": [
+        "720-320-3351"
+      ],
+      "email": [
+        "Megan.Murray@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Hillsborough 22"
+    },
+    {
+      "name": "Reed A. Panasiti",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-407523.jpg",
+      "twitter": null,
+      "addresses": [
+        "11 Mack Hill Road;Amherst, NH 03031-2948"
+      ],
+      "phone": [
+        "603-672-4471"
+      ],
+      "email": [
+        "Reed.Panasiti@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "NH",
+      "district": "Hillsborough 22"
+    },
+    {
+      "name": "Shannon E. Chandley",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-376802.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 105-A\";107 North Main Street;Concord , NH 03301"
+      ],
+      "phone": [
+        "603-271-4151"
+      ],
+      "email": [
+        "Shannon.Chandley@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "11"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

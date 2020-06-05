@@ -1,0 +1,93 @@
+callback({
+  "zipCode": "06447",
+  "state": "CT",
+  "city": "Marlborough",
+  "latitude": 41.637066,
+  "longitude": -72.46252,
+  "congressionalDistrict": [
+    "02",
+    "01"
+  ],
+  "stateUpperDistrict": "19",
+  "stateLowerDistrict": "55",
+  "people": [
+    {
+      "name": "Robin Green",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "63 Highpoint Commons;Marlborough, CT 06447",
+        "Legislative Office Building;Room 4200;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8700"
+      ],
+      "email": [
+        "Robin.Green@housegop.ct.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CT",
+      "district": "55"
+    },
+    {
+      "name": "Catherine A. Osten",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "187 Scotland Road;Baltic, CT 06330",
+        "Legislative Office Building;Room 2700;Hartford, CT 06106"
+      ],
+      "phone": [
+        "860-240-8600"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CT",
+      "district": "19"
+    },
+    {
+      "name": "Christopher Murphy",
+      "email": null,
+      "twitter": "senmurphyoffice",
+      "addresses": [
+        "136 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "phone": "202-224-4041",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "email": null,
+      "twitter": "SenBlumenthal",
+      "addresses": [
+        "706 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "phone": "202-224-2823",
+      "type": "US Senator",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ned Lamont",
+      "addresses": [
+        "210 Capitol Avenue Hartford CT 06106"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "twitter": "GovNedLamont",
+      "email": null,
+      "phone": "800-406-1527\n",
+      "type": "Governor",
+      "state": "CT",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

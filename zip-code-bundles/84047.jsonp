@@ -1,0 +1,105 @@
+callback({
+  "zipCode": "84047",
+  "state": "UT",
+  "city": "Midvale",
+  "latitude": 40.614997,
+  "longitude": -111.88704,
+  "congressionalDistrict": [
+    "03",
+    "04"
+  ],
+  "stateUpperDistrict": "8",
+  "stateLowerDistrict": "44",
+  "people": [
+    {
+      "name": "Andrew Stoddard",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-STODDA.jpg",
+      "twitter": null,
+      "addresses": [
+        "218 E 8135 S, SANDY, UT, 84070"
+      ],
+      "phone": [
+        "385-256-3281"
+      ],
+      "email": [
+        "astoddard@le.utah.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "UT",
+      "district": "44"
+    },
+    {
+      "name": "Kathleen Riebe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-RIEBEK.jpg",
+      "twitter": null,
+      "addresses": [
+        "9040 S GREENHILLS DR, COTTONWOOD HEIGHTS, UT, 84093"
+      ],
+      "phone": [
+        "385-222-1742"
+      ],
+      "email": [
+        "kriebe@le.utah.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "UT",
+      "district": "8"
+    },
+    {
+      "name": "Mike Lee",
+      "email": null,
+      "twitter": "SenMikeLee",
+      "addresses": [
+        "361A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "phone": "202-224-5444",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mitt Romney",
+      "email": null,
+      "twitter": "SenatorRomney",
+      "addresses": [
+        "124 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "phone": "202-224-5251",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Gary Herbert",
+      "addresses": [
+        "State Capitol, Suite 200 Salt Lake City UT 84114"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "twitter": "herbertforutah",
+      "email": null,
+      "phone": "801-538-1000",
+      "type": "Governor",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Hale_Robert%2154065.jpg",
+      "name": "Robert M. Hale",
+      "phone": "801-567-7204",
+      "email": "rhale@midvale.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "UT",
+      "city": "Midvale"
+    }
+  ]
+})

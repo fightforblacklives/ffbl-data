@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "53792",
+  "state": "WI",
+  "city": "Madison",
+  "latitude": 43.06956,
+  "longitude": -89.423861,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "26",
+  "stateLowerDistrict": "77",
+  "people": [
+    {
+      "name": "Shelia Stubbs",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "Room 18 West;State Capitol;PO Box 8953;Madison, WI 53708"
+      ],
+      "phone": [
+        "608-266-3784"
+      ],
+      "email": [
+        "Rep.Stubbs@legis.wisconsin.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "77"
+    },
+    {
+      "name": "Fred A. Risser",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-1915.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 130 South;State Capitol;Madison, WI 53707-7882"
+      ],
+      "phone": [
+        "608-266-1627"
+      ],
+      "email": [
+        "Sen.Risser@legis.wisconsin.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WI",
+      "district": "26"
+    },
+    {
+      "name": "Ron Johnson",
+      "email": null,
+      "twitter": "SenRonJohnson",
+      "addresses": [
+        "328 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "phone": "202-224-5323",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "email": null,
+      "twitter": "SenatorBaldwin",
+      "addresses": [
+        "709 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "phone": "202-224-5653",
+      "type": "US Senator",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tony Evers",
+      "addresses": [
+        "115 East State Capitol Madison WI 53707"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "twitter": "GovEvers",
+      "email": null,
+      "phone": "608-266-1212",
+      "type": "Governor",
+      "state": "WI",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Rhodes_Satya%2154704.jpg",
+      "name": "Satya Rhodes-Conway",
+      "phone": "608-266-4611",
+      "email": "mayor@cityofmadison.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WI",
+      "city": "Madison"
+    }
+  ]
+})

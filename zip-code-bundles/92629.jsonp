@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "92629",
+  "state": "CA",
+  "city": "Dana Point",
+  "latitude": 33.475302,
+  "longitude": -117.70327,
+  "congressionalDistrict": [
+    "48",
+    "49"
+  ],
+  "stateUpperDistrict": "36",
+  "stateLowerDistrict": "73",
+  "people": [
+    {
+      "name": "William P. Brough",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Brough_LDC_headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "29122 Rancho Viejo Road, Suite 111;San Juan Capistrano, CA 92675",
+        "P.O. Box 942849;Sacramento, CA 94249-0073"
+      ],
+      "phone": [
+        "949-347-7301",
+        "916-319-2073"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "73"
+    },
+    {
+      "name": "Patricia C. Bates",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-bates-patricia.jpg",
+      "twitter": null,
+      "addresses": [
+        "169 Saxony Road, Suite 103, Encinitas, CA 92024",
+        "State Capitol, Room 305, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "760-642-0809",
+        "916-651-4036"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "CA",
+      "district": "36"
+    },
+    {
+      "name": "Harley Rouda",
+      "email": null,
+      "twitter": "RepHarley",
+      "addresses": [
+        "2300 Rayburn House Office Building; Washington DC 20515-0548"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-R000616.jpg",
+      "phone": "202-225-2415",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "48"
+    },
+    {
+      "name": "Mike Levin",
+      "email": null,
+      "twitter": "RepMikeLevin",
+      "addresses": [
+        "1626 Longworth House Office Building; Washington DC 20515-0549"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-L000593.jpg",
+      "phone": "202-225-3906",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "49"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Viczorek_Richard%2154971.jpg",
+      "name": "Richard A. Viczorek",
+      "phone": "949-248-3500",
+      "email": "rviczorek@danapoint.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Dana Point"
+    }
+  ]
+})

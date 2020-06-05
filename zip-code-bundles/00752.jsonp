@@ -1,0 +1,56 @@
+callback({
+  "zipCode": "00752",
+  "state": "PR",
+  "city": "San Antonio",
+  "latitude": 18.493745,
+  "longitude": -67.097726,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "IV",
+  "stateLowerDistrict": "17",
+  "people": [
+    {
+      "name": "Wilson Román López",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-6b09355d-e1fe-4b02-88dc-9a60a7f55a89.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "17"
+    },
+    {
+      "name": "Evelyn Vázquez Nieves",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-senador-12.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "evevazquez@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    },
+    {
+      "name": "Luis Daniel Muñiz Cortes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-senador-20.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [
+        "787-724-2030"
+      ],
+      "email": [
+        "lmuniz@senado.pr.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Partido Nuevo Progresista",
+      "state": "PR",
+      "district": "IV"
+    }
+  ]
+})

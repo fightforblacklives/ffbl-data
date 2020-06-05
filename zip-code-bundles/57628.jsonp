@@ -1,0 +1,86 @@
+callback({
+  "zipCode": "57628",
+  "state": "SD",
+  "city": "Firesteel",
+  "latitude": 45.55964,
+  "longitude": -101.20322,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "28",
+  "stateLowerDistrict": "28A",
+  "people": [
+    {
+      "name": "Oren L Lesmeister",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Lesmeister_2017.jpg",
+      "twitter": null,
+      "addresses": [
+        "HC 76 Box 23;Parade, SD 57625"
+      ],
+      "phone": [
+        "605-773-3851"
+      ],
+      "email": [
+        "Oren.Lesmeister@sdlegislature.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "SD",
+      "district": "28A"
+    },
+    {
+      "name": "Ryan Maher",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Maher_2017.jpg",
+      "twitter": null,
+      "addresses": [],
+      "phone": [],
+      "email": [
+        "Ryan.Maher@sdlegislature.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "SD",
+      "district": "28"
+    },
+    {
+      "name": "John Thune",
+      "email": null,
+      "twitter": "SenJohnThune",
+      "addresses": [
+        "511 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "phone": "202-224-2321",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mike Rounds",
+      "email": null,
+      "twitter": "SenatorRounds",
+      "addresses": [
+        "502 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "phone": "202-224-5842",
+      "type": "US Senator",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Kristi Noem",
+      "addresses": [
+        "500 East Capitol Avenue Pierre SD 57501"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "twitter": "govkristinoem",
+      "email": null,
+      "phone": "605-773-3212",
+      "type": "Governor",
+      "state": "SD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

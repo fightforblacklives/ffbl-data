@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "85345",
+  "state": "AZ",
+  "city": "Peoria",
+  "latitude": 33.573602,
+  "longitude": -112.23984,
+  "congressionalDistrict": [
+    "08"
+  ],
+  "stateUpperDistrict": "21",
+  "stateLowerDistrict": "21",
+  "people": [
+    {
+      "name": "Kevin Payne",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-PAYNE.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 110;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4854"
+      ],
+      "email": [
+        "kpayne@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "21"
+    },
+    {
+      "name": "Tony Rivero",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-RIVERO.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 313;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-3104"
+      ],
+      "email": [
+        "trivero@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "21"
+    },
+    {
+      "name": "Rick Gray",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-GRAY.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 301;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5413"
+      ],
+      "email": [
+        "rgray@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "21"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Carlat_Cathy%21906.JPG",
+      "name": "Cathy Carlat",
+      "phone": "623-773-7306",
+      "email": "briana.decker@peoriaaz.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Peoria"
+    }
+  ]
+})

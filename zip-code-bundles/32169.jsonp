@@ -1,0 +1,91 @@
+callback({
+  "zipCode": "32169",
+  "state": "FL",
+  "city": "New Smyrna Beach",
+  "latitude": 28.998887,
+  "longitude": -80.87561,
+  "congressionalDistrict": [
+    "06"
+  ],
+  "stateUpperDistrict": "14",
+  "stateLowerDistrict": "25",
+  "people": [
+    {
+      "name": "Thomas J. \"Tom\" Leek",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-4662.jpg",
+      "twitter": null,
+      "addresses": [
+        "Suite 240; 1540 Cornerstone Boulevard; Daytona Beach, FL 32117-7144",
+        "402 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
+      ],
+      "phone": [
+        "386-238-4865",
+        "850-717-5025"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "25"
+    },
+    {
+      "name": "Tom A. Wright",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-s14_5346.jpg",
+      "twitter": null,
+      "addresses": [
+        "By Appointment Only; Eastern Florida State College Room 110, Building 5; 1311 North U.S. 1; Titusville, FL 32796",
+        "312 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
+      ],
+      "phone": [],
+      "email": [
+        "wright.tom.web@flsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "FL",
+      "district": "14"
+    },
+    {
+      "name": "Marco Rubio",
+      "email": null,
+      "twitter": "SenRubioPress",
+      "addresses": [
+        "284 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "phone": "202-224-3041",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Rick Scott",
+      "email": null,
+      "twitter": "SenRickScott",
+      "addresses": [
+        "716 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "phone": "202-224-5274",
+      "type": "US Senator",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ron DeSantis",
+      "addresses": [
+        "The Capitol The Capitol Tallahassee FL 32399-0001"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "twitter": "RonDeSantisFL",
+      "email": null,
+      "phone": "850-488-7146",
+      "type": "Governor",
+      "state": "FL",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

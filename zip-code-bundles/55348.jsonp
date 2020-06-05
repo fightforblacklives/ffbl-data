@@ -1,0 +1,100 @@
+callback({
+  "zipCode": "55348",
+  "state": "MN",
+  "city": "Maple Plain",
+  "latitude": 44.848263,
+  "longitude": -93.398727,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "48",
+  "stateLowerDistrict": "48B",
+  "people": [
+    {
+      "name": "Carlie Kotyza-Witthuhn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-48B.gif",
+      "twitter": null,
+      "addresses": [
+        "567 State Office Building;St. Paul, MN 55155"
+      ],
+      "phone": [
+        "651-296-7449"
+      ],
+      "email": [
+        "rep.carlie.kotyza-witthuhn@house.mn"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic-Farmer-Labor",
+      "state": "MN",
+      "district": "48B"
+    },
+    {
+      "name": "Steve Cwodzinski",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-48Cwodzinski.jpg",
+      "twitter": null,
+      "addresses": [
+        "16411 Grenwich Terrace;Eden Prairie, MN 55346"
+      ],
+      "phone": [
+        "651-296-1314"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic-Farmer-Labor",
+      "state": "MN",
+      "district": "48"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "email": null,
+      "twitter": "SenAmyKlobuchar",
+      "addresses": [
+        "425 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-K000367.jpg",
+      "phone": "202-224-3244",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tina Smith",
+      "email": null,
+      "twitter": "SenTinaSmith",
+      "addresses": [
+        "720 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001203.jpg",
+      "phone": "202-224-5641",
+      "type": "US Senator",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Tim Walz",
+      "addresses": [
+        "130 State Capitol 130 State Capitol St. Paul MN 55155"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-mn_walz.png",
+      "twitter": "GovTimWalz",
+      "email": null,
+      "phone": "651-201-3400",
+      "type": "Governor",
+      "state": "MN",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-0034N00002dfRee.jpg",
+      "name": "Julie Maas-Kusske",
+      "phone": "(763) 479-6010",
+      "email": "juliemaaskusske@mapleplain.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MN",
+      "city": "Maple Plain"
+    }
+  ]
+})

@@ -1,0 +1,108 @@
+callback({
+  "zipCode": "03242",
+  "state": "NH",
+  "city": "Henniker",
+  "latitude": 43.173469,
+  "longitude": -71.81722,
+  "congressionalDistrict": [
+    "02"
+  ],
+  "stateUpperDistrict": "15",
+  "stateLowerDistrict": "Merrimack 6",
+  "people": [
+    {
+      "name": "Beth Rodd",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-376270.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 337;Bradford, NH 03221-0337"
+      ],
+      "phone": [
+        "603-938-2692"
+      ],
+      "email": [
+        "Beth.Rodd@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Merrimack 6"
+    },
+    {
+      "name": "Roderick L. Pimentel",
+      "image": null,
+      "twitter": null,
+      "addresses": [
+        "171 Ray Road;Henniker, NH 03242-6160"
+      ],
+      "phone": [],
+      "email": [
+        "Rod.Pimentel@leg.state.nh.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "Merrimack 6"
+    },
+    {
+      "name": "Dan Feltes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-15.jpg",
+      "twitter": null,
+      "addresses": [
+        "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
+      ],
+      "phone": [
+        "603-271-3042"
+      ],
+      "email": [
+        "Dan.Feltes@leg.state.nh.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NH",
+      "district": "15"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "email": null,
+      "twitter": "SenatorShaheen",
+      "addresses": [
+        "506 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "phone": "202-224-2841",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Margaret Hassan",
+      "email": null,
+      "twitter": "Senatorhassan",
+      "addresses": [
+        "324 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "phone": "202-224-3324",
+      "type": "US Senator",
+      "state": "NH",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Sununu",
+      "addresses": [
+        "State House, Room 208 State House, Room 208 Concord NH 03301"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "twitter": "govchrissununu",
+      "email": null,
+      "phone": "603-271-2121",
+      "type": "Governor",
+      "state": "NH",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

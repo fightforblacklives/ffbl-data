@@ -1,0 +1,138 @@
+callback({
+  "zipCode": "21265",
+  "state": "MD",
+  "city": "Baltimore",
+  "latitude": 39.284707,
+  "longitude": -76.620489,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "46",
+  "stateLowerDistrict": "46",
+  "people": [
+    {
+      "name": "Brooke E. Lierman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-lierman01.jpg",
+      "twitter": null,
+      "addresses": [
+        "311 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3319"
+      ],
+      "email": [
+        "Brooke.Lierman@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "46"
+    },
+    {
+      "name": "Luke Clippinger",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-clippinger.jpg",
+      "twitter": null,
+      "addresses": [
+        "101 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3303"
+      ],
+      "email": [
+        "luke.clippinger@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "46"
+    },
+    {
+      "name": "Robbyn Lewis",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-lewis01.jpg",
+      "twitter": null,
+      "addresses": [
+        "304 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3772"
+      ],
+      "email": [
+        "robbyn.lewis@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "46"
+    },
+    {
+      "name": "Bill Ferguson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-ferguson.jpg",
+      "twitter": null,
+      "addresses": [
+        "3 West Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3600"
+      ],
+      "email": [
+        "bill.ferguson@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "MD",
+      "district": "46"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Young_Bernard%2154693.jpg",
+      "name": "Bernard 'Jack' C. Young",
+      "phone": "410-387-1847",
+      "email": "mayor@baltimorecity.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "MD",
+      "city": "Baltimore"
+    }
+  ]
+})

@@ -1,0 +1,118 @@
+callback({
+  "zipCode": "76116",
+  "state": "TX",
+  "city": "Fort Worth",
+  "latitude": 32.72228,
+  "longitude": -97.44409,
+  "congressionalDistrict": [
+    "12"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "97",
+  "people": [
+    {
+      "name": "Craig Goldman",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-2395.jpg",
+      "twitter": null,
+      "addresses": [
+        "4521 South Hulen Street, Suite 208;Fort Worth, TX 76109",
+        "Room E2.606;P.O. Box 2910;Austin, TX 78768"
+      ],
+      "phone": [
+        "817-920-5912",
+        "512-463-0608"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "97"
+    },
+    {
+      "name": "Jane Nelson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-headshot.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 12068 Capitol Station Austin, TX 78711",
+        "P.O. Box 12068 Capitol Station Austin, TX 78711"
+      ],
+      "phone": [
+        "512-463-0112",
+        "512-463-0112"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "TX",
+      "district": "12"
+    },
+    {
+      "name": "Kay Granger",
+      "email": null,
+      "twitter": "RepKayGranger",
+      "addresses": [
+        "1026 Longworth House Office Building; Washington DC 20515-4312"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-G000377.jpg",
+      "phone": "202-225-5071",
+      "type": "US Representative",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": "12"
+    },
+    {
+      "name": "John Cornyn",
+      "email": null,
+      "twitter": "JohnCornyn",
+      "addresses": [
+        "517 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "phone": "202-224-2934",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Ted Cruz",
+      "email": null,
+      "twitter": "SenTedCruz",
+      "addresses": [
+        "127A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "phone": "202-224-5922",
+      "type": "US Senator",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Greg Abbott",
+      "addresses": [
+        "P.O. Box 12428 Austin TX 78711-2428"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "twitter": "govabbott",
+      "email": null,
+      "phone": "512-463-2000",
+      "type": "Governor",
+      "state": "TX",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Price_Betsy%21406.JPG",
+      "name": "Betsy Price",
+      "phone": "817-392-6118",
+      "email": "betsy.price@fortworthtexas.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "TX",
+      "city": "Fort Worth"
+    }
+  ]
+})

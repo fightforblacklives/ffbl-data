@@ -1,0 +1,11 @@
+callback({
+  "zipCode": "00804",
+  "state": "VI",
+  "city": "St Thomas",
+  "latitude": 18.322285,
+  "longitude": -64.963715,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": null,
+  "stateLowerDistrict": null,
+  "people": []
+})

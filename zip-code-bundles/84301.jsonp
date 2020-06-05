@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "84301",
+  "state": "UT",
+  "city": "Bear River City",
+  "latitude": 41.615276,
+  "longitude": -112.12561,
+  "congressionalDistrict": [
+    "01"
+  ],
+  "stateUpperDistrict": "17",
+  "stateLowerDistrict": "1",
+  "people": [
+    {
+      "name": "Joel Ferry",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-FERRYJ.jpg",
+      "twitter": null,
+      "addresses": [
+        "780 N 1100 W, BRIGHAM CITY, UT, 84302"
+      ],
+      "phone": [
+        "435-465-8887"
+      ],
+      "email": [
+        "jferry@le.utah.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "1"
+    },
+    {
+      "name": "Scott D. Sandall",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-SANDASD.jpg",
+      "twitter": null,
+      "addresses": [
+        "635 N HILLCREST CIR, TREMONTON, UT, 84337"
+      ],
+      "phone": [
+        "435-279-7551"
+      ],
+      "email": [
+        "ssandall@le.utah.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "UT",
+      "district": "17"
+    },
+    {
+      "name": "Mike Lee",
+      "email": null,
+      "twitter": "SenMikeLee",
+      "addresses": [
+        "361A Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "phone": "202-224-5444",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Mitt Romney",
+      "email": null,
+      "twitter": "SenatorRomney",
+      "addresses": [
+        "124 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "phone": "202-224-5251",
+      "type": "US Senator",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Gary Herbert",
+      "addresses": [
+        "State Capitol, Suite 200 Salt Lake City UT 84114"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "twitter": "herbertforutah",
+      "email": null,
+      "phone": "801-538-1000",
+      "type": "Governor",
+      "state": "UT",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

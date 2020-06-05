@@ -1,0 +1,90 @@
+callback({
+  "zipCode": "23233",
+  "state": "VA",
+  "city": "Richmond",
+  "latitude": 37.622465,
+  "longitude": -77.61965000000001,
+  "congressionalDistrict": [
+    "07"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "72",
+  "people": [
+    {
+      "name": "Schuyler T. VanValkenburg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-H0307",
+      "twitter": null,
+      "addresses": [
+        "900 East Main Street;Pocahontas Building;Richmond, Virginia 23219"
+      ],
+      "phone": [
+        "804-698-1072"
+      ],
+      "email": [
+        "DELSVanValkenburg@House.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "72"
+    },
+    {
+      "name": "Siobhan S. Dunnavant",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Dunnavant12.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 70849;Henrico, Virginia 23255"
+      ],
+      "phone": [
+        "804-270-5600"
+      ],
+      "email": [
+        "district12@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "VA",
+      "district": "12"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Stoney_Levar%2153221.jpg",
+      "name": "Levar Stoney",
+      "phone": "804-646-7970",
+      "email": "levar.stoney@richmondgov.com",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Richmond"
+    }
+  ]
+})

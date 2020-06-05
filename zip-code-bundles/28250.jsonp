@@ -1,0 +1,92 @@
+callback({
+  "zipCode": "28250",
+  "state": "NC",
+  "city": "Charlotte",
+  "latitude": 35.26002,
+  "longitude": -80.804151,
+  "congressionalDistrict": [],
+  "stateUpperDistrict": "37",
+  "stateLowerDistrict": "102",
+  "people": [
+    {
+      "name": "Becky Carney",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-322.jpg",
+      "twitter": null,
+      "addresses": [
+        "PO Box 32873;Charlotte, NC 28232",
+        "16 West Jones Street, Rm. 1221;Raleigh, NC 27601-1096"
+      ],
+      "phone": [
+        "919-733-5827",
+        "919-733-5827"
+      ],
+      "email": [
+        "Becky.Carney@ncleg.net"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "102"
+    },
+    {
+      "name": "Jeff Jackson",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-386.jpg",
+      "twitter": null,
+      "addresses": [
+        "16 West Jones Street, Rm. 1104;Raleigh, NC 27601-2808",
+        "16 West Jones Street, Rm. 1104;Raleigh, NC 27601"
+      ],
+      "phone": [
+        "919-715-8331",
+        "919-715-8331"
+      ],
+      "email": [
+        "Jeff.Jackson@ncleg.net"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NC",
+      "district": "37"
+    },
+    {
+      "name": "Richard Burr",
+      "email": null,
+      "twitter": "SenatorBurr",
+      "addresses": [
+        "217 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "phone": "202-224-3154",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Thom Tillis",
+      "email": null,
+      "twitter": "senthomtillis",
+      "addresses": [
+        "113 Dirksen Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "phone": "202-224-6342",
+      "type": "US Senator",
+      "state": "NC",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-Lyles_Vi%2153970.jpg",
+      "name": "Vi Alexander Lyles",
+      "phone": "704-336-3131",
+      "email": "vlyles@charlottenc.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NC",
+      "city": "Charlotte"
+    }
+  ]
+})

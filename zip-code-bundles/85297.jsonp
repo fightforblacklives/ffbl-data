@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "85297",
+  "state": "AZ",
+  "city": "Gilbert",
+  "latitude": 33.272322,
+  "longitude": -111.714171,
+  "congressionalDistrict": [
+    "05"
+  ],
+  "stateUpperDistrict": "12",
+  "stateLowerDistrict": "12",
+  "people": [
+    {
+      "name": "Travis W. Grantham",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-GRANTHAM.jpg",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 302;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4868"
+      ],
+      "email": [
+        "tgrantham@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "12"
+    },
+    {
+      "name": "Warren Petersen",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-PETERSEN.gif",
+      "twitter": null,
+      "addresses": [
+        "House of Representatives;1700 West Washington;Room Room 208;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-4136"
+      ],
+      "email": [
+        "wpetersen@azleg.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "12"
+    },
+    {
+      "name": "Eddie Farnsworth",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-FARNSWORTH_E.jpg",
+      "twitter": null,
+      "addresses": [
+        "Senate;1700 West Washington;Room Room 304;Phoenix, AZ 85007"
+      ],
+      "phone": [
+        "602-926-5735"
+      ],
+      "email": [
+        "efarnsworth@azleg.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AZ",
+      "district": "12"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "email": null,
+      "twitter": "SenatorSinema",
+      "addresses": [
+        "317 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "phone": "202-224-4521",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Martha McSally",
+      "email": null,
+      "twitter": "SenMcSallyAZ",
+      "addresses": [
+        "404 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "phone": "202-224-2235",
+      "type": "US Senator",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Doug Ducey",
+      "addresses": [
+        "State Capitol State Capitol Phoenix AZ 85007"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "twitter": "dougducey",
+      "email": null,
+      "phone": "602-542-4331",
+      "type": "Governor",
+      "state": "AZ",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Daniels_Jenn%2153110.jpg",
+      "name": "Jenn Daniels",
+      "phone": "480-503-6860",
+      "email": "mayor@gilbertaz.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AZ",
+      "city": "Gilbert"
+    }
+  ]
+})

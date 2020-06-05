@@ -1,0 +1,111 @@
+callback({
+  "zipCode": "21060",
+  "state": "MD",
+  "city": "Glen Burnie",
+  "latitude": 39.162225,
+  "longitude": -76.59444,
+  "congressionalDistrict": [
+    "02",
+    "03"
+  ],
+  "stateUpperDistrict": "31",
+  "stateLowerDistrict": "31B",
+  "people": [
+    {
+      "name": "Brian Chisholm",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-chisholm01.jpg",
+      "twitter": null,
+      "addresses": [
+        "156 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3206"
+      ],
+      "email": [
+        "brian.chisholm@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "31B"
+    },
+    {
+      "name": "Nicholaus R. Kipke",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-kipke.jpg",
+      "twitter": null,
+      "addresses": [
+        "212 House Office Building;6 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3421"
+      ],
+      "email": [
+        "nicholaus.kipke@house.state.md.us"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "31B"
+    },
+    {
+      "name": "Bryan W. Simonaire",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-simonaire.jpg",
+      "twitter": null,
+      "addresses": [
+        "320 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
+      ],
+      "phone": [
+        "410-841-3658"
+      ],
+      "email": [
+        "bryan.simonaire@senate.state.md.us"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "MD",
+      "district": "31"
+    },
+    {
+      "name": "Benjamin Cardin",
+      "email": null,
+      "twitter": "SenatorCardin",
+      "addresses": [
+        "509 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "phone": "202-224-4524",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "email": null,
+      "twitter": "ChrisVanHollen",
+      "addresses": [
+        "110 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "phone": "202-224-4654",
+      "type": "US Senator",
+      "state": "MD",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Larry Hogan",
+      "addresses": [
+        "100 State Circle Annapolis MD 21401"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "twitter": "larryhogan",
+      "email": null,
+      "phone": "410-974-3901",
+      "type": "Governor",
+      "state": "MD",
+      "politicalParty": "Republican",
+      "district": null
+    }
+  ]
+})

@@ -1,0 +1,109 @@
+callback({
+  "zipCode": "11375",
+  "state": "NY",
+  "city": "Forest Hills",
+  "latitude": 40.720535,
+  "longitude": -73.84582,
+  "congressionalDistrict": [
+    "14",
+    "06"
+  ],
+  "stateUpperDistrict": "16",
+  "stateLowerDistrict": "28",
+  "people": [
+    {
+      "name": "Andrew Hevesi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-028.jpg",
+      "twitter": null,
+      "addresses": [
+        "70-50 Austin Street;Suite 118;Forest Hills, NY 11375",
+        "LOB 844;Albany, NY 12248"
+      ],
+      "phone": [
+        "718-263-5595",
+        "518-455-4926"
+      ],
+      "email": [
+        "HevesiA@nyassembly.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "28"
+    },
+    {
+      "name": "Toby Ann Stavisky",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-%252802-09-09%2529%2520Stavisky-HS-034-ret.jpg%3Fitok%3D7GY17zRh",
+      "twitter": null,
+      "addresses": [
+        "142-29 37th AveSuite 1;Flushing,, NY 11354"
+      ],
+      "phone": [
+        "718-445-0004"
+      ],
+      "email": [
+        "stavisky@nysenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NY",
+      "district": "16"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "email": null,
+      "twitter": "RepAOC",
+      "addresses": [
+        "229 Cannon House Office Building; Washington DC 20515-3214"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-O000172.jpg",
+      "phone": "202-225-3965",
+      "type": "US Representative",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": "14"
+    },
+    {
+      "name": "Charles Schumer",
+      "email": null,
+      "twitter": "SenSchumer",
+      "addresses": [
+        "322 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "phone": "202-224-6542",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "email": null,
+      "twitter": "GillibrandNY",
+      "addresses": [
+        "478 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "phone": "202-224-4451",
+      "type": "US Senator",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Andrew Cuomo",
+      "addresses": [
+        "State Capitol Albany NY 12224"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "twitter": "nygovcuomo",
+      "email": null,
+      "phone": "518- 474-8390",
+      "type": "Governor",
+      "state": "NY",
+      "politicalParty": "Democrat",
+      "district": null
+    }
+  ]
+})

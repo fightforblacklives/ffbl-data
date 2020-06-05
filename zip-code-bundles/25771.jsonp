@@ -1,0 +1,125 @@
+callback({
+  "zipCode": "25771",
+  "state": "WV",
+  "city": "Huntington",
+  "latitude": 38.413384,
+  "longitude": -82.277401,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "18",
+  "people": [
+    {
+      "name": "Evan Worrell",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-worrell_evan.jpg",
+      "twitter": null,
+      "addresses": [
+        "Room 223E, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-340-3175"
+      ],
+      "email": [
+        "evan.worrell@wvhouse.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "WV",
+      "district": "18"
+    },
+    {
+      "name": "Mike Woelfel",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-woelfel_michael.jpg",
+      "twitter": null,
+      "addresses": [
+        "801 8th Street;Huntington, WV, 25701",
+        "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-357-7956"
+      ],
+      "email": [
+        "mike.woelfel@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "5"
+    },
+    {
+      "name": "Robert H. Plymale",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-plymale_robert.jpg",
+      "twitter": null,
+      "addresses": [
+        "206 Cliffview Drive;Huntington, WV, 25704",
+        "Room 218W, Building 1;State Capitol Complex;Charleston, WV 25305"
+      ],
+      "phone": [
+        "304-453-6321",
+        "304-357-7937"
+      ],
+      "email": [
+        "robert.plymale@wvsenate.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "WV",
+      "district": "5"
+    },
+    {
+      "name": "Joe Manchin",
+      "email": null,
+      "twitter": "Sen_JoeManchin",
+      "addresses": [
+        "306 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "phone": "202-224-3954",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Shelley Capito",
+      "email": null,
+      "twitter": "SenCapito",
+      "addresses": [
+        "172 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "phone": "202-224-6472",
+      "type": "US Senator",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Jim Justice",
+      "addresses": [
+        "1900 Kanawha Blvd. East Charleston WV 25305"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "twitter": "wvgovernor",
+      "email": null,
+      "phone": "304-558-2000",
+      "type": "Governor",
+      "state": "WV",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Williams_Steve%21534.jpg",
+      "name": "Steve Williams",
+      "phone": "304-696-5540",
+      "email": "williamss@huntingtonwv.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "WV",
+      "city": "Huntington"
+    }
+  ]
+})

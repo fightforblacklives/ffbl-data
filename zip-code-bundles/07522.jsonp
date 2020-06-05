@@ -1,0 +1,122 @@
+callback({
+  "zipCode": "07522",
+  "state": "NJ",
+  "city": "Paterson",
+  "latitude": 40.925778,
+  "longitude": -74.17784,
+  "congressionalDistrict": [
+    "09"
+  ],
+  "stateUpperDistrict": "35",
+  "stateLowerDistrict": "35",
+  "people": [
+    {
+      "name": "Benjie E. Wimberly",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-wimberly_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "301 Main St., Suite 360;Paterson, NJ 07505"
+      ],
+      "phone": [
+        "973-925-7061"
+      ],
+      "email": [
+        "AsmWimberly@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "35"
+    },
+    {
+      "name": "Shavonda E. Sumter",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-sumter_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "21 Mill St., Suite 5;Paterson, NJ 07501"
+      ],
+      "phone": [
+        "973-925-7063"
+      ],
+      "email": [
+        "AswSumter@njleg.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "35"
+    },
+    {
+      "name": "Nellie Pou",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-pou_color.jpg",
+      "twitter": null,
+      "addresses": [
+        "100 Hamilton Plaza, Suite 1405;Paterson, NJ 07505"
+      ],
+      "phone": [
+        "973-247-1555"
+      ],
+      "email": [
+        "SenPou@njleg.org"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "NJ",
+      "district": "35"
+    },
+    {
+      "name": "Cory Booker",
+      "email": null,
+      "twitter": "SenBooker",
+      "addresses": [
+        "717 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "phone": "202-224-3224",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Robert Menendez",
+      "email": null,
+      "twitter": "SenatorMenendez",
+      "addresses": [
+        "528 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "phone": "202-224-4744",
+      "type": "US Senator",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Phil Murphy",
+      "addresses": [
+        "The State House The State House Trenton NJ 08625"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "twitter": "GovMurphy",
+      "email": null,
+      "phone": "609-292-6000",
+      "type": "Governor",
+      "state": "NJ",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-Sayegh_Andre%2154376.jpg",
+      "name": "Andre Sayegh",
+      "phone": "973-321-1600",
+      "email": "mayorsayegh@patersonnj.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "NJ",
+      "city": "Paterson"
+    }
+  ]
+})

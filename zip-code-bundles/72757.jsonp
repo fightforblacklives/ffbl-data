@@ -1,0 +1,104 @@
+callback({
+  "zipCode": "72757",
+  "state": "AR",
+  "city": "Rogers",
+  "latitude": 36.371981,
+  "longitude": -94.115649,
+  "congressionalDistrict": [
+    "03"
+  ],
+  "stateUpperDistrict": "3",
+  "stateLowerDistrict": "95",
+  "people": [
+    {
+      "name": "Austin McCollum",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-531_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 1372, Bentonville, 72712"
+      ],
+      "phone": [
+        "479-426-4141"
+      ],
+      "email": [
+        "austin.mccollum@arkansashouse.org"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "95"
+    },
+    {
+      "name": "Cecile Bledsoe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-283_sm.jpg",
+      "twitter": null,
+      "addresses": [
+        "709 Sky Mountain Dr., Rogers, 72757"
+      ],
+      "phone": [
+        "479-636-2115"
+      ],
+      "email": [
+        "Cecile.Bledsoe@senate.ar.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Republican",
+      "state": "AR",
+      "district": "3"
+    },
+    {
+      "name": "John Boozman",
+      "email": null,
+      "twitter": "JohnBoozman",
+      "addresses": [
+        "141 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "phone": "202-224-4843",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Tom Cotton",
+      "email": null,
+      "twitter": "SenTomCotton",
+      "addresses": [
+        "326 Russell Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "phone": "202-224-2353",
+      "type": "US Senator",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "name": "Asa Hutchinson",
+      "addresses": [
+        "State Capitol State Capitol Little Rock AR 72201"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "twitter": "AsaHutchinson",
+      "email": null,
+      "phone": "501-682-2345",
+      "type": "Governor",
+      "state": "AR",
+      "politicalParty": "Republican",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Hines_Greg%212681.JPG",
+      "name": "Greg Hines",
+      "phone": "479-621-1117",
+      "email": "ghines@rogersar.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "AR",
+      "city": "Rogers"
+    }
+  ]
+})

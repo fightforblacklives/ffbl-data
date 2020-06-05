@@ -1,0 +1,133 @@
+callback({
+  "zipCode": "92336",
+  "state": "CA",
+  "city": "Fontana",
+  "latitude": 34.125147,
+  "longitude": -117.45818,
+  "congressionalDistrict": [
+    "35",
+    "31"
+  ],
+  "stateUpperDistrict": "20",
+  "stateLowerDistrict": "47",
+  "people": [
+    {
+      "name": "Eloise Gómez Reyes",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-ad47_reyes_roster150_20161205.jpg",
+      "twitter": null,
+      "addresses": [
+        "290 North D Street, Suite 903;San Bernardino, CA 92401",
+        "P.O. Box 942849;Sacramento, CA 94249-0047"
+      ],
+      "phone": [
+        "909-381-3238",
+        "916-319-2047"
+      ],
+      "email": [],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "47"
+    },
+    {
+      "name": "Connie M. Leyva",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-senator-leyva.jpg",
+      "twitter": null,
+      "addresses": [
+        "11760 Central Avenue, Suite 100, Chino, CA 91710",
+        "State Capitol, Room 4061, Sacramento, CA 95814-4900"
+      ],
+      "phone": [
+        "909-591-7016",
+        "916-651-4020"
+      ],
+      "email": [],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "CA",
+      "district": "20"
+    },
+    {
+      "name": "Norma Torres",
+      "email": null,
+      "twitter": "NormaJTorres",
+      "addresses": [
+        "2444 Rayburn House Office Building; Washington DC 20515-0535"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-T000474.jpg",
+      "phone": "202-225-6161",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "35"
+    },
+    {
+      "name": "Pete Aguilar",
+      "email": null,
+      "twitter": "reppeteaguilar",
+      "addresses": [
+        "109 Cannon House Office Building; Washington DC 20515-0531"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-A000371.jpg",
+      "phone": "202-225-3201",
+      "type": "US Representative",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": "31"
+    },
+    {
+      "name": "Dianne Feinstein",
+      "email": null,
+      "twitter": "SenFeinstein",
+      "addresses": [
+        "331 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "phone": "202-224-3841",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Kamala Harris",
+      "email": null,
+      "twitter": "SenKamalaHarris",
+      "addresses": [
+        "112 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "phone": "202-224-3553",
+      "type": "US Senator",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Gavin Newsom",
+      "addresses": [
+        "State Capitol Sacramento CA 95814"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "twitter": "GavinNewsom",
+      "email": null,
+      "phone": "916-445-2841",
+      "type": "Governor",
+      "state": "CA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-Warren_Acquanetta%21397.JPG",
+      "name": "Acquanetta Warren",
+      "phone": "909-350-7601",
+      "email": "awarren@fontana.org",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "CA",
+      "city": "Fontana"
+    }
+  ]
+})

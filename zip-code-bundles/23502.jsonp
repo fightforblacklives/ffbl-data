@@ -1,0 +1,91 @@
+callback({
+  "zipCode": "23502",
+  "state": "VA",
+  "city": "Norfolk",
+  "latitude": 36.855247,
+  "longitude": -76.21233,
+  "congressionalDistrict": [
+    "02",
+    "03"
+  ],
+  "stateUpperDistrict": "5",
+  "stateLowerDistrict": "90",
+  "people": [
+    {
+      "name": "Joseph C. Lindsey",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-H0268",
+      "twitter": null,
+      "addresses": [
+        "500 East Plume Street;Suite 105;Norfolk, Virginia 23510"
+      ],
+      "phone": [
+        "757-623-6522"
+      ],
+      "email": [
+        "DelJLindsey@house.virginia.gov"
+      ],
+      "type": "State Representative",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "90"
+    },
+    {
+      "name": "Lionell Spruill, Sr.",
+      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Spruill05.jpg",
+      "twitter": null,
+      "addresses": [
+        "P.O. Box 5403;Chesapeake, Virginia 23324"
+      ],
+      "phone": [
+        "757-424-2178"
+      ],
+      "email": [
+        "district05@senate.virginia.gov"
+      ],
+      "type": "State Senator",
+      "politicalParty": "Democratic",
+      "state": "VA",
+      "district": "5"
+    },
+    {
+      "name": "Mark Warner",
+      "email": null,
+      "twitter": "MarkWarner",
+      "addresses": [
+        "703 Hart Senate Office Building Washington DC 20510"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "phone": "202-224-2023",
+      "type": "US Senator",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "name": "Ralph Northam",
+      "addresses": [
+        "State Capitol, 3rd Floor Richmond VA 23219"
+      ],
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "twitter": "ralphnortham",
+      "email": null,
+      "phone": "804-786-2211",
+      "type": "Governor",
+      "state": "VA",
+      "politicalParty": "Democrat",
+      "district": null
+    },
+    {
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-Alexander_Kenneth%2153073.jpg",
+      "name": "Kenneth Cooper Alexander",
+      "phone": "757-664-4679",
+      "email": "kenneth.alexander@norfolk.gov",
+      "twitter": null,
+      "addresses": null,
+      "type": "Mayor",
+      "politicalParty": null,
+      "state": "VA",
+      "city": "Norfolk"
+    }
+  ]
+})
