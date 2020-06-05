@@ -12,23 +12,23 @@ callback({
   "people": [
     {
       "name": "Connie Munk",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-Munk.Connie.360.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/connie%20munk-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10040 West Cheyenne Avenue, No. 170-184;Las Vegas, NV 89129-7719"
       ],
       "phone": [],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NV",
       "district": "4"
     },
     {
       "name": "Scott Hammond",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Hammond.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20hammond-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "8408 Gracious Pine Avenue;Las Vegas, NV 89143-4608"
       ],
       "phone": [
@@ -37,8 +37,8 @@ callback({
       "email": [
         "Scott.Hammond@sen.state.nv.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NV",
       "district": "18"
     },
@@ -46,53 +46,54 @@ callback({
       "name": "Catherine Cortez Masto",
       "email": null,
       "twitter": "sencortezmasto",
-      "addresses": [
+      "address": [
         "516 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/catherine%20cortez%20masto-us%20senator.jpg",
       "phone": "202-224-3542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jacky Rosen",
       "email": null,
       "twitter": "SenJackyRosen",
-      "addresses": [
+      "address": [
         "144 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacky%20rosen-us%20senator.jpg",
       "phone": "202-224-6244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Stephen Sisolak",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Carson City NV 89701"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20sisolak-governor.jpg",
       "twitter": "GovSisolak",
       "email": null,
       "phone": "775-684-5670",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Goodman_Carolyn%21621.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carolyn%20g.%20goodman-mayor.jpg",
       "name": "Carolyn G. Goodman",
       "phone": "702-229-6241",
       "email": "earochi@lasvegasnevada.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NV",
       "city": "Las Vegas"
     }

@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Bill Ramos",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-ramos.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20ramos-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "325 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Bill.Ramos@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "5"
     },
     {
       "name": "Lisa Callan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-callan.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20callan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "335 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "Lisa.Callan@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "5"
     },
     {
       "name": "Mark Mullet",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-mullet.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20mullet-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "415 Legislative Building;PO Box 40405;Olympia, WA 98504"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "Mark.Mullet@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "5"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

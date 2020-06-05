@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Mary Robichaux",
-      "image": "http://www.house.ga.gov/SiteCollectionImages/RobichauxMary4940.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20robichaux-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1001;Roswell, GA 30077",
         "507-D Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "mary.robichaux@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "GA",
       "district": "48"
     },
     {
       "name": "John Albers",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-AlbersJohn754.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20albers-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3330 Preston Ridge Rd, Suite 380;Alpharetta, GA 30005",
         "421-C State Capitol;Atlanta, GA 30334"
       ],
@@ -45,8 +45,8 @@ callback({
       "email": [
         "john.albers@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "GA",
       "district": "56"
     },
@@ -54,81 +54,82 @@ callback({
       "name": "Barry Loudermilk",
       "email": null,
       "twitter": "RepLoudermilk",
-      "addresses": [
+      "address": [
         "422 Cannon House Office Building; Washington DC 20515-1011"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-L000583.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barry%20loudermilk-us%20representative.jpg",
       "phone": "202-225-2931",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "11"
     },
     {
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-Henry_Lori%2153994.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lori%20henry-mayor.jpg",
       "name": "Lori Henry",
       "phone": "770-594-6288",
       "email": "mayorhenry@roswellgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Roswell"
     }

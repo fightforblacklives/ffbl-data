@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Sheila C. Harrington",
-      "image": "https://malegislature.gov/Legislators/Profile/170/SCH1.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "24 Beacon St.;Room 237;Boston, MA, 02133"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Sheila.Harrington@mahouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MA",
       "district": "First Middlesex"
     },
     {
       "name": "Dean A. Tran",
-      "image": "https://malegislature.gov/Legislators/Profile/170/DAT0.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "14 Wallace Avenue;Fitchburg, MA 01420",
         "24 Beacon St.;Room 504;Boston, MA, 02133"
       ],
@@ -43,8 +43,8 @@ callback({
       "email": [
         "dean.tran@masenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MA",
       "district": "Worcester and Middlesex"
     },
@@ -52,42 +52,42 @@ callback({
       "name": "Edward Markey",
       "email": null,
       "twitter": "SenMarkey",
-      "addresses": [
+      "address": [
         "255 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/edward%20markey-us%20senator.jpg",
       "phone": "202-224-2742",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Elizabeth Warren",
       "email": null,
       "twitter": "SenWarren",
-      "addresses": [
+      "address": [
         "309 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elizabeth%20warren-us%20senator.jpg",
       "phone": "202-224-4543",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Charlie Baker",
-      "addresses": [
+      "address": [
         "State House, Room 360 Boston MA 02133"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charlie%20baker-governor.jpg",
       "twitter": "charliebakerma",
       "email": null,
       "phone": "617-725-4005",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

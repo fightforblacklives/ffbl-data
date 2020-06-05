@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Theodore Joseph Kryzak Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-a3e36859-60c6-4bde-810a-9df84dcdb721_kryzak.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/theodore%20joseph%20kryzak%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 291, Milton Mills, NH 03858"
       ],
       "phone": [],
       "email": [
         "Theodore.Kryzak@legislature.maine.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ME",
       "district": "20"
     },
     {
       "name": "Robert Foley",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-folera.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20foley-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "57 Shady Lane, Wells, ME 04090"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "Robert.Foley@legislature.maine.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ME",
       "district": "34"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Angus King",
       "email": null,
       "twitter": "SenAngusKing",
-      "addresses": [
+      "address": [
         "133 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angus%20king-us%20senator.jpg",
       "phone": "202-224-5344",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Susan Collins",
       "email": null,
       "twitter": "SenatorCollins",
-      "addresses": [
+      "address": [
         "413 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susan%20collins-us%20senator.jpg",
       "phone": "202-224-2523",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Janet Mills",
-      "addresses": [
+      "address": [
         "1 State House Station Augusta ME 04333"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/janet%20mills-governor.jpg",
       "twitter": "janetmillsforme",
       "email": null,
       "phone": "207-287-3531",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ME",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

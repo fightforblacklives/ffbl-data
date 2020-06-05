@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Amy Summers",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-summers_amy.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/amy%20summers-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "98 Meadland Road;Flemington, WV, 26347",
         "Room 228M, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "amy.summers@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "49"
     },
     {
       "name": "Dave Sypolt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-sypolt_dave.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dave%20sypolt-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 5;Kingwood, WV, 26537",
         "Room 214W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -45,16 +45,16 @@ callback({
       "email": [
         "dave.sypolt@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WV",
       "district": "14"
     },
     {
       "name": "Randy Smith",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-smith_randy.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20smith-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 387;Thomas, WV, 26292",
         "Room 214W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -65,8 +65,8 @@ callback({
       "email": [
         "randy.smith@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WV",
       "district": "14"
     },
@@ -74,42 +74,42 @@ callback({
       "name": "Joe Manchin",
       "email": null,
       "twitter": "Sen_JoeManchin",
-      "addresses": [
+      "address": [
         "306 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20manchin-us%20senator.jpg",
       "phone": "202-224-3954",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Shelley Capito",
       "email": null,
       "twitter": "SenCapito",
-      "addresses": [
+      "address": [
         "172 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20capito-us%20senator.jpg",
       "phone": "202-224-6472",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Jim Justice",
-      "addresses": [
+      "address": [
         "1900 Kanawha Blvd. East Charleston WV 25305"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20justice-governor.jpg",
       "twitter": "wvgovernor",
       "email": null,
       "phone": "304-558-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

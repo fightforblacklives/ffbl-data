@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Cord Byrd",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-4632.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cord%20byrd-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "421 Third Street North; Jacksonville Beach, FL 32250-7028",
         "308 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5011"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "11"
     },
     {
       "name": "Aaron Bean",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-s04_5094.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/aaron%20bean-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "By Appointment Only",
         "405 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "bean.aaron.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "4"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Curry_Lenny%21560.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lenny%20curry-mayor.jpg",
       "name": "Lenny Curry",
       "phone": "904-630-1776",
       "email": "mayorlennycurry@coj.net",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Jacksonville"
     }

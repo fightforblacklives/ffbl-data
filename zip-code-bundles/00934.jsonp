@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Luis Pérez Ortiz",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-56894b7f-ca37-47c8-b7cb-1ed814d6991a.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/luis%20p%C3%A9rez%20ortiz-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1er Piso - Anexo Cámara - Edif. Ernesto Ramos Antonini"
       ],
       "phone": [
         "787-721-5545"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "7"
     },
     {
       "name": "Carmelo J. Ríos Santiago",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-senador-3.jpg%3FRenditionID%3D1",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carmelo%20j.%20r%C3%ADos%20santiago-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "crios@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "II"
     },
     {
       "name": "Migdalia Padilla Alvelo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-senador-22.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/migdalia%20padilla%20alvelo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "mpadilla@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "II"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Brandy Pyle",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-bpyle.jpg%3Fitok%3DJJDNioja",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brandy%20pyle-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 337;Casselton, ND;58012-0337"
       ],
       "phone": [
@@ -23,32 +23,32 @@ callback({
       "email": [
         "bpyle@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "22"
     },
     {
       "name": "Michael Howe",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-mchowe.jpg%3Fitok%3DLYLKni2P",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20howe-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1011 Westport Parkway;West Fargo, ND;58078-8291"
       ],
       "phone": [],
       "email": [
         "mchowe@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "22"
     },
     {
       "name": "Gary A. Lee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-galee.jpg%3Fitok%3DJihlTgNV",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20a.%20lee-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 3;Casselton, ND;58012-0003"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "galee@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "22"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Mahoney_Tim%21382.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20mahoney-mayor.jpg",
       "name": "Tim Mahoney",
       "phone": "701-241-1310",
       "email": "tmahoney@cityoffargo.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ND",
       "city": "Fargo"
     }

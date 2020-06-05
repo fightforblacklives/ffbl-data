@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Mary Adams",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-mkadams.jpg%3Fitok%3Dz9k4FuEg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20adams-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1942 Prairie Rose Court;Grand Forks, ND;58201-5896"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "mkadams@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ND",
       "district": "43"
     },
     {
       "name": "Matt Eidson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-meidson.jpg%3Fitok%3DtHZ5XPNk",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matt%20eidson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2750 South 38th Street, Apt. #121;Grand Forks, ND;58201-5969"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "meidson@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ND",
       "district": "43"
     },
     {
       "name": "JoNell A. Bakke",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-jbakke.jpg%3Fitok%3DdXfGT_Sg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jonell%20a.%20bakke-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1498 Norchip Circle;Grand Forks, ND;58201-3702"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "jbakke@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ND",
       "district": "43"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Brown_Michael%21451.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20r.%20brown%20m.d.-mayor.jpg",
       "name": "Michael R. Brown M.D.",
       "phone": "701-746-2607",
       "email": "mbrown@grandforksgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ND",
       "city": "Grand Forks"
     }

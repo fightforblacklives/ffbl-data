@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Harold J. Wirths",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-wirths_harold_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harold%20j.%20wirths-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "One Wilson Dr., Suite 2B;Sparta, NJ 07871"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "AsmWirths@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "24"
     },
     {
       "name": "Parker Space",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-space_parker_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/parker%20space-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "One Wilson Drive, Suite 2B;Sparta, NJ 07871"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "AsmSpace@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "24"
     },
     {
       "name": "Steven V. Oroho",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oroho_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20v.%20oroho-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "One Wilson Drive, Suite 2B;Sparta, NJ 07871"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "SenOroho@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "24"
     },
@@ -66,42 +66,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

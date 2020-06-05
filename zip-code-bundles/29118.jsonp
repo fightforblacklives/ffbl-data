@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jerry N. Govan, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-0702272643.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20n.%20govan%2C%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 77Orangeburg 29116",
         "530B Blatt Bldg.Columbia 29201"
       ],
@@ -23,16 +23,16 @@ callback({
         "803-734-3012"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SC",
       "district": "95"
     },
     {
       "name": "Brad Hutto",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-0912499891.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20hutto-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1084Orangeburg 29116-1084",
         "510 Gressette Bldg.Columbia 29201"
       ],
@@ -41,8 +41,8 @@ callback({
         "803-212-6140"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "SC",
       "district": "40"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Butler_Michael%2154366.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20c.%20butler-mayor.jpg",
       "name": "Michael C. Butler",
       "phone": "803-533-6000",
       "email": "mbutler@orangeburg.sc.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Orangeburg"
     }

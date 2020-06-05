@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Oren L Lesmeister",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Lesmeister_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/oren%20l%20lesmeister-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "HC 76 Box 23;Parade, SD 57625"
       ],
       "phone": [
@@ -24,22 +24,22 @@ callback({
       "email": [
         "Oren.Lesmeister@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SD",
       "district": "28A"
     },
     {
       "name": "Ryan Maher",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Maher_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ryan%20maher-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "Ryan.Maher@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "28"
     },
@@ -47,42 +47,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

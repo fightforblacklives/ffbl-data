@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Kaye Kory",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-H0222",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kaye%20kory-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6505 Waterway Drive;Falls Church, Virginia 22044"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "DelKKory@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "38"
     },
     {
       "name": "David W. Marsden",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Marsden37.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 10889;Burke, Virginia 22009"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "district37@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "37"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "Gerald Connolly",
       "email": null,
       "twitter": "GerryConnolly",
-      "addresses": [
+      "address": [
         "2238 Rayburn House Office Building; Washington DC 20515-4611"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-C001078.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gerald%20connolly-us%20representative.jpg",
       "phone": "202-225-1492",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "11"
     },
     {
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

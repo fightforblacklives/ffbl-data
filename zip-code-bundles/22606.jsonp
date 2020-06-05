@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Margaret B. Ransone",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-H0244",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20b.%20ransone-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 358;Kinsale, Virginia 22488"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "DelMRansone@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VA",
       "district": "99"
     },
     {
       "name": "Ryan T. McDougle",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/McDougle04.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 187;Mechanicsville, Virginia 23111"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "district04@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VA",
       "district": "4"
     },
@@ -48,39 +48,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Price_McKinley%21814.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mckinley%20l.%20price%20dds-mayor.jpg",
       "name": "McKinley L. Price DDS",
       "phone": "757-926-8403",
       "email": "mayorsoffice@nnva.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Newport News"
     }

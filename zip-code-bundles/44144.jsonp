@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Bride Rose Sweeney",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-14.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bride%20rose%20sweeney-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;10th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rep14@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "OH",
       "district": "14"
     },
     {
       "name": "Nickie J. Antonio",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-2919.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nickie%20j.%20antonio-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sd23@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "OH",
       "district": "23"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-Jackson_Frank%21224.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/frank%20g.%20jackson-mayor.jpg",
       "name": "Frank G. Jackson",
       "phone": "216-664-3544",
       "email": "vmccall@city.cleveland.oh.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OH",
       "city": "Cleveland"
     }

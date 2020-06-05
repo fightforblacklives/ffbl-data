@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Gregory P. McGuckin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-mcguckin_gregory_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gregory%20p.%20mcguckin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "852 Highway 70;Brick, NJ 08724"
       ],
       "phone": [
@@ -24,30 +24,30 @@ callback({
       "email": [
         "AsmMcGuckin@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "10"
     },
     {
       "name": "John Catalano",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-catalano_john_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20catalano-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "AsmCatalano@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "10"
     },
     {
       "name": "James W. Holzapfel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-holzapfel_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20w.%20holzapfel-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "852 Highway 70;Brick, NJ 08724"
       ],
       "phone": [
@@ -56,8 +56,8 @@ callback({
       "email": [
         "SenHolzapfel@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "10"
     },
@@ -65,42 +65,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

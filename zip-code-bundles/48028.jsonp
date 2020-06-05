@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Gary Eisen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Gary-Eisen-2.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20eisen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "S1185 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "GaryEisen@house.mi.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MI",
       "district": "81"
     },
     {
       "name": "Dan Lauwers",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-hr81-197x300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dan%20lauwers-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "S-2 State Capitol Building;Lansing, MI 48909"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "SenDLauwers@senate.michigan.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MI",
       "district": "25"
     },
@@ -51,70 +51,70 @@ callback({
       "name": "Haley Stevens",
       "email": null,
       "twitter": "RepHaleyStevens",
-      "addresses": [
+      "address": [
         "227 Cannon House Office Building; Washington DC 20515-2211"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001215.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/haley%20stevens-us%20representative.jpg",
       "phone": "202-225-8171",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "11"
     },
     {
       "name": "Paul Mitchell",
       "email": null,
       "twitter": "RepPaulMitchell",
-      "addresses": [
+      "address": [
         "211 Cannon House Office Building; Washington DC 20515-2210"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M001201.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20mitchell-us%20representative.jpg",
       "phone": "202-225-2106",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "MI",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "10"
     },
     {
       "name": "Debbie Stabenow",
       "email": null,
       "twitter": "SenStabenow",
-      "addresses": [
+      "address": [
         "731 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debbie%20stabenow-us%20senator.jpg",
       "phone": "202-224-4822",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gary Peters",
       "email": null,
       "twitter": "SenGaryPeters",
-      "addresses": [
+      "address": [
         "724 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20peters-us%20senator.jpg",
       "phone": "202-224-6221",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gretchen Whitmer",
-      "addresses": [
+      "address": [
         "P.O. Box 30013 Lansing MI 48909"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gretchen%20whitmer-governor.jpg",
       "twitter": "gretchenwhitmer",
       "email": null,
       "phone": "517-373-3400",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

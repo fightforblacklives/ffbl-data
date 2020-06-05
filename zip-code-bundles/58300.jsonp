@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Dennis Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-djohnson.jpg%3Fitok%3DJSW04RNu",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dennis%20johnson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "7871 45th Street NE;Devils Lake, ND;58301-9089"
       ],
       "phone": [
@@ -22,16 +22,16 @@ callback({
       "email": [
         "djohnson@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "15"
     },
     {
       "name": "Greg Westlind",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-gwestlind.jpg%3Fitok%3D5tNl_aqS",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20westlind-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "205 13th Street;Cando, ND;58324-6613"
       ],
       "phone": [
@@ -40,16 +40,16 @@ callback({
       "email": [
         "gwestlind@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "15"
     },
     {
       "name": "Dave Oehlke",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-doehlke.jpg%3Fitok%3DYdH-CG0B",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dave%20oehlke-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "125 Woodlea Drive;Devils Lake, ND;58301-8545"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "doehlke@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "15"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

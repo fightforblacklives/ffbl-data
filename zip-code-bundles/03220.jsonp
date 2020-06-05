@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "John R. Plumer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-408272.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20r.%20plumer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "34 Bean Hill Road;Belmont, NH 03220-3910"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "John.Plumer@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Belknap 6"
     },
     {
       "name": "Michael J. Sylvia",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-377177.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20sylvia-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "216 Farrarville Road;Belmont, NH 03220-3633"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "mike.sylvia@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Belknap 6"
     },
     {
       "name": "Harold F. French",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-07.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harold%20f.%20french-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "Harold.French@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "7"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Anthony T. Kern",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-KERN.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anthony%20t.%20kern-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 224;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "akern@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AZ",
       "district": "20"
     },
     {
       "name": "Shawnna Bolick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-BOLICK.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shawnna%20bolick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 113;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "sbolick@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AZ",
       "district": "20"
     },
     {
       "name": "Paul Boyer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-BOYER.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20boyer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate;1700 West Washington;Room Room 307;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "pboyer@azleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AZ",
       "district": "20"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Kyrsten Sinema",
       "email": null,
       "twitter": "SenatorSinema",
-      "addresses": [
+      "address": [
         "317 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyrsten%20sinema-us%20senator.jpg",
       "phone": "202-224-4521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Martha McSally",
       "email": null,
       "twitter": "SenMcSallyAZ",
-      "addresses": [
+      "address": [
         "404 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martha%20mcsally-us%20senator.jpg",
       "phone": "202-224-2235",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Ducey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Phoenix AZ 85007"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20ducey-governor.jpg",
       "twitter": "dougducey",
       "email": null,
       "phone": "602-542-4331",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Gallego_Kate%2154678.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kate%20gallego-mayor.jpg",
       "name": "Kate Gallego",
       "phone": "602-262-7111",
       "email": "mayor.gallego@phoenix.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AZ",
       "city": "Phoenix"
     }

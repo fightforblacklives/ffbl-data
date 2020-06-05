@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "David Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Johnson_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20johnson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 3403;Rapid City, SD 57709"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "David.Johnson@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "33"
     },
     {
       "name": "Taffy Howard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-Howard_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/taffy%20howard-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "530 Westberry Dr.;Rapid City, SD 57702"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Taffy.Howard@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "33"
     },
     {
       "name": "Phil Jensen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-JensenPhil_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20jensen-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10215 Pioneer Ave.;Rapid City, SD 57702"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Phil.Jensen@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "33"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Allender_Steve%21967.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20allender-mayor.jpg",
       "name": "Steve Allender",
       "phone": "605-394-4110",
       "email": "mayorsoffice@rcgov.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SD",
       "city": "Rapid City"
     }

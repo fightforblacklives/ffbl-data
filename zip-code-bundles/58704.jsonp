@@ -12,41 +12,41 @@ callback({
   "people": [
     {
       "name": "Matthew Ruby",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-mruby.jpg%3Fitok%3DmIPfahXg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matthew%20ruby-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "315 Fourth Street NW;Minot, ND;58703-3129"
       ],
       "phone": [],
       "email": [
         "mruby@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "40"
     },
     {
       "name": "Randy A. Schobinger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-rschobinger.jpg%3Fitok%3DKRKLCqU9",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20a.%20schobinger-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3500 30th Street NW;Minot, ND;58703-0312"
       ],
       "phone": [],
       "email": [
         "rschobinger@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "40"
     },
     {
       "name": "Karen K. Krebsbach",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-kkrebsbach.jpg%3Fitok%3DS5CCggPB",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/karen%20k.%20krebsbach-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1767;Minot, ND;58702-1767"
       ],
       "phone": [
@@ -56,8 +56,8 @@ callback({
       "email": [
         "kkrebsbach@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "40"
     },
@@ -65,42 +65,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

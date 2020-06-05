@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "JoAnn Dayton-Selman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-DaytonJH17.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joann%20dayton-selman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "738 D Street, Rock Springs WY 82901"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "JoAnn.Dayton@wyoleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WY",
       "district": "17"
     },
     {
       "name": "Liisa Anselmi-Dalton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Anselmi-DaltonLS12.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/liisa%20anselmi-dalton-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1735 Collins Street, Rock Springs WY 82901"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "Liisa.Anselmi-Dalton@wyoleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WY",
       "district": "12"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "John Barrasso",
       "email": null,
       "twitter": "SenJohnBarrasso",
-      "addresses": [
+      "address": [
         "307 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20barrasso-us%20senator.jpg",
       "phone": "202-224-6441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Enzi",
       "email": null,
       "twitter": "SenatorEnzi",
-      "addresses": [
+      "address": [
         "379A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20enzi-us%20senator.jpg",
       "phone": "202-224-3424",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mark Gordon",
-      "addresses": [
+      "address": [
         "State Capitol Building, Room 124 Cheyenne WY 82002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20gordon-governor.jpg",
       "twitter": "GordonGovernor",
       "email": null,
       "phone": "307-777-7434",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

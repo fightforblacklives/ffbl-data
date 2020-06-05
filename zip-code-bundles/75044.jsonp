@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Angie Chen Button",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-2510.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angie%20chen%20button-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1201 International Parkway #130;Richardson, TX 75081",
         "Room GW.8;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -24,16 +24,16 @@ callback({
         "512-463-0486"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "TX",
       "district": "112"
     },
     {
       "name": "Nathan Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Johnson_2019.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nathan%20johnson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 12068 Capitol Station Austin, TX 78711",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -42,8 +42,8 @@ callback({
         "512-463-0116"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "16"
     },
@@ -51,67 +51,68 @@ callback({
       "name": "Colin Allred",
       "email": null,
       "twitter": "RepColinAllred",
-      "addresses": [
+      "address": [
         "328 Cannon House Office Building; Washington DC 20515-4332"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-A000376.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/colin%20allred-us%20representative.jpg",
       "phone": "202-225-2231",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "32"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Dodson_Lori%2154339.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lori%20barnett%20dodson-mayor.jpg",
       "name": "Lori Barnett Dodson",
       "phone": "972-205-2400",
       "email": "mayor@garlandtx.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "Garland"
     }

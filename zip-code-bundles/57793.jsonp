@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Dayle Hammock",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dayle%20hammock-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 1042;Spearfish, SD 57783"
       ],
       "phone": [
         "605-773-3851"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "31"
     },
     {
       "name": "Timothy R Johns",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-Johns_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/timothy%20r%20johns-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "110 S. Main St.;Lead, SD 57754"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "Timothy.Johns@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "31"
     },
     {
       "name": "Bob Ewing",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-Ewing_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bob%20ewing-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 607;Spearfish, SD 57783"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "Bob.Ewing@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "31"
     },
@@ -66,42 +66,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

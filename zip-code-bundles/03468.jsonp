@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Ivy C. Vann",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-377319.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ivy%20c.%20vann-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "50 Summer Street;Peterborough, NH 03458-2430"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Ivy.Vann@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 24"
     },
     {
       "name": "Peter R. Leishman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-376139.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20r.%20leishman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "39 Birch Road;Peterborough, NH 03458-1900"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "prleishman@aol.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 24"
     },
@@ -50,7 +50,7 @@ callback({
       "name": "Jeanne Dietsch",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 105-A\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Jeanne.Dietsch@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "9"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

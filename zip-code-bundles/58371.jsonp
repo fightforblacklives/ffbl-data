@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Bill Devlin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-bdevlin.jpg%3Fitok%3D_8npxfnp",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20devlin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 505;Finley, ND;58230-0505"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "bdevlin@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "23"
     },
     {
       "name": "Don Vigesaa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-dwvigesaa.jpg%3Fitok%3DFiTfzTsC",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/don%20vigesaa-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 763;Cooperstown, ND;58425-0763"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "dwvigesaa@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "23"
     },
     {
       "name": "Joan Heckaman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-jheckaman.jpg%3Fitok%3DZdrPeFaE",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joan%20heckaman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "322 Second Avenue North;New Rockford, ND;58356-1712"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "jheckaman@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ND",
       "district": "23"
     },
@@ -66,42 +66,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

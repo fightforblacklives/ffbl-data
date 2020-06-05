@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Rafael Rivera Ortega",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-56d9c1fd-bcc0-49bf-a566-b1689aa1cdd7.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rafael%20rivera%20ortega-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "SOTANO CAPITOLIO"
       ],
       "phone": [
         "787-977-2418"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "28"
     },
     {
       "name": "Axel F. Roque Gracia",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-senador-2.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/axel%20f.%20roque%20gracia-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "aroque@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VI"
     },
     {
       "name": "Carlos J. Rodríguez Mateo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-senador-29.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carlos%20j.%20rodr%C3%ADguez%20mateo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "cjrodriguez@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VI"
     }

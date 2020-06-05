@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Mel Ponder",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-4641.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mel%20ponder-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 201, 202, 203; 115 Miracle Strip Parkway Southeast; Fort Walton Beach, FL 32548-6018",
         "214 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5004"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "4"
     },
     {
       "name": "George B. Gainer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-s02_5190.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/george%20b.%20gainer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Northwest Florida State College; 100 East College Boulevard; Building 330, Room 105 and 112; Niceville, FL 32578",
         "302 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "gainer.george.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "2"
     },
@@ -49,42 +49,42 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

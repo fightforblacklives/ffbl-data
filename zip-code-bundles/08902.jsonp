@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Joe Danielsen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-danielsen_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20danielsen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "334 Elizabeth Ave.;Somerset, NJ 08873"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AsmDanielsen@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "17"
     },
     {
       "name": "Joseph V. Egan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-egan_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20v.%20egan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "100 Bayard St.;New Brunswick, NJ 08901"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AsmEgan@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "17"
     },
     {
       "name": "Bob Smith",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-smith_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bob%20smith-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "216 Stelton Rd., Suite E-5;Piscataway, NJ 08854"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenSmith@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "17"
     },
@@ -69,67 +69,68 @@ callback({
       "name": "Bonnie Watson Coleman",
       "email": null,
       "twitter": "RepBonnie",
-      "addresses": [
+      "address": [
         "2442 Rayburn House Office Building; Washington DC 20515-3012"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-W000822.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bonnie%20watson%20coleman-us%20representative.jpg",
       "phone": "202-225-5801",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "12"
     },
     {
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Womack_Francis%212474.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/francis%20%27mac%27%20womack%20iii-mayor.jpg",
       "name": "Francis 'Mac' Womack III",
       "phone": "732-247-0922 x430",
       "email": "mayorwomack@northbrunswicknj.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "North Brunswick"
     }

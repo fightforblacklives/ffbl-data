@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Robert D. Clifton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-clifton_robert_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20d.%20clifton-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "935 Highway 34, Suite 3B;Matawan, NJ 07747"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "AsmClifton@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "12"
     },
     {
       "name": "Ronald S. Dancer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-dancer_ronald_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ronald%20s.%20dancer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "405 Rt. 539;Cream Ridge, NJ 08514"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "AsmDancer@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "12"
     },
     {
       "name": "Samuel D. Thompson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-thompson_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/samuel%20d.%20thompson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2501 Highway 516, Suite 101;Old Bridge, NJ 08857"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "SenThompson@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "12"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-Gusciora_Reed%2154377.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/w.%20reed%20gusciora%20esq.-mayor.jpg",
       "name": "W. Reed Gusciora Esq.",
       "phone": "609-989-3030",
       "email": "mayorsoffice@trentonnj.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Trenton"
     }

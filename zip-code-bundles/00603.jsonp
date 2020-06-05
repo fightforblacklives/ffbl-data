@@ -12,45 +12,45 @@ callback({
   "people": [
     {
       "name": "Wilson Román López",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-6b09355d-e1fe-4b02-88dc-9a60a7f55a89.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wilson%20rom%C3%A1n%20l%C3%B3pez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "17"
     },
     {
       "name": "Evelyn Vázquez Nieves",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-senador-12.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/evelyn%20v%C3%A1zquez%20nieves-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "evevazquez@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "IV"
     },
     {
       "name": "Luis Daniel Muñiz Cortes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-senador-20.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/luis%20daniel%20mu%C3%B1iz%20cortes-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "lmuniz@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "IV"
     }

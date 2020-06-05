@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Cleopatra G. Tucker",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-tucker_cleopatra_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cleopatra%20g.%20tucker-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "400 Lyons Ave.;Newark, NJ 07112"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AswTucker@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "28"
     },
     {
       "name": "Ralph R. Caputo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-caputo_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20r.%20caputo-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "148-152 Franklin St.;Belleville, NJ 07109"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AsmCaputo@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "28"
     },
     {
       "name": "Ronald L. Rice",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-rice_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ronald%20l.%20rice-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1044 South Orange Ave.;Newark, NJ 07106"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenRice@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "28"
     },
@@ -69,81 +69,82 @@ callback({
       "name": "Donald Payne",
       "email": null,
       "twitter": "RepDonaldPayne",
-      "addresses": [
+      "address": [
         "103 Cannon House Office Building; Washington DC 20515-3010"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-P000604.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donald%20payne-us%20representative.jpg",
       "phone": "202-225-3436",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Mikie Sherrill",
       "email": null,
       "twitter": "RepSherrill",
-      "addresses": [
+      "address": [
         "1208 Longworth House Office Building; Washington DC 20515-3011"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mikie%20sherrill-us%20representative.jpg",
       "phone": "202-225-5034",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "11"
     },
     {
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-Venezia_Michael%21114.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20venezia-mayor.jpg",
       "name": "Michael J. Venezia",
       "phone": "973-680-4080",
       "email": "michaeljosephvenezia@gmail.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Bloomfield"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Dave A. LaRock",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-H0261",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dave%20a.%20larock-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 6;Hamilton, Virginia 20159"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelDLaRock@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VA",
       "district": "33"
     },
     {
       "name": "John J. Bell",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Bell13.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 4489;Broadlands, Virginia 20148"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district13@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "13"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Jennifer Wexton",
       "email": null,
       "twitter": "RepWexton",
-      "addresses": [
+      "address": [
         "1217 Longworth House Office Building; Washington DC 20515-4610"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000825.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jennifer%20wexton-us%20representative.jpg",
       "phone": "202-225-5136",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Burk_Kelly%2154487.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kelly%20burk-mayor.jpg",
       "name": "Kelly Burk",
       "phone": "703-771-0996",
       "email": "kburk@leesburgva.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Leesburg"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Carl E Perry",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carl%20e%20perry-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2722 Railroad Circle;Aberdeen, SD 57401"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Carl.Perry@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "3"
     },
     {
       "name": "Drew Dennert",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-Dennert_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/drew%20dennert-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "902 S. High St.;Aberdeen, SD 57401"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Drew.Dennert@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "3"
     },
     {
       "name": "Al Novstrup",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-Novstrup_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/al%20novstrup-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1705 Northview Ln.;Aberdeen, SD 57401"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Al.Novstrup@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "3"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

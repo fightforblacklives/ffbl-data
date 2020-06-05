@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Paul E. Shepherd",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Shepherd57.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20e.%20shepherd-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 277, Riggins, ID 83549"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "pshepherd@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "7"
     },
     {
       "name": "Priscilla Giddings",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Giddings4285.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/priscilla%20giddings-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 43, White Bird, ID 83554"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "pgiddings@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "7"
     },
     {
       "name": "Carl Crabtree",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Crabtree4270.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carl%20crabtree-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "36 White Tail Acres Lane, Grangeville, ID 83530"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "ccrabtree@senate.idaho.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ID",
       "district": "7"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "James Risch",
       "email": null,
       "twitter": "SenatorRisch",
-      "addresses": [
+      "address": [
         "483 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20risch-us%20senator.jpg",
       "phone": "202-224-2752",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Crapo",
       "email": null,
       "twitter": "MikeCrapo",
-      "addresses": [
+      "address": [
         "239 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20crapo-us%20senator.jpg",
       "phone": "202-224-6142",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brad Little",
-      "addresses": [
+      "address": [
         "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20little-governor.jpg",
       "twitter": "GovernorLittle",
       "email": null,
       "phone": "208-334-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

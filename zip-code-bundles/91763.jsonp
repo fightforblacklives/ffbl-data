@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Freddie Rodriguez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-AD52_Rodriguez_0.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/freddie%20rodriguez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "13160 7th Street;Chino, CA 91710",
         "P.O. Box 942849;Sacramento, CA 94249-0052"
       ],
@@ -23,16 +23,16 @@ callback({
         "916-319-2052"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "52"
     },
     {
       "name": "Connie M. Leyva",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-senator-leyva.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/connie%20m.%20leyva-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "11760 Central Avenue, Suite 100, Chino, CA 91710",
         "State Capitol, Room 4061, Sacramento, CA 95814-4900"
       ],
@@ -41,8 +41,8 @@ callback({
         "916-651-4020"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CA",
       "district": "20"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Norma Torres",
       "email": null,
       "twitter": "NormaJTorres",
-      "addresses": [
+      "address": [
         "2444 Rayburn House Office Building; Washington DC 20515-0535"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-T000474.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/norma%20torres-us%20representative.jpg",
       "phone": "202-225-6161",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "35"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Dutrey_John%2154510.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20dutrey-mayor.jpg",
       "name": "John Dutrey",
       "phone": "909-625-9415",
       "email": "jdutrey@ci.montclair.ca.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CA",
       "city": "Montclair"
     }

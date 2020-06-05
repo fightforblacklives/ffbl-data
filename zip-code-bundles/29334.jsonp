@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Merita A. \"Rita\" Allison",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-0015909089.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/merita%20a.%20%22rita%22%20allison-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 93Lyman 29365",
         "429 Blatt Bldg.Columbia 29201"
       ],
@@ -23,24 +23,24 @@ callback({
         "803-734-3053"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SC",
       "district": "36"
     },
     {
       "name": "Scott Talley",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-1784090695.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20talley-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "612 Gressette Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6048"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SC",
       "district": "12"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

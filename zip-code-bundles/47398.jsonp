@@ -10,25 +10,25 @@ callback({
   "people": [
     {
       "name": "Ann Vermilion",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-legislator_ann_vermilion_1",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ann%20vermilion-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
         "800-382-9841"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IN",
       "district": "31"
     },
     {
       "name": "Travis Holdman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-legislator_travis_holdman_955",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/travis%20holdman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
@@ -37,8 +37,8 @@ callback({
       "email": [
         "Senator.Holdman@iga.in.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IN",
       "district": "19"
     },
@@ -46,42 +46,42 @@ callback({
       "name": "Mike Braun",
       "email": null,
       "twitter": "SenatorBraun",
-      "addresses": [
+      "address": [
         "374 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20braun-us%20senator.jpg",
       "phone": "202-224-4814",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Todd Young",
       "email": null,
       "twitter": "SenToddYoung",
-      "addresses": [
+      "address": [
         "185 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/todd%20young-us%20senator.jpg",
       "phone": "202-224-5623",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Eric Holcomb",
-      "addresses": [
+      "address": [
         "State House, Room 206 Indianapolis IN 46204-2797"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20holcomb-governor.jpg",
       "twitter": "GovHolcomb",
       "email": null,
       "phone": "317-232-4567",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

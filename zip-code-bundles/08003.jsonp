@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Louis D. Greenwald",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-greenwald_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/louis%20d.%20greenwald-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1101 Laurel Oak Rd., Suite 150;Voorhees, NJ 08043"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AsmGreenwald@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "6"
     },
     {
       "name": "Pamela R. Lampitt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-lampitt_pamela_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pamela%20r.%20lampitt-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1101 Laurel Oak Rd., Suite 150;Voorhees, NJ 08043"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AswLampitt@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "6"
     },
     {
       "name": "James Beach",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-beach_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20beach-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1309 Route 70 West;Cherry Hill, NJ 08002"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenBeach@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "6"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jeffrey M. Bourne",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-H0288",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeffrey%20m.%20bourne-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 406;Richmond, Virginia 23218"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelJBourne@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "71"
     },
     {
       "name": "Jennifer L. McClellan",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/McClellan09.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 396;Richmond, Virginia 23218"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district09@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "9"
     },
@@ -50,39 +50,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Stoney_Levar%2153221.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/levar%20stoney-mayor.jpg",
       "name": "Levar Stoney",
       "phone": "804-646-7970",
       "email": "levar.stoney@richmondgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Richmond"
     }

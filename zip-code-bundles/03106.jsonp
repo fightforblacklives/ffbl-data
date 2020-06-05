@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Frank R. Kotowski",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-376831.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/frank%20r.%20kotowski-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"34 Mammoth Road, Unit 28\";Hooksett, NH 03106-1114"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "frkotowski@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Merrimack 24"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "Michael Yakubovich",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "15 Doris Drive;Hooksett, NH 03106-2112"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Michael.Yakubovich@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Merrimack 24"
     },
     {
       "name": "Richard Marple",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-376245.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20marple-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "11 Dartmouth St;Hooksett, NH 03106-1703"
       ],
       "phone": [
@@ -59,16 +59,16 @@ callback({
       "email": [
         "armlaw@hotmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Merrimack 24"
     },
     {
       "name": "Thomas C. Walsh",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-377187.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20c.%20walsh-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "15 Berry Hill Road;Hooksett, NH 03106-2201"
       ],
       "phone": [
@@ -77,16 +77,16 @@ callback({
       "email": [
         "Thomas.Walsh@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Merrimack 24"
     },
     {
       "name": "Kevin Cavanaugh",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-16.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cavanaugh-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 106\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -95,8 +95,8 @@ callback({
       "email": [
         "Kevin.Cavanaugh@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "16"
     },
@@ -104,42 +104,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

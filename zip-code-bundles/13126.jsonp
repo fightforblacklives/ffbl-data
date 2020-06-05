@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "William Barclay",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-120.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20barclay-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 North Second Street;Fulton, NY 13069",
         "Capitol 444;Albany, NY 12248"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "BarclaW@nyassembly.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NY",
       "district": "120"
     },
     {
       "name": "Patty Ritchie",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-%252801-25-11%2529%2520Richie-HS-055.jpg%3Fitok%3DcJbQsuIe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20ritchie-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "330 Ford St. (basement of City Hall);Ogdensburg,, NY 13669"
       ],
       "phone": [
@@ -44,8 +44,8 @@ callback({
       "email": [
         "ritchie@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NY",
       "district": "48"
     },
@@ -53,81 +53,82 @@ callback({
       "name": "Anthony Brindisi",
       "email": null,
       "twitter": "RepBrindisi",
-      "addresses": [
+      "address": [
         "329 Cannon House Office Building; Washington DC 20515-3222"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-B001308.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anthony%20brindisi-us%20representative.jpg",
       "phone": "202-225-3665",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "22"
     },
     {
       "name": "John Katko",
       "email": null,
       "twitter": "RepJohnKatko",
-      "addresses": [
+      "address": [
         "2457 Rayburn House Office Building; Washington DC 20515-3224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-K000386.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20katko-us%20representative.jpg",
       "phone": "202-225-3701",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "24"
     },
     {
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-Barlow_William%212532.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20j.%20barlow%20jr-mayor.jpg",
       "name": "William J. Barlow Jr",
       "phone": "315-342-8136",
       "email": "mayor@oswegony.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NY",
       "city": "Oswego"
     }

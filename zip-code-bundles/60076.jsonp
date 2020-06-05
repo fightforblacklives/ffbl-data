@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jennifer Gong-Gershowitz",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-%7B395E8140-10ED-4C70-81B9-2673676BF467%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jennifer%20gong-gershowitz-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1812 Waukegan Road;Suite B;Glenview, IL 60025",
         "265-S Stratton Office Building;Springfield, IL 62706"
       ],
@@ -23,16 +23,16 @@ callback({
         "217-782-4194"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "17"
     },
     {
       "name": "Laura Fine",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-%7BA4F70929-881C-4003-B10A-D1A775D3D94B%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/laura%20fine-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1812 Waukegan Road;Suite A;Glenview, IL 60025",
         "M115 Capitol Building;Springfield, IL 62706"
       ],
@@ -41,8 +41,8 @@ callback({
         "217-782-2119"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "9"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-Van_Dusen_George%211093.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/george%20c.%20van%20dusen-mayor.jpg",
       "name": "George C. Van Dusen",
       "phone": "847-933-8269",
       "email": "info@skokie.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Skokie"
     }

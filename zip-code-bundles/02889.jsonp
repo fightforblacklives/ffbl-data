@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Joseph J. Solomon, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-solomon.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20j.%20solomon%2C%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "54 Hess Avenue Warwick, RI 02889"
       ],
       "phone": [
@@ -23,24 +23,24 @@ callback({
       "email": [
         "rep-solomon@rilegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "RI",
       "district": "22"
     },
     {
       "name": "Mark P. McKenney",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-mckenney.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20p.%20mckenney-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "401-276-5599"
       ],
       "email": [
         "sen-mckenney@rilegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "RI",
       "district": "30"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "John Reed",
       "email": null,
       "twitter": "SenJackReed",
-      "addresses": [
+      "address": [
         "728 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20reed-us%20senator.jpg",
       "phone": "202-224-4642",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Sheldon Whitehouse",
       "email": null,
       "twitter": "SenWhitehouse",
-      "addresses": [
+      "address": [
         "530 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sheldon%20whitehouse-us%20senator.jpg",
       "phone": "202-224-2921",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gina Raimondo",
-      "addresses": [
+      "address": [
         "State House State House Providence RI 02903"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gina%20raimondo-governor.jpg",
       "twitter": "ginaraimondo",
       "email": null,
       "phone": "401-222-2080",
-      "type": "Governor",
+      "title": "Governor",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-Solomon_Joseph%2154441.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20j.%20solomon-mayor.jpg",
       "name": "Joseph J. Solomon",
       "phone": "401-738-2000",
       "email": "mayorsoffice@warwickri.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "RI",
       "city": "Warwick"
     }

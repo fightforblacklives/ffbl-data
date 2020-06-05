@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jesse Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-johnsonj.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jesse%20johnson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "369 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "JOHNSON_JE@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "30"
     },
     {
       "name": "Mike Pellicciotti",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-pellicciotti.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20pellicciotti-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "304 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Mike.Pellicciotti@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "30"
     },
     {
       "name": "Claire Wilson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-wilsonc.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/claire%20wilson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "407 Legislative Building;PO Box 40430;Olympia, WA 98504"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Claire.Wilson@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "30"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-Ferrell_Jim%211843.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20ferrell-mayor.jpg",
       "name": "Jim Ferrell",
       "phone": "253-835-7000",
       "email": "jim.ferrell@cityoffederalway.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Federal Way"
     }

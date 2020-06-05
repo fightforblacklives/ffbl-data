@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jordan Cunningham",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-cunningham.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jordan%20cunningham-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "444 Higuera Street, Suite 100;San Luis Obispo, CA 93401",
         "P.O. Box 942849;Sacramento, CA 94249-0035"
       ],
@@ -23,16 +23,16 @@ callback({
         "916-319-2035"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "CA",
       "district": "35"
     },
     {
       "name": "Bill Monning",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-monning-bill.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20monning-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "701 Ocean Street, Suite 318A, Santa Cruz, CA 95060",
         "State Capitol, Room 313, Sacramento, CA 95814-4900"
       ],
@@ -41,8 +41,8 @@ callback({
         "916-651-4017"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CA",
       "district": "17"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Salud Carbajal",
       "email": null,
       "twitter": "RepCarbajal",
-      "addresses": [
+      "address": [
         "1431 Longworth House Office Building; Washington DC 20515-0524"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-C001112.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/salud%20carbajal-us%20representative.jpg",
       "phone": "202-225-3601",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "24"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-0034N00002lGWuR.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/heather%20moreno-mayor.jpg",
       "name": "Heather Moreno",
       "phone": "(805) 470-3400",
       "email": "hmoreno@atascadero.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CA",
       "city": "Atascadero"
     }

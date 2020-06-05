@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "David J. Danielson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-377089.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20j.%20danielson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "9 Darby Lane;Bedford, NH 03110-4517"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "bedrep7@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 7"
     },
     {
       "name": "John A. Graham",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-376343.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20a.%20graham-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "8 Ministerial Circle;Bedford, NH 03110-5729"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "graham4rep@hotmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 7"
     },
     {
       "name": "Linda R. Gould",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-377299.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/linda%20r.%20gould-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2 Elder Williams Road;Bedford, NH 03110-5122"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "linda.gould@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 7"
     },
@@ -68,7 +68,7 @@ callback({
       "name": "Linda Rea Camarota",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "16 Weymouth Drive;Bedford, NH 03110"
       ],
       "phone": [
@@ -77,8 +77,8 @@ callback({
       "email": [
         "Linda.Camarota@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 7"
     },
@@ -86,15 +86,15 @@ callback({
       "name": "Michael D. Trento",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "6 Barr Farm;Bedford, NH 03110-5221"
       ],
       "phone": [],
       "email": [
         "Michael.Trento@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 7"
     },
@@ -102,7 +102,7 @@ callback({
       "name": "Sue M. Mullen",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "13 Privet Hedge Lane;Bedford, NH 03110"
       ],
       "phone": [
@@ -111,8 +111,8 @@ callback({
       "email": [
         "Sue.Mullen@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 7"
     },
@@ -120,7 +120,7 @@ callback({
       "name": "Jeanne Dietsch",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 105-A\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -129,8 +129,8 @@ callback({
       "email": [
         "Jeanne.Dietsch@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "9"
     },
@@ -138,42 +138,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

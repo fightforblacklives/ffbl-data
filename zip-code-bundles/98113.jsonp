@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Cindy Ryu",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-ryu.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20ryu-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "421 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Cindy.Ryu@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "32"
     },
     {
       "name": "Lauren Davis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-davis.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lauren%20davis-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "369 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Lauren.Davis@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "32"
     },
     {
       "name": "Jesse Salomon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-salomon.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jesse%20salomon-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "404 Legislative Building;PO Box 40432;Olympia, WA 98504"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Jesse.Salomon@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "32"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Hall_Will%2154151.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/will%20hall-mayor.jpg",
       "name": "Will Hall",
       "phone": "206-373-1630",
       "email": "whall@shorelinewa.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Shoreline"
     }

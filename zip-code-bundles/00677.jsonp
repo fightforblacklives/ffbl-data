@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "José J. Pérez Cordero",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-c588e98d-6534-4500-8f45-4db34af87964.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20j.%20p%C3%A9rez%20cordero-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1er. PISO ANEXO"
       ],
       "phone": [
         "787-725-9133"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "18"
     },
     {
       "name": "Evelyn Vázquez Nieves",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-senador-12.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/evelyn%20v%C3%A1zquez%20nieves-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "evevazquez@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "IV"
     },
     {
       "name": "Luis Daniel Muñiz Cortes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-senador-20.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/luis%20daniel%20mu%C3%B1iz%20cortes-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "lmuniz@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "IV"
     }

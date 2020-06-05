@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Nancy J. Pinkin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-pinkin_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nancy%20j.%20pinkin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3 Stephenville Pkwy., Suite 2D;Edison, NJ 08820"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "AswPinkin@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "18"
     },
     {
       "name": "Robert J. Karabinchak",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-karabinchak_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20j.%20karabinchak-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3 Stephenville Pkwy., Suite 2D;Edison, NJ 08820"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "AsmKarabinchak@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "18"
     },
     {
       "name": "Patrick J. Diegnan Jr",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-diegnan_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20j.%20diegnan%20jr-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "908 Oak Tree Ave., Unit P;South Plainfield, NJ 07080"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "SenDiegnan@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "18"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-Cahill_James%21803.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20cahill-mayor.jpg",
       "name": "James Cahill",
       "phone": "732-745-5004",
       "email": "jsmith@cityofnewbrunswick.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "New Brunswick"
     }

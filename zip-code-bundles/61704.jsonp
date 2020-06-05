@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Keith P. Sommer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-%7BC88F32E6-78FD-4BFF-9894-105CEC155A8F%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20p.%20sommer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121 West Jefferson;Morton, IL 61550",
         "216-N Stratton Office Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "sommer@mtco.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IL",
       "district": "88"
     },
     {
       "name": "William E. Brady",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-%7BD9BF6EBA-FC02-48DC-8505-B83436A46DD5%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20e.%20brady-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2203 Eastland Drive;Suite 3;Bloomington, IL 61704",
         "309G. Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-6216"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IL",
       "district": "44"
     },
@@ -53,81 +53,82 @@ callback({
       "name": "Darin LaHood",
       "email": null,
       "twitter": "RepLaHood",
-      "addresses": [
+      "address": [
         "1424 Longworth House Office Building; Washington DC 20515-1318"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-L000585.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/darin%20lahood-us%20representative.jpg",
       "phone": "202-225-6201",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "18"
     },
     {
       "name": "Rodney Davis",
       "email": null,
       "twitter": "RodneyDavis",
-      "addresses": [
+      "address": [
         "1740 Longworth House Office Building; Washington DC 20515-1313"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-D000619.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rodney%20davis-us%20representative.jpg",
       "phone": "202-225-2371",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "13"
     },
     {
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-Renner_Tari%21116.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tari%20renner-mayor.jpg",
       "name": "Tari Renner",
       "phone": "309-434-2210",
       "email": "trenner@iwu.edu",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Bloomington"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Rod Bockenfeld",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-2020a_bockenfeld%252C%2520rod.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rod%20bockenfeld-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 307;Denver, CO 80203"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rod.bockenfeld.house@state.co.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "CO",
       "district": "56"
     },
     {
       "name": "Kevin Priola",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-2020a_priola%252C%2520kevin.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20priola-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 346;Denver, CO 80203"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "kpriola@gmail.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CO",
       "district": "25"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Cory Gardner",
       "email": null,
       "twitter": "SenCoryGardner",
-      "addresses": [
+      "address": [
         "354 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20gardner-us%20senator.jpg",
       "phone": "202-224-5941",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Bennet",
       "email": null,
       "twitter": "SenatorBennet",
-      "addresses": [
+      "address": [
         "261 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20bennet-us%20senator.jpg",
       "phone": "202-224-5852",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jared Polis",
-      "addresses": [
+      "address": [
         "136 State Capitol Denver CO 80203-1792"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jared%20polis-governor.jpg",
       "twitter": "jaredpolis",
       "email": null,
       "phone": "303-866-2471",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Coffman_Mike%2154792.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20coffman-mayor.jpg",
       "name": "Mike Coffman",
       "phone": "303-739-7010",
       "email": "mcoffman@auroragov.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CO",
       "city": "Aurora"
     }

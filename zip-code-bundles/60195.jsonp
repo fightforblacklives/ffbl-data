@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Thomas Morrison",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-%7B590FA09F-B685-4E88-B384-B5EE3F2D58E8%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20morrison-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "117 East Palatine Road;Suite 106;Palatine, IL 60067",
         "215-N Stratton Office Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "Repmorrison54@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IL",
       "district": "54"
     },
     {
       "name": "Ann Gillespie",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-%7BD11CC547-0960-44F1-80C9-99F8CE5D5479%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ann%20gillespie-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "120 W. Eastman;Suite 207;Arlington Heights, IL 60004",
         "108D Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-4471"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "27"
     },
@@ -53,53 +53,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Dailly_Tom%2154712.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20dailly-mayor.jpg",
       "name": "Tom Dailly",
       "phone": "(847) 923-4700",
       "email": "tdailly@schaumburg.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Schaumburg"
     }

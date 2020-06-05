@@ -14,7 +14,7 @@ callback({
       "name": "Harry Arora",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "300 Capitol Ave., LOB;Hartford, CT 06106",
         "300 Capitol Ave., LOB;Room 1002;Hartford, CT 06106"
       ],
@@ -25,8 +25,8 @@ callback({
       "email": [
         "harry.arora@housegop.ct.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "CT",
       "district": "151"
     },
@@ -34,15 +34,15 @@ callback({
       "name": "Alex Kasser",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Legislative Office Building;Room 2402;Hartford, CT 06106"
       ],
       "phone": [
         "860-240-0393"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CT",
       "district": "36"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Christopher Murphy",
       "email": null,
       "twitter": "senmurphyoffice",
-      "addresses": [
+      "address": [
         "136 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christopher%20murphy-us%20senator.jpg",
       "phone": "202-224-4041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Richard Blumenthal",
       "email": null,
       "twitter": "SenBlumenthal",
-      "addresses": [
+      "address": [
         "706 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20blumenthal-us%20senator.jpg",
       "phone": "202-224-2823",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ned Lamont",
-      "addresses": [
+      "address": [
         "210 Capitol Avenue Hartford CT 06106"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ned%20lamont-governor.jpg",
       "twitter": "GovNedLamont",
       "email": null,
       "phone": "800-406-1527\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-Tesei_Peter%21466.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20tesei-mayor.jpg",
       "name": "Peter Tesei",
       "phone": "203-622-7700",
       "email": "ptesei@greenwichct.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CT",
       "city": "Greenwich"
     }

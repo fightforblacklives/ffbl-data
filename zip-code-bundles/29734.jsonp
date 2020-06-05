@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Thomas E. \"Tommy\" Pope",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-1484090731.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20e.%20%22tommy%22%20pope-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 471York 29745",
         "505 Blatt Bldg.Columbia 29201"
       ],
@@ -23,16 +23,16 @@ callback({
         "803-734-2701"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SC",
       "district": "47"
     },
     {
       "name": "Wes Climer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-0356818139.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wes%20climer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 4898Rock Hill 29732",
         "604 Gressette Bldg.Columbia 29201"
       ],
@@ -41,8 +41,8 @@ callback({
         "803-212-6016"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SC",
       "district": "15"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Gettys_John%2154388.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20gettys-mayor.jpg",
       "name": "John Gettys",
       "phone": "803-329-7011",
       "email": "john.gettys@mortongettys.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Rock Hill"
     }

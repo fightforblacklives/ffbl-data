@@ -13,23 +13,23 @@ callback({
   "people": [
     {
       "name": "Gerard Scharfenberger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-scharfenberger_gerard_2020a.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gerard%20scharfenberger-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "AsmScharfenberger@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "13"
     },
     {
       "name": "Serena DiMaso",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-dimaso_serena_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/serena%20dimaso-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "101 Crawfords Corner Road, Suite 4332;Holmdel, NJ 07733"
       ],
       "phone": [
@@ -38,16 +38,16 @@ callback({
       "email": [
         "AswDiMaso@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "13"
     },
     {
       "name": "Declan J. O'Scanlon Jr",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-oscanlon_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/declan%20j.%20o%27scanlon%20jr-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "101 Crawfords Corner Road, Suite 4332;Holmdel, NJ 07733"
       ],
       "phone": [
@@ -56,8 +56,8 @@ callback({
       "email": [
         "SenOScanlon@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "13"
     },
@@ -65,42 +65,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

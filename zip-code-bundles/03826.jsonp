@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "David A. Welch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-330795.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20a.%20welch-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 570;9 Fifth Street;Kingston, NH 03848-0570"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "welch4016@outlook.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 13"
     },
     {
       "name": "Dennis E. Green",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-377777.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dennis%20e.%20green-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 776;Hampstead, NH 03841-0776"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Dennis.Green@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 13"
     },
     {
       "name": "Joseph A. Guthrie",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-376127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20a.%20guthrie-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "15 Madison Drive;Hampstead, NH 03841-2246"
       ],
       "phone": [
@@ -60,16 +60,16 @@ callback({
         "lojogut@gmail.com",
         "joseph.guthrie@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 13"
     },
     {
       "name": "Kenneth L. Weyler",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-374470.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kenneth%20l.%20weyler-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "23 Scotland Road;Kingston, NH 03848-3232"
       ],
       "phone": [
@@ -78,16 +78,16 @@ callback({
       "email": [
         "kweyler@aol.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 13"
     },
     {
       "name": "Regina Birdsell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-19.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/regina%20birdsell-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 102-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -96,8 +96,8 @@ callback({
       "email": [
         "Regina.Birdsell@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "19"
     },
@@ -105,42 +105,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

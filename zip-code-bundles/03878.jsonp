@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Kenneth S. Vincent",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-408632.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kenneth%20s.%20vincent-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "19 Vincent Way;Somersworth, NH 03878-1633"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "KVincentNHrep@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Strafford 17"
     },
     {
       "name": "Peter W. Bixby",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-377070.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20w.%20bixby-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "69 Glenwood Avenue;Dover, NH 03820-2305"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Peter.Bixby@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Strafford 17"
     },
     {
       "name": "Susan GS Treleaven",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-377318.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susan%20gs%20treleaven-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "454 Sixth Street;Dover, NH 03820-5910"
       ],
       "phone": [
@@ -59,16 +59,16 @@ callback({
       "email": [
         "streleaven@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Strafford 17"
     },
     {
       "name": "David H Watters",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-04.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20h%20watters-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -77,8 +77,8 @@ callback({
       "email": [
         "David.Watters@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "4"
     },
@@ -86,42 +86,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

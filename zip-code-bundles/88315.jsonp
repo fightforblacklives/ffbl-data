@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Willie D. Madrid",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-HMADR.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/willie%20d.%20madrid-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "108 Hendrich Rd;Chaparral, NM 88081",
         "Room 413C State Capitol;Santa Fe, NM 87501"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "willie.madrid@nmlegis.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NM",
       "district": "53"
     },
     {
       "name": "Ron Griggs",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-SGRIG.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20griggs-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2704 Birdie Loop;Alamogordo, NM 88310",
         "Room 414A State Capitol;Santa Fe, NM 87501"
       ],
@@ -43,8 +43,8 @@ callback({
       "email": [
         "ron.griggs@nmlegis.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NM",
       "district": "34"
     },
@@ -52,42 +52,42 @@ callback({
       "name": "Martin Heinrich",
       "email": null,
       "twitter": "MartinHeinrich",
-      "addresses": [
+      "address": [
         "303 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-H001046.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martin%20heinrich-us%20senator.jpg",
       "phone": "202-224-5521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NM",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tom Udall",
       "email": null,
       "twitter": "SenatorTomUdall",
-      "addresses": [
+      "address": [
         "531 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-U000039.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20udall-us%20senator.jpg",
       "phone": "202-224-6621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NM",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Michelle Lujan Grisham",
-      "addresses": [
+      "address": [
         "State Capitol, Fourth Floor Santa Fe NM 87501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-nm_lujan.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michelle%20lujan%20grisham-governor.jpg",
       "twitter": "replujangrisham",
       "email": null,
       "phone": "505-476-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NM",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

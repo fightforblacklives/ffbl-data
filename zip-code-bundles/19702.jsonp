@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "John J. Viola",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-JohnViola.jpg%3Fsfvrsn%3D0",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "411 Legislative Ave. Dover, DE 19901"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "John.Viola@state.de.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "DE",
       "district": "26"
     },
     {
       "name": "Bryan Townsend",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-BryanTowsend.jpg%3Fsfvrsn%3D2",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "411 Legislative Ave. Dover, DE 19901"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Bryan.Townsend@state.de.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "DE",
       "district": "11"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Chris Coons",
       "email": null,
       "twitter": "ChrisCoons",
-      "addresses": [
+      "address": [
         "218 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-C001088.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20coons-us%20senator.jpg",
       "phone": "202-224-5042",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Thomas Carper",
       "email": null,
       "twitter": "SenatorCarper",
-      "addresses": [
+      "address": [
         "513 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-C000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20carper-us%20senator.jpg",
       "phone": "202-224-2441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "John Carney",
-      "addresses": [
+      "address": [
         "Legislative Hall Dover DE 19902"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-de_carney.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20carney-governor.jpg",
       "twitter": "JohnCarneyDE",
       "email": null,
       "phone": "302-744-4101",
-      "type": "Governor",
+      "title": "Governor",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Clifton_Jerry%2154682.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20clifton-mayor.jpg",
       "name": "Jerry Clifton",
       "phone": "302-368-2561 x112",
       "email": "gjclifton@verizon.net",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "DE",
       "city": "Newark"
     }

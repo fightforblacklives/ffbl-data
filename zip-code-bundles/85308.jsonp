@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Ben Toma",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-TOMA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ben%20toma-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 306;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "btoma@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AZ",
       "district": "22"
     },
     {
       "name": "Frank Carroll",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-CARROLL.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/frank%20carroll-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 342;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "fcarroll@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AZ",
       "district": "22"
     },
     {
       "name": "David Livingston",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-LIVINGSTON.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20livingston-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate;1700 West Washington;Room Room 301;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "dlivingston@azleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AZ",
       "district": "22"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Kyrsten Sinema",
       "email": null,
       "twitter": "SenatorSinema",
-      "addresses": [
+      "address": [
         "317 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyrsten%20sinema-us%20senator.jpg",
       "phone": "202-224-4521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Martha McSally",
       "email": null,
       "twitter": "SenMcSallyAZ",
-      "addresses": [
+      "address": [
         "404 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martha%20mcsally-us%20senator.jpg",
       "phone": "202-224-2235",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Ducey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Phoenix AZ 85007"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20ducey-governor.jpg",
       "twitter": "dougducey",
       "email": null,
       "phone": "602-542-4331",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-Weiers_Jerry%21441.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20weiers-mayor.jpg",
       "name": "Jerry Weiers",
       "phone": "623-930-2260",
       "email": "mayorweiers@glendaleaz.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AZ",
       "city": "Glendale"
     }

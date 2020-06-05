@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Bob Martinson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-bmartinson.jpg%3Fitok%3DnpRjwYvv",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bob%20martinson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2749 Pacific Avenue;Bismarck, ND;58501-2513"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "bmartinson@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "35"
     },
     {
       "name": "Karen Karls",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-kkarls.jpg%3Fitok%3DXHQSNmih",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/karen%20karls-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2112 Senate Drive;Bismarck, ND;58501-1978"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "kkarls@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "35"
     },
     {
       "name": "Erin Oban",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-eoban.jpg%3Fitok%3DQY_hz6Ve",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/erin%20oban-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1319 Apache Street;Bismarck, ND;58501-2632"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "eoban@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ND",
       "district": "35"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Bakken_Steve%2154379.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20bakken-mayor.jpg",
       "name": "Steve Bakken",
       "phone": "701-355-1300",
       "email": "sbakken@bismarcknd.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ND",
       "city": "Bismarck"
     }

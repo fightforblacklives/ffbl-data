@@ -10,25 +10,25 @@ callback({
   "people": [
     {
       "name": "Wendy McNamara",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-legislator_wendy_mcnamara_1046",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wendy%20mcnamara-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
         "800-382-9841"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IN",
       "district": "76"
     },
     {
       "name": "James Tomes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-legislator_james_tomes_1041",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20tomes-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
@@ -37,8 +37,8 @@ callback({
       "email": [
         "Senator.Tomes@iga.in.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IN",
       "district": "49"
     },
@@ -46,53 +46,54 @@ callback({
       "name": "Mike Braun",
       "email": null,
       "twitter": "SenatorBraun",
-      "addresses": [
+      "address": [
         "374 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20braun-us%20senator.jpg",
       "phone": "202-224-4814",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Todd Young",
       "email": null,
       "twitter": "SenToddYoung",
-      "addresses": [
+      "address": [
         "185 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/todd%20young-us%20senator.jpg",
       "phone": "202-224-5623",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Eric Holcomb",
-      "addresses": [
+      "address": [
         "State House, Room 206 Indianapolis IN 46204-2797"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20holcomb-governor.jpg",
       "twitter": "GovHolcomb",
       "email": null,
       "phone": "317-232-4567",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-Winnecke_Lloyd%21364.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lloyd%20w.%20winnecke-mayor.jpg",
       "name": "Lloyd W. Winnecke",
       "phone": "812-436-4962",
       "email": "mayor@evansvillegov.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IN",
       "city": "Evansville"
     }

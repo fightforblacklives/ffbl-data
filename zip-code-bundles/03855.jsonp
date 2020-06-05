@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Kurt F. Wuelper",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-377277.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kurt%20f.%20wuelper-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1336 Parker Mountain Road;Strafford, NH 03884-6334"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "kurt.wuelper@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Strafford 3"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "Michael D. Harrington",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "82 Garland Road;Strafford, NH 03884-6835"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "harringt@metrocast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Strafford 3"
     },
     {
       "name": "James P. Gray",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-06.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20p.%20gray-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 103-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "James.Gray@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "6"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

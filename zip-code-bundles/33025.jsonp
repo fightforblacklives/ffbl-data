@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Sharon Pritchett",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-4561.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sharon%20pritchett-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 107; 4715 Northwest 157th Street; Miami Gardens, FL 33014-6433",
         "300 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -24,16 +24,16 @@ callback({
         "850-717-5102"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "FL",
       "district": "102"
     },
     {
       "name": "Oscar Braynon II",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-s35_5007.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/oscar%20braynon%20ii-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "606 NW 183rd Street; Miami Gardens, FL 33169",
         "412 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -41,8 +41,8 @@ callback({
       "email": [
         "braynon.oscar.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "35"
     },
@@ -50,81 +50,82 @@ callback({
       "name": "Alcee Hastings",
       "email": null,
       "twitter": "RepHastingsFL",
-      "addresses": [
+      "address": [
         "2353 Rayburn House Office Building; Washington DC 20515-0920"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-H000324.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alcee%20hastings-us%20representative.jpg",
       "phone": "202-225-1313",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "20"
     },
     {
       "name": "Debbie Wasserman Schultz",
       "email": null,
       "twitter": "RepDWStweets",
-      "addresses": [
+      "address": [
         "1114 Longworth House Office Building; Washington DC 20515-0923"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-W000797.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debbie%20wasserman%20schultz-us%20representative.jpg",
       "phone": "202-225-7931",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "23"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Levy_Josh%2153446.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/josh%20levy-mayor.jpg",
       "name": "Josh Levy",
       "phone": "954-921-3321",
       "email": "jlevy@hollywoodfl.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Hollywood"
     }

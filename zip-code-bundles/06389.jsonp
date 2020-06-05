@@ -14,7 +14,7 @@ callback({
       "name": "Kevin Ryan",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "21 Terrace Drive;Oakdale, CT 06370",
         "Legislative Office Building;Room 4108;Hartford, CT 06106"
       ],
@@ -25,8 +25,8 @@ callback({
       "email": [
         "Kevin.Ryan@cga.ct.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CT",
       "district": "139"
     },
@@ -34,7 +34,7 @@ callback({
       "name": "Catherine A. Osten",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "187 Scotland Road;Baltic, CT 06330",
         "Legislative Office Building;Room 2700;Hartford, CT 06106"
       ],
@@ -42,8 +42,8 @@ callback({
         "860-240-8600"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CT",
       "district": "19"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "Christopher Murphy",
       "email": null,
       "twitter": "senmurphyoffice",
-      "addresses": [
+      "address": [
         "136 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christopher%20murphy-us%20senator.jpg",
       "phone": "202-224-4041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Richard Blumenthal",
       "email": null,
       "twitter": "SenBlumenthal",
-      "addresses": [
+      "address": [
         "706 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20blumenthal-us%20senator.jpg",
       "phone": "202-224-2823",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ned Lamont",
-      "addresses": [
+      "address": [
         "210 Capitol Avenue Hartford CT 06106"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ned%20lamont-governor.jpg",
       "twitter": "GovNedLamont",
       "email": null,
       "phone": "800-406-1527\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

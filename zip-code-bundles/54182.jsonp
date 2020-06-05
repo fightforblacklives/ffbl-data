@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Gary Tauchen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-1800.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 13 West;State Capitol;PO Box 8953;Madison, WI 53708"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "Rep.Tauchen@legis.wisconsin.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WI",
       "district": "6"
     },
     {
       "name": "Robert L. Cowles",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-1896.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 118 South;State Capitol;Madison, WI 53707-7882"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "Sen.Cowles@legis.wisconsin.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WI",
       "district": "2"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Ron Johnson",
       "email": null,
       "twitter": "SenRonJohnson",
-      "addresses": [
+      "address": [
         "328 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20johnson-us%20senator.jpg",
       "phone": "202-224-5323",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tammy Baldwin",
       "email": null,
       "twitter": "SenatorBaldwin",
-      "addresses": [
+      "address": [
         "709 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20baldwin-us%20senator.jpg",
       "phone": "202-224-5653",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tony Evers",
-      "addresses": [
+      "address": [
         "115 East State Capitol Madison WI 53707"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tony%20evers-governor.jpg",
       "twitter": "GovEvers",
       "email": null,
       "phone": "608-266-1212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Michael LiPetri",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-009.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20lipetri-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "512 Park Blvd.;Massapequa Park, NY 11762",
         "LOB 533;Albany, NY 12248"
       ],
@@ -23,16 +23,16 @@ callback({
         "518-455-5305"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NY",
       "district": "9"
     },
     {
       "name": "Phil Boyle",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-02-13-17_boyle-hs-020_0.jpg%3Fitok%3DEKr9D2fh",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20boyle-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "69 W Main Street Suite B;Bay Shore,, NY 11706"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "pboyle@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NY",
       "district": "4"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

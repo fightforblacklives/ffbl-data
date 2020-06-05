@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Keith Slape",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-557_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20slape-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "HC33 Box 107, Compton, 72624"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "keith.slape@arkansashouse.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AR",
       "district": "83"
     },
     {
       "name": "Breanne Davis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-544_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/breanne%20davis-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 10088, Russellville, 72812"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "breanne.davis@senate.ar.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AR",
       "district": "16"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "John Boozman",
       "email": null,
       "twitter": "JohnBoozman",
-      "addresses": [
+      "address": [
         "141 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20boozman-us%20senator.jpg",
       "phone": "202-224-4843",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tom Cotton",
       "email": null,
       "twitter": "SenTomCotton",
-      "addresses": [
+      "address": [
         "326 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20cotton-us%20senator.jpg",
       "phone": "202-224-2353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Asa Hutchinson",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Little Rock AR 72201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/asa%20hutchinson-governor.jpg",
       "twitter": "AsaHutchinson",
       "email": null,
       "phone": "501-682-2345",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

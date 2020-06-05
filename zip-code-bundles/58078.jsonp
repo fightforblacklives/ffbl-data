@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Austen Schauer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-aschauer.jpg%3Fitok%3DalVrk7GN",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/austen%20schauer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "110 West Beaton Drive;West Fargo, ND;58078-2657"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "aschauer@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "13"
     },
     {
       "name": "Kim Koppelman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-kkoppelman.jpg%3Fitok%3DNcNVr4Oi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20koppelman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "513 First Avenue NW;West Fargo, ND;58078-1101"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "kkoppelman@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "13"
     },
     {
       "name": "Judy Lee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-jlee.jpg%3Fitok%3DZhcupDNe",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/judy%20lee-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1822 Brentwood Court;West Fargo, ND;58078-4204"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "jlee@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "13"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

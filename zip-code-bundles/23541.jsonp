@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Nancy D. Guy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-H0316",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nancy%20d.%20guy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 4563;Virginia Beach, Virginia 23454"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "DelNGuy@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "83"
     },
     {
       "name": "Lynwood W. Lewis, Jr.",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Lewis.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 760;Accomac, Virginia 23301"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "district06@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "6"
     },
@@ -51,39 +51,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-Alexander_Kenneth%2153073.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kenneth%20cooper%20alexander-mayor.jpg",
       "name": "Kenneth Cooper Alexander",
       "phone": "757-664-4679",
       "email": "kenneth.alexander@norfolk.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Norfolk"
     }

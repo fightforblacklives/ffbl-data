@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Al Jacquet",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-4628.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/al%20jacquet-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1755 East Tiffany Drive; Mangonia Park, FL 33407-3224",
         "405 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5088"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "FL",
       "district": "88"
     },
     {
       "name": "Lori Berman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s31_5339.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lori%20berman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2300 High Ridge Road; Suite 161; Boynton Beach, FL 33426",
         "311 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "berman.lori.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "31"
     },
@@ -49,67 +49,68 @@ callback({
       "name": "Lois Frankel",
       "email": null,
       "twitter": "RepLoisFrankel",
-      "addresses": [
+      "address": [
         "2305 Rayburn House Office Building; Washington DC 20515-0921"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-F000462.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lois%20frankel-us%20representative.jpg",
       "phone": "202-225-9890",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "21"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-Grant_Steven%21130.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20b.%20grant-mayor.jpg",
       "name": "Steven B. Grant",
       "phone": "561-742-6010",
       "email": "grants@bbfl.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Boynton Beach"
     }

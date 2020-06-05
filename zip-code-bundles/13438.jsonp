@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Ken Blankenbush",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-117.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ken%20blankenbush-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "40 Franklin Street;Suite 2;Carthage, NY 13619",
         "LOB 322;Albany, NY 12248"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "blankenbushk@nyassembly.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NY",
       "district": "117"
     },
     {
       "name": "Joseph A. Griffo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-%252811-18-08%2529%2520Griffo-HS-020.jpg%3Fitok%3DrGK6kVTU",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20a.%20griffo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "207 Genesee Street Room 408;Utica,, NY 13501"
       ],
       "phone": [
@@ -44,8 +44,8 @@ callback({
       "email": [
         "griffo@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NY",
       "district": "47"
     },
@@ -53,70 +53,70 @@ callback({
       "name": "Anthony Brindisi",
       "email": null,
       "twitter": "RepBrindisi",
-      "addresses": [
+      "address": [
         "329 Cannon House Office Building; Washington DC 20515-3222"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-B001308.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anthony%20brindisi-us%20representative.jpg",
       "phone": "202-225-3665",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "22"
     },
     {
       "name": "Elise Stefanik",
       "email": null,
       "twitter": "RepStefanik",
-      "addresses": [
+      "address": [
         "318 Cannon House Office Building; Washington DC 20515-3221"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-S001196.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elise%20stefanik-us%20representative.jpg",
       "phone": "202-225-4611",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "21"
     },
     {
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

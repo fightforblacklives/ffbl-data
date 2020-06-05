@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Paul Renner",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-4619.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20renner-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 1; 4877 Palm Coast Parkway Northwest; Palm Coast, FL 32137-3677",
         "418 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5024"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "24"
     },
     {
       "name": "Travis Hutson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s07_5186.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/travis%20hutson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4875 Palm Coast Parkway, NW; Suite 5; Palm Coast, FL 32137",
         "314 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "hutson.travis.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "7"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Holland_Milissa%2153138.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/milissa%20holland-mayor.jpg",
       "name": "Milissa Holland",
       "phone": "386-986-3710",
       "email": "mholland@palmcoastgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Palm Coast"
     }

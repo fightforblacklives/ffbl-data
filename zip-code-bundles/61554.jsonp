@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Michael D. Unes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-%7B376F1209-F11E-4357-9F50-85702CFDE27F%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20d.%20unes-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "19 S. Capitol St.;Pekin, IL 61554",
         "224-N Stratton Office Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "repunes@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IL",
       "district": "91"
     },
     {
       "name": "David Koehler",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-%7B2C57E551-D82A-4C7D-8746-3F83913F0D7D%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20koehler-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "400 NE. Jefferson;Suite 200;Peoria, IL 61603",
         "323B Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-8250"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "46"
     },
@@ -53,81 +53,82 @@ callback({
       "name": "Cheri Bustos",
       "email": null,
       "twitter": "RepCheri",
-      "addresses": [
+      "address": [
         "1233 Longworth House Office Building; Washington DC 20515-1317"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-B001286.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cheri%20bustos-us%20representative.jpg",
       "phone": "202-225-5905",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "17"
     },
     {
       "name": "Darin LaHood",
       "email": null,
       "twitter": "RepLaHood",
-      "addresses": [
+      "address": [
         "1424 Longworth House Office Building; Washington DC 20515-1318"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-L000585.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/darin%20lahood-us%20representative.jpg",
       "phone": "202-225-6201",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "18"
     },
     {
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Luft_Mark%2154738.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20luft-mayor.jpg",
       "name": "Mark Luft",
       "phone": "309-264-5517",
       "email": "mluft@ci.pekin.il.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Pekin"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Sean M. Lynn",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-SeanLynn.jpg%3Fsfvrsn%3D0",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sean%20m.%20lynn-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "411 Legislative Ave. Dover, DE 19901"
       ],
       "phone": [
@@ -23,24 +23,24 @@ callback({
       "email": [
         "Sean.Lynn@state.de.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "DE",
       "district": "31"
     },
     {
       "name": "Trey Charles Paradee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-TreyParadee.jpg%3Fsfvrsn%3D0",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "411 Legislative Ave. Dover, DE 19901"
       ],
       "phone": [
         "302-744-4286"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "DE",
       "district": "17"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Chris Coons",
       "email": null,
       "twitter": "ChrisCoons",
-      "addresses": [
+      "address": [
         "218 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-C001088.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20coons-us%20senator.jpg",
       "phone": "202-224-5042",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Thomas Carper",
       "email": null,
       "twitter": "SenatorCarper",
-      "addresses": [
+      "address": [
         "513 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-C000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20carper-us%20senator.jpg",
       "phone": "202-224-2441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "John Carney",
-      "addresses": [
+      "address": [
         "Legislative Hall Dover DE 19902"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-de_carney.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20carney-governor.jpg",
       "twitter": "JohnCarneyDE",
       "email": null,
       "phone": "302-744-4101",
-      "type": "Governor",
+      "title": "Governor",
       "state": "DE",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-Christiansen_Robin%21301.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robin%20r.%20christiansen-mayor.jpg",
       "name": "Robin R. Christiansen",
       "phone": "302-736-7005",
       "email": "rchristiansen@dover.de.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "DE",
       "city": "Dover"
     }

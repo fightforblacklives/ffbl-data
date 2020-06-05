@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Susie Proctor",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-proctor01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susie%20proctor-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "423 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "susie.proctor@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "27A"
     },
     {
       "name": "Thomas V. Mike Miller, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-miller%20t.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20v.%20mike%20miller%2C%20jr.-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "State House, H-107;100 State Circle;Annapolis, MD 21401"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "thomas.v.mike.miller@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "27"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

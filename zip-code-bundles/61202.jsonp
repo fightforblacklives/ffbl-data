@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Michael Halpin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-%7B51EA8D97-3DDD-42AC-B607-CF1C1235CB56%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20halpin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1504 3rd Ave., 2nd Floor;County Office Bldg.;Rock Island, IL 61201",
         "272-S Stratton Office Building;Springfield, IL 62706"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "RepHalpin@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "72"
     },
     {
       "name": "Neil Anderson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-%7B90CDA259-1DEA-4D18-AE97-30051E03D154%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/neil%20anderson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1523 47th Avenue, Suite 2;Moline , IL 61265",
         "M103D Capitol Building;Springfield, IL 62706"
       ],
@@ -41,8 +41,8 @@ callback({
         "217-782-5957"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IL",
       "district": "36"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Thoms_Mike%2153492.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20thoms-mayor.jpg",
       "name": "Mike Thoms",
       "phone": "309-732-2012",
       "email": "rimayor@rigov.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Rock Island"
     }

@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Eliana Pintor Marin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-pintormarin_eliana_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eliana%20pintor%20marin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "263 Lafayette St. 1st Floor;Newark, NJ 07105"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "AswPintorMarin@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "29"
     },
     {
       "name": "Shanique Speight",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-speight_shanique_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shanique%20speight-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "59 Lincoln Park, Suite 375;Newark, NJ 07102"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "AswSpeight@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "29"
     },
     {
       "name": "M. Teresa Ruiz",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ruiz_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/m.%20teresa%20ruiz-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "166 Bloomfield Ave.;Newark, NJ 07104"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "SenRuiz@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "29"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-Baraka_Ras%21811.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ras%20j.%20baraka-mayor.jpg",
       "name": "Ras J. Baraka",
       "phone": "(973) 733-6400",
       "email": null,
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Newark"
     }

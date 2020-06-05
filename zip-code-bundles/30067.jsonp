@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Sharon Cooper",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-CooperSharon86.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sharon%20cooper-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1234 Powers Ferry Rd., Suite 104;Marietta, GA 30067",
         "436 State Capitol;Atlanta, GA 30334"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "sharon.cooper@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "GA",
       "district": "43"
     },
     {
       "name": "Michael 'Doc' Rhett",
-      "image": "http://www.senate.ga.gov/SiteCollectionImages/RhettMichael 'Doc'855.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20%27doc%27%20rhett-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 777;Marietta, GA 30061",
         "321-A Coverdell Legislative Office Building;Atlanta, GA 30334"
       ],
@@ -45,8 +45,8 @@ callback({
       "email": [
         "michael.rhett@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "GA",
       "district": "33"
     },
@@ -54,81 +54,82 @@ callback({
       "name": "Barry Loudermilk",
       "email": null,
       "twitter": "RepLoudermilk",
-      "addresses": [
+      "address": [
         "422 Cannon House Office Building; Washington DC 20515-1011"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-L000583.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barry%20loudermilk-us%20representative.jpg",
       "phone": "202-225-2931",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "11"
     },
     {
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Tumlin_Steve%21698.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20%27thunder%27%20tumlin-mayor.jpg",
       "name": "Steve 'Thunder' Tumlin",
       "phone": "770-528-0595",
       "email": "stumlin@mariettaga.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Marietta"
     }

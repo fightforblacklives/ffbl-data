@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Isaac Sponaugle",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-sponaugle_isaac.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/isaac%20sponaugle-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 578;Franklin, WV, 26807",
         "Room 258M, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "isaac.sponaugle@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WV",
       "district": "55"
     },
     {
       "name": "Bill Hamilton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-hamilton_bill.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20hamilton-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1192;Buckhannon, WV, 26201",
         "Room 223W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -45,16 +45,16 @@ callback({
       "email": [
         "bill.hamilton@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WV",
       "district": "11"
     },
     {
       "name": "Greg Boso",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-boso_gregory.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20boso-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "401 Main Street;Summersville, WV, 26651",
         "Room 217W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -65,8 +65,8 @@ callback({
       "email": [
         "greg.boso@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WV",
       "district": "11"
     },
@@ -74,42 +74,42 @@ callback({
       "name": "Joe Manchin",
       "email": null,
       "twitter": "Sen_JoeManchin",
-      "addresses": [
+      "address": [
         "306 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20manchin-us%20senator.jpg",
       "phone": "202-224-3954",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Shelley Capito",
       "email": null,
       "twitter": "SenCapito",
-      "addresses": [
+      "address": [
         "172 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20capito-us%20senator.jpg",
       "phone": "202-224-6472",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Jim Justice",
-      "addresses": [
+      "address": [
         "1900 Kanawha Blvd. East Charleston WV 25305"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20justice-governor.jpg",
       "twitter": "wvgovernor",
       "email": null,
       "phone": "304-558-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

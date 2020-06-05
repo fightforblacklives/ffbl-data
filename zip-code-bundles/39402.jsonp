@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Kent McCarty",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-mccarty.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kent%20mccarty-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "13 Leaf Lane;Hattiesburg, MS 39402",
         "P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "kmccarty@house.ms.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MS",
       "district": "101"
     },
     {
       "name": "John A. Polk",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-polk.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20a.%20polk-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "53 Tidewater Rd;Hattiesburg, MS 39402",
         "Room 404 C;P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -43,8 +43,8 @@ callback({
       "email": [
         "jpolk@senate.ms.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MS",
       "district": "44"
     },
@@ -52,53 +52,54 @@ callback({
       "name": "Cindy Hyde-Smith",
       "email": null,
       "twitter": "SenHydeSmith",
-      "addresses": [
+      "address": [
         "702 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20hyde-smith-us%20senator.jpg",
       "phone": "202-224-5054",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Roger Wicker",
       "email": null,
       "twitter": "SenatorWicker",
-      "addresses": [
+      "address": [
         "555 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/roger%20wicker-us%20senator.jpg",
       "phone": "202-224-6253",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tate Reeves",
-      "addresses": [
+      "address": [
         "P.O. Box 139 Jackson MS 39205"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tate%20reeves-governor.jpg",
       "twitter": "philbryantms",
       "email": null,
       "phone": "601-359-3150",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-Barker_Toby%2153560.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/toby%20barker-mayor.jpg",
       "name": "Toby Barker",
       "phone": "601-545-4501",
       "email": "mayor@hattiesburgms.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MS",
       "city": "Hattiesburg"
     }

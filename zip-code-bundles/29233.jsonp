@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Beth E. Bernstein",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-0141477256.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/beth%20e.%20bernstein-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1019 Assembly St.Columbia 29201",
         "532C Blatt Bldg.Columbia 29201"
       ],
@@ -21,24 +21,24 @@ callback({
         "803-212-6940"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SC",
       "district": "78"
     },
     {
       "name": "Mia S. McLeod",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-0279545421.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mia%20s.%20mcleod-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "613 Gressette Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6056"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "SC",
       "district": "22"
     },
@@ -46,53 +46,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-Benjamin_Stephen%21237.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20benjamin-mayor.jpg",
       "name": "Steve Benjamin",
       "phone": "803-545-3075",
       "email": "stephen.benjamin@columbiasc.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Columbia"
     }

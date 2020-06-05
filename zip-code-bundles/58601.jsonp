@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Mike Lefor",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-mlefor.jpg%3Fitok%3DgPexLSiZ",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20lefor-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1347;Dickinson, ND;58602-1347"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "mlefor@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "37"
     },
     {
       "name": "Vicky Steiner",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-vsteiner.jpg%3Fitok%3DWmwXecAw",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/vicky%20steiner-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "859 Senior Avenue;Dickinson, ND;58601-3755"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "vsteiner@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "37"
     },
     {
       "name": "Rich Wardner",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-rwardner.jpg%3Fitok%3DCiQvK5n5",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rich%20wardner-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1042 12th Avenue West;Dickinson, ND;58601-3654"
       ],
       "phone": [
@@ -61,8 +61,8 @@ callback({
       "email": [
         "rwardner@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "37"
     },
@@ -70,42 +70,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

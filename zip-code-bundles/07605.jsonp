@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Gordon M. Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-johnson_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gordon%20m.%20johnson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "545 Cedar Lane;Teaneck, NJ 07666"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "AsmJohnson@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "37"
     },
     {
       "name": "Valerie Vainieri Huttle",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-huttle_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/valerie%20vainieri%20huttle-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1 Engle St., Suite 108;Englewood, NJ 07631"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "AswVainieriHuttle@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "37"
     },
     {
       "name": "Loretta Weinberg",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-weinberg_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/loretta%20weinberg-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "545 Cedar Lane;Teaneck, NJ 07666"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "SenWeinberg@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "37"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

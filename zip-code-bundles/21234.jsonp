@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Eric M. Bromwell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-bromwell.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20m.%20bromwell-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "231 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "eric.bromwell@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "8"
     },
     {
       "name": "Harry Bhandari",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-bhandari01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harry%20bhandari-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "303 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "harry.bhandari@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "8"
     },
     {
       "name": "Joseph C. Boteler, III",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-boteler01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20c.%20boteler%2C%20iii-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "319 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -61,16 +61,16 @@ callback({
       "email": [
         "joseph.boteler@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MD",
       "district": "8"
     },
     {
       "name": "Katherine Klausmeier",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-klausmeier.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/katherine%20klausmeier-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "123 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -79,8 +79,8 @@ callback({
       "email": [
         "katherine.klausmeier@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "8"
     },
@@ -88,42 +88,42 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

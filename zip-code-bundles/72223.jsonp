@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jim Sorvillo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-499_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20sorvillo-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1925 Rainwood Cove Drive, Little Rock, 72212"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "sorvillo4house@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AR",
       "district": "32"
     },
     {
       "name": "Kim Hammer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-576_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20hammer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1201 Military Road PMB #285, Benton, 72015"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "kim.hammer@senate.ar.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AR",
       "district": "33"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "John Boozman",
       "email": null,
       "twitter": "JohnBoozman",
-      "addresses": [
+      "address": [
         "141 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20boozman-us%20senator.jpg",
       "phone": "202-224-4843",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tom Cotton",
       "email": null,
       "twitter": "SenTomCotton",
-      "addresses": [
+      "address": [
         "326 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20cotton-us%20senator.jpg",
       "phone": "202-224-2353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Asa Hutchinson",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Little Rock AR 72201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/asa%20hutchinson-governor.jpg",
       "twitter": "AsaHutchinson",
       "email": null,
       "phone": "501-682-2345",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-Scott_Frank%2154466.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/frank%20d.%20scott%20jr.-mayor.jpg",
       "name": "Frank D. Scott Jr.",
       "phone": "501-371-4744",
       "email": "mayorscott@littlerock.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AR",
       "city": "Little Rock"
     }

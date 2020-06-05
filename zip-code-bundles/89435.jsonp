@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Alexis Hansen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-Hansen.Alexis.366.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alexis%20hansen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "68 Amigo Court;Sparks, NV 89441-6213"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Alexis.Hansen@asm.state.nv.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NV",
       "district": "32"
     },
     {
       "name": "Ira Hansen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-Hansen.Ira.157.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ira%20hansen-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "68 Amigo Court;Sparks, NV 89441-6213"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Ira.Hansen@sen.state.nv.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NV",
       "district": "14"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Catherine Cortez Masto",
       "email": null,
       "twitter": "sencortezmasto",
-      "addresses": [
+      "address": [
         "516 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/catherine%20cortez%20masto-us%20senator.jpg",
       "phone": "202-224-3542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jacky Rosen",
       "email": null,
       "twitter": "SenJackyRosen",
-      "addresses": [
+      "address": [
         "144 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacky%20rosen-us%20senator.jpg",
       "phone": "202-224-6244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Stephen Sisolak",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Carson City NV 89701"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20sisolak-governor.jpg",
       "twitter": "GovSisolak",
       "email": null,
       "phone": "775-684-5670",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Smith_Ron%2154489.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20smith-mayor.jpg",
       "name": "Ron Smith",
       "phone": "775-353-2311",
       "email": "rsmith@cityofsparks.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NV",
       "city": "Sparks"
     }

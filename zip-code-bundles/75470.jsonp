@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Gary VanDeaver",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-2540.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20vandeaver-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "710 James Bowie Drive;New Boston, Texas 75570",
         "Room E1.310;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -23,16 +23,16 @@ callback({
         "512-463-0692"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "TX",
       "district": "1"
     },
     {
       "name": "Bryan Hughes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-hughes-initial.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bryan%20hughes-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5411 Plaza Drive, Suite D Texarkana, Texas 75503",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -41,8 +41,8 @@ callback({
         "512-463-0101"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "TX",
       "district": "1"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

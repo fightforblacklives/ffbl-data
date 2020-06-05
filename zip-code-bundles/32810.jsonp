@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Joy Goff-Marcil",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-4720.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joy%20goff-marcil-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 120; 630 South Maitland Avenue; Maitland, FL 32751-5624",
         "1302 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -24,16 +24,16 @@ callback({
         "850-717-5030"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "FL",
       "district": "30"
     },
     {
       "name": "Randolph Bracy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-s11_5193.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randolph%20bracy-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6965 Piazza Grande Avenue; Suite 211; Orlando, FL 32835",
         "213 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -41,8 +41,8 @@ callback({
       "email": [
         "bracy.randolph.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "11"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Val Demings",
       "email": null,
       "twitter": "RepValDemings",
-      "addresses": [
+      "address": [
         "217 Cannon House Office Building; Washington DC 20515-0910"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-D000627.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/val%20demings-us%20representative.jpg",
       "phone": "202-225-2176",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-Dyer_Buddy%21872.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/buddy%20dyer-mayor.jpg",
       "name": "Buddy Dyer",
       "phone": "407-579-5952",
       "email": "buddy.dyer@cityoforlando.net",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Orlando"
     }

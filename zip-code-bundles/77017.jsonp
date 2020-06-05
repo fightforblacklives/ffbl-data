@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Christina Morales",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-3910.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christina%20morales-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6960 Rustic Street, Suite 107;Parking Garage, Bldg. C;Houston, Texas 77087",
         "Room E2.910;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -23,16 +23,16 @@ callback({
         "512-463-0732"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "TX",
       "district": "145"
     },
     {
       "name": "Carol Alvarado",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-CA-2018_web.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carol%20alvarado-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4450 Harrisburg, Suite 238 Houston, TX 77011",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -41,8 +41,8 @@ callback({
         "512-463-0106"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "6"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Sylvia Garcia",
       "email": null,
       "twitter": "RepSylviaGarcia",
-      "addresses": [
+      "address": [
         "1620 Longworth House Office Building; Washington DC 20515-4329"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-G000587.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sylvia%20garcia-us%20representative.jpg",
       "phone": "202-225-1688",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "29"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Turner_Sylvester%21530.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sylvester%20turner-mayor.jpg",
       "name": "Sylvester Turner",
       "phone": "832-393-1000",
       "email": "mayor@houstontx.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "Houston"
     }

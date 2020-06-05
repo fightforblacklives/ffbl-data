@@ -10,49 +10,49 @@ callback({
   "people": [
     {
       "name": "Carlos \"Johnny\" Méndez Núñez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-388b73fb-2107-4068-8b63-e496fb7dd165.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carlos%20%22johnny%22%20m%C3%A9ndez%20n%C3%BA%C3%B1ez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2do Piso - Capitolio - Oficina Presidente"
       ],
       "phone": [
         "787-722-3539"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "36"
     },
     {
       "name": "Eric Correa Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-senador-6.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20correa%20rivera-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "ecorrea@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VIII"
     },
     {
       "name": "Nayda C. Venegas Brown",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senador-26.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nayda%20c.%20venegas%20brown-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "nvenegas@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VIII"
     }

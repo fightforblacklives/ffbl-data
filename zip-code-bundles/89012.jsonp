@@ -12,29 +12,29 @@ callback({
   "people": [
     {
       "name": "Melissa Hardy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-Hardy.Melissa.364.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/melissa%20hardy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1405 West Sunset Road, No. 101;Henderson, NV 89014-6673"
       ],
       "phone": [],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NV",
       "district": "22"
     },
     {
       "name": "Keith F. Pickard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Pickard.Keith.322.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20f.%20pickard-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10120 S. Eastern Av, Suite 140;Henderson, NV 89052"
       ],
       "phone": [],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NV",
       "district": "20"
     },
@@ -42,53 +42,54 @@ callback({
       "name": "Catherine Cortez Masto",
       "email": null,
       "twitter": "sencortezmasto",
-      "addresses": [
+      "address": [
         "516 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/catherine%20cortez%20masto-us%20senator.jpg",
       "phone": "202-224-3542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jacky Rosen",
       "email": null,
       "twitter": "SenJackyRosen",
-      "addresses": [
+      "address": [
         "144 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacky%20rosen-us%20senator.jpg",
       "phone": "202-224-6244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Stephen Sisolak",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Carson City NV 89701"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20sisolak-governor.jpg",
       "twitter": "GovSisolak",
       "email": null,
       "phone": "775-684-5670",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-March_Debra%2153554.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debra%20march-mayor.jpg",
       "name": "Debra March",
       "phone": "702-267-2085",
       "email": "debra.march@cityofhenderson.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NV",
       "city": "Henderson"
     }

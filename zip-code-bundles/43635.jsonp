@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Michael Sheehy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-46.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20sheehy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;10th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rep46@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "OH",
       "district": "46"
     },
     {
       "name": "Teresa Fedor",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-2915.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/teresa%20fedor-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sd11@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "OH",
       "district": "11"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Kapszukiewicz_Wade%2153976.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wade%20kapszukiewicz-mayor.jpg",
       "name": "Wade Kapszukiewicz",
       "phone": "419-245-1004",
       "email": "mayor@toledo.oh.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OH",
       "city": "Toledo"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Don Hineman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-rep_hineman_don_1.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/don%20hineman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 186-N;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "don.hineman@house.ks.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "KS",
       "district": "118"
     },
     {
       "name": "Mary Jo Taylor",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-sen_taylor_mary_1.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20jo%20taylor-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 441-E;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "MaryJo.Taylor@senate.ks.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "KS",
       "district": "33"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Jerry Moran",
       "email": null,
       "twitter": "JerryMoran",
-      "addresses": [
+      "address": [
         "521 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-M000934.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20moran-us%20senator.jpg",
       "phone": "202-224-6521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Pat Roberts",
       "email": null,
       "twitter": "SenPatRoberts",
-      "addresses": [
+      "address": [
         "109 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-R000307.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pat%20roberts-us%20senator.jpg",
       "phone": "202-224-4774",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Laura Kelly",
-      "addresses": [
+      "address": [
         "Capitol, 300 SW 10th Avenue  Capitol, 300 SW 10th Avenue  Topeka KS 66612-1590"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-ks_kelly.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/laura%20kelly-governor.jpg",
       "twitter": "GovLauraKelly",
       "email": null,
       "phone": "785-296-3232",
-      "type": "Governor",
+      "title": "Governor",
       "state": "KS",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

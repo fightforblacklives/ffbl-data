@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Carol Hagan McEntee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-McEntee.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carol%20hagan%20mcentee-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "70B Broad Rock Road, South Kingstown, RI 02879"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "rep-mcentee@rilegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "RI",
       "district": "33"
     },
     {
       "name": "V. Susan Sosnowski",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-sosnowski.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/v.%20susan%20sosnowski-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "680 Glen Rock Road, West Kingston 02892"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "sen-sosnowski@rilegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "RI",
       "district": "37"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "John Reed",
       "email": null,
       "twitter": "SenJackReed",
-      "addresses": [
+      "address": [
         "728 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-R000122.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20reed-us%20senator.jpg",
       "phone": "202-224-4642",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Sheldon Whitehouse",
       "email": null,
       "twitter": "SenWhitehouse",
-      "addresses": [
+      "address": [
         "530 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-W000802.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sheldon%20whitehouse-us%20senator.jpg",
       "phone": "202-224-2921",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gina Raimondo",
-      "addresses": [
+      "address": [
         "State House State House Providence RI 02903"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-RI.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gina%20raimondo-governor.jpg",
       "twitter": "ginaraimondo",
       "email": null,
       "phone": "401-222-2080",
-      "type": "Governor",
+      "title": "Governor",
       "state": "RI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Collins_Abel%2154554.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/abel%20g.%20collins-mayor.jpg",
       "name": "Abel G. Collins",
       "phone": "401-789-9331 x1201",
       "email": "towncouncil@southkingstownri.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "RI",
       "city": "South Kingstown"
     }

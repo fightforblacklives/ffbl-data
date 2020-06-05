@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Lashrecse D. Aird",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-H0274",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lashrecse%20d.%20aird-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 3943;Petersburg, Virginia 23805"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "DelLAird@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "63"
     },
     {
       "name": "Joseph D. Morrissey",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Morrissey16.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "701 German School Road;Richmond, Virginia 23225"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "district16@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "16"
     },
@@ -48,39 +48,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Parham_Samuel%2153293.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/samuel%20parham-mayor.jpg",
       "name": "Samuel Parham",
       "phone": "804-733-2323",
       "email": "sparham@petersburg-va.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Petersburg"
     }

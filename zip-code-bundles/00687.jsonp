@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Guillermo Miranda Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-23f801c8-a36d-4d31-92da-27eb8327f676.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/guillermo%20miranda%20rivera-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1er. PISO CATACUMBAS CAPITOLIO"
       ],
       "phone": [
         "787-721-5007"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "12"
     },
     {
       "name": "Angel R. Martínez Santiago",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-senador-11.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angel%20r.%20mart%C3%ADnez%20santiago-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "anmartinez@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "III"
     },
     {
       "name": "José O. Pérez Rosa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-senador-15.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20o.%20p%C3%A9rez%20rosa-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "josperez@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "III"
     }

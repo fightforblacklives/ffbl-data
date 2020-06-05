@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Juan O. Morales Rodríguez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-db95dc4b-7fa8-43f8-8a46-744f02ec2099.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/juan%20o.%20morales%20rodr%C3%ADguez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1er. PISO ANEXO"
       ],
       "phone": [
         "787-723-8745"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "3"
     },
     {
       "name": "Henry Neumann Zayas",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-senador-7.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20neumann%20zayas-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "hneumann@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     },
     {
       "name": "Miguel A. Romero Lugo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-25.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/miguel%20a.%20romero%20lugo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "mromero@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     }

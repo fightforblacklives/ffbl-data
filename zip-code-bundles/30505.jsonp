@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Matt Dubnik",
-      "image": "http://www.house.ga.gov/SiteCollectionImages/DubnikMatt4886.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matt%20dubnik-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "508-C Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "matt.dubnik@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "GA",
       "district": "29"
     },
     {
       "name": "Butch Miller",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-MillerButch719.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/butch%20miller-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2420 Browns Bridge Road;Gainesville, GA 30504",
         "321 State Capitol;Atlanta, GA 30334"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "butch.miller@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "GA",
       "district": "49"
     },
@@ -49,67 +49,68 @@ callback({
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Dunagan_Danny%213489.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/c.%20danny%20dunagan%20jr.-mayor.jpg",
       "name": "C. Danny Dunagan Jr.",
       "phone": "770-535-6860",
       "email": "ddunagan@gainesville.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Gainesville"
     }

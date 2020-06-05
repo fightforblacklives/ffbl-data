@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Scott Plakon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-4430.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20plakon-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 222; 1855 West State Road 434; Longwood, FL 32750-5071",
         "209 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5029"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "29"
     },
     {
       "name": "David Simmons",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-s09_4682.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20simmons-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "220 Crown Oak Centre Drive; Longwood, FL 32750",
         "404 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "simmons.david.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "9"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Triplett_Jeff%211056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeff%20triplett-mayor.jpg",
       "name": "Jeff Triplett",
       "phone": "407-688-5001 x5201",
       "email": "jeff.triplett@sanfordfl.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Sanford"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "James C. Ramos",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-a40_jc_ramos.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20c.%20ramos-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10350 Commerce Center Drive, Suite A-200;Rancho Cucamonga, CA 91730",
         "P.O. Box 942849;Sacramento, CA 94249-0040"
       ],
@@ -23,16 +23,16 @@ callback({
         "916-319-2040"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "40"
     },
     {
       "name": "Mike Morrell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-morrell_hs_7678_1_lls_2.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20morrell-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10350 Commerce Center Drive, Suite A-220, Rancho Cucamonga, CA 91730",
         "State Capitol, Room 3056, Sacramento, CA 95814-4900"
       ],
@@ -41,8 +41,8 @@ callback({
         "916-651-4023"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CA",
       "district": "23"
     },
@@ -50,56 +50,56 @@ callback({
       "name": "Pete Aguilar",
       "email": null,
       "twitter": "reppeteaguilar",
-      "addresses": [
+      "address": [
         "109 Cannon House Office Building; Washington DC 20515-0531"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-A000371.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pete%20aguilar-us%20representative.jpg",
       "phone": "202-225-3201",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "31"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

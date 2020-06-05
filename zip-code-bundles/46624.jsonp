@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Ryan Dvorak",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-legislator_ryan_dvorak_697",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ryan%20dvorak-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
         "800-382-9842"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IN",
       "district": "8"
     },
     {
       "name": "Mike Bohacek",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-legislator_mike_bohacek_1",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20bohacek-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 W. Washington Street;Indianapolis, IN 46204"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "Senator.Bohacek@iga.in.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IN",
       "district": "8"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Mike Braun",
       "email": null,
       "twitter": "SenatorBraun",
-      "addresses": [
+      "address": [
         "374 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-B001310.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20braun-us%20senator.jpg",
       "phone": "202-224-4814",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Todd Young",
       "email": null,
       "twitter": "SenToddYoung",
-      "addresses": [
+      "address": [
         "185 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Y000064.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/todd%20young-us%20senator.jpg",
       "phone": "202-224-5623",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Eric Holcomb",
-      "addresses": [
+      "address": [
         "State House, Room 206 Indianapolis IN 46204-2797"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-in_holcomb.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20holcomb-governor.jpg",
       "twitter": "GovHolcomb",
       "email": null,
       "phone": "317-232-4567",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-Mueller_James%2154787.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20mueller-mayor.jpg",
       "name": "James Mueller",
       "phone": "574-233-0311",
       "email": "jmueller@southbendin.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IN",
       "city": "South Bend"
     }

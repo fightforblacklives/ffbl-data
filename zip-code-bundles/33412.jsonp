@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Rick Roth",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-4648.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20roth-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 104; 100 Village Square Crossing; Palm Beach Gardens, FL 33410-4531",
         "417 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5085"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "85"
     },
     {
       "name": "Bobby Powell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-s30_5201.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bobby%20powell-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2715 North Australian Avenue; Suite 105; West Palm Beach, FL 33407",
         "214 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "powell.bobby.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "30"
     },
@@ -49,67 +49,68 @@ callback({
       "name": "Brian Mast",
       "email": null,
       "twitter": "repbrianmast",
-      "addresses": [
+      "address": [
         "2182 Rayburn House Office Building; Washington DC 20515-0918"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-M001199.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20mast-us%20representative.jpg",
       "phone": "202-225-3026",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "18"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-James_Keith%2154679.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20a.%20james-mayor.jpg",
       "name": "Keith A. James",
       "phone": "561-822-1400",
       "email": "kjames@wpb.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "West Palm Beach"
     }

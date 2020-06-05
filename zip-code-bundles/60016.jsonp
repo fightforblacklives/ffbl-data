@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Martin J. Moylan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-%7B3E365092-6B37-486C-996B-C140284F8723%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martin%20j.%20moylan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "24 S. Des Plaines River Rd.;Ste. 400;Des Plaines, IL 60016",
         "292-S Stratton Office Building;Springfield, IL 62706"
       ],
@@ -27,16 +27,16 @@ callback({
       "email": [
         "staterepmoylan@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "55"
     },
     {
       "name": "Laura M. Murphy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-%7BE8C6FBF1-611C-4DD5-A81D-F0FF8917556D%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/laura%20m.%20murphy-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "880 Lee Street;Suite 100;Des Plaines, IL 60016",
         "108E Capitol Building;Springfield, IL 62706"
       ],
@@ -45,8 +45,8 @@ callback({
         "217-782-3875"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "28"
     },
@@ -54,67 +54,68 @@ callback({
       "name": "Bradley Schneider",
       "email": null,
       "twitter": "repschneider",
-      "addresses": [
+      "address": [
         "1432 Longworth House Office Building; Washington DC 20515-1310"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-S001190.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bradley%20schneider-us%20representative.jpg",
       "phone": "202-225-4835",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-Bogusz_Matthew%21293.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matthew%20j.%20bogusz-mayor.jpg",
       "name": "Matthew J. Bogusz",
       "phone": "847-391-5301",
       "email": "mbogusz@desplaines.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Des Plaines"
     }

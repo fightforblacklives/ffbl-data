@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Peter Lawrence",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-134.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20lawrence-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2496 West Ridge Rd.;Rochester, NY 14626",
         "LOB Room 722;Albany, NY 12248"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "lawrencep@nyassembly.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NY",
       "district": "134"
     },
     {
       "name": "Robert G. Ortt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-%252803-19-15%2529%2520Ortt-HS-057.jpg%3Fitok%3Dk0cugWta",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20g.%20ortt-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "175 Walnut Street, Suite 6;Lockport,, NY 14094"
       ],
       "phone": [
@@ -43,8 +43,8 @@ callback({
       "email": [
         "Ortt@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NY",
       "district": "62"
     },
@@ -52,56 +52,56 @@ callback({
       "name": "Joseph Morelle",
       "email": null,
       "twitter": "RepJoeMorelle",
-      "addresses": [
+      "address": [
         "1317 Longworth House Office Building; Washington DC 20515-3225"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-M001206.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20morelle-us%20representative.jpg",
       "phone": "202-225-3615",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "25"
     },
     {
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Joy Springer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-579_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joy%20springer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2208 Rice Street, Little Rock, 72202"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "joy.springer@arkansashouse.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AR",
       "district": "34"
     },
     {
       "name": "Will Bond",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-515_sm.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/will%20bond-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "711 W 3rd, Little Rock, 72201"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Will.Bond@senate.ar.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "AR",
       "district": "32"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "John Boozman",
       "email": null,
       "twitter": "JohnBoozman",
-      "addresses": [
+      "address": [
         "141 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-B001236.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20boozman-us%20senator.jpg",
       "phone": "202-224-4843",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tom Cotton",
       "email": null,
       "twitter": "SenTomCotton",
-      "addresses": [
+      "address": [
         "326 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001095.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20cotton-us%20senator.jpg",
       "phone": "202-224-2353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Asa Hutchinson",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Little Rock AR 72201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-AR.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/asa%20hutchinson-governor.jpg",
       "twitter": "AsaHutchinson",
       "email": null,
       "phone": "501-682-2345",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AR",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-Smith_Joe%21830.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20a.%20smith-mayor.jpg",
       "name": "Joe A. Smith",
       "phone": "501-975-8601",
       "email": "mayor@nlr.ar.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AR",
       "city": "North Little Rock"
     }

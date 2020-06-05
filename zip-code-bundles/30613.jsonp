@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Spencer Frye",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-FryeSpencer819.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/spencer%20frye-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 8101;Athens, GA 30603",
         "604-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
@@ -22,16 +22,16 @@ callback({
       "email": [
         "spencer.frye@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "GA",
       "district": "118"
     },
     {
       "name": "Bill Cowsert",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-CowsertBill9.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20cowsert-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 512;Athens, GA 30603",
         "121- F State Capitol;Atlanta, GA 30334"
       ],
@@ -42,8 +42,8 @@ callback({
       "email": [
         "bill.cowsert@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "GA",
       "district": "46"
     },
@@ -51,67 +51,68 @@ callback({
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Girtz_Kelly%2154548.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kelly%20girtz-mayor.jpg",
       "name": "Kelly Girtz",
       "phone": "706-613-3010",
       "email": "kelly.girtz@accgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Athens"
     }

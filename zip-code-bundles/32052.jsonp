@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Robert Charles \"Chuck\" Brannan III",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-4708.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20charles%20%22chuck%22%20brannan%20iii-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1262 Southeast Baya Drive; Lake City, FL 32025-5555",
         "1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5010"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "10"
     },
     {
       "name": "Bill Montford",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-s03_5045.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20montford-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "20 East Washington Street; Suite D; Quincy, FL 32351",
         "410 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "montford.bill.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "3"
     },
@@ -49,42 +49,42 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

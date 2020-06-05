@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Terry Alexander",
-      "image": "http://www.scstatehouse.gov/images/members/0011363635.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/terry%20alexander-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1646 Harris CourtFlorence 29501",
         "314C Blatt Bldg.Columbia 29201"
       ],
@@ -23,16 +23,16 @@ callback({
         "803-734-3004"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SC",
       "district": "59"
     },
     {
       "name": "Kent M. Williams",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-1938636131.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kent%20m.%20williams-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4205 Stirk PlaceMarion 29571",
         "608 Gressette Bldg.Columbia 29201"
       ],
@@ -41,8 +41,8 @@ callback({
         "803-212-6000"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "SC",
       "district": "30"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Wukela_Stephen%21394.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20j.%20wukela-mayor.jpg",
       "name": "Stephen J. Wukela",
       "phone": "843-669-5634",
       "email": "swukela@cityofflorence.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Florence"
     }

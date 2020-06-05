@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "John Armato",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-armato_john_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20armato-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2312 New Road, Suite 101;Northfield, NJ 08225"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "AsmArmato@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "2"
     },
     {
       "name": "Vincent Mazzeo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-mazzeo_vincent_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/vincent%20mazzeo-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2312 New Road, Suite 102;Northfield, NJ 08225"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "AsmMazzeo@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "2"
     },
     {
       "name": "Chris A. Brown",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-brown_chris_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20a.%20brown-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2021 New Rd., Suite 24;Linwood, NJ 08221"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "SenBrown@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "2"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-Hodson_Paul%2154630.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20w.%20hodson-mayor.jpg",
       "name": "Paul W. Hodson",
       "phone": "609-926-4027",
       "email": "administration@ehtgov.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Egg Harbor Township"
     }

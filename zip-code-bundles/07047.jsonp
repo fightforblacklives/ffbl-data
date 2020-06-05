@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Angelica M. Jimenez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-jimenez_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angelica%20m.%20jimenez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5600 Kennedy Blvd., Suite 104;West New York, NJ 07093"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AswJimenez@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "32"
     },
     {
       "name": "Pedro Mejia",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-mejia_pedro_2018.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pedro%20mejia-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1 Harmon Plaza, Suite 205;Secaucus, NJ 07094"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "AsmMejia@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "32"
     },
@@ -51,53 +51,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Sacco_Nicholas%21825.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nicholas%20j.%20sacco-mayor.jpg",
       "name": "Nicholas J. Sacco",
       "phone": "201-392-2005",
       "email": null,
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "North Bergen"
     }

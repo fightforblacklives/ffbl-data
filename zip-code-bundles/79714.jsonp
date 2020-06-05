@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Brooks Landgraf",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-3040.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brooks%20landgraf-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room E1.312;P.O. Box 2910;Austin, TX 78768"
       ],
       "phone": [
         "512-463-0546"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "TX",
       "district": "81"
     },
     {
       "name": "Kel Seliger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Head-Shot-2018-Cropped.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kel%20seliger-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "401 Austin, Suite 101 Big Spring, TX 79720",
         "Room 1E.12 Austin, TX 78701"
       ],
@@ -39,8 +39,8 @@ callback({
         "512-463-0131"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "TX",
       "district": "31"
     },
@@ -48,56 +48,56 @@ callback({
       "name": "K. Conaway",
       "email": null,
       "twitter": "ConawayTX11",
-      "addresses": [
+      "address": [
         "2469 Rayburn House Office Building; Washington DC 20515-4311"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-C001062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/k.%20conaway-us%20representative.jpg",
       "phone": "202-225-3605",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "11"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

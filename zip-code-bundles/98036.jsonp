@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Davina Duerr",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-duerr.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/davina%20duerr-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "327 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "DUERR_DA@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "1"
     },
     {
       "name": "Shelley Kloba",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-kloba.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20kloba-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "132A Legislative Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "Shelley.Kloba@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "1"
     },
     {
       "name": "Derek Stanford",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-stanford.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/derek%20stanford-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "402 Legislative Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "Derek.Stanford@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "1"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-Smith_Nicola%212248.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nicola%20smith-mayor.jpg",
       "name": "Nicola Smith",
       "phone": "425-775-1971",
       "email": "nsmith@lynnwoodwa.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Lynnwood"
     }

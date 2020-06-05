@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Arthur E. Barnes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-377206.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/arthur%20e.%20barnes-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "174 Pelham Road;Salem, NH 03079-2831"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "arthur.barnes@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
     {
       "name": "Betty I. Gay",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-408411.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/betty%20i.%20gay-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10 Woodmeadow Drive;Salem, NH 03079-2336"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Betty.Gay@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
@@ -50,7 +50,7 @@ callback({
       "name": "Daryl A. Abbas",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "34 South Shore Road;Salem, NH 03079"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Daryl.Abbas@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
@@ -68,7 +68,7 @@ callback({
       "name": "Edward DeClercq",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "42 Bell Drive;Salem, NH 03079-1304"
       ],
       "phone": [
@@ -77,8 +77,8 @@ callback({
       "email": [
         "Ed.Declercq@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
@@ -86,23 +86,23 @@ callback({
       "name": "Everett P. McBride",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "66 Millville Street;Salem, NH 03079-2620"
       ],
       "phone": [],
       "email": [
         "emcbride@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
     {
       "name": "Fred G. Doucette",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-377220.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/fred%20g.%20doucette-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 862;117 Millville St;Salem, NH 03079-0862"
       ],
       "phone": [
@@ -111,16 +111,16 @@ callback({
       "email": [
         "Fred.Doucette@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
     {
       "name": "John C. Janigian",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-408412.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20c.%20janigian-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "25 Liberty Street;Salem, NH 03079-2437"
       ],
       "phone": [
@@ -129,16 +129,16 @@ callback({
       "email": [
         "John.Janigian@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
     {
       "name": "John Sytek",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-375692.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20sytek-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "34 Town Village Drive;Salem, NH 03079-3288"
       ],
       "phone": [
@@ -147,8 +147,8 @@ callback({
       "email": [
         "john.sytek@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
@@ -156,7 +156,7 @@ callback({
       "name": "Robert J. Elliott",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "44 Centerville Drive;Salem, NH 03079-2675"
       ],
       "phone": [
@@ -165,16 +165,16 @@ callback({
       "email": [
         "bob.elliott@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 8"
     },
     {
       "name": "Chuck Morse",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-22.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chuck%20morse-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 120\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -183,8 +183,8 @@ callback({
       "email": [
         "Chuck.Morse@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "22"
     },
@@ -192,42 +192,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

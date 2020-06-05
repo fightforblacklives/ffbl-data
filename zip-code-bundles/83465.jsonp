@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Dorothy Moon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Moon4275.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dorothy%20moon-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "H.C. 67 / Box 304, Stanley, ID 83278"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "dmoon@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "8"
     },
     {
       "name": "Terry Gestrin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-Gestrin1964.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/terry%20gestrin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 399, Donnelly, ID 83615"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "tgestrin@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "8"
     },
     {
       "name": "Steven P. Thayn",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Thayn64.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20p.%20thayn-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5655 Hillview Road, Emmett, ID 83617"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "sthayn@senate.idaho.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ID",
       "district": "8"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "James Risch",
       "email": null,
       "twitter": "SenatorRisch",
-      "addresses": [
+      "address": [
         "483 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20risch-us%20senator.jpg",
       "phone": "202-224-2752",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Crapo",
       "email": null,
       "twitter": "MikeCrapo",
-      "addresses": [
+      "address": [
         "239 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20crapo-us%20senator.jpg",
       "phone": "202-224-6142",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brad Little",
-      "addresses": [
+      "address": [
         "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20little-governor.jpg",
       "twitter": "GovernorLittle",
       "email": null,
       "phone": "208-334-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

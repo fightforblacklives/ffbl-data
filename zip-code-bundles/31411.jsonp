@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jesse Petrea",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-PetreaJesse862.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jesse%20petrea-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "108 Loyer Lane;Savannah, GA 31411",
         "408-A Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "jesse.petrea@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "GA",
       "district": "166"
     },
     {
       "name": "Ben Watson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-WatsonBen784.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ben%20watson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1326 Eisenhower Drive #2;Savannah, GA 31406",
         "320-B Coverdell Legislative Office Building;Atlanta, GA 30334"
       ],
@@ -45,8 +45,8 @@ callback({
       "email": [
         "ben.watson@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "GA",
       "district": "1"
     },
@@ -54,67 +54,68 @@ callback({
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Johnson_Van%2154799.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/van%20r.%20johnson%20ii-mayor.jpg",
       "name": "Van R. Johnson II",
       "phone": "912-651-6444",
       "email": "vjohnson01@savannahga.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Savannah"
     }

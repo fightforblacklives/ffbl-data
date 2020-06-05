@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Brooke E. Lierman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-lierman01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brooke%20e.%20lierman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "311 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Brooke.Lierman@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "46"
     },
     {
       "name": "Luke Clippinger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-clippinger.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/luke%20clippinger-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "101 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "luke.clippinger@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "46"
     },
     {
       "name": "Robbyn Lewis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-lewis01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robbyn%20lewis-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "304 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -60,16 +60,16 @@ callback({
       "email": [
         "robbyn.lewis@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "46"
     },
     {
       "name": "Bill Ferguson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-ferguson.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20ferguson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3 West Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -78,8 +78,8 @@ callback({
       "email": [
         "bill.ferguson@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "46"
     },
@@ -87,42 +87,42 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

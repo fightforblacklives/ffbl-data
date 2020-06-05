@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Lawrence M. Walsh, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-%7BF11DA3BE-D8FF-48F0-8450-43231B4DD28F%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lawrence%20m.%20walsh%2C%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121 Springfield Avenue;Joliet, IL 60435",
         "200-9S Stratton Office Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "statereplarrywalshjr@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "86"
     },
     {
       "name": "Pat McGuire",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-%7B7994F2D1-3BE5-4722-915A-13C69FB3766C%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pat%20mcguire-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "16151 Weber Road;Suite 103;Crest Hill, IL 60403",
         "417C Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-8800"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "43"
     },
@@ -53,67 +53,68 @@ callback({
       "name": "Bill Foster",
       "email": null,
       "twitter": "RepBillFoster",
-      "addresses": [
+      "address": [
         "2366 Rayburn House Office Building; Washington DC 20515-1311"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-F000454.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20foster-us%20representative.jpg",
       "phone": "202-225-3515",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "11"
     },
     {
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-ODekirk_Bob%21567.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bob%20o%27dekirk-mayor.jpg",
       "name": "Bob O'Dekirk",
       "phone": "815-724-3700",
       "email": "rodekirk@jolietcity.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Joliet"
     }

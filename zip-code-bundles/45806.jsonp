@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Robert R. Cupp",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-4.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20r.%20cupp-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;13th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rep04@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "OH",
       "district": "4"
     },
     {
       "name": "Matt Huffman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-2864.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matt%20huffman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;2nd Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sd12@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "OH",
       "district": "12"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Berger_David%21640.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20j.%20berger-mayor.jpg",
       "name": "David J. Berger",
       "phone": "419-221-5202",
       "email": "mayor@cityhall.lima.oh.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OH",
       "city": "Lima"
     }

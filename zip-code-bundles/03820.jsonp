@@ -14,7 +14,7 @@ callback({
       "name": "Kristina M. Fargo",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "14 Cobble Hill Drive;Dover, NH 03820-4172"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Kristina.Fargo@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Strafford 14"
     },
     {
       "name": "David H Watters",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-04.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20h%20watters-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "David.Watters@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "4"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Carrier_Robert%2154858.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20carrier-mayor.jpg",
       "name": "Robert Carrier",
       "phone": "603-516-6000",
       "email": "r.carrier@dover.nh.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NH",
       "city": "Dover"
     }

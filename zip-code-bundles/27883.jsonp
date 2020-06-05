@@ -15,9 +15,9 @@ callback({
   "people": [
     {
       "name": "Jean Farmer-Butterfield",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-379.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 2962;Wilson, NC 27894",
         "16 West Jones Street, Rm. 1220;Raleigh, NC 27601-1096"
       ],
@@ -28,16 +28,16 @@ callback({
       "email": [
         "Jean.Farmer-Butterfield@ncleg.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NC",
       "district": "24"
     },
     {
       "name": "Milton F. \"Toby\" Fitch, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-404.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "300 N. Salisbury Street, Rm. 206-C;Raleigh, NC 27603-5925",
         "16 West Jones Street, Rm. 1127;Raleigh, NC 27601"
       ],
@@ -48,8 +48,8 @@ callback({
       "email": [
         "Toby.Fitch@ncleg.net"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NC",
       "district": "4"
     },
@@ -57,28 +57,28 @@ callback({
       "name": "Richard Burr",
       "email": null,
       "twitter": "SenatorBurr",
-      "addresses": [
+      "address": [
         "217 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20burr-us%20senator.jpg",
       "phone": "202-224-3154",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Thom Tillis",
       "email": null,
       "twitter": "senthomtillis",
-      "addresses": [
+      "address": [
         "113 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thom%20tillis-us%20senator.jpg",
       "phone": "202-224-6342",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

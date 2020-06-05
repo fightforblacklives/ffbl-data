@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Craig J. Coughlin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-coughlin_craig_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/craig%20j.%20coughlin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "569 Rahway Ave.;Woodbridge, NJ 07095"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AsmCoughlin@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "19"
     },
     {
       "name": "Yvonne Lopez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-lopez_yvonne_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/yvonne%20lopez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "211 Front St.;Perth Amboy, NJ 08861"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AswLopez@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "19"
     },
     {
       "name": "Joseph F. Vitale",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-vitale_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20f.%20vitale-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "569 Rahway Ave.;Woodbridge, NJ 07095"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenVitale@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "19"
     },
@@ -69,56 +69,56 @@ callback({
       "name": "Donald Payne",
       "email": null,
       "twitter": "RepDonaldPayne",
-      "addresses": [
+      "address": [
         "103 Cannon House Office Building; Washington DC 20515-3010"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-P000604.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donald%20payne-us%20representative.jpg",
       "phone": "202-225-3436",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

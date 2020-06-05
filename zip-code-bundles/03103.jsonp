@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Barbara E. Shaw",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-376392.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barbara%20e.%20shaw-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "45 Randall Street;Manchester, NH 03103-6434"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "beshaw3@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 16"
     },
@@ -32,23 +32,23 @@ callback({
       "name": "Joshua F. Query",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"80 Beech Hill Avenue, Unit #5\";Manchester, NH 03103-5875"
       ],
       "phone": [],
       "email": [
         "Joshua.Query@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 16"
     },
     {
       "name": "Donna M. Soucy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-18.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donna%20m.%20soucy-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "Donna.Soucy@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "18"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-Craig_Joyce%2154026.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joyce%20craig-mayor.jpg",
       "name": "Joyce Craig",
       "phone": "603-624-6500",
       "email": "jcraig@manchesternh.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NH",
       "city": "Manchester"
     }

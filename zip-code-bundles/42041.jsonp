@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Steven Rudy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-house1.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20rudy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "702 Capital Ave;Annex Room 304;Frankfort, KY 40601"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Steven.Rudy@lrc.ky.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "KY",
       "district": "1"
     },
     {
       "name": "Stan Humphries",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-senate101.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stan%20humphries-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "702 Capital Ave;Annex Room 209;Frankfort, KY 40601"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Stan.Humphries@lrc.ky.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "KY",
       "district": "1"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Mitch McConnell",
       "email": null,
       "twitter": "McConnellPress",
-      "addresses": [
+      "address": [
         "317 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mitch%20mcconnell-us%20senator.jpg",
       "phone": "202-224-2541",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rand Paul",
       "email": null,
       "twitter": "RandPaul",
-      "addresses": [
+      "address": [
         "167 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rand%20paul-us%20senator.jpg",
       "phone": "202-224-4343",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Andy Beshear",
-      "addresses": [
+      "address": [
         "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andy%20beshear-governor.jpg",
       "twitter": "govandybeshear",
       "email": null,
       "phone": "785-296-3232",
-      "type": "Governor",
+      "title": "Governor",
       "state": "KY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

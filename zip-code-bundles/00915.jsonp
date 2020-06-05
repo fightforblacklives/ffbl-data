@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Eddie Charbonier Chinea",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-95a701a5-5c8b-404e-83b6-e022977645a4.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eddie%20charbonier%20chinea-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3er. PISO CAPITOLIO"
       ],
       "phone": [
         "787-725-9169"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "1"
     },
     {
       "name": "Henry Neumann Zayas",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-senador-7.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20neumann%20zayas-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "hneumann@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     },
     {
       "name": "Miguel A. Romero Lugo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-25.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/miguel%20a.%20romero%20lugo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "mromero@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     }

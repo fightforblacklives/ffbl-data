@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Adam C. Miller",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-17.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20c.%20miller-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;10th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "rep17@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "OH",
       "district": "17"
     },
     {
       "name": "Tina Maharath",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-2913.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tina%20maharath-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "sd03@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "OH",
       "district": "3"
     },
@@ -51,56 +51,56 @@ callback({
       "name": "Steve Stivers",
       "email": null,
       "twitter": "RepSteveStivers",
-      "addresses": [
+      "address": [
         "2234 Rayburn House Office Building; Washington DC 20515-3515"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-S001187.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20stivers-us%20representative.jpg",
       "phone": "202-225-2015",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "15"
     },
     {
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

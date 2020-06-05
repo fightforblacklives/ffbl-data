@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Caleb Finck",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/caleb%20finck-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "40976 294th St.;Tripp, SD 57376"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "Caleb.Finck@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "21"
     },
     {
       "name": "Lee Qualm",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-Qualm_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lee%20qualm-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "27507 John Qualm Rd.;Platte, SD 57369"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "Lee.Qualm@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "21"
     },
     {
       "name": "Rocky Blare",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rocky%20blare-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "31176 269th St.;Ideal, SD 57541"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "Rocky.Blare@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "21"
     },
@@ -66,42 +66,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Christy Smith",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-a38_c_smith.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christy%20smith-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "27441 Tourney Road, Suite 160;Santa Clarita, CA 91355",
         "P.O. Box 942849;Sacramento, CA 94249-0038"
       ],
@@ -24,16 +24,16 @@ callback({
         "916-319-2038"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "38"
     },
     {
       "name": "Scott Wilk",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-wilk.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20wilk-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "14343 Civic Drive, First Floor, Victorville, CA 92392",
         "State Capitol, Room 3063, Sacramento, CA 95814-4900"
       ],
@@ -42,8 +42,8 @@ callback({
         "916-651-4021"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CA",
       "district": "21"
     },
@@ -51,70 +51,70 @@ callback({
       "name": "Katie Hill",
       "email": null,
       "twitter": "RepKatieHill",
-      "addresses": [
+      "address": [
         "1130 Longworth House Office Building; Washington DC 20515-0525"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-H001087.jpg",
+      "image": null,
       "phone": "202-225-1956",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "25"
     },
     {
       "name": "Tony Cárdenas",
       "email": null,
       "twitter": "RepCardenas",
-      "addresses": [
+      "address": [
         "2438 Rayburn House Office Building; Washington DC 20515-0529"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-C001097.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tony%20c%C3%A1rdenas-us%20representative.jpg",
       "phone": "202-225-6131",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "29"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

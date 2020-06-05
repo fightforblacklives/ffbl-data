@@ -15,7 +15,7 @@ callback({
       "name": "James D. Gailliard",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "9121 West Mount Dr;Rocky Mount, NC 27803",
         "300 N. Salisbury Street, Rm. 536;Raleigh, NC 27603-5925"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "James.Gailliard@ncleg.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NC",
       "district": "25"
     },
     {
       "name": "Rick Horner",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-400.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "16 West Jones Street, Rm. 2106;Raleigh, NC 27601-1096",
         "16 West Jones Street, Rm. 2106;Raleigh, NC 27601"
       ],
@@ -46,8 +46,8 @@ callback({
       "email": [
         "Rick.Horner@ncleg.net"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NC",
       "district": "11"
     },
@@ -55,28 +55,28 @@ callback({
       "name": "Richard Burr",
       "email": null,
       "twitter": "SenatorBurr",
-      "addresses": [
+      "address": [
         "217 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20burr-us%20senator.jpg",
       "phone": "202-224-3154",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Thom Tillis",
       "email": null,
       "twitter": "senthomtillis",
-      "addresses": [
+      "address": [
         "113 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thom%20tillis-us%20senator.jpg",
       "phone": "202-224-6342",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

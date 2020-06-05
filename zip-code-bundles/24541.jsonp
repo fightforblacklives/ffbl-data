@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Daniel W. Marshall, III",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-H0150",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20w.%20marshall%2C%20iii-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 439;Danville, Virginia 24543"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelDMarshall@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VA",
       "district": "14"
     },
     {
       "name": "Frank M. Ruff, Jr.",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Ruff15.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 332;Clarksville, Virginia 23927"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district15@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VA",
       "district": "15"
     },
@@ -50,39 +50,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Jones_Alonzo%2154371.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alonzo%20jones-mayor.jpg",
       "name": "Alonzo Jones",
       "phone": "434-250-3231",
       "email": "alonzo.jones@danvilleva.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Danville"
     }

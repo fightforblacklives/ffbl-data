@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Clinton Calabrese",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-calabrese_clinton_2018.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/clinton%20calabrese-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "613 Bergen Boulevard;Ridgefield, NJ 07657"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "AsmCalabrese@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "36"
     },
     {
       "name": "Gary S. Schaer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-schaer_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20s.%20schaer-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1 Howe Avenue, Suite 401;Passaic, NJ 07055"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "AsmSchaer@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "36"
     },
     {
       "name": "Paul A. Sarlo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-sarlo_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20a.%20sarlo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "496 Columbia Blvd., 1st Floor;Wood-Ridge, NJ 07075"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "SenSarlo@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "36"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

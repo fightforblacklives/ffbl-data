@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Harry Warren",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-630.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "201 Kingsbridge Rd;Salisbury, NC 28144",
         "300 N. Salisbury Street, Rm. 611;Raleigh, NC 27603-5925"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Harry.Warren@ncleg.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NC",
       "district": "76"
     },
     {
       "name": "Carl Ford",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-644.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "320 Ketchie Estate Rd, China Grove, NC 28023",
         "300 N. Salisbury Street, Rm. 608;Raleigh, NC 27603"
       ],
@@ -43,8 +43,8 @@ callback({
       "email": [
         "Carl.Ford@ncleg.net"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NC",
       "district": "33"
     },
@@ -52,39 +52,40 @@ callback({
       "name": "Richard Burr",
       "email": null,
       "twitter": "SenatorBurr",
-      "addresses": [
+      "address": [
         "217 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-B001135.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20burr-us%20senator.jpg",
       "phone": "202-224-3154",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Thom Tillis",
       "email": null,
       "twitter": "senthomtillis",
-      "addresses": [
+      "address": [
         "113 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-T000476.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thom%20tillis-us%20senator.jpg",
       "phone": "202-224-6342",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Alexander_Karen%2154797.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/karen%20k.%20alexander-mayor.jpg",
       "name": "Karen K. Alexander",
       "phone": "704-638-5231",
       "email": "karen.alexander@salisburync.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NC",
       "city": "Salisbury"
     }

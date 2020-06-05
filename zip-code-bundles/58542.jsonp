@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jeffery J. Magrum",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-jmagrum.jpg%3Fitok%3DtR0plIsn",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeffery%20j.%20magrum-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 467;Hazelton, ND;58544-0467"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "jmagrum@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "28"
     },
     {
       "name": "Mike Brandenburg",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-mbrandenburg.jpg%3Fitok%3DqF5aWQUM",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20brandenburg-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "8044 County Road 34;Edgeley, ND;58433-9761"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "mbrandenburg@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "28"
     },
     {
       "name": "Robert Erbele",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-rerbele.jpg%3Fitok%3DqV2qh8kT",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20erbele-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6512 51st Avenue SE;Lehr, ND;58460-9149"
       ],
       "phone": [
@@ -61,8 +61,8 @@ callback({
       "email": [
         "rerbele@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "28"
     },
@@ -70,42 +70,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

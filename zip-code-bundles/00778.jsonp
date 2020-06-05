@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Jesús Santa Rodríguez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-07f656f1-9872-43c9-bd32-64c6d86ea806.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jes%C3%BAs%20santa%20rodr%C3%ADguez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2do. PISO ANEXO"
       ],
       "phone": [
         "787-725-9153"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Popular Democrático",
+      "title": "State Representative",
+      "party": "Partido Popular Democrático",
       "state": "PR",
       "district": "31"
     },
     {
       "name": "José L. Dalmau Santiago",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-16.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20l.%20dalmau%20santiago-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "jldalmau@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Popular Democrático",
+      "title": "State Senator",
+      "party": "Partido Popular Democrático",
       "state": "PR",
       "district": "VII"
     },
     {
       "name": "Miguel A. Laureano Correa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-senador-23.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/miguel%20a.%20laureano%20correa-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "mlaureano@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VII"
     }

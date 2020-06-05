@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "John C. Schneck",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-ac15e3f8-38a8-465f-87da-9f340c977d4a_schnjc%5B1%5D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20c.%20schneck-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2078 Ohio Street, Bangor, ME 04401"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "John.Schneck@legislature.maine.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ME",
       "district": "126"
     },
     {
       "name": "Geoffrey M. Gratwick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-gratwick-bw-cropped.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/geoffrey%20m.%20gratwick-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1230 Kenduskeag Avenue;Bangor, ME 04401"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Geoffrey.Gratwick@legislature.maine.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ME",
       "district": "9"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Angus King",
       "email": null,
       "twitter": "SenAngusKing",
-      "addresses": [
+      "address": [
         "133 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angus%20king-us%20senator.jpg",
       "phone": "202-224-5344",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Susan Collins",
       "email": null,
       "twitter": "SenatorCollins",
-      "addresses": [
+      "address": [
         "413 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susan%20collins-us%20senator.jpg",
       "phone": "202-224-2523",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Janet Mills",
-      "addresses": [
+      "address": [
         "1 State House Station Augusta ME 04333"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/janet%20mills-governor.jpg",
       "twitter": "janetmillsforme",
       "email": null,
       "phone": "207-287-3531",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ME",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-Nichols_Sarah%2154456.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sarah%20nichols-mayor.jpg",
       "name": "Sarah Nichols",
       "phone": "207-944-0907",
       "email": "sarah.nichols@bangormaine.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ME",
       "city": "Bangor"
     }

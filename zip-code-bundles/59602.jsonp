@@ -14,15 +14,15 @@ callback({
       "name": "Becky Beard",
       "image": null,
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "406-492-6590"
       ],
       "email": [
         "becky4hd80@blackfoot.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MT",
       "district": "80"
     },
@@ -30,15 +30,15 @@ callback({
       "name": "Terry Gauthier",
       "image": null,
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "406-461-0744"
       ],
       "email": [
         "Terry.Gauthier@mtleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MT",
       "district": "40"
     },
@@ -46,53 +46,54 @@ callback({
       "name": "Jon Tester",
       "email": null,
       "twitter": "SenatorTester",
-      "addresses": [
+      "address": [
         "311 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-T000464.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jon%20tester-us%20senator.jpg",
       "phone": "202-224-2644",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Steve Daines",
       "email": null,
       "twitter": "SteveDaines",
-      "addresses": [
+      "address": [
         "320 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-D000618.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20daines-us%20senator.jpg",
       "phone": "202-224-2651",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Steve Bullock",
-      "addresses": [
+      "address": [
         "State Capitol Helena MT 59620-0801"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-MT.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20bullock-governor.jpg",
       "twitter": "governorbullock",
       "email": null,
       "phone": "406-444-3111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Smith_James%21499.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20%27jim%27%20e.%20smith-mayor.jpg",
       "name": "James 'Jim' E. Smith",
       "phone": "406-447-8000",
       "email": "jsmith@ci.helena.mt.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MT",
       "city": "Helena"
     }

@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Peggy Bennett",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-27A.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peggy%20bennett-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "307 State Office Building;St. Paul, MN 55155"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "rep.peggy.bennett@house.mn"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MN",
       "district": "27A"
     },
     {
       "name": "Dan Sparks",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-27Sparks.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "2009 7th Avenue SE;Austin, MN 55912"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "sen.dan.sparks@senate.mn"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic-Farmer-Labor",
+      "title": "State Senator",
+      "party": "Democratic-Farmer-Labor",
       "state": "MN",
       "district": "27"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Amy Klobuchar",
       "email": null,
       "twitter": "SenAmyKlobuchar",
-      "addresses": [
+      "address": [
         "425 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-K000367.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/amy%20klobuchar-us%20senator.jpg",
       "phone": "202-224-3244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MN",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tina Smith",
       "email": null,
       "twitter": "SenTinaSmith",
-      "addresses": [
+      "address": [
         "720 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001203.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tina%20smith-us%20senator.jpg",
       "phone": "202-224-5641",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MN",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tim Walz",
-      "addresses": [
+      "address": [
         "130 State Capitol 130 State Capitol St. Paul MN 55155"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-mn_walz.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20walz-governor.jpg",
       "twitter": "GovTimWalz",
       "email": null,
       "phone": "651-201-3400",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MN",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

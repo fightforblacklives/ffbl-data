@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Daniel Linville",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-linville_daniel.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20linville-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 475;Milton, WV, 25541",
         "Room 216E, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -24,16 +24,16 @@ callback({
       "email": [
         "daniel.linville@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "16"
     },
     {
       "name": "John Mandt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-mandt_john.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20mandt-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 218E, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "john.mandt@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "16"
     },
     {
       "name": "Sean Hornbuckle",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-hornbuckle_sean.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sean%20hornbuckle-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 591;Huntington, WV, 25710",
         "Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -62,16 +62,16 @@ callback({
       "email": [
         "sean.hornbuckle@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WV",
       "district": "16"
     },
     {
       "name": "Mike Woelfel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-woelfel_michael.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20woelfel-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "801 8th Street;Huntington, WV, 25701",
         "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -81,16 +81,16 @@ callback({
       "email": [
         "mike.woelfel@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WV",
       "district": "5"
     },
     {
       "name": "Robert H. Plymale",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-plymale_robert.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20h.%20plymale-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "206 Cliffview Drive;Huntington, WV, 25704",
         "Room 218W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -101,8 +101,8 @@ callback({
       "email": [
         "robert.plymale@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WV",
       "district": "5"
     },
@@ -110,53 +110,54 @@ callback({
       "name": "Joe Manchin",
       "email": null,
       "twitter": "Sen_JoeManchin",
-      "addresses": [
+      "address": [
         "306 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20manchin-us%20senator.jpg",
       "phone": "202-224-3954",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Shelley Capito",
       "email": null,
       "twitter": "SenCapito",
-      "addresses": [
+      "address": [
         "172 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20capito-us%20senator.jpg",
       "phone": "202-224-6472",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Jim Justice",
-      "addresses": [
+      "address": [
         "1900 Kanawha Blvd. East Charleston WV 25305"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20justice-governor.jpg",
       "twitter": "wvgovernor",
       "email": null,
       "phone": "304-558-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-Williams_Steve%21534.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20williams-mayor.jpg",
       "name": "Steve Williams",
       "phone": "304-696-5540",
       "email": "williamss@huntingtonwv.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WV",
       "city": "Huntington"
     }

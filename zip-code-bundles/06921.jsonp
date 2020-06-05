@@ -12,7 +12,7 @@ callback({
       "name": "David Michel",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "4 Rockledge Drive;Stamford, CT 06902",
         "Legislative Office Building;Room 4037;Hartford, CT 06106"
       ],
@@ -23,8 +23,8 @@ callback({
       "email": [
         "David.Michel@cga.ct.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CT",
       "district": "146"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "Carlo Leone",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "88 Houston Terrace;Stamford, CT 06902",
         "Legislative Office Building;Room 2300;Hartford, CT 06106"
       ],
@@ -40,8 +40,8 @@ callback({
         "860-240-8600"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CT",
       "district": "27"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Christopher Murphy",
       "email": null,
       "twitter": "senmurphyoffice",
-      "addresses": [
+      "address": [
         "136 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-M001169.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christopher%20murphy-us%20senator.jpg",
       "phone": "202-224-4041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Richard Blumenthal",
       "email": null,
       "twitter": "SenBlumenthal",
-      "addresses": [
+      "address": [
         "706 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-B001277.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20blumenthal-us%20senator.jpg",
       "phone": "202-224-2823",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ned Lamont",
-      "addresses": [
+      "address": [
         "210 Capitol Avenue Hartford CT 06106"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-ct_lamont.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ned%20lamont-governor.jpg",
       "twitter": "GovNedLamont",
       "email": null,
       "phone": "800-406-1527\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Martin_David%211124.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20martin-mayor.jpg",
       "name": "David Martin",
       "phone": "203-977-4150",
       "email": "mayormartin@stamfordct.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CT",
       "city": "Stamford"
     }

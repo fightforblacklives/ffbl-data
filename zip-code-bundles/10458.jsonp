@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "José Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-078.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20rivera-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "One Fordham Plaza;Suite 1008 10th Floor;Bronx, NY 10458",
         "LOB 536;Albany, NY 12248"
       ],
@@ -27,16 +27,16 @@ callback({
       "email": [
         "RiveraJ@nyassembly.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NY",
       "district": "78"
     },
     {
       "name": "Gustavo Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-%252801-29-14%2529%2520Rivera-HS-%2520009.jpg%3Fitok%3DNy0U7p_x",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gustavo%20rivera-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "172 State Street, Capitol Building;Albany,, NY 12247"
       ],
       "phone": [
@@ -45,8 +45,8 @@ callback({
       "email": [
         "grivera@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NY",
       "district": "33"
     },
@@ -54,84 +54,84 @@ callback({
       "name": "Adriano Espaillat",
       "email": null,
       "twitter": "RepEspaillat",
-      "addresses": [
+      "address": [
         "1630 Longworth House Office Building; Washington DC 20515-3213"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/81-E000297.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adriano%20espaillat-us%20representative.jpg",
       "phone": "202-225-4365",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "13"
     },
     {
       "name": "Alexandria Ocasio-Cortez",
       "email": null,
       "twitter": "RepAOC",
-      "addresses": [
+      "address": [
         "229 Cannon House Office Building; Washington DC 20515-3214"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-O000172.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alexandria%20ocasio-cortez-us%20representative.jpg",
       "phone": "202-225-3965",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "14"
     },
     {
       "name": "José Serrano",
       "email": null,
       "twitter": "RepJoseSerrano",
-      "addresses": [
+      "address": [
         "2354 Rayburn House Office Building; Washington DC 20515-3215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-S000248.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20serrano-us%20representative.jpg",
       "phone": "202-225-4361",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "15"
     },
     {
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

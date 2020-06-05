@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Trent Kittleman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-kittleman02.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/trent%20kittleman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "202 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Trent.Kittleman@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MD",
       "district": "9A"
     },
     {
       "name": "Warren E. Miller",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-miller.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/warren%20e.%20miller-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "403 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "warren.miller@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MD",
       "district": "9A"
     },
     {
       "name": "Katie Fry Hester",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-hester01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/katie%20fry%20hester-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "304 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "katie.hester@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "9"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

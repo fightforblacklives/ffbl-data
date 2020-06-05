@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Alma Hernandez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-HERNANDEZ_A.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alma%20hernandez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 122;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -24,8 +24,8 @@ callback({
       "email": [
         "ahernandez@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AZ",
       "district": "3"
     },
@@ -33,7 +33,7 @@ callback({
       "name": "Andres Cano",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 332;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "acano@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AZ",
       "district": "3"
     },
     {
       "name": "Sally Ann Gonzales",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-GONZALES.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sally%20ann%20gonzales-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate;1700 West Washington;Room Room 314;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "sgonzales@azleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "AZ",
       "district": "3"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Kyrsten Sinema",
       "email": null,
       "twitter": "SenatorSinema",
-      "addresses": [
+      "address": [
         "317 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyrsten%20sinema-us%20senator.jpg",
       "phone": "202-224-4521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Martha McSally",
       "email": null,
       "twitter": "SenMcSallyAZ",
-      "addresses": [
+      "address": [
         "404 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martha%20mcsally-us%20senator.jpg",
       "phone": "202-224-2235",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Ducey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Phoenix AZ 85007"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20ducey-governor.jpg",
       "twitter": "dougducey",
       "email": null,
       "phone": "602-542-4331",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Romero_Romero%2154772.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/regina%20romero-mayor.jpg",
       "name": "Regina Romero",
       "phone": "520-791-4201",
       "email": "mayor.romero@tucsonaz.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AZ",
       "city": "Tucson"
     }

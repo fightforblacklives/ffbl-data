@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Nick Rush",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-H0245",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nick%20rush-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1591;Christiansburg, Virginia 24068"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelNRush@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VA",
       "district": "7"
     },
     {
       "name": "David R. Suetterlein",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Sutterlein19.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 20237;Roanoke, Virginia 24018"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district19@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VA",
       "district": "19"
     },
@@ -50,28 +50,28 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

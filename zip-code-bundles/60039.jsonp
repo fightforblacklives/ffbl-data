@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Steven Reick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-%7BD4845B6E-9A2E-4F0E-9F70-503B2E5891CA%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20reick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1072 Lake Avenue;Woodstock, IL 60098",
         "225-N Stratton Office Building;Springfield, IL 62706"
       ],
@@ -23,16 +23,16 @@ callback({
         "217-782-1717"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IL",
       "district": "63"
     },
     {
       "name": "Craig Wilcox",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-%7BE397F861-68AA-4CC2-9A23-50B9A8E13031%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/craig%20wilcox-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5400 W. Elm St.;Suite 103;McHenry, IL 60050",
         "105D Capitol Building;Springfield, IL 62706"
       ],
@@ -41,8 +41,8 @@ callback({
         "217-782-8000"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IL",
       "district": "32"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-Shepley_Aaron%211688.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/aaron%20t.%20shepley-mayor.jpg",
       "name": "Aaron T. Shepley",
       "phone": "815-459-2020",
       "email": "comments@crystallake.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Crystal Lake"
     }

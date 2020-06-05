@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Brandon Vick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-vick.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brandon%20vick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "465 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "Brandon.Vick@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WA",
       "district": "18"
     },
     {
       "name": "Larry Hoff",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-hoff.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hoff-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "406 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "Larry.Hoff@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WA",
       "district": "18"
     },
     {
       "name": "Ann Rivers",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-rivers.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ann%20rivers-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "204 Irv Newhouse Building;PO Box 40418;Olympia, WA 98504"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "Ann.Rivers@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WA",
       "district": "18"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-McEnerny-Ogle_Anne%2153973.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anne%20mcenerny-ogle-mayor.jpg",
       "name": "Anne McEnerny-Ogle",
       "phone": "360-487-8629",
       "email": "anne.mcenerny-ogle@cityofvancouver.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Vancouver"
     }

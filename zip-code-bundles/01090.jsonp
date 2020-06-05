@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Joseph F. Wagner",
-      "image": "https://malegislature.gov/Legislators/Profile/170/JFW1.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "333 Front Street, Suite 3;Chicopee, MA 01013",
         "24 Beacon St.;Room 234;Boston, MA, 02133"
       ],
@@ -25,8 +25,8 @@ callback({
       "email": [
         "Joseph.Wagner@mahouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MA",
       "district": "Eighth Hampden"
     },
@@ -34,53 +34,54 @@ callback({
       "name": "Edward Markey",
       "email": null,
       "twitter": "SenMarkey",
-      "addresses": [
+      "address": [
         "255 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-M000133.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/edward%20markey-us%20senator.jpg",
       "phone": "202-224-2742",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Elizabeth Warren",
       "email": null,
       "twitter": "SenWarren",
-      "addresses": [
+      "address": [
         "309 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-W000817.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elizabeth%20warren-us%20senator.jpg",
       "phone": "202-224-4543",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Charlie Baker",
-      "addresses": [
+      "address": [
         "State House, Room 360 Boston MA 02133"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-MA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charlie%20baker-governor.jpg",
       "twitter": "charliebakerma",
       "email": null,
       "phone": "617-725-4005",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Reichelt_William%2153938.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20c.%20reichelt-mayor.jpg",
       "name": "William C. Reichelt",
       "phone": "413-263-3041",
       "email": "wreichelt@townofwestspringfield.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MA",
       "city": "West Springfield"
     }

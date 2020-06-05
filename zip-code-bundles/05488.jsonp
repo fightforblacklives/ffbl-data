@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Brian K. Savage",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-Savage.Brian.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20k.%20savage-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "17 Linda Ave.;Swanton, VT 05488",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -25,16 +25,16 @@ callback({
         "brianklynnb@comcast.net",
         "bsavage@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VT",
       "district": "Franklin-4"
     },
     {
       "name": "Marianna Gamache",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MGamache.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marianna%20gamache-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 435;Swanton, VT 05488",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -44,16 +44,16 @@ callback({
       "email": [
         "mgamache@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VT",
       "district": "Franklin-4"
     },
     {
       "name": "Corey Parent",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-Parent.Corey.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/corey%20parent-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "21 Bluff Lane;St. Albans, VT 05478",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -63,16 +63,16 @@ callback({
       "email": [
         "CParent@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VT",
       "district": "Franklin"
     },
     {
       "name": "Randy Brock",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-RBrock.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20brock-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2396 Highgate Rd.;St. Albans, VT 05478",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -82,8 +82,8 @@ callback({
       "email": [
         "rbrock@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VT",
       "district": "Franklin"
     },
@@ -91,42 +91,42 @@ callback({
       "name": "Bernard Sanders",
       "email": null,
       "twitter": "SenSanders",
-      "addresses": [
+      "address": [
         "332 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20sanders-us%20senator.jpg",
       "phone": "202-224-5141",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Patrick Leahy",
       "email": null,
       "twitter": "SenatorLeahy",
-      "addresses": [
+      "address": [
         "437 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20leahy-us%20senator.jpg",
       "phone": "202-224-4242",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Scott",
-      "addresses": [
+      "address": [
         "109 State Street 109 State Street Montpelier VT 05609"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20scott-governor.jpg",
       "twitter": "govphilscott",
       "email": null,
       "phone": "802-828-3333",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

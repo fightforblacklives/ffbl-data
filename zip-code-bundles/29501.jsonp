@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Wallace H. \"Jay\" Jordan, Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-0957954431.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wallace%20h.%20%22jay%22%20jordan%2C%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "626 W. Evans St.Florence 29501",
         "327A Blatt Bldg.Columbia 29201"
       ],
@@ -23,16 +23,16 @@ callback({
         "803-212-6785"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SC",
       "district": "63"
     },
     {
       "name": "Hugh K. Leatherman, Sr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-1068181690.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/hugh%20k.%20leatherman%2C%20sr.-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1817 Pineland Ave.Florence 29501",
         "111 Gressette Bldg.Columbia 29201"
       ],
@@ -41,8 +41,8 @@ callback({
         "803-212-6640"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SC",
       "district": "31"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Wukela_Stephen%21394.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20j.%20wukela-mayor.jpg",
       "name": "Stephen J. Wukela",
       "phone": "843-669-5634",
       "email": "swukela@cityofflorence.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Florence"
     }

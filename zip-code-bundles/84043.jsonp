@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "A. Cory Maloy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-MALOYC.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/a.%20cory%20maloy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "283 E 500 N, LEHI, UT, 84043"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "corymaloy@le.utah.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "UT",
       "district": "6"
     },
     {
       "name": "Jacob L. Anderegg",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-ANDERJL.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacob%20l.%20anderegg-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO BOX 934, LEHI, UT, 84043-0934"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "janderegg@le.utah.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "UT",
       "district": "13"
     },
@@ -51,53 +51,54 @@ callback({
       "name": "Mike Lee",
       "email": null,
       "twitter": "SenMikeLee",
-      "addresses": [
+      "address": [
         "361A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20lee-us%20senator.jpg",
       "phone": "202-224-5444",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mitt Romney",
       "email": null,
       "twitter": "SenatorRomney",
-      "addresses": [
+      "address": [
         "124 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mitt%20romney-us%20senator.jpg",
       "phone": "202-224-5251",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Gary Herbert",
-      "addresses": [
+      "address": [
         "State Capitol, Suite 200 Salt Lake City UT 84114"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20herbert-governor.jpg",
       "twitter": "herbertforutah",
       "email": null,
       "phone": "801-538-1000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-Johnson_Mark%2154063.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20i.%20johnson-mayor.jpg",
       "name": "Mark I. Johnson",
       "phone": "801-768-7100",
       "email": "mjohnson@lehi-ut.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "UT",
       "city": "Lehi"
     }

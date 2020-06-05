@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Bert Anderson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-bertanderson.jpg%3Fitok%3DlvbNifGi",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bert%20anderson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 604;Crosby, ND;58730-0604"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "bertanderson@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "2"
     },
     {
       "name": "Donald W. Longmuir",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-dlongmuir.jpg%3Fitok%3DZvTPmhE_",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donald%20w.%20longmuir-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1191;Stanley, ND;58784-1191"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "dlongmuir@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "2"
     },
     {
       "name": "David S. Rust",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-drust.jpg%3Fitok%3Dxg15UAQT",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20s.%20rust-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1198;Tioga, ND;58852-1198"
       ],
       "phone": [
@@ -61,8 +61,8 @@ callback({
       "email": [
         "drust@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "2"
     },
@@ -70,42 +70,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

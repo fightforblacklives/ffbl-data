@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Edward H. Thomson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-thomson_edward_2018.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/edward%20h.%20thomson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1967 Highway 34, Bldg. C, Suite 202;Wall Township, NJ 07719"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AsmThomson@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "30"
     },
     {
       "name": "Sean T. Kean",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-kean_sean_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sean%20t.%20kean-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1967 Highway 34, Bldg. C, Suite 202;Wall Township, NJ 07719"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AsmKean@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "30"
     },
     {
       "name": "Robert W. Singer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-singer_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20w.%20singer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1771 Madison Ave., Suite 202;Lakewood, NJ 08701"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenSinger@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "30"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-0034N00002dfY7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20m.%20kanitra-mayor.jpg",
       "name": "Paul M. Kanitra",
       "phone": "(202) 556-5040",
       "email": "pkanitra@pointbeach.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Point Pleasant Beach"
     }

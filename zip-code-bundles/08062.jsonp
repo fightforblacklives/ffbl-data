@@ -13,23 +13,23 @@ callback({
   "people": [
     {
       "name": "William F. Moen Jr",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-moen_william_2019.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20f.%20moen%20jr-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "AsmMoen@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "5"
     },
     {
       "name": "William W. Spearman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-spearman_william_2018a.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20w.%20spearman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "515 White Horse Pike;Audubon, NJ 08106"
       ],
       "phone": [
@@ -38,16 +38,16 @@ callback({
       "email": [
         "AsmSpearman@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NJ",
       "district": "5"
     },
     {
       "name": "Nilsa Cruz-Perez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-cruzperez_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nilsa%20cruz-perez-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "231 Market Street;Camden, NJ 08102"
       ],
       "phone": [
@@ -56,8 +56,8 @@ callback({
       "email": [
         "SenCruzPerez@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NJ",
       "district": "5"
     },
@@ -65,42 +65,42 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

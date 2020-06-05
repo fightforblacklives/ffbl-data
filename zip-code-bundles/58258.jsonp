@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Corey Mock",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-crmock.jpg%3Fitok%3DoibEbWx5",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/corey%20mock-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 12542;Grand Forks, ND;58208-2542"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "crmock@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ND",
       "district": "18"
     },
     {
       "name": "Steve Vetter",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-smvetter.jpg%3Fitok%3DwayATzmb",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20vetter-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "804 South 17th Street;Grand Forks, ND;58201-4241"
       ],
       "phone": [
@@ -42,24 +42,24 @@ callback({
       "email": [
         "smvetter@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "18"
     },
     {
       "name": "Scott Meyer",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-scottmeyer.jpg%3Fitok%3DMJ0iC94E",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20meyer-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "218-791-7655"
       ],
       "email": [
         "scottmeyer@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "18"
     },
@@ -67,42 +67,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Don L. Scott",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-H0322",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/don%20l.%20scott-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         ";,"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelDScott@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "80"
     },
     {
       "name": "L. Louise Lucas",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Lucas2018.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 700;Portsmouth, Virginia 23705-0700"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district18@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "18"
     },
@@ -50,39 +50,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Rowe_John%2153232.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20l.%20rowe%20jr.-mayor.jpg",
       "name": "John L. Rowe Jr.",
       "phone": "757-393-8639",
       "email": "mayor@portsmouthva.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Portsmouth"
     }

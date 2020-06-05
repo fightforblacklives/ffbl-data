@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jeanne McNeill",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-1793.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20mcneill-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1080 Schadt Avenue Whitehall, PA 18052",
         "G-05 Irvis Office Building PO Box 202133 Harrisburg, PA 17120-2133"
       ],
@@ -23,16 +23,16 @@ callback({
         "717-772-9902"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "PA",
       "district": "133"
     },
     {
       "name": "Lisa M. Boscola",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-179.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "1 East Broad Street Suite 120;Bethlehem, PA 18018",
         "Senate Box 203018;Harrisburg, PA 17120-3018;Room:;458 Main Capitol"
       ],
@@ -44,8 +44,8 @@ callback({
         "boscola@pasenate.com",
         "boscola@pasenate.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "PA",
       "district": "18"
     },
@@ -53,42 +53,42 @@ callback({
       "name": "Patrick Toomey",
       "email": null,
       "twitter": "SenToomey",
-      "addresses": [
+      "address": [
         "248 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20toomey-us%20senator.jpg",
       "phone": "202-224-4254",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "PA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Robert Casey",
       "email": null,
       "twitter": "SenBobCasey",
-      "addresses": [
+      "address": [
         "393 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20casey-us%20senator.jpg",
       "phone": "202-224-6324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "PA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tom Wolf",
-      "addresses": [
+      "address": [
         "Main Capitol Building, Room 225 Harrisburg PA 17120"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20wolf-governor.jpg",
       "twitter": "governortomwolf",
       "email": null,
       "phone": "717-787-2500",
-      "type": "Governor",
+      "title": "Governor",
       "state": "PA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

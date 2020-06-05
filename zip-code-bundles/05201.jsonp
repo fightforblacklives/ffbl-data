@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "James Carroll",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-Carroll.Jim.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20carroll-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "106 School St.;Bennington, VT 05201",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -24,16 +24,16 @@ callback({
       "email": [
         "jcarroll@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VT",
       "district": "Bennington-2-2"
     },
     {
       "name": "Mary A. Morrissey",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-MMorrissey.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20a.%20morrissey-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "228 Dewey St.;Bennington, VT 05201",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -43,16 +43,16 @@ callback({
       "email": [
         "mmorrissey@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "VT",
       "district": "Bennington-2-2"
     },
     {
       "name": "Brian Campion",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Campion.Brian.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20campion-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1292 West Rd.;Bennington, VT 05201",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -60,16 +60,16 @@ callback({
       "email": [
         "bcampion@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VT",
       "district": "Bennington"
     },
     {
       "name": "Dick Sears",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-RSears.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dick%20sears-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "343 Matteson Rd.;North Bennington, VT 05257",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -77,8 +77,8 @@ callback({
       "email": [
         "rsears@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VT",
       "district": "Bennington"
     },
@@ -86,42 +86,42 @@ callback({
       "name": "Bernard Sanders",
       "email": null,
       "twitter": "SenSanders",
-      "addresses": [
+      "address": [
         "332 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20sanders-us%20senator.jpg",
       "phone": "202-224-5141",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Patrick Leahy",
       "email": null,
       "twitter": "SenatorLeahy",
-      "addresses": [
+      "address": [
         "437 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20leahy-us%20senator.jpg",
       "phone": "202-224-4242",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Scott",
-      "addresses": [
+      "address": [
         "109 State Street 109 State Street Montpelier VT 05609"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20scott-governor.jpg",
       "twitter": "govphilscott",
       "email": null,
       "phone": "802-828-3333",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

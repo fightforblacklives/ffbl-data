@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Paul Tittl",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-1819.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 219 North;State Capitol;PO Box 8953;Madison, WI 53708"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Rep.Tittl@legis.wisconsin.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WI",
       "district": "25"
     },
     {
       "name": "Devin LeMahieu",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-1907.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 409 South;State Capitol;Madison, WI 53707-7882"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Sen.LeMahieu@legis.wisconsin.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WI",
       "district": "9"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Ron Johnson",
       "email": null,
       "twitter": "SenRonJohnson",
-      "addresses": [
+      "address": [
         "328 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20johnson-us%20senator.jpg",
       "phone": "202-224-5323",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tammy Baldwin",
       "email": null,
       "twitter": "SenatorBaldwin",
-      "addresses": [
+      "address": [
         "709 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20baldwin-us%20senator.jpg",
       "phone": "202-224-5653",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tony Evers",
-      "addresses": [
+      "address": [
         "115 East State Capitol Madison WI 53707"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tony%20evers-governor.jpg",
       "twitter": "GovEvers",
       "email": null,
       "phone": "608-266-1212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-Nickels_Justin%21691.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/justin%20nickels-mayor.jpg",
       "name": "Justin Nickels",
       "phone": "920-686-6980",
       "email": "jnickels@manitowoc.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WI",
       "city": "Manitowoc"
     }

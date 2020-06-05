@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Randall Scott \"Randy\" Maggard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-4758.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randall%20scott%20%22randy%22%20maggard-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Creekside Center; 35358 State Road 54; Zephyrhills, FL 33541-1942",
         "1101 The Capitol; 402 South Monroe St; Tallahassee, FL 32399-1300"
       ],
@@ -24,16 +24,16 @@ callback({
         "850-717-5038"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "38"
     },
     {
       "name": "Wilton Simpson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-s10_5104.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wilton%20simpson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4076 Commercial Way; Spring Hill, FL 34606",
         "420 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -41,8 +41,8 @@ callback({
       "email": [
         "simpson.wilton.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "10"
     },
@@ -50,70 +50,70 @@ callback({
       "name": "Daniel Webster",
       "email": null,
       "twitter": "RepWebster",
-      "addresses": [
+      "address": [
         "1210 Longworth House Office Building; Washington DC 20515-0911"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-W000806.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20webster-us%20representative.jpg",
       "phone": "202-225-1002",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "11"
     },
     {
       "name": "Gus Bilirakis",
       "email": null,
       "twitter": "RepGusBilirakis",
-      "addresses": [
+      "address": [
         "2227 Rayburn House Office Building; Washington DC 20515-0912"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-B001257.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gus%20bilirakis-us%20representative.jpg",
       "phone": "202-225-5755",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "12"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

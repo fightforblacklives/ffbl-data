@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "John Hambrick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-Hambrick%2CS.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hambrick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1930 Village Center Circle, Suite 3-419;Las Vegas, NV 89134-6245"
       ],
       "phone": [
@@ -25,22 +25,22 @@ callback({
       "email": [
         "John.Hambrick@asm.state.nv.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NV",
       "district": "2"
     },
     {
       "name": "Marilyn Dondero Loop",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-DonderoLoop.Marilyn.92.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marilyn%20dondero%20loop-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "9811 W. Charleston Blvd., Suite 2-420;Las Vegas, NV 89117-7528"
       ],
       "phone": [],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NV",
       "district": "8"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Catherine Cortez Masto",
       "email": null,
       "twitter": "sencortezmasto",
-      "addresses": [
+      "address": [
         "516 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/catherine%20cortez%20masto-us%20senator.jpg",
       "phone": "202-224-3542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jacky Rosen",
       "email": null,
       "twitter": "SenJackyRosen",
-      "addresses": [
+      "address": [
         "144 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacky%20rosen-us%20senator.jpg",
       "phone": "202-224-6244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Stephen Sisolak",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Carson City NV 89701"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20sisolak-governor.jpg",
       "twitter": "GovSisolak",
       "email": null,
       "phone": "775-684-5670",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

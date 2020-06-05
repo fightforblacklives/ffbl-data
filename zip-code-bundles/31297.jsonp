@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Danny Mathis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-MathisDanny4959.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/danny%20mathis-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 531;Cochran, GA 31014",
         "401-E Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
@@ -22,16 +22,16 @@ callback({
       "email": [
         "danny.mathis@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "GA",
       "district": "144"
     },
     {
       "name": "David Lucas",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-LucasDavid157.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20lucas-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2594 Saratoga Drive;Macon, GA 31211",
         "110-D State Capitol;Atlanta, GA 30334"
       ],
@@ -42,8 +42,8 @@ callback({
       "email": [
         "david.lucas@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "GA",
       "district": "26"
     },
@@ -51,67 +51,68 @@ callback({
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-Reichert_Robert%21678.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20a.b.%20reichert-mayor.jpg",
       "name": "Robert A.B. Reichert",
       "phone": "478-751-7170",
       "email": "reichert@maconbibb.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Macon"
     }

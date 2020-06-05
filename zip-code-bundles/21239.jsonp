@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Curt Anderson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-anderson.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/curt%20anderson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "314 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "curt.anderson@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "43"
     },
     {
       "name": "Maggie McIntosh",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/74-mcintosh.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maggie%20mcintosh-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "maggie.mcintosh@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "43"
     },
     {
       "name": "Regina T. Boyce",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-boyce01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/regina%20t.%20boyce-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "316 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -61,16 +61,16 @@ callback({
       "email": [
         "regina.boyce@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "43"
     },
     {
       "name": "Mary L. Washington",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-washington01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20l.%20washington-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "102 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -79,8 +79,8 @@ callback({
       "email": [
         "mary.washington@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "43"
     },
@@ -88,53 +88,54 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Young_Bernard%2154693.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20%27jack%27%20c.%20young-mayor.jpg",
       "name": "Bernard 'Jack' C. Young",
       "phone": "410-387-1847",
       "email": "mayor@baltimorecity.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MD",
       "city": "Baltimore"
     }

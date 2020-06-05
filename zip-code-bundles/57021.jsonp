@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Nancy Rasmussen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-Rasmussen_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nancy%20rasmussen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "28639 458th Ave.;Hurley, SD 57036"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Nancy.Rasmussen@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "17"
     },
     {
       "name": "Ray Ring",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-Ring_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ray%20ring-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "607 Sterling St.;Vermillion, SD 57069"
       ],
       "phone": [
@@ -41,22 +41,22 @@ callback({
       "email": [
         "Ray.Ring@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SD",
       "district": "17"
     },
     {
       "name": "Arthur L Rusch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Rusch_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/arthur%20l%20rusch-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "Arthur.Rusch@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "17"
     },
@@ -64,42 +64,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

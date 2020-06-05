@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Andrew Barkis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-barkis.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20barkis-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "122D Legislative Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Andrew.Barkis@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WA",
       "district": "2"
     },
     {
       "name": "J.T. Wilcox",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-wilcox.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.t.%20wilcox-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "335C Legislative Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "JT.Wilcox@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WA",
       "district": "2"
     },
     {
       "name": "Randi Becker",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-becker.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randi%20becker-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "316 Legislative Building;PO Box 40402;Olympia, WA 98504"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "Randi.Becker@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WA",
       "district": "2"
     },
@@ -69,67 +69,68 @@ callback({
       "name": "Denny Heck",
       "email": null,
       "twitter": "RepDennyHeck",
-      "addresses": [
+      "address": [
         "2452 Rayburn House Office Building; Washington DC 20515-4710"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-H001064.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/denny%20heck-us%20representative.jpg",
       "phone": "202-225-9740",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Woodards_Victoria%2153959.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/victoria%20woodards-mayor.jpg",
       "name": "Victoria Woodards",
       "phone": "253-591-5100",
       "email": "victoria.woodards@cityoftacoma.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Tacoma"
     }

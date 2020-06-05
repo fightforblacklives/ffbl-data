@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Dan Frankel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/44-84.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dan%20frankel-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2345 Murray Avenue Suite 205 Pittsburgh, PA 15217",
         "332 Main Capitol Building PO Box 202023 Harrisburg, PA 17120-2023"
       ],
@@ -21,16 +21,16 @@ callback({
         "717-705-1875"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "PA",
       "district": "23"
     },
     {
       "name": "Jay Costa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-254.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20costa-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "314 E. Eighth Ave.;Homestead, PA 15120",
         "Senate Box 203043;Harrisburg, PA 17120-3043;Room:;535 Main Capitol"
       ],
@@ -42,8 +42,8 @@ callback({
         "costa@pasenate.com",
         "costa@pasenate.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "PA",
       "district": "43"
     },
@@ -51,53 +51,54 @@ callback({
       "name": "Patrick Toomey",
       "email": null,
       "twitter": "SenToomey",
-      "addresses": [
+      "address": [
         "248 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-T000461.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20toomey-us%20senator.jpg",
       "phone": "202-224-4254",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "PA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Robert Casey",
       "email": null,
       "twitter": "SenBobCasey",
-      "addresses": [
+      "address": [
         "393 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-C001070.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20casey-us%20senator.jpg",
       "phone": "202-224-6324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "PA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tom Wolf",
-      "addresses": [
+      "address": [
         "Main Capitol Building, Room 225 Harrisburg PA 17120"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-PA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20wolf-governor.jpg",
       "twitter": "governortomwolf",
       "email": null,
       "phone": "717-787-2500",
-      "type": "Governor",
+      "title": "Governor",
       "state": "PA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-Peduto_William%21925.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20peduto-mayor.jpg",
       "name": "William Peduto",
       "phone": "412-255-2626",
       "email": "bill.peduto@pittsburghpa.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "PA",
       "city": "Pittsburgh"
     }

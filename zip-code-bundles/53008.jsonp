@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Adam Neylon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-1892.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 125 West;State Capitol;PO Box 8953;Madison, WI 53708"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Rep.Neylon@legis.wisconsin.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WI",
       "district": "98"
     },
     {
       "name": "Chris Kapenga",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-1905.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 15 South;State Capitol;Madison, WI 53707-7882"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Sen.Kapenga@legis.wisconsin.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WI",
       "district": "33"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Ron Johnson",
       "email": null,
       "twitter": "SenRonJohnson",
-      "addresses": [
+      "address": [
         "328 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-J000293.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20johnson-us%20senator.jpg",
       "phone": "202-224-5323",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tammy Baldwin",
       "email": null,
       "twitter": "SenatorBaldwin",
-      "addresses": [
+      "address": [
         "709 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-B001230.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20baldwin-us%20senator.jpg",
       "phone": "202-224-5653",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tony Evers",
-      "addresses": [
+      "address": [
         "115 East State Capitol Madison WI 53707"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-wi_evers.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tony%20evers-governor.jpg",
       "twitter": "GovEvers",
       "email": null,
       "phone": "608-266-1212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Ponto_Steven%21145.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20%27steve%27%20v.%20ponto-mayor.jpg",
       "name": "Steven 'Steve' V. Ponto",
       "phone": "262-787-3525",
       "email": "ponto@ci.brookfield.wi.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WI",
       "city": "Brookfield"
     }

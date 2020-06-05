@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Jake Fey",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-fey.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jake%20fey-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "415 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "Jake.Fey@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "27"
     },
     {
       "name": "Laurie Jinkins",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-jinkins.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/laurie%20jinkins-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "320 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "Laurie.Jinkins@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "27"
     },
     {
       "name": "Jeannie Darneille",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-darneille.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeannie%20darneille-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "237 John A. Cherberg Building;PO Box 40427;Olympia, WA 98504"
       ],
       "phone": [
@@ -61,8 +61,8 @@ callback({
       "email": [
         "Jeannie.Darneille@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "27"
     },
@@ -70,67 +70,68 @@ callback({
       "name": "Denny Heck",
       "email": null,
       "twitter": "RepDennyHeck",
-      "addresses": [
+      "address": [
         "2452 Rayburn House Office Building; Washington DC 20515-4710"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-H001064.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/denny%20heck-us%20representative.jpg",
       "phone": "202-225-9740",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "10"
     },
     {
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Woodards_Victoria%2153959.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/victoria%20woodards-mayor.jpg",
       "name": "Victoria Woodards",
       "phone": "253-591-5100",
       "email": "victoria.woodards@cityoftacoma.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Tacoma"
     }

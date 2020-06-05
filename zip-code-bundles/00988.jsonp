@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Angel N. Matos García",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-f043c758-336b-46e7-ab8b-9baaf811359e.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angel%20n.%20matos%20garc%C3%ADa-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Sótano Capitolio"
       ],
       "phone": [
         "787-622-4486"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Popular Democrático",
+      "title": "State Representative",
+      "party": "Partido Popular Democrático",
       "state": "PR",
       "district": "40"
     },
     {
       "name": "Eric Correa Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-senador-6.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20correa%20rivera-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "ecorrea@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VIII"
     },
     {
       "name": "Nayda C. Venegas Brown",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-senador-26.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nayda%20c.%20venegas%20brown-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "nvenegas@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "VIII"
     }

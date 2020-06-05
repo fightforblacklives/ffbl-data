@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Amy Sheldon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-Sheldon.Amy.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/amy%20sheldon-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 311;East Middlebury, VT 05740",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -22,16 +22,16 @@ callback({
       "email": [
         "asheldon@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VT",
       "district": "Addison-1"
     },
     {
       "name": "Robin Scheu",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Scheu.Robin.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robin%20scheu-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St.;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -41,16 +41,16 @@ callback({
       "email": [
         "RScheu@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VT",
       "district": "Addison-1"
     },
     {
       "name": "Christopher Bray",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Bray.Christopher.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christopher%20bray-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -60,16 +60,16 @@ callback({
       "email": [
         "cbray@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VT",
       "district": "Addison"
     },
     {
       "name": "Ruth Hardy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-Hardy.Ruth.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ruth%20hardy-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 343;East Middlebury, VT 05740",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -79,8 +79,8 @@ callback({
       "email": [
         "rhardy@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VT",
       "district": "Addison"
     },
@@ -88,42 +88,42 @@ callback({
       "name": "Bernard Sanders",
       "email": null,
       "twitter": "SenSanders",
-      "addresses": [
+      "address": [
         "332 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20sanders-us%20senator.jpg",
       "phone": "202-224-5141",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Patrick Leahy",
       "email": null,
       "twitter": "SenatorLeahy",
-      "addresses": [
+      "address": [
         "437 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20leahy-us%20senator.jpg",
       "phone": "202-224-4242",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Scott",
-      "addresses": [
+      "address": [
         "109 State Street 109 State Street Montpelier VT 05609"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20scott-governor.jpg",
       "twitter": "govphilscott",
       "email": null,
       "phone": "802-828-3333",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

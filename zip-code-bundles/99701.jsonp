@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Barton LeBon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-leb.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barton%20lebon-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "State Capitol Room 502; Juneau AK, 99801"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Representative.Barton.LeBon@akleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AK",
       "district": "1"
     },
     {
       "name": "Scott Kawasaki",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-kaw.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20kawasaki-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1292 Sadler Way Suite 308;Fairbanks AK, 99701",
         "State Capitol Room 7; Juneau AK, 99801"
       ],
@@ -43,8 +43,8 @@ callback({
       "email": [
         "Senator.Scott.Kawasaki@akleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "AK",
       "district": "A"
     },
@@ -52,53 +52,54 @@ callback({
       "name": "Dan Sullivan",
       "email": null,
       "twitter": "SenDanSullivan",
-      "addresses": [
+      "address": [
         "302 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-S001198.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dan%20sullivan-us%20senator.jpg",
       "phone": "202-224-3004",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Lisa Murkowski",
       "email": null,
       "twitter": "LisaMurkowski",
-      "addresses": [
+      "address": [
         "522 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-M001153.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20murkowski-us%20senator.jpg",
       "phone": "202-224-6665",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Dunleavy",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Juneau AK 99811-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-ak_dunleavy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dunleavy-governor.jpg",
       "twitter": "govdunleavy",
       "email": null,
       "phone": "907-465-3500",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-Matherly_Jim%2153134.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20matherly-mayor.jpg",
       "name": "Jim Matherly",
       "phone": "907-459-6793",
       "email": "jmatherly@fairbanks.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AK",
       "city": "Fairbanks"
     }

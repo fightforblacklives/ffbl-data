@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Brian K. Chirichiello",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-376917.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20k.%20chirichiello-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6 Rollins Street;Derry, NH 03038-2318"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "brian.chirichiello@verani.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "David C. Love",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "4 Maple Street #3;Derry, NH 03038-2345"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "davidlove4rep@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "David E. Milz",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-377147.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20e.%20milz-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "12R Bonnie Lane;Derry, NH 03038-4008"
       ],
       "phone": [
@@ -59,16 +59,16 @@ callback({
       "email": [
         "david.milz@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "James C. Webb",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-377050.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20c.%20webb-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6 Independence Avenue;Derry, NH 03038-4364"
       ],
       "phone": [
@@ -77,16 +77,16 @@ callback({
       "email": [
         "james.webb@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "John M. Potucek",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-377257.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20m.%20potucek-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "18 Sunset Avenue;Derry, NH 03038-4244"
       ],
       "phone": [
@@ -95,16 +95,16 @@ callback({
       "email": [
         "John.Potucek@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "John T. O'Connor",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-376993.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20t.%20o%27connor-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "13 Arrowhead Road;Derry, NH 03038-3715"
       ],
       "phone": [
@@ -113,16 +113,16 @@ callback({
       "email": [
         "john.o'connor@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "Katherine T. Prudhomme-O'Brien",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-377258.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/katherine%20t.%20prudhomme-o%27brien-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "19 Beacon Hill Road;Derry, NH 03038-4386"
       ],
       "phone": [
@@ -131,8 +131,8 @@ callback({
       "email": [
         "kpo@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
@@ -140,7 +140,7 @@ callback({
       "name": "Mary A. Eisner",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "21R Derryfield Road;Derry, NH 03038"
       ],
       "phone": [
@@ -149,16 +149,16 @@ callback({
       "email": [
         "Mary.Eisner@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "Phyllis M. Katsakiores",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-332247.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phyllis%20m.%20katsakiores-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1 Bradford Street;Derry, NH 03038-4258"
       ],
       "phone": [
@@ -167,8 +167,8 @@ callback({
       "email": [
         "pkatsakiores@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
@@ -176,7 +176,7 @@ callback({
       "name": "Stephen C. Pearson",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "221 Hampstead Road;Derry, NH 03038-4814"
       ],
       "phone": [
@@ -185,16 +185,16 @@ callback({
       "email": [
         "Steve.Pearson@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 6"
     },
     {
       "name": "Regina Birdsell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-19.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/regina%20birdsell-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 102-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -203,8 +203,8 @@ callback({
       "email": [
         "Regina.Birdsell@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "19"
     },
@@ -212,53 +212,54 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-Wetherbee_Neil%2154690.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/neil%20wetherbee-mayor.jpg",
       "name": "Neil Wetherbee",
       "phone": "603-548-3935",
       "email": "neilwetherbee@derrynh.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NH",
       "city": "Derry"
     }

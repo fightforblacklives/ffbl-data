@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Gayle Manning",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-55.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gayle%20manning-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;12th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rep55@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "OH",
       "district": "55"
     },
     {
       "name": "Nathan H. Manning",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-2916.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nathan%20h.%20manning-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;Ground Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sd13@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "OH",
       "district": "13"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-Whitfield_Frank%2154884.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/frank%20whitfield-mayor.jpg",
       "name": "Frank Whitfield",
       "phone": "440-326-1550",
       "email": "fwhitfield@cityofelyria.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OH",
       "city": "Elyria"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Chad Brown",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-rep60.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chad%20brown-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "57835 Plaquemine Street;Plaquemine, LA 70764"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "brownc@legis.la.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "LA",
       "district": "60"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "Edward J. \"Ed\" Price",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "2109 S. Burnside Ave.;Suite C;Gonzales, LA 70737"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "pricee@legis.la.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "LA",
       "district": "2"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Bill Cassidy",
       "email": null,
       "twitter": "SenBillCassidy",
-      "addresses": [
+      "address": [
         "520 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-C001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20cassidy-us%20senator.jpg",
       "phone": "202-224-5824",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "LA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Kennedy",
       "email": null,
       "twitter": "SenJohnKennedy",
-      "addresses": [
+      "address": [
         "416 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-K000393.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20kennedy-us%20senator.jpg",
       "phone": "202-224-4623",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "LA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Bel Edwards",
-      "addresses": [
+      "address": [
         "P.O. Box 94004 Baton Rouge LA 70804-9004"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-LA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20bel%20edwards-governor.jpg",
       "twitter": "louisianagov",
       "email": null,
       "phone": "225-342-7015",
-      "type": "Governor",
+      "title": "Governor",
       "state": "LA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

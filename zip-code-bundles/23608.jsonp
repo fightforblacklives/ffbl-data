@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Marcia S. \"Cia\" Price",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-H0284",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marcia%20s.%20%22cia%22%20price-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 196;Newport News, Virginia 23607"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelMPrice@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "95"
     },
     {
       "name": "T. Montgomery \"Monty\" Mason",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Mason01.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P. O. Box 232;Williamsburg, Virginia 23187"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district01@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "1"
     },
@@ -50,39 +50,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-Price_McKinley%21814.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mckinley%20l.%20price%20dds-mayor.jpg",
       "name": "McKinley L. Price DDS",
       "phone": "757-926-8403",
       "email": "mayorsoffice@nnva.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Newport News"
     }

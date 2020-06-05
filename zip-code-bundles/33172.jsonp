@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Daniel Perez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-4690.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20perez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "7901 Southwest 24th Street; Miami, FL 33155-6524",
         "1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -24,16 +24,16 @@ callback({
         "850-717-5116"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "116"
     },
     {
       "name": "Manny Diaz Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-s36_5343.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/manny%20diaz%20jr.-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "306 Senate Building;404 South Monroe Street;Tallahassee, FL 32399-1100"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "diaz.manny.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "36"
     },
@@ -51,81 +51,82 @@ callback({
       "name": "Donna Shalala",
       "email": null,
       "twitter": "RepShalala",
-      "addresses": [
+      "address": [
         "1320 Longworth House Office Building; Washington DC 20515-0927"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-S001206.jpg",
+      "image": null,
       "phone": "202-225-3931",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "27"
     },
     {
       "name": "Mario Diaz-Balart",
       "email": null,
       "twitter": "MarioDB",
-      "addresses": [
+      "address": [
         "404 Cannon House Office Building; Washington DC 20515-0925"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-D000600.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mario%20diaz-balart-us%20representative.jpg",
       "phone": "202-225-4211",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "25"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Suarez_Francis%2153960.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/francis%20x.%20suarez-mayor.jpg",
       "name": "Francis X. Suarez",
       "phone": "305-250-5300",
       "email": "fsuarez@miamigov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Miami"
     }

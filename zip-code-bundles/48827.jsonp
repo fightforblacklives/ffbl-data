@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Sarah Lightner",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-HS_LIGHTNER_0119-214x300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sarah%20lightner-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "N0999 Anderson House Office Building;124 North Capitol Avenue;Lansing, MI 48933"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "SarahLightner@house.mi.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MI",
       "district": "65"
     },
     {
       "name": "Tom Barrett",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/18-HS_Barrett_0117_DSC0729-214x300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20barrett-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3200 Binsfeld Bldg"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "SenTBarrett@senate.michigan.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MI",
       "district": "24"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "Debbie Stabenow",
       "email": null,
       "twitter": "SenStabenow",
-      "addresses": [
+      "address": [
         "731 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debbie%20stabenow-us%20senator.jpg",
       "phone": "202-224-4822",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gary Peters",
       "email": null,
       "twitter": "SenGaryPeters",
-      "addresses": [
+      "address": [
         "724 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20peters-us%20senator.jpg",
       "phone": "202-224-6221",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gretchen Whitmer",
-      "addresses": [
+      "address": [
         "P.O. Box 30013 Lansing MI 48909"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gretchen%20whitmer-governor.jpg",
       "twitter": "gretchenwhitmer",
       "email": null,
       "phone": "517-373-3400",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

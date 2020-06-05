@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jennifer Johnston",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-jht.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jennifer%20johnston-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "State Capitol Room 430; Juneau AK, 99801"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Representative.Jennifer.Johnston@akleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AK",
       "district": "28"
     },
     {
       "name": "Cathy Giessel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-gie.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cathy%20giessel-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "State Capitol Room 111; Juneau AK, 99801"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Senator.Cathy.Giessel@akleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AK",
       "district": "N"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Dan Sullivan",
       "email": null,
       "twitter": "SenDanSullivan",
-      "addresses": [
+      "address": [
         "302 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-S001198.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dan%20sullivan-us%20senator.jpg",
       "phone": "202-224-3004",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Lisa Murkowski",
       "email": null,
       "twitter": "LisaMurkowski",
-      "addresses": [
+      "address": [
         "522 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-M001153.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20murkowski-us%20senator.jpg",
       "phone": "202-224-6665",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Dunleavy",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Juneau AK 99811-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-ak_dunleavy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dunleavy-governor.jpg",
       "twitter": "govdunleavy",
       "email": null,
       "phone": "907-465-3500",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

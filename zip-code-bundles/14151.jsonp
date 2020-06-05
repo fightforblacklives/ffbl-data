@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Sean Ryan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-149.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sean%20ryan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "65 Grant Street;Buffalo, NY 14213",
         "LOB 540;Albany, NY 12248"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "RyanS@nyassembly.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NY",
       "district": "149"
     },
     {
       "name": "Chris Jacobs",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-chris-jacobs.jpg%3Fitok%3DurXZhku-",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20jacobs-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Legislative Office Building;Albany,, NY 12247"
       ],
       "phone": [
@@ -43,8 +43,8 @@ callback({
       "email": [
         "jacobs@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NY",
       "district": "60"
     },
@@ -52,67 +52,68 @@ callback({
       "name": "Brian Higgins",
       "email": null,
       "twitter": "RepBrianHiggins",
-      "addresses": [
+      "address": [
         "2459 Rayburn House Office Building; Washington DC 20515-3226"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-H001038.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20higgins-us%20representative.jpg",
       "phone": "202-225-3306",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "26"
     },
     {
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-Davis_Rick%212903.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20davis-mayor.jpg",
       "name": "Rick Davis",
       "phone": "716-695-8645",
       "email": "mayor@tonawandacity.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NY",
       "city": "Tonawanda"
     }

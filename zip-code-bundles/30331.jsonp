@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Marie Metze",
-      "image": "http://www.house.ga.gov/SiteCollectionImages/MetzeMarie878.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marie%20metze-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 42626;Atlanta, GA 30311",
         "511-G Coverdell Legislative Office Bldg.;Atlanta, GA 30334"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "marie.metze@house.ga.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "GA",
       "district": "55"
     },
     {
       "name": "Horacena Tate",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-TateHoracena47.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/horacena%20tate-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121-A State Capitol;Atlanta, GA 30334",
         "121-A State Capitol;Atlanta, GA 30334"
       ],
@@ -44,8 +44,8 @@ callback({
       "email": [
         "horacena.tate@senate.ga.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "GA",
       "district": "38"
     },
@@ -53,81 +53,82 @@ callback({
       "name": "David Scott",
       "email": null,
       "twitter": "RepDavidScott",
-      "addresses": [
+      "address": [
         "225 Cannon House Office Building; Washington DC 20515-1013"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-S001157.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20scott-us%20representative.jpg",
       "phone": "202-225-2939",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "GA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "13"
     },
     {
       "name": "David Perdue",
       "email": null,
       "twitter": "sendavidperdue",
-      "addresses": [
+      "address": [
         "455 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000612.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20perdue-us%20senator.jpg",
       "phone": "202-224-3521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "John Isakson",
       "email": null,
       "twitter": "SenatorIsakson",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-I000055.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20isakson-us%20senator.jpg",
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kelly Loeffler",
       "email": null,
       "twitter": "SenatorLoeffler",
-      "addresses": [
+      "address": [
         "131 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-L000594.jpg",
+      "image": null,
       "phone": "202-224-3643",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brian Kemp",
-      "addresses": [
+      "address": [
         "203 State Capitol Atlanta GA 30334"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-ga_kemp.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20kemp-governor.jpg",
       "twitter": "GovKemp",
       "email": null,
       "phone": "404-656-1776\n",
-      "type": "Governor",
+      "title": "Governor",
       "state": "GA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-Bottoms_Keisha%2153974.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keisha%20lance%20bottoms-mayor.jpg",
       "name": "Keisha Lance Bottoms",
       "phone": "404-330-6100",
       "email": "kljohnson@atlantaga.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "GA",
       "city": "Atlanta"
     }

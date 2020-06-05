@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Scott Sanford",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-2715.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20sanford-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 West Virginia Street, Suite #103;McKinney, TX 75069",
         "Room E1.408;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -23,16 +23,16 @@ callback({
         "512-463-0356"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "TX",
       "district": "70"
     },
     {
       "name": "Angela Paxton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-Paxton_2019.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angela%20paxton-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 12068 Capitol Station Austin, TX 78711",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -41,8 +41,8 @@ callback({
         "512-463-0108"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "TX",
       "district": "8"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-Fuller_George%2153517.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/george%20fuller-mayor.jpg",
       "name": "George Fuller",
       "phone": "972-547-7507",
       "email": "gfuller@mckinneytexas.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "McKinney"
     }

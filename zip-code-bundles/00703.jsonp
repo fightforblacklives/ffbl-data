@@ -12,49 +12,49 @@ callback({
   "people": [
     {
       "name": "Jorge Navarro Suárez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-a795cb0e-f3c1-4ec1-ad0c-62ea643b1553.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jorge%20navarro%20su%C3%A1rez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1er. PISO CAPITOLIO Carr. 169 KM.9.2Bo. Ríos, Sector La MudaGuaynabo, PR."
       ],
       "phone": [
         "787-724-4464"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "5"
     },
     {
       "name": "Henry Neumann Zayas",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-senador-7.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20neumann%20zayas-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "hneumann@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     },
     {
       "name": "Miguel A. Romero Lugo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-senador-25.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/miguel%20a.%20romero%20lugo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "mromero@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "I"
     }

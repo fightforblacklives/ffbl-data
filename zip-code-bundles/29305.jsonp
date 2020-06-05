@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Josiah Magnuson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-1130965774.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/josiah%20magnuson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "304D Blatt Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6876"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SC",
       "district": "38"
     },
     {
       "name": "Thomas D. \"Tom\" Corbin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-0402272679.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20d.%20%22tom%22%20corbin-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1139 Bailey Mill Rd.Travelers Rest 29690",
         "501 Gressette Bldg.Columbia 29201"
       ],
@@ -39,8 +39,8 @@ callback({
         "803-212-6100"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SC",
       "district": "5"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-White_Junie%211106.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/junie%20l.%20white-mayor.jpg",
       "name": "Junie L. White",
       "phone": "864-596-2033",
       "email": "cmcintyre@cityofspartanburg.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Spartanburg"
     }

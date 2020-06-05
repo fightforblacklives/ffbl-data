@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Charniele L. Herring",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-H0208",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charniele%20l.%20herring-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 11779;Alexandria, Virginia 22312"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "DelCHerring@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "46"
     },
     {
       "name": "George L. Barker",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Barker39.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 10527;Alexandria, Virginia 22310"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "district39@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "39"
     },
@@ -50,39 +50,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/65-Wilson_Justin%2154486.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/justin%20wilson-mayor.jpg",
       "name": "Justin Wilson",
       "phone": "703-746-4500",
       "email": "justin.wilson@alexandriava.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Alexandria"
     }

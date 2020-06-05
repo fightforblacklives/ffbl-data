@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "David Richter",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-dwrichter.jpg%3Fitok%3DAAkJSJAw",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20richter-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2414 22nd Street West;Williston, ND;58801-6500"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "dwrichter@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "1"
     },
     {
       "name": "Gary R. Sukut",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-gsukut.jpg%3Fitok%3D2dfR74-O",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20r.%20sukut-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1603 Fourth Avenue East;Williston, ND;58801-4324"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "gsukut@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "1"
     },
     {
       "name": "Brad Bekkedahl",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-bbekkedahl.jpg%3Fitok%3D4wr0McdI",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20bekkedahl-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "418 12th Avenue West;Williston, ND;58801-4730"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "bbekkedahl@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "1"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

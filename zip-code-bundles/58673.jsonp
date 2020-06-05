@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Clayton Fegley",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-cfegley.jpg%3Fitok%3DHMYRyWbV",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/clayton%20fegley-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10801 240th Street NW;Berthold, ND;58718-9619"
       ],
       "phone": [
@@ -22,16 +22,16 @@ callback({
       "email": [
         "cfegley@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "4"
     },
     {
       "name": "Terry B. Jones",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-tbjones.jpg%3Fitok%3DC86kXZ2-",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/terry%20b.%20jones-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1964;New Town, ND;58763-1964"
       ],
       "phone": [
@@ -40,16 +40,16 @@ callback({
       "email": [
         "tbjones@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "4"
     },
     {
       "name": "Jordan Kannianen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-jkannianen.jpg%3Fitok%3DoOdYTdSy",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jordan%20kannianen-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "8011 51st Street NW;Stanley, ND;58784-9562"
       ],
       "phone": [
@@ -58,8 +58,8 @@ callback({
       "email": [
         "jkannianen@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "4"
     },
@@ -67,42 +67,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

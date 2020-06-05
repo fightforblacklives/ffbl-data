@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Donald Valdez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-2020a_valdez%252C%2520donald.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donald%20valdez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 307;Denver, CO 80203"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "donald.valdez.house@state.co.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CO",
       "district": "62"
     },
     {
       "name": "Larry Crowder",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-2020a_crowder%252C%2520larry.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20crowder-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 346;Denver, CO 80203"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "larry.crowder.senate@state.co.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CO",
       "district": "35"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Cory Gardner",
       "email": null,
       "twitter": "SenCoryGardner",
-      "addresses": [
+      "address": [
         "354 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20gardner-us%20senator.jpg",
       "phone": "202-224-5941",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Bennet",
       "email": null,
       "twitter": "SenatorBennet",
-      "addresses": [
+      "address": [
         "261 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20bennet-us%20senator.jpg",
       "phone": "202-224-5852",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jared Polis",
-      "addresses": [
+      "address": [
         "136 State Capitol Denver CO 80203-1792"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jared%20polis-governor.jpg",
       "twitter": "jaredpolis",
       "email": null,
       "phone": "303-866-2471",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Gradisar_Nicholas%2154656.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nicholas%20a.%20gradisar-mayor.jpg",
       "name": "Nicholas A. Gradisar",
       "phone": "719-924-5449",
       "email": "ngradisar@pueblo.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CO",
       "city": "Pueblo"
     }

@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Tasha Boerner Horvath",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-a76_t_b_horvath.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tasha%20boerner%20horvath-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "804 Pier View Way, Suite 100;Oceanside, CA 92054",
         "P.O. Box 942849;Sacramento, CA 94249-0076"
       ],
@@ -23,16 +23,16 @@ callback({
         "916-319-2076"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "76"
     },
     {
       "name": "Patricia C. Bates",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-bates-patricia.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patricia%20c.%20bates-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "169 Saxony Road, Suite 103, Encinitas, CA 92024",
         "State Capitol, Room 305, Sacramento, CA 95814-4900"
       ],
@@ -41,8 +41,8 @@ callback({
         "916-651-4036"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CA",
       "district": "36"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Mike Levin",
       "email": null,
       "twitter": "RepMikeLevin",
-      "addresses": [
+      "address": [
         "1626 Longworth House Office Building; Washington DC 20515-0549"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-L000593.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20levin-us%20representative.jpg",
       "phone": "202-225-3906",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "49"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-Ritter_Judy%211214.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/judy%20ritter-mayor.jpg",
       "name": "Judy Ritter",
       "phone": "760-726-1340",
       "email": "jritter@cityofvista.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CA",
       "city": "Vista"
     }

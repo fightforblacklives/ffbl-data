@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Charles Pelkey",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-pelkeycH45.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20pelkey-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "311 S. Fourth Street, Laramie WY 82070"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Charles.Pelkey@wyoleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WY",
       "district": "45"
     },
     {
       "name": "Chris Rothfuss",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-RothfussS9.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20rothfuss-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P O Box 1791, Laramie WY 82073"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Chris.Rothfuss@wyoleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WY",
       "district": "9"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "John Barrasso",
       "email": null,
       "twitter": "SenJohnBarrasso",
-      "addresses": [
+      "address": [
         "307 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-B001261.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20barrasso-us%20senator.jpg",
       "phone": "202-224-6441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Enzi",
       "email": null,
       "twitter": "SenatorEnzi",
-      "addresses": [
+      "address": [
         "379A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-E000285.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20enzi-us%20senator.jpg",
       "phone": "202-224-3424",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mark Gordon",
-      "addresses": [
+      "address": [
         "State Capitol Building, Room 124 Cheyenne WY 82002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-wy_gordon.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20gordon-governor.jpg",
       "twitter": "GordonGovernor",
       "email": null,
       "phone": "307-777-7434",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-Shumway_Joe%2154579.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20shumway-mayor.jpg",
       "name": "Joe Shumway",
       "phone": "307-742-9951",
       "email": "jshumway@cityoflaramie.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WY",
       "city": "Laramie"
     }

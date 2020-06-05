@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Tyrone Thompson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-Thompson.Tyrone.269.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tyrone%20thompson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "117 Fox Crossing Avenue;North Las Vegas, NV 89084-5207"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Tyrone.Thompson@asm.state.nv.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NV",
       "district": "17"
     },
     {
       "name": "Pat Spearman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-Spearman%2CP.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pat%20spearman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5575 Simmons Street, Suite 1-174;North Las Vegas, NV 89031-9009"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "Pat.Spearman@sen.state.nv.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NV",
       "district": "1"
     },
@@ -51,53 +51,54 @@ callback({
       "name": "Catherine Cortez Masto",
       "email": null,
       "twitter": "sencortezmasto",
-      "addresses": [
+      "address": [
         "516 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-C001113.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/catherine%20cortez%20masto-us%20senator.jpg",
       "phone": "202-224-3542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jacky Rosen",
       "email": null,
       "twitter": "SenJackyRosen",
-      "addresses": [
+      "address": [
         "144 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000608.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jacky%20rosen-us%20senator.jpg",
       "phone": "202-224-6244",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Stephen Sisolak",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Carson City NV 89701"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-nv_sisolak.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20sisolak-governor.jpg",
       "twitter": "GovSisolak",
       "email": null,
       "phone": "775-684-5670",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Goodman_Carolyn%21621.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carolyn%20g.%20goodman-mayor.jpg",
       "name": "Carolyn G. Goodman",
       "phone": "702-229-6241",
       "email": "earochi@lasvegasnevada.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NV",
       "city": "Las Vegas"
     }

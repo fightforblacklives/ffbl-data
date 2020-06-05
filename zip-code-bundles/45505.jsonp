@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "J. Kyle Koehler",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-79.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.%20kyle%20koehler-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "77 S. High St;13th Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "rep79@ohiohouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "OH",
       "district": "79"
     },
     {
       "name": "Bob D. Hackett",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-2836.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bob%20d.%20hackett-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate Building;1 Capitol Square;1st Floor;Columbus, OH 43215"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sd10@ohiosenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "OH",
       "district": "10"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Robert Portman",
       "email": null,
       "twitter": "SenRobPortman",
-      "addresses": [
+      "address": [
         "448 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-P000449.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20portman-us%20senator.jpg",
       "phone": "202-224-3353",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Sherrod Brown",
       "email": null,
       "twitter": "SenSherrodBrown",
-      "addresses": [
+      "address": [
         "503 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-B000944.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sherrod%20brown-us%20senator.jpg",
       "phone": "202-224-2315",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mike DeWine",
-      "addresses": [
+      "address": [
         "77 South High Street, 30th Floor Columbus OH 43215"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-oh_dewine.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dewine-governor.jpg",
       "twitter": "GovMikeDeWine",
       "email": null,
       "phone": "614-466-3555",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Copeland_Warren%211112.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/warren%20r.%20copeland-mayor.jpg",
       "name": "Warren R. Copeland",
       "phone": "937-324-7700",
       "email": "wcopeland@wittenberg.edu",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OH",
       "city": "Springfield"
     }

@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Holly T. Schepisi",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-schepisi_holly_2020.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "287 Kinderkamack Rd.;Westwood, NJ 07675"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "AswSchepisi@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "39"
     },
     {
       "name": "Robert Auth",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-auth_robert_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20auth-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1069 Ringwood Ave., Suite 312;Haskell, NJ 07420"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "AsmAuth@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "39"
     },
     {
       "name": "Gerald Cardinale",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-cardinale_bw.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gerald%20cardinale-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "350 Madison Ave.;Cresskill, NJ 07626"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "SenCardinale@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "39"
     },
@@ -66,53 +66,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-Sayegh_Andre%2154376.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andre%20sayegh-mayor.jpg",
       "name": "Andre Sayegh",
       "phone": "973-321-1600",
       "email": "mayorsayegh@patersonnj.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Paterson"
     }

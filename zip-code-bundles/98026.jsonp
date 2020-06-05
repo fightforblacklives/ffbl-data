@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Lillian Ortiz-Self",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-ortiz-self.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lillian%20ortiz-self-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "420 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Lillian.Ortiz-Self@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "21"
     },
     {
       "name": "Strom Peterson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-peterson.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/strom%20peterson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "324 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "Strom.Peterson@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "21"
     },
     {
       "name": "Marko Liias",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-liias.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marko%20liias-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "309 Legislative Building;PO Box 40421;Olympia, WA 98504"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "Marko.Liias@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "21"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/91-Nelson_Mike%2154871.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20nelson-mayor.jpg",
       "name": "Mike Nelson",
       "phone": "425-771-0247",
       "email": "michael.nelson@edmondswa.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Edmonds"
     }

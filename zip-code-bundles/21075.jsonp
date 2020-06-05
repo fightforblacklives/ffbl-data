@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Jen Terrasa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-terrasa01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jen%20terrasa-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "215 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "jen.terrasa@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "13"
     },
     {
       "name": "Shane E. Pendergrass",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-pendergrass.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shane%20e.%20pendergrass-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "241 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "shane.pendergrass@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "13"
     },
     {
       "name": "Vanessa E. Atterbeary",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-atterbeary01.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/vanessa%20e.%20atterbeary-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "424 House Office Building;6 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -61,16 +61,16 @@ callback({
       "email": [
         "Vanessa.Atterbeary@house.state.md.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "MD",
       "district": "13"
     },
     {
       "name": "Guy Guzzone",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-guzzone.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/guy%20guzzone-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401"
       ],
       "phone": [
@@ -79,8 +79,8 @@ callback({
       "email": [
         "guy.guzzone@senate.state.md.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "MD",
       "district": "13"
     },
@@ -88,42 +88,42 @@ callback({
       "name": "Benjamin Cardin",
       "email": null,
       "twitter": "SenatorCardin",
-      "addresses": [
+      "address": [
         "509 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-C000141.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20cardin-us%20senator.jpg",
       "phone": "202-224-4524",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Van Hollen",
       "email": null,
       "twitter": "ChrisVanHollen",
-      "addresses": [
+      "address": [
         "110 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-V000128.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20van%20hollen-us%20senator.jpg",
       "phone": "202-224-4654",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MD",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Larry Hogan",
-      "addresses": [
+      "address": [
         "100 State Circle Annapolis MD 21401"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-MD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/larry%20hogan-governor.jpg",
       "twitter": "larryhogan",
       "email": null,
       "phone": "410-974-3901",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

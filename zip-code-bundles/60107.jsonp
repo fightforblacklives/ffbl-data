@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Fred Crespo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-%7BB92F7A2F-6517-4A3F-87B3-56FAA240285F%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/fred%20crespo-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1014 E. Schaumburg Road;Streamwood, IL 60107",
         "109 Capitol Building;Springfield, IL 62706"
       ],
@@ -25,16 +25,16 @@ callback({
       "email": [
         "fred@fredcrespo.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "44"
     },
     {
       "name": "Cristina Castro",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-%7BF09EB558-EB8D-48B1-91F0-EF47A07632F5%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cristina%20castro-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "164 Division Street;Suite 102;Elgin, IL 60120",
         "121D Capitol Building;Springfield, IL 62706"
       ],
@@ -43,8 +43,8 @@ callback({
         "217-782-7746"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "22"
     },
@@ -52,53 +52,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-Roth_Billie%211134.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/billie%20d.%20roth-mayor.jpg",
       "name": "Billie D. Roth",
       "phone": "630-736-3800",
       "email": "mayor@streamwood.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Streamwood"
     }

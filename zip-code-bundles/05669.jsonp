@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Peter Reed",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-PReed.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20reed-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -23,16 +23,16 @@ callback({
         "preed@leg.state.vt.us",
         "preed@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Independent",
+      "title": "State Representative",
+      "party": "Independent",
       "state": "VT",
       "district": "Orange-Washington-Addison"
     },
     {
       "name": "Philip Jay Hooper",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-Hooper.Philip.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/philip%20jay%20hooper-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2771 VT-Route 66;Randolph Center, VT 05061",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -42,16 +42,16 @@ callback({
       "email": [
         "JHooper@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VT",
       "district": "Orange-Washington-Addison"
     },
     {
       "name": "Andrew Perchlik",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-Perchlik.Andrew.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20perchlik-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St.;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -61,16 +61,16 @@ callback({
       "email": [
         "aperchlik@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic/Progressive",
+      "title": "State Senator",
+      "party": "Democratic/Progressive",
       "state": "VT",
       "district": "Washington"
     },
     {
       "name": "Ann Cummings",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-Cummings.Ann.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ann%20cummings-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "24 Colonial Dr.;Montpelier, VT 05602",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -80,16 +80,16 @@ callback({
       "email": [
         "acummings@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VT",
       "district": "Washington"
     },
     {
       "name": "Anthony Pollina",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/8-Pollina.Anthony.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anthony%20pollina-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "93 Story Rd.;North Middlesex, VT 05682",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -100,8 +100,8 @@ callback({
         "apollinavt@gmail.com",
         "apollina@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Progressive/Democratic",
+      "title": "State Senator",
+      "party": "Progressive/Democratic",
       "state": "VT",
       "district": "Washington"
     },
@@ -109,42 +109,42 @@ callback({
       "name": "Bernard Sanders",
       "email": null,
       "twitter": "SenSanders",
-      "addresses": [
+      "address": [
         "332 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20sanders-us%20senator.jpg",
       "phone": "202-224-5141",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Patrick Leahy",
       "email": null,
       "twitter": "SenatorLeahy",
-      "addresses": [
+      "address": [
         "437 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20leahy-us%20senator.jpg",
       "phone": "202-224-4242",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Scott",
-      "addresses": [
+      "address": [
         "109 State Street 109 State Street Montpelier VT 05609"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20scott-governor.jpg",
       "twitter": "govphilscott",
       "email": null,
       "phone": "802-828-3333",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

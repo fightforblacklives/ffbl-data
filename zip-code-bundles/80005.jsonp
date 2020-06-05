@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Brianna Titone",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-2020a_titone%252C%2520brianna.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brianna%20titone-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 307;Denver, CO 80203"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "brianna.titone.house@state.co.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CO",
       "district": "27"
     },
     {
       "name": "Rachel Zenzinger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-2020a_zenzinger%252C%2520rachel.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rachel%20zenzinger-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 346;Denver, CO 80203"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "senatorrachelz@gmail.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CO",
       "district": "19"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Cory Gardner",
       "email": null,
       "twitter": "SenCoryGardner",
-      "addresses": [
+      "address": [
         "354 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20gardner-us%20senator.jpg",
       "phone": "202-224-5941",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Bennet",
       "email": null,
       "twitter": "SenatorBennet",
-      "addresses": [
+      "address": [
         "261 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20bennet-us%20senator.jpg",
       "phone": "202-224-5852",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jared Polis",
-      "addresses": [
+      "address": [
         "136 State Capitol Denver CO 80203-1792"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jared%20polis-governor.jpg",
       "twitter": "jaredpolis",
       "email": null,
       "phone": "303-866-2471",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Williams_Marc%2146.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20williams-mayor.jpg",
       "name": "Marc Williams",
       "phone": "720-898-7000",
       "email": "mwilliams@arvada.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CO",
       "city": "Arvada"
     }

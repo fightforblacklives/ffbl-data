@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Brooke Green",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-Green5374.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brooke%20green-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "285 W. Carter Street, Boise, ID 83706"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "bgreen@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ID",
       "district": "18"
     },
     {
       "name": "Ilana Rubel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-Rubel2888.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ilana%20rubel-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2750 Migratory Drive, Boise, ID 83706"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "irubel@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ID",
       "district": "18"
     },
     {
       "name": "Janie Ward-Engelking",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-Ward-Engelking2091.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/janie%20ward-engelking-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3578 S. Crosspoint Avenue, Boise, ID 83706"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "jwardengelking@senate.idaho.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ID",
       "district": "18"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "James Risch",
       "email": null,
       "twitter": "SenatorRisch",
-      "addresses": [
+      "address": [
         "483 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20risch-us%20senator.jpg",
       "phone": "202-224-2752",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Crapo",
       "email": null,
       "twitter": "MikeCrapo",
-      "addresses": [
+      "address": [
         "239 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20crapo-us%20senator.jpg",
       "phone": "202-224-6142",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brad Little",
-      "addresses": [
+      "address": [
         "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20little-governor.jpg",
       "twitter": "GovernorLittle",
       "email": null,
       "phone": "208-334-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-McLean_Lauren%2154801.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lauren%20mclean-mayor.jpg",
       "name": "Lauren McLean",
       "phone": "208-384-4422",
       "email": "mayor@cityofboise.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ID",
       "city": "Boise"
     }

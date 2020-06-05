@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Tom Daly",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-AD69-Daly.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20daly-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2400 East Katella Avenue, Suite 640;Anaheim, CA 92806",
         "P.O. Box 942849;Sacramento, CA 94249-0069"
       ],
@@ -25,16 +25,16 @@ callback({
         "916-319-2069"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "69"
     },
     {
       "name": "Ling Ling Chang",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-180625_chang_150x220.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ling%20ling%20chang-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1800 E. Lambert Road, Suite 150, Brea, CA 92821",
         "State Capitol, Room 4062, Sacramento, CA 95814-4900"
       ],
@@ -43,8 +43,8 @@ callback({
         "916-651-4029"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "CA",
       "district": "29"
     },
@@ -52,95 +52,96 @@ callback({
       "name": "Alan Lowenthal",
       "email": null,
       "twitter": "RepLowenthal",
-      "addresses": [
+      "address": [
         "108 Cannon House Office Building; Washington DC 20515-0547"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-L000579.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alan%20lowenthal-us%20representative.jpg",
       "phone": "202-225-7924",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "47"
     },
     {
       "name": "Gilbert Cisneros",
       "email": null,
       "twitter": "RepGilCisneros",
-      "addresses": [
+      "address": [
         "431 Cannon House Office Building; Washington DC 20515-0539"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C001123.jpg",
+      "image": null,
       "phone": "202-225-4111",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "39"
     },
     {
       "name": "J. Correa",
       "email": null,
       "twitter": "reploucorrea",
-      "addresses": [
+      "address": [
         "1039 Longworth House Office Building; Washington DC 20515-0546"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-C001110.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.%20correa-us%20representative.jpg",
       "phone": "202-225-2965",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "46"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-Sidhu_Harry%2154469.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harry%20sidhu-mayor.jpg",
       "name": "Harry Sidhu",
       "phone": "714-765-5247",
       "email": null,
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CA",
       "city": "Anaheim"
     }

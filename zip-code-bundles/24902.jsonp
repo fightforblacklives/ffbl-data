@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Cindy Lavender-Bowe",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-lavenderbowe_cindy.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20lavender-bowe-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room 230E, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "cindy.lavenderbowe@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WV",
       "district": "42"
     },
     {
       "name": "Jeff Campbell",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/37-campbell_jeff.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeff%20campbell-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "144 Old Oak Lane;Lewisburg, WV, 24901",
         "Room 6R-A, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -41,16 +41,16 @@ callback({
       "email": [
         "jeff.campbell@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WV",
       "district": "42"
     },
     {
       "name": "Kenny Mann",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-mann_kenny.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kenny%20mann-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5007 Hans Creek Road;Greenville, WV, 24945",
         "Room 441M, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -61,16 +61,16 @@ callback({
       "email": [
         "kenny.mann@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "WV",
       "district": "10"
     },
     {
       "name": "Stephen Baldwin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-baldwin_stephen.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20baldwin-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "237 Locust Street;Ronceverte, WV, 24970",
         "Room 203W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -80,8 +80,8 @@ callback({
       "email": [
         "stephen.baldwin@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WV",
       "district": "10"
     },
@@ -89,42 +89,42 @@ callback({
       "name": "Joe Manchin",
       "email": null,
       "twitter": "Sen_JoeManchin",
-      "addresses": [
+      "address": [
         "306 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20manchin-us%20senator.jpg",
       "phone": "202-224-3954",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Shelley Capito",
       "email": null,
       "twitter": "SenCapito",
-      "addresses": [
+      "address": [
         "172 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20capito-us%20senator.jpg",
       "phone": "202-224-6472",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Jim Justice",
-      "addresses": [
+      "address": [
         "1900 Kanawha Blvd. East Charleston WV 25305"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20justice-governor.jpg",
       "twitter": "wvgovernor",
       "email": null,
       "phone": "304-558-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

@@ -10,47 +10,47 @@ callback({
   "people": [
     {
       "name": "Manuel Claudio",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-196ce829-e9c4-4dab-b5e5-ca9328921565.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/manuel%20claudio-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-721-6040"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Representative",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "27"
     },
     {
       "name": "Luis A. Berdiel Rivera",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-senador-19.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/luis%20a.%20berdiel%20rivera-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "lberdiel@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "V"
     },
     {
       "name": "Nelson V. Cruz Santiago",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-sen_ncruz2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nelson%20v.%20cruz%20santiago-state%20senator.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [
         "787-724-2030"
       ],
       "email": [
         "ncruz@senado.pr.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Partido Nuevo Progresista",
+      "title": "State Senator",
+      "party": "Partido Nuevo Progresista",
       "state": "PR",
       "district": "V"
     }

@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Jeffrey D. Stenquist",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-STENQJ.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeffrey%20d.%20stenquist-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1192 DRAPER PAARKWAY 551, DRAPER, UT, 84020"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "jstenquist@le.utah.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "UT",
       "district": "51"
     },
     {
       "name": "Daniel McCay",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-MCCAYD.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20mccay-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "13307 HERITAGE FARM COVE, RIVERTON, UT, 84065"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "dmccay@le.utah.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "UT",
       "district": "11"
     },
@@ -51,53 +51,54 @@ callback({
       "name": "Mike Lee",
       "email": null,
       "twitter": "SenMikeLee",
-      "addresses": [
+      "address": [
         "361A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20lee-us%20senator.jpg",
       "phone": "202-224-5444",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mitt Romney",
       "email": null,
       "twitter": "SenatorRomney",
-      "addresses": [
+      "address": [
         "124 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mitt%20romney-us%20senator.jpg",
       "phone": "202-224-5251",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Gary Herbert",
-      "addresses": [
+      "address": [
         "State Capitol, Suite 200 Salt Lake City UT 84114"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20herbert-governor.jpg",
       "twitter": "herbertforutah",
       "email": null,
       "phone": "801-538-1000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-Walker_Troy%213372.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/troy%20k.%20walker-mayor.jpg",
       "name": "Troy K. Walker",
       "phone": "801-576-6513",
       "email": "troy.walker@draper.ut.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "UT",
       "city": "Draper"
     }

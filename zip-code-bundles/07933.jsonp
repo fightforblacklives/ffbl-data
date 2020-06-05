@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Jon M. Bramnick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-bramnick_jon_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jon%20m.%20bramnick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "251 North Ave. West, 2nd Floor;Westfield, NJ 07090"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "AsmBramnick@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "21"
     },
     {
       "name": "Nancy F. Munoz",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-munoz_nancy_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nancy%20f.%20munoz-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "57 Union Place, Suite 310;Summit, NJ 07901"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "AswMunoz@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "21"
     },
     {
       "name": "Thomas H. Kean Jr",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-thomas_kean_jr_2018.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20h.%20kean%20jr-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "425 North Ave. East, Suite C;Westfield, NJ 07090"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "SenKean@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "21"
     },
@@ -69,56 +69,56 @@ callback({
       "name": "Mikie Sherrill",
       "email": null,
       "twitter": "RepSherrill",
-      "addresses": [
+      "address": [
         "1208 Longworth House Office Building; Washington DC 20515-3011"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-S001207.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mikie%20sherrill-us%20representative.jpg",
       "phone": "202-225-5034",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "11"
     },
     {
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

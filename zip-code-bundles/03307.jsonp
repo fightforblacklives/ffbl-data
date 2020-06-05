@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "George L. Saunderson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-377322.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/george%20l.%20saunderson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "615 Lovejoy Road;Loudon, NH 03307-1109"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "George.Saunderson@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Merrimack 9"
     },
     {
       "name": "Howard M. Moffett",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-377148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/howard%20m.%20moffett-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 267;2 Baptist Rd;Canterbury, NH 03224-0267"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Howard.Moffett@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Merrimack 9"
     },
     {
       "name": "John Reagan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-17.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20reagan-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "John.Reagan111@gmail.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "17"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

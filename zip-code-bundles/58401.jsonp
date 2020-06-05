@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Bernie Satrom",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-blsatrom.jpg%3Fitok%3DmYaCmf1w",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernie%20satrom-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 950;Jamestown, ND;58402-0950"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "blsatrom@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "12"
     },
     {
       "name": "Jim Grueneich",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-jgrueneich.jpg%3Fitok%3DX3r_j1wM",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20grueneich-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3051 83 1/2 Avenue SE;Jamestown, ND;58401-9600"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "jgrueneich@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "12"
     },
     {
       "name": "John Grabinger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-jgrabinger.jpg%3Fitok%3DpTX8kDT_",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20grabinger-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1008 Eighth Avenue NE;Jamestown, ND;58401-3507"
       ],
       "phone": [
@@ -61,8 +61,8 @@ callback({
       "email": [
         "jgrabinger@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ND",
       "district": "12"
     },
@@ -70,42 +70,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

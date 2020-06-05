@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Charlene R. Fernandez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-FERNANDEZ.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charlene%20r.%20fernandez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 320;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "cfernandez@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AZ",
       "district": "4"
     },
     {
       "name": "Geraldine Peten",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-PETEN.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/geraldine%20peten-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "House of Representatives;1700 West Washington;Room Room 325;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "gpeten@azleg.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AZ",
       "district": "4"
     },
     {
       "name": "Lisa Otondo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-OTONDO.gif",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20otondo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Senate;1700 West Washington;Room Room 213;Phoenix, AZ 85007"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "lotondo@azleg.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "AZ",
       "district": "4"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Kyrsten Sinema",
       "email": null,
       "twitter": "SenatorSinema",
-      "addresses": [
+      "address": [
         "317 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/12-S001191.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyrsten%20sinema-us%20senator.jpg",
       "phone": "202-224-4521",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Martha McSally",
       "email": null,
       "twitter": "SenMcSallyAZ",
-      "addresses": [
+      "address": [
         "404 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-M001197.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martha%20mcsally-us%20senator.jpg",
       "phone": "202-224-2235",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Ducey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Phoenix AZ 85007"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/36-AZ.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20ducey-governor.jpg",
       "twitter": "dougducey",
       "email": null,
       "phone": "602-542-4331",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AZ",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-Meck_Jackie%213300.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jackie%20a.%20meck-mayor.jpg",
       "name": "Jackie A. Meck",
       "phone": "623-349-6949",
       "email": "jmeck@buckeyeaz.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AZ",
       "city": "Buckeye"
     }

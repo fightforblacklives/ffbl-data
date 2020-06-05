@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Lance R Koth",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lance%20r%20koth-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1311 Firesteel Dr.;Mitchell, SD 57301"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Lance.Koth@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "20"
     },
     {
       "name": "Paul R Miskimins",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-LegPlaceholder.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20r%20miskimins-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1225 Summit Dr.;Mitchell, SD 57301"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "Paul.Miskimins@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "20"
     },
     {
       "name": "Joshua Klumb",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Klumb_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joshua%20klumb-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "26296 401st Ave.;Mount Vernon, SD 57363"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Joshua.Klumb@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "20"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

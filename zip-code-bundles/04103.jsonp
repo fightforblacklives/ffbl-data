@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Michael F. Brennan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-3626b818-d26c-4777-99c6-0a04ef459fc3_brennan.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20f.%20brennan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "49 Wellington Road, Portland, ME 04103"
       ],
       "phone": [],
       "email": [
         "Michael.Brennan@legislature.maine.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ME",
       "district": "36"
     },
     {
       "name": "Benjamin M. Chipman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-benchipman.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20m.%20chipman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5 Mayo St #3;Portland, ME 04101"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "Ben.Chipman@legislature.maine.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ME",
       "district": "27"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Angus King",
       "email": null,
       "twitter": "SenAngusKing",
-      "addresses": [
+      "address": [
         "133 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-K000383.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angus%20king-us%20senator.jpg",
       "phone": "202-224-5344",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Susan Collins",
       "email": null,
       "twitter": "SenatorCollins",
-      "addresses": [
+      "address": [
         "413 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/30-C001035.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susan%20collins-us%20senator.jpg",
       "phone": "202-224-2523",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ME",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Janet Mills",
-      "addresses": [
+      "address": [
         "1 State House Station Augusta ME 04333"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-me_mills.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/janet%20mills-governor.jpg",
       "twitter": "janetmillsforme",
       "email": null,
       "phone": "207-287-3531",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ME",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Snyder_Kate%2154864.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kate%20snyder-mayor.jpg",
       "name": "Kate Snyder",
       "phone": "207-874-8941",
       "email": "ksnyder@portlandmaine.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ME",
       "city": "Portland"
     }

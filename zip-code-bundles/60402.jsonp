@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Elizabeth Hernandez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-%7B4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elizabeth%20hernandez-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6117 West Cermak Road;Cicero, IL 60804",
         "109 Capitol Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "repehernandez@yahoo.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "24"
     },
     {
       "name": "Steven M. Landek",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-%7BCB30B8CB-1FBB-4869-A78E-D08AF0616D74%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20m.%20landek-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "6215 W. 79th Street;Suite 1A;Burbank, IL 60459",
         "113 Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-0054"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "12"
     },
@@ -53,53 +53,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-Lovero_Robert%2196.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20j.%20lovero-mayor.jpg",
       "name": "Robert J. Lovero",
       "phone": "708-788-2660",
       "email": "rlovero@ci.berwyn.il.us",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Berwyn"
     }

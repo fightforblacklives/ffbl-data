@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jeff Hale",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-hale.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeff%20hale-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2303 Westwind Drive;Nesbit, MS ",
         "Room 400-F;P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -24,16 +24,16 @@ callback({
       "email": [
         "jhale@house.ms.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MS",
       "district": "24"
     },
     {
       "name": "David Parker",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/27-parker.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20parker-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4889 Bobo Place;Olive Branch, MS 38654",
         "Room 408;P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -44,8 +44,8 @@ callback({
       "email": [
         "dparker@senate.ms.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MS",
       "district": "2"
     },
@@ -53,53 +53,54 @@ callback({
       "name": "Cindy Hyde-Smith",
       "email": null,
       "twitter": "SenHydeSmith",
-      "addresses": [
+      "address": [
         "702 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20hyde-smith-us%20senator.jpg",
       "phone": "202-224-5054",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Roger Wicker",
       "email": null,
       "twitter": "SenatorWicker",
-      "addresses": [
+      "address": [
         "555 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/roger%20wicker-us%20senator.jpg",
       "phone": "202-224-6253",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tate Reeves",
-      "addresses": [
+      "address": [
         "P.O. Box 139 Jackson MS 39205"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tate%20reeves-governor.jpg",
       "twitter": "philbryantms",
       "email": null,
       "phone": "601-359-3150",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/84-Musselwhite_Darren%212811.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/darren%20musselwhite-mayor.jpg",
       "name": "Darren Musselwhite",
       "phone": "662-393-6939",
       "email": "dmusselwhite@southaven.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MS",
       "city": "Southaven"
     }

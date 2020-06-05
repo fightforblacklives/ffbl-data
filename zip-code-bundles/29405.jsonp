@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Marvin R. Pendarvis",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-1457812326.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marvin%20r.%20pendarvis-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 60715North Charleston 29419",
         "328A Blatt Bldg.Columbia 29201"
       ],
@@ -23,24 +23,24 @@ callback({
         "803-212-6716"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SC",
       "district": "113"
     },
     {
       "name": "Marlon E. Kimpson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-0994318063.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marlon%20e.%20kimpson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "508 Gressette Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6132"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "SC",
       "district": "42"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Summey_Keith%21827.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/r%20keith%20summey-mayor.jpg",
       "name": "R Keith Summey",
       "phone": "843-740-2504",
       "email": "mayor@northcharleston.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "North Charleston"
     }

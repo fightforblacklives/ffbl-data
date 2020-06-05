@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Jeion A. Ward",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-H0173",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeion%20a.%20ward-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 7310;Hampton, Virginia 23666"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "DelJWard@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "92"
     },
     {
       "name": "Mamie E. Locke",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Locke2012sm.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 9048;Hampton, Virginia 23670"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "district02@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "VA",
       "district": "2"
     },
@@ -51,39 +51,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/46-Tuck_Donnie%2153071.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donnie%20r.%20tuck-mayor.jpg",
       "name": "Donnie R. Tuck",
       "phone": "757-727-6315",
       "email": "dtuck@hampton.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Hampton"
     }

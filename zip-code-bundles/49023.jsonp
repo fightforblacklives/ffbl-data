@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Kim LaSata",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-HS_LaSata_0117_DSC0614-214x300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20lasata-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "S-309 State Capitol Building;Lansing, MI 48909"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "SenKLaSata@senate.michigan.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MI",
       "district": "21"
     },
@@ -32,53 +32,54 @@ callback({
       "name": "Debbie Stabenow",
       "email": null,
       "twitter": "SenStabenow",
-      "addresses": [
+      "address": [
         "731 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-S000770.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debbie%20stabenow-us%20senator.jpg",
       "phone": "202-224-4822",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gary Peters",
       "email": null,
       "twitter": "SenGaryPeters",
-      "addresses": [
+      "address": [
         "724 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-P000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20peters-us%20senator.jpg",
       "phone": "202-224-6221",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gretchen Whitmer",
-      "addresses": [
+      "address": [
         "P.O. Box 30013 Lansing MI 48909"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-mi_whitmer.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gretchen%20whitmer-governor.jpg",
       "twitter": "gretchenwhitmer",
       "email": null,
       "phone": "517-373-3400",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-Muhammad_Marcus%211463.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marcus%20muhammad-mayor.jpg",
       "name": "Marcus Muhammad",
       "phone": "269-927-8400",
       "email": "mmuhammad@cityofbentonharbormi.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "MI",
       "city": "Benton Harbor"
     }

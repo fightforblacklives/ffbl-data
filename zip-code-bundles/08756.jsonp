@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Brian E. Rumpf",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-rumpf_brian_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20e.%20rumpf-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "620 West Lacey Rd.;Forked River, NJ 08731"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "AsmRumpf@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "9"
     },
     {
       "name": "DiAnne C. Gove",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-gove_dianne_2020.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20c.%20gove-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "620 West Lacey Rd.;Forked River, NJ 08731"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "AswGove@njleg.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NJ",
       "district": "9"
     },
     {
       "name": "Christopher J. Connors",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-connors_chris_color.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christopher%20j.%20connors-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "620 West Lacey Rd.;Forked River, NJ 08731"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "SenConnors@njleg.org"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NJ",
       "district": "9"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "Cory Booker",
       "email": null,
       "twitter": "SenBooker",
-      "addresses": [
+      "address": [
         "717 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-B001288.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20booker-us%20senator.jpg",
       "phone": "202-224-3224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Robert Menendez",
       "email": null,
       "twitter": "SenatorMenendez",
-      "addresses": [
+      "address": [
         "528 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-M000639.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20menendez-us%20senator.jpg",
       "phone": "202-224-4744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Murphy",
-      "addresses": [
+      "address": [
         "The State House The State House Trenton NJ 08625"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-nj_gov_murphy.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20murphy-governor.jpg",
       "twitter": "GovMurphy",
       "email": null,
       "phone": "609-292-6000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NJ",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-Hill_Maurice%2154868.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maurice%20%27mo%27%20b.%20hill%20jr.-mayor.jpg",
       "name": "Maurice 'Mo' B. Hill Jr.",
       "phone": "732-341-1000",
       "email": "mhill@tomsrivertownship.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NJ",
       "city": "Toms River"
     }

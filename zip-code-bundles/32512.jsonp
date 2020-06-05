@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Robert Alexander \"Alex\" Andrade",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-4710.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20alexander%20%22alex%22%20andrade-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 401B; 226 South Palafox Place; Pensacola, FL 32502-5828",
         "1401 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5002"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "2"
     },
     {
       "name": "Doug Broxson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-s01_5194.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20broxson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "418 West Garden Street; 4th Floor; Room 403; Pensacola, FL 32502",
         "318 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "broxson.doug.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "1"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-Robinson_Grover%2154525.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/grover%20c.%20robinson%20iv-mayor.jpg",
       "name": "Grover C. Robinson IV",
       "phone": "850-435-1626",
       "email": "mayorrobinson@cityofpensacola.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Pensacola"
     }

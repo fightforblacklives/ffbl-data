@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Shevrin D. \"Shev\" Jones",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/20-4559.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shevrin%20d.%20%22shev%22%20jones-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1965 South State Road 7; West Park, FL 33023-6733",
         "319 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -21,16 +21,16 @@ callback({
         "850-717-5101"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "FL",
       "district": "101"
     },
     {
       "name": "Gary M. Farmer Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/40-s34_5198.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20m.%20farmer%20jr.-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "216 Senate Building;404 South Monroe Street;Tallahassee, FL 32399-1100"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "farmer.gary.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "34"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Levy_Josh%2153446.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/josh%20levy-mayor.jpg",
       "name": "Josh Levy",
       "phone": "954-921-3321",
       "email": "jlevy@hollywoodfl.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Hollywood"
     }

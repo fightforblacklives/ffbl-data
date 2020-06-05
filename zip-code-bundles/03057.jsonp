@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "David Woodbury",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-377193.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20woodbury-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "37 McCurdy Road;New Boston, NH 03070-4310"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "david.woodbury@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 5"
     },
@@ -32,7 +32,7 @@ callback({
       "name": "Donna M. Mombourquette",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 14;New Boston, NH 03070-0014"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "Donna.Mombourquette@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 5"
     },
@@ -50,7 +50,7 @@ callback({
       "name": "Jeanne Dietsch",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 105-A\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "Jeanne.Dietsch@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "9"
     },
@@ -68,42 +68,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

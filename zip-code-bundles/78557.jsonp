@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Sergio Muñoz Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-2060.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sergio%20mu%C3%B1oz%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "121 E. Tom Landry;Mission, TX 78572",
         "Room 4S.2;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -23,16 +23,16 @@ callback({
         "512-463-0704"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "TX",
       "district": "36"
     },
     {
       "name": "Juan \"Chuy\" Hinojosa",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-Hinojosa_84-0784D-006.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/juan%20%22chuy%22%20hinojosa-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "602 N. Staples Street, Suite 200 Corpus Christi, TX 78401",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -41,8 +41,8 @@ callback({
         "512-463-0120"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "20"
     },
@@ -50,67 +50,68 @@ callback({
       "name": "Vicente Gonzalez",
       "email": null,
       "twitter": "RepGonzalez",
-      "addresses": [
+      "address": [
         "113 Cannon House Office Building; Washington DC 20515-4315"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-G000581.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/vicente%20gonzalez-us%20representative.jpg",
       "phone": "202-225-2531",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "15"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Coronado_Sergio%2154365.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sergio%20coronado-mayor.jpg",
       "name": "Sergio Coronado",
       "phone": "956-843-2286",
       "email": "scoronado777@gmail.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "Hidalgo"
     }

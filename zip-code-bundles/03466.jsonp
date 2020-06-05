@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Cathryn A. Harvey",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-408479.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cathryn%20a.%20harvey-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 414;50 Forestview Drive;Spofford, NH 03462-0414"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "Cathryn.Harvey@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Cheshire 1"
     },
     {
       "name": "Lucy M. Weber",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-376668.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lucy%20m.%20weber-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "217 Old Keene Road;Walpole, NH 03608-4845"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "lwmcv@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Cheshire 1"
     },
     {
       "name": "Michael D. Abbott",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-377279.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20d.%20abbott-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 174;6 Riely Road;Hinsdale, NH 03451-0174"
       ],
       "phone": [
@@ -59,16 +59,16 @@ callback({
       "email": [
         "Michael.Abbott@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Cheshire 1"
     },
     {
       "name": "Paul S. Berch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-377068.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20s.%20berch-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "956 River Road;Westmoreland, NH 03467-4408"
       ],
       "phone": [
@@ -77,16 +77,16 @@ callback({
       "email": [
         "pberch@myfairpoint.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Cheshire 1"
     },
     {
       "name": "Jay Kahn",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-10.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20kahn-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 115\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -95,8 +95,8 @@ callback({
       "email": [
         "Jay.Kahn@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "10"
     },
@@ -104,42 +104,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Jerry T. Miller",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-house36.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20t.%20miller-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "702 Capital Ave;Annex Room 357C;Frankfort, KY 40601"
       ],
       "phone": [
@@ -25,16 +25,16 @@ callback({
       "email": [
         "Jerry.Miller@lrc.ky.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "KY",
       "district": "36"
     },
     {
       "name": "Paul Hornback",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-senate120.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20hornback-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "702 Capital Ave;Annex Room 203;Frankfort, KY 40601"
       ],
       "phone": [
@@ -43,8 +43,8 @@ callback({
       "email": [
         "Paul.Hornback@lrc.ky.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "KY",
       "district": "20"
     },
@@ -52,53 +52,54 @@ callback({
       "name": "Mitch McConnell",
       "email": null,
       "twitter": "McConnellPress",
-      "addresses": [
+      "address": [
         "317 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-M000355.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mitch%20mcconnell-us%20senator.jpg",
       "phone": "202-224-2541",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rand Paul",
       "email": null,
       "twitter": "RandPaul",
-      "addresses": [
+      "address": [
         "167 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-P000603.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rand%20paul-us%20senator.jpg",
       "phone": "202-224-4343",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "KY",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Andy Beshear",
-      "addresses": [
+      "address": [
         "700 Capitol Avenue, Suite 100 Frankfort KY 40601"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-ky_beshear.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andy%20beshear-governor.jpg",
       "twitter": "govandybeshear",
       "email": null,
       "phone": "785-296-3232",
-      "type": "Governor",
+      "title": "Governor",
       "state": "KY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-Fischer_Greg%21668.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20fischer-mayor.jpg",
       "name": "Greg Fischer",
       "phone": "502-574-2003",
       "email": "greg.fischer@louisvilleky.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "KY",
       "city": "Louisville"
     }

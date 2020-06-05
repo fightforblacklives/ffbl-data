@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Terry Norris",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-Norris.Terry.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/terry%20norris-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St.;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -25,16 +25,16 @@ callback({
         "tnorris@shoreham.net",
         "tnorris@leg.state.vt.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Independent",
+      "title": "State Representative",
+      "party": "Independent",
       "state": "VT",
       "district": "Addison-Rutland"
     },
     {
       "name": "Brian Collamore",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-Collamore.Brian.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20collamore-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "124 Patricia Ln.;Rutland, VT 05701",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -45,16 +45,16 @@ callback({
         "BCollam@aol.com",
         "bcollamore@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VT",
       "district": "Rutland"
     },
     {
       "name": "Cheryl Hooker",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/69-Hooker.Cheryl.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cheryl%20hooker-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "115 State St.;Montpelier, VT 05633",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -64,16 +64,16 @@ callback({
       "email": [
         "chooker@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic/Progressive",
+      "title": "State Senator",
+      "party": "Democratic/Progressive",
       "state": "VT",
       "district": "Rutland"
     },
     {
       "name": "James McNeil",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-McNeil.James.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20mcneil-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "137 Ruth Ave.;Rutland, VT 05701",
         "Vermont State House;115 State Street;Montpelier, VT 05633"
       ],
@@ -83,8 +83,8 @@ callback({
       "email": [
         "jmcneil@leg.state.vt.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VT",
       "district": "Rutland"
     },
@@ -92,42 +92,42 @@ callback({
       "name": "Bernard Sanders",
       "email": null,
       "twitter": "SenSanders",
-      "addresses": [
+      "address": [
         "332 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-S000033.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bernard%20sanders-us%20senator.jpg",
       "phone": "202-224-5141",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Independent",
+      "party": "Independent",
       "district": null
     },
     {
       "name": "Patrick Leahy",
       "email": null,
       "twitter": "SenatorLeahy",
-      "addresses": [
+      "address": [
         "437 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-L000174.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20leahy-us%20senator.jpg",
       "phone": "202-224-4242",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VT",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Phil Scott",
-      "addresses": [
+      "address": [
         "109 State Street 109 State Street Montpelier VT 05609"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-vt_scott.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20scott-governor.jpg",
       "twitter": "govphilscott",
       "email": null,
       "phone": "802-828-3333",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

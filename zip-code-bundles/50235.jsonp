@@ -13,23 +13,23 @@ callback({
   "people": [
     {
       "name": "Phil Thompson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D27028",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/phil%20thompson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [],
+      "address": [],
       "phone": [],
       "email": [
         "Phil.Thompson@legis.iowa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IA",
       "district": "47"
     },
     {
       "name": "Jerry Behn",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-photo%3Faction%3DgetPhoto%26ga%3D2019-2020%26pid%3D140",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jerry%20behn-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1313 Quill Ave, Boone, IA 50036"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "jerry.behn@legis.iowa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IA",
       "district": "24"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Charles Grassley",
       "email": null,
       "twitter": "ChuckGrassley",
-      "addresses": [
+      "address": [
         "135 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-G000386.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20grassley-us%20senator.jpg",
       "phone": "202-224-3744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Joni Ernst",
       "email": null,
       "twitter": "SenJoniErnst",
-      "addresses": [
+      "address": [
         "730 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-E000295.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joni%20ernst-us%20senator.jpg",
       "phone": "202-224-3254",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kim Reynolds",
-      "addresses": [
+      "address": [
         "State Capitol Des Moines IA 50319-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-ia_reynolds.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20reynolds-governor.jpg",
       "twitter": "terrybranstad",
       "email": null,
       "phone": "515- 281-5211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

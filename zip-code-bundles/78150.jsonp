@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Barbara Gervin-Hawkins",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-3445.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barbara%20gervin-hawkins-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3503 N.E. Parkway;San Antonio, TX 78218",
         "Room E1.212;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -23,16 +23,16 @@ callback({
         "512-463-0708"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "TX",
       "district": "120"
     },
     {
       "name": "José Menéndez",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-headshot.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20men%C3%A9ndez-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 12068 Capitol Station Austin, TX 78711",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -41,8 +41,8 @@ callback({
         "512-463-0126"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "26"
     },
@@ -50,56 +50,56 @@ callback({
       "name": "Henry Cuellar",
       "email": null,
       "twitter": "RepCuellar",
-      "addresses": [
+      "address": [
         "2372 Rayburn House Office Building; Washington DC 20515-4328"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-C001063.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20cuellar-us%20representative.jpg",
       "phone": "202-225-1640",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "28"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

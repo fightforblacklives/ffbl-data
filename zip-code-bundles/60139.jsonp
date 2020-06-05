@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Deborah Conroy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-%7B643B5E07-BEDA-400C-BBDD-8FADE7A97A38%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/deborah%20conroy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "28 S. Villa Ave.;Villa Park, IL 60181",
         "275-S Stratton Office Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "repdebconroy@gmail.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "46"
     },
     {
       "name": "Thomas Cullerton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-%7BA0AAC8CC-CA27-4DD9-9F4F-E1EA4C12B0E3%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20cullerton-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "338 South Ardmore Ave.;Villa Park, IL 60181",
         "123 Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-9463"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "23"
     },
@@ -53,53 +53,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-0036100000IFgAh.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/linda%20jackson-mayor.jpg",
       "name": "Linda Jackson",
       "phone": "630-260-6000x5302",
       "email": "ljackson@glendaleheights.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Glendale Heights"
     }

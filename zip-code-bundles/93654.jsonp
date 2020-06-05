@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Dr. Joaquin  Arambula",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-ad31_2.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dr.%20joaquin%20%20arambula-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2550 Mariposa Mall, Room 5031;Fresno, CA 93721",
         "P.O. Box 942849;Sacramento, CA 94249-0031"
       ],
@@ -24,16 +24,16 @@ callback({
         "916-319-2031"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CA",
       "district": "31"
     },
     {
       "name": "Melissa Hurtado",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-senator_hurtado_0.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/melissa%20hurtado-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2550 Mariposa Mall, Suite 2016, Fresno, CA 93721",
         "State Capitol, Room 2054, Sacramento, CA 95814-4900"
       ],
@@ -42,8 +42,8 @@ callback({
         "916-651-4014"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CA",
       "district": "14"
     },
@@ -51,70 +51,70 @@ callback({
       "name": "Devin Nunes",
       "email": null,
       "twitter": "RepDevinNunes",
-      "addresses": [
+      "address": [
         "1013 Longworth House Office Building; Washington DC 20515-0522"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/80-N000181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/devin%20nunes-us%20representative.jpg",
       "phone": "202-225-2523",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "22"
     },
     {
       "name": "TJ Cox",
       "email": null,
       "twitter": "RepTjCox",
-      "addresses": [
+      "address": [
         "1728 Longworth House Office Building; Washington DC 20515-0521"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-C001124.jpg",
+      "image": null,
       "phone": "202-225-4695",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "21"
     },
     {
       "name": "Dianne Feinstein",
       "email": null,
       "twitter": "SenFeinstein",
-      "addresses": [
+      "address": [
         "331 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-F000062.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dianne%20feinstein-us%20senator.jpg",
       "phone": "202-224-3841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kamala Harris",
       "email": null,
       "twitter": "SenKamalaHarris",
-      "addresses": [
+      "address": [
         "112 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/4-H001075.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kamala%20harris-us%20senator.jpg",
       "phone": "202-224-3553",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Gavin Newsom",
-      "addresses": [
+      "address": [
         "State Capitol Sacramento CA 95814"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-ca_newsom.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gavin%20newsom-governor.jpg",
       "twitter": "GavinNewsom",
       "email": null,
       "phone": "916-445-2841",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

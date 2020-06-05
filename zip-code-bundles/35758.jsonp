@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Mike Ball",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-Ball_10.jpeg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 401-A;11 S. Union Street;Montgomery, AL 36130"
       ],
       "phone": [
@@ -23,24 +23,24 @@ callback({
       "email": [
         "mikeball@knology.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "AL",
       "district": "10"
     },
     {
       "name": "Tom Butler",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-Butler_2.jpeg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20butler-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 730;11 S. Union Street;Montgomery, AL 36130"
       ],
       "phone": [
         "334-261-0772"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "AL",
       "district": "2"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Doug Jones",
       "email": null,
       "twitter": "sendougjones",
-      "addresses": [
+      "address": [
         "330 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20jones-us%20senator.jpg",
       "phone": "202-224-4124",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Richard Shelby",
       "email": null,
       "twitter": "SenShelby",
-      "addresses": [
+      "address": [
         "304 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20shelby-us%20senator.jpg",
       "phone": "202-224-5744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kay Ivey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Montgomery AL 36130-2751"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kay%20ivey-governor.jpg",
       "twitter": "GovernorKayIvey",
       "email": null,
       "phone": "334-242-7100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-Finley_Paul%2153136.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20finley-mayor.jpg",
       "name": "Paul Finley",
       "phone": "256-772-5600",
       "email": "mayors.office@madisonal.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "AL",
       "city": "Madison"
     }

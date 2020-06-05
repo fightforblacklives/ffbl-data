@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Debra Entenman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/95-entenman.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debra%20entenman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "305 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Debra.Entenman@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "47"
     },
     {
       "name": "Pat Sullivan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-sullivan.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pat%20sullivan-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "339A Legislative Building;PO Box 40600;Olympia, WA 98504"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "Pat.Sullivan@leg.wa.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WA",
       "district": "47"
     },
     {
       "name": "Mona Das",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-das.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mona%20das-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "230 John A. Cherberg Building;PO Box 40447;Olympia, WA 98504"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "mona.das@leg.wa.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WA",
       "district": "47"
     },
@@ -69,53 +69,54 @@ callback({
       "name": "Maria Cantwell",
       "email": null,
       "twitter": "SenatorCantwell",
-      "addresses": [
+      "address": [
         "511 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-C000127.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/maria%20cantwell-us%20senator.jpg",
       "phone": "202-224-3441",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Patty Murray",
       "email": null,
       "twitter": "PattyMurray",
-      "addresses": [
+      "address": [
         "154 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-M001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20murray-us%20senator.jpg",
       "phone": "202-224-2621",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jay Inslee",
-      "addresses": [
+      "address": [
         "P.O. Box 40002 Olympia WA 98504-0002"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/2-WA.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jay%20inslee-governor.jpg",
       "twitter": "govinslee",
       "email": null,
       "phone": "360-902-4111",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-Ralph_Dana%2154045.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dana%20ralph-mayor.jpg",
       "name": "Dana Ralph",
       "phone": "253-856-5700",
       "email": "mayor@kentwa.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "WA",
       "city": "Kent"
     }

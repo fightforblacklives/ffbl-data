@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Julie Slama",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-dist%201.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room #2000;P.O. Box 94604;Lincoln, NE 68509"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "jslama@leg.ne.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Nonpartisan",
+      "title": "State Senator",
+      "party": "Nonpartisan",
       "state": "NE",
       "district": "1"
     },
@@ -32,42 +32,42 @@ callback({
       "name": "Benjamin Sasse",
       "email": null,
       "twitter": "SenSasse",
-      "addresses": [
+      "address": [
         "107 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-S001197.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/benjamin%20sasse-us%20senator.jpg",
       "phone": "202-224-4224",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NE",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Deb Fischer",
       "email": null,
       "twitter": "SenatorFischer",
-      "addresses": [
+      "address": [
         "454 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-F000463.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/deb%20fischer-us%20senator.jpg",
       "phone": "202-224-6551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NE",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Pete Ricketts",
-      "addresses": [
+      "address": [
         "P.O. Box 94848 Lincoln NE 68509-4848"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-NE.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pete%20ricketts-governor.jpg",
       "twitter": "govricketts",
       "email": null,
       "phone": "402-471-2244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NE",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

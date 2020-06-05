@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Randall Scott \"Randy\" Maggard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/42-4758.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randall%20scott%20%22randy%22%20maggard-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Creekside Center; 35358 State Road 54; Zephyrhills, FL 33541-1942",
         "1101 The Capitol; 402 South Monroe St; Tallahassee, FL 32399-1300"
       ],
@@ -25,16 +25,16 @@ callback({
         "850-717-5038"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "38"
     },
     {
       "name": "Tom Lee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/87-s20_5100.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tom%20lee-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "915 Oakfield Drive; Suite D; Brandon, FL 33511",
         "418 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -42,8 +42,8 @@ callback({
       "email": [
         "lee.tom.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "20"
     },
@@ -51,84 +51,84 @@ callback({
       "name": "Kathy Castor",
       "email": null,
       "twitter": "USRepKCastor",
-      "addresses": [
+      "address": [
         "2052 Rayburn House Office Building; Washington DC 20515-0914"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-C001066.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kathy%20castor-us%20representative.jpg",
       "phone": "202-225-3376",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "14"
     },
     {
       "name": "Ross Spano",
       "email": null,
       "twitter": "RepRossSpano",
-      "addresses": [
+      "address": [
         "224 Cannon House Office Building; Washington DC 20515-0915"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-S001210.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ross%20spano-us%20representative.jpg",
       "phone": "202-225-1252",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "15"
     },
     {
       "name": "Vern Buchanan",
       "email": null,
       "twitter": "VernBuchanan",
-      "addresses": [
+      "address": [
         "2427 Rayburn House Office Building; Washington DC 20515-0916"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-B001260.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/vern%20buchanan-us%20representative.jpg",
       "phone": "202-225-5015",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "16"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

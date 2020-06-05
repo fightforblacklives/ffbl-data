@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "George E. Sykes",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-377176.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/george%20e.%20sykes-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3 Avon Avenue;Lebanon, NH 03766-2601"
       ],
       "phone": [
@@ -23,8 +23,8 @@ callback({
       "email": [
         "George.Sykes@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Grafton 13"
     },
@@ -32,23 +32,23 @@ callback({
       "name": "Laurel Stavis",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "19 Apple Blossom Drive;West Lebanon, NH 03784"
       ],
       "phone": [],
       "email": [
         "Laurel.Stavis@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Grafton 13"
     },
     {
       "name": "Richard M. Abel",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-377321.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20m.%20abel-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "28 Apple Blossom Drive;West Lebanon, NH 03784-1241"
       ],
       "phone": [
@@ -57,16 +57,16 @@ callback({
       "email": [
         "Richard.Abel@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Grafton 13"
     },
     {
       "name": "Susan W. Almy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-376095.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/susan%20w.%20almy-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "266 Poverty Lane;Unit 4B;Lebanon, NH 03766-2730"
       ],
       "phone": [
@@ -75,16 +75,16 @@ callback({
       "email": [
         "susan.almy@comcast.net"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Grafton 13"
     },
     {
       "name": "Martha S. Hennessey",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-05.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/martha%20s.%20hennessey-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 302\";107 North Main Street;Concord, NH 03301"
       ],
       "phone": [
@@ -93,8 +93,8 @@ callback({
       "email": [
         "Martha.Hennessey@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "5"
     },
@@ -102,42 +102,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

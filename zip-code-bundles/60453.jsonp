@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Kelly M. Burke",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/3-%7B5D9078FA-21F1-411F-A447-B5E7299AC314%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kelly%20m.%20burke-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "5144 W. 95th St.;Oak Lawn, IL 60453",
         "632 Capitol Building;Springfield, IL 62706"
       ],
@@ -26,16 +26,16 @@ callback({
       "email": [
         "kburke@kellyburkerep36.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "IL",
       "district": "36"
     },
     {
       "name": "William Cunningham",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-%7B402F0454-4EAF-4721-993D-53C7459BA35B%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20cunningham-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10400 South Western Ave.;Chicago, IL 60643",
         "329B Capitol Building;Springfield, IL 62706"
       ],
@@ -44,8 +44,8 @@ callback({
         "217-782-5145"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "IL",
       "district": "18"
     },
@@ -53,53 +53,54 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Bury_Sandra%21850.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sandra%20bury-mayor.jpg",
       "name": "Sandra Bury",
       "phone": "708-636-4400",
       "email": "sbury@oaklawn-il.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "IL",
       "city": "Oak Lawn"
     }

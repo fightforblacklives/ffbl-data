@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Val K. Potter",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/26-POTTEVK.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/val%20k.%20potter-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2185 N 1400 E, NORTH LOGAN, UT, 84341"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "valpotter@le.utah.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "UT",
       "district": "3"
     },
     {
       "name": "Lyle W. Hillyard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-HILLYLW.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lyle%20w.%20hillyard-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "595 S RIVERWOODS PARKWAY STE 100, LOGAN, UT, 84321"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "lhillyard@le.utah.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "UT",
       "district": "25"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Mike Lee",
       "email": null,
       "twitter": "SenMikeLee",
-      "addresses": [
+      "address": [
         "361A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-L000577.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20lee-us%20senator.jpg",
       "phone": "202-224-5444",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mitt Romney",
       "email": null,
       "twitter": "SenatorRomney",
-      "addresses": [
+      "address": [
         "124 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/76-R000615.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mitt%20romney-us%20senator.jpg",
       "phone": "202-224-5251",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Gary Herbert",
-      "addresses": [
+      "address": [
         "State Capitol, Suite 200 Salt Lake City UT 84114"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-UT.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/gary%20herbert-governor.jpg",
       "twitter": "herbertforutah",
       "email": null,
       "phone": "801-538-1000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "UT",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

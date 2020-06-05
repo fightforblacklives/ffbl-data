@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Juan Alfonso Fernandez-Barquin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-4709.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/juan%20alfonso%20fernandez-barquin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 218; 2450 Southwest 137th Avenue; Miami, FL 33175-6332",
         "1301 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5119"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "119"
     },
     {
       "name": "Annette Taddeo",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-s40_5331.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/annette%20taddeo-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10689 N. Kendall Drive, Suite 212; Miami, FL 33176",
         "210 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "taddeo.annette.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "FL",
       "district": "40"
     },
@@ -49,67 +49,68 @@ callback({
       "name": "Debbie Mucarsel-Powell",
       "email": null,
       "twitter": "RepDMP",
-      "addresses": [
+      "address": [
         "114 Cannon House Office Building; Washington DC 20515-0926"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/17-M001207.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/debbie%20mucarsel-powell-us%20representative.jpg",
       "phone": "202-225-2778",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "26"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Suarez_Francis%2153960.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/francis%20x.%20suarez-mayor.jpg",
       "name": "Francis X. Suarez",
       "phone": "305-250-5300",
       "email": "fsuarez@miamigov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "FL",
       "city": "Miami"
     }

@@ -15,7 +15,7 @@ callback({
       "name": "Alan Bershtein",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "14 Revolutionary Lane;Nottingham, NH 03290-5818"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "Alan.Bershtein@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 2"
     },
     {
       "name": "James A. Spillane",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-377264.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20a.%20spillane-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "16 Swamp Road;Deerfield, NH 03037-1323"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "James@JamesSpillane.org"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 2"
     },
     {
       "name": "Kevin Verville",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-408388.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20verville-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "9 McCarron Road;Deerfield, NH 03037-1729"
       ],
       "phone": [
@@ -60,16 +60,16 @@ callback({
       "email": [
         "kevin.verville@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Rockingham 2"
     },
     {
       "name": "John Reagan",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/7-17.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20reagan-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"Legislative Office Building, Room 101-A\";33 North State Street;Concord, NH 03301"
       ],
       "phone": [
@@ -78,8 +78,8 @@ callback({
       "email": [
         "John.Reagan111@gmail.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "NH",
       "district": "17"
     },
@@ -87,42 +87,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

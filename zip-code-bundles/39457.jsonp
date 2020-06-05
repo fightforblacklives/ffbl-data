@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Jansen Owen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/14-owen.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jansen%20owen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 249;Poplarville, MS 39470",
         "P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -22,16 +22,16 @@ callback({
       "email": [
         "jowen@house.ms.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "MS",
       "district": "106"
     },
     {
       "name": "Angela Burks Hill",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-hill.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angela%20burks%20hill-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "54 Watts Rd;Picayune, MS 39466",
         "Room 408;P. O. Box 1018;Jackson, MS 39215"
       ],
@@ -41,8 +41,8 @@ callback({
       "email": [
         "ahill@senate.ms.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "MS",
       "district": "40"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Cindy Hyde-Smith",
       "email": null,
       "twitter": "SenHydeSmith",
-      "addresses": [
+      "address": [
         "702 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-H001079.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20hyde-smith-us%20senator.jpg",
       "phone": "202-224-5054",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Roger Wicker",
       "email": null,
       "twitter": "SenatorWicker",
-      "addresses": [
+      "address": [
         "555 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-W000437.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/roger%20wicker-us%20senator.jpg",
       "phone": "202-224-6253",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tate Reeves",
-      "addresses": [
+      "address": [
         "P.O. Box 139 Jackson MS 39205"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/47-ms_reeves.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tate%20reeves-governor.jpg",
       "twitter": "philbryantms",
       "email": null,
       "phone": "601-359-3150",
-      "type": "Governor",
+      "title": "Governor",
       "state": "MS",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

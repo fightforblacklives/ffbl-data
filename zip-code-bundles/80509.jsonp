@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Marc Snyder",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-2020a_snyder%252C%2520marc.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20snyder-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 307;Denver, CO 80203"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "marc.snyder.house@state.co.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "CO",
       "district": "18"
     },
     {
       "name": "Pete Lee",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-2020a_lee%252C%2520sanford%2520pete.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pete%20lee-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "200 E. Colfax;RM 346;Denver, CO 80203"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "pete.lee.senate@state.co.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "CO",
       "district": "11"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Cory Gardner",
       "email": null,
       "twitter": "SenCoryGardner",
-      "addresses": [
+      "address": [
         "354 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-G000562.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cory%20gardner-us%20senator.jpg",
       "phone": "202-224-5941",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Bennet",
       "email": null,
       "twitter": "SenatorBennet",
-      "addresses": [
+      "address": [
         "261 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001267.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20bennet-us%20senator.jpg",
       "phone": "202-224-5852",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Jared Polis",
-      "addresses": [
+      "address": [
         "136 State Capitol Denver CO 80203-1792"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/96-co_polis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jared%20polis-governor.jpg",
       "twitter": "jaredpolis",
       "email": null,
       "phone": "303-866-2471",
-      "type": "Governor",
+      "title": "Governor",
       "state": "CO",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-Suthers_John%21233.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20suthers-mayor.jpg",
       "name": "John Suthers",
       "phone": "719-385-5900",
       "email": "jsuthers@springsgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "CO",
       "city": "Colorado Springs"
     }

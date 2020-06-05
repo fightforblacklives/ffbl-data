@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Curtis Johnson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/1-h68.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/curtis%20johnson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "425 5th Avenue North;Suite 606 Cordell Hull Bldg.;Nashville, TN 37243"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "rep.curtis.johnson@capitol.tn.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "TN",
       "district": "68"
     },
     {
       "name": "Bill Powers",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-s22.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20powers-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "425 5th Avenue North;Suite 772 Cordell Hull Bldg.;Nashville, TN 37243"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "sen.bill.powers@capitol.tn.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "TN",
       "district": "22"
     },
@@ -51,42 +51,42 @@ callback({
       "name": "Lamar Alexander",
       "email": null,
       "twitter": "SenAlexander",
-      "addresses": [
+      "address": [
         "455 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-A000360.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lamar%20alexander-us%20senator.jpg",
       "phone": "202-224-4944",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Marsha Blackburn",
       "email": null,
       "twitter": "MarshaBlackburn",
-      "addresses": [
+      "address": [
         "357 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-B001243.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marsha%20blackburn-us%20senator.jpg",
       "phone": "202-224-3344",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Bill Lee",
-      "addresses": [
+      "address": [
         "State Capitol, 1st Fl. State Capitol, 1st Fl. Nashville TN 37243-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/29-tn_lee.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bill%20lee-governor.jpg",
       "twitter": "BillLeeTN",
       "email": null,
       "phone": "615-741-2001",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TN",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

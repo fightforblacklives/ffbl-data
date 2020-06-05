@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Dan Brady",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-%7BB8BEEC1C-5E74-479B-8640-7B3407FDF4EB%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dan%20brady-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "104 W. North Street;Normal, IL 61761",
         "314 Capitol Building;Springfield, IL 62706"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "dan@rep-danbrady.com"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "IL",
       "district": "105"
     },
     {
       "name": "Jason A. Barickman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/51-%7B73221756-E2C7-4B72-8907-701CC96B7ED2%7D.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jason%20a.%20barickman-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3004 G.E. Road;Suite 1B;Bloomington, IL 61704",
         "309L Capitol Building;Springfield, IL 62706"
       ],
@@ -41,8 +41,8 @@ callback({
         "217-782-6597"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "IL",
       "district": "53"
     },
@@ -50,42 +50,42 @@ callback({
       "name": "Richard Durbin",
       "email": null,
       "twitter": "SenatorDurbin",
-      "addresses": [
+      "address": [
         "711 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/10-D000563.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20durbin-us%20senator.jpg",
       "phone": "202-224-2152",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Tammy Duckworth",
       "email": null,
       "twitter": "SenDuckworth",
-      "addresses": [
+      "address": [
         "524 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-D000622.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tammy%20duckworth-us%20senator.jpg",
       "phone": "202-224-2854",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "J.B. Pritzker",
-      "addresses": [
+      "address": [
         "207 State House Springfield IL 62706"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-il_pritzker.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/j.b.%20pritzker-governor.jpg",
       "twitter": "JBPritzker",
       "email": null,
       "phone": "217-782-0244",
-      "type": "Governor",
+      "title": "Governor",
       "state": "IL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     }
   ]

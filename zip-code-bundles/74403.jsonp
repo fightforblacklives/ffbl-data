@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Chris Sneed",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Sneed%2C%2520Chris.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sneed-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2300 N. Lincoln Blvd.;Room 300C;Oklahoma City, OK 73105"
       ],
       "phone": [
@@ -24,24 +24,24 @@ callback({
       "email": [
         "chris.sneed@okhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "OK",
       "district": "14"
     },
     {
       "name": "Dewayne Pemberton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/58-pemberton_bio.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "2300 N. Lincoln Blvd., Rm. 429;Oklahoma City, OK 73105"
       ],
       "phone": [
         "405-521-5533"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "OK",
       "district": "9"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "James Inhofe",
       "email": null,
       "twitter": "InhofePress",
-      "addresses": [
+      "address": [
         "205 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/73-I000024.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20inhofe-us%20senator.jpg",
       "phone": "202-224-4721",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "James Lankford",
       "email": null,
       "twitter": "SenatorLankford",
-      "addresses": [
+      "address": [
         "316 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/92-L000575.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20lankford-us%20senator.jpg",
       "phone": "202-224-5754",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "OK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Stitt",
-      "addresses": [
+      "address": [
         "State Capitol Building State Capitol Building Oklahoma City OK 73105"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-ok_stitt.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20stitt-governor.jpg",
       "twitter": null,
       "email": null,
       "phone": "405- 521-2342",
-      "type": "Governor",
+      "title": "Governor",
       "state": "OK",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-Coburn_John%21789.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20%27bob%27%20robert%20coburn-mayor.jpg",
       "name": "John 'Bob' Robert Coburn",
       "phone": "918-684-6201",
       "email": "mayor@muskogeeonline.org",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "OK",
       "city": "Muskogee"
     }

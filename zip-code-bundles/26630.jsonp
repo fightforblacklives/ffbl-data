@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Ben Queen",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-queen_ben.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ben%20queen-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1311;Bridgeport, WV, 26330",
         "Room 221E, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -23,16 +23,16 @@ callback({
       "email": [
         "ben.queen@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "48"
     },
     {
       "name": "Danny Hamrick",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-hamrick_danny.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/danny%20hamrick-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "158 Froe Street;Clarksburg, WV, 26301",
         "Room 434M, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -43,16 +43,16 @@ callback({
       "email": [
         "danny.hamrick@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "48"
     },
     {
       "name": "Terry Waxman",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/64-waxman_terry.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/terry%20waxman-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "49 Diamond Cove Road;Bridgeport, WV, 26330",
         "Room 202E, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -63,16 +63,16 @@ callback({
       "email": [
         "terry.waxman@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "WV",
       "district": "48"
     },
     {
       "name": "Tim Miley",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-miley_timothy.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20miley-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "347 Valley View Road;Bridgeport, WV, 26330",
         "Room 264M, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -83,16 +83,16 @@ callback({
       "email": [
         "tim.miley@wvhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "WV",
       "district": "48"
     },
     {
       "name": "Douglas E. Facemire",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-facemire_douglas.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/douglas%20e.%20facemire-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 215;Sutton, WV, 26601",
         "Room 213W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -102,16 +102,16 @@ callback({
       "email": [
         "douglas.facemire@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WV",
       "district": "12"
     },
     {
       "name": "Mike Romano",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-romano_michael.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20romano-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "128 South 2nd Street;Clarksburg, WV, 26301",
         "Room 200W, Building 1;State Capitol Complex;Charleston, WV 25305"
       ],
@@ -122,8 +122,8 @@ callback({
       "email": [
         "mike.romano@wvsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "WV",
       "district": "12"
     },
@@ -131,42 +131,42 @@ callback({
       "name": "Joe Manchin",
       "email": null,
       "twitter": "Sen_JoeManchin",
-      "addresses": [
+      "address": [
         "306 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/56-M001183.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joe%20manchin-us%20senator.jpg",
       "phone": "202-224-3954",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Shelley Capito",
       "email": null,
       "twitter": "SenCapito",
-      "addresses": [
+      "address": [
         "172 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-C001047.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shelley%20capito-us%20senator.jpg",
       "phone": "202-224-6472",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Jim Justice",
-      "addresses": [
+      "address": [
         "1900 Kanawha Blvd. East Charleston WV 25305"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-wv_justice.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20justice-governor.jpg",
       "twitter": "wvgovernor",
       "email": null,
       "phone": "304-558-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "WV",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

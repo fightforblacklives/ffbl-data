@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Kathy Skroch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-kskroch.jpg%3Fitok%3DQIurj_0Y",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kathy%20skroch-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "10105 155th Avenue SE;Lidgerwood, ND;58053-9761"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "kskroch@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "26"
     },
     {
       "name": "Sebastian Ertelt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/77-sertelt.jpg%3Fitok%3Dy3gg3bo-",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sebastian%20ertelt-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "906 Ash Street;Lisbon, ND;58054-4316"
       ],
       "phone": [
@@ -43,16 +43,16 @@ callback({
       "email": [
         "sertelt@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "26"
     },
     {
       "name": "Jim Dotzenrod",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/43-jdotzenrod.jpg%3Fitok%3Dd80XOz_U",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20dotzenrod-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 69;Wyndmere, ND;58081-0069"
       ],
       "phone": [
@@ -62,8 +62,8 @@ callback({
       "email": [
         "jdotzenrod@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "ND",
       "district": "26"
     },
@@ -71,42 +71,42 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

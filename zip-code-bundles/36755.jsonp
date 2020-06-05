@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "Ralph Howard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/89-Howard_72.jpeg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20howard-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 525-B;11 S. Union Street;Montgomery, AL 36130"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "ralph.howard@alhouse.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "AL",
       "district": "72"
     },
     {
       "name": "Bobby D. Singleton",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/94-Singleton_24.jpeg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bobby%20d.%20singleton-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 738;11 S. Union Street;Montgomery, AL 36130"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "bsingle362@gmail.com"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "AL",
       "district": "24"
     },
@@ -48,42 +48,42 @@ callback({
       "name": "Doug Jones",
       "email": null,
       "twitter": "sendougjones",
-      "addresses": [
+      "address": [
         "330 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-J000300.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20jones-us%20senator.jpg",
       "phone": "202-224-4124",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Richard Shelby",
       "email": null,
       "twitter": "SenShelby",
-      "addresses": [
+      "address": [
         "304 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/72-S000320.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20shelby-us%20senator.jpg",
       "phone": "202-224-5744",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "AL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kay Ivey",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Montgomery AL 36130-2751"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/98-al_ivey.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kay%20ivey-governor.jpg",
       "twitter": "GovernorKayIvey",
       "email": null,
       "phone": "334-242-7100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "AL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

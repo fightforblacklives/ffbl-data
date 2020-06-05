@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Fred Wood",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/50-Wood69.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/fred%20wood-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 1207, Burley, ID 83318-0828"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "fwood@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "27"
     },
     {
       "name": "Scott Bedke",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/45-Bedke5.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/scott%20bedke-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 89, Oakley, ID 83346"
       ],
       "phone": [
@@ -42,16 +42,16 @@ callback({
       "email": [
         "sbedke@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "27"
     },
     {
       "name": "Kelly Arthur Anthon",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/49-Anthon3524.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kelly%20arthur%20anthon-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "725 E. 300 S., Burley, ID 83318"
       ],
       "phone": [
@@ -60,8 +60,8 @@ callback({
       "email": [
         "kanthon@senate.idaho.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ID",
       "district": "27"
     },
@@ -69,42 +69,42 @@ callback({
       "name": "James Risch",
       "email": null,
       "twitter": "SenatorRisch",
-      "addresses": [
+      "address": [
         "483 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20risch-us%20senator.jpg",
       "phone": "202-224-2752",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Crapo",
       "email": null,
       "twitter": "MikeCrapo",
-      "addresses": [
+      "address": [
         "239 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20crapo-us%20senator.jpg",
       "phone": "202-224-6142",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brad Little",
-      "addresses": [
+      "address": [
         "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20little-governor.jpg",
       "twitter": "GovernorLittle",
       "email": null,
       "phone": "208-334-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

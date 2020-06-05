@@ -14,9 +14,9 @@ callback({
   "people": [
     {
       "name": "Harold V. Dutton Jr.",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/68-2650.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harold%20v.%20dutton%20jr.-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "8799 N. Loop East, Suite 200;Houston, TX 77029",
         "Room 3N.5;P.O. Box 2910;Austin, TX 78768"
       ],
@@ -25,16 +25,16 @@ callback({
         "512-463-0510"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "TX",
       "district": "142"
     },
     {
       "name": "John Whitmire",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-headshot.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20whitmire-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 12068 Capitol Station Austin, TX 78711",
         "P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
@@ -43,8 +43,8 @@ callback({
         "512-463-0115"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "15"
     },
@@ -52,95 +52,96 @@ callback({
       "name": "Brian Babin",
       "email": null,
       "twitter": "RepBrianBabin",
-      "addresses": [
+      "address": [
         "2236 Rayburn House Office Building; Washington DC 20515-4336"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-B001291.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20babin-us%20representative.jpg",
       "phone": "202-225-1555",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "36"
     },
     {
       "name": "Sheila Jackson Lee",
       "email": null,
       "twitter": "JacksonLeeTX18",
-      "addresses": [
+      "address": [
         "2079 Rayburn House Office Building; Washington DC 20515-4318"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/52-J000032.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sheila%20jackson%20lee-us%20representative.jpg",
       "phone": "202-225-3816",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "18"
     },
     {
       "name": "Sylvia Garcia",
       "email": null,
       "twitter": "RepSylviaGarcia",
-      "addresses": [
+      "address": [
         "1620 Longworth House Office Building; Washington DC 20515-4329"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-G000587.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sylvia%20garcia-us%20representative.jpg",
       "phone": "202-225-1688",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "29"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/88-Turner_Sylvester%21530.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sylvester%20turner-mayor.jpg",
       "name": "Sylvester Turner",
       "phone": "832-393-1000",
       "email": "mayor@houstontx.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "Houston"
     }

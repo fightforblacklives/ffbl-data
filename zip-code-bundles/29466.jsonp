@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "F. Michael \"Mike\" Sottile",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-1742045246.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/f.%20michael%20%22mike%22%20sottile-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "132 Sparrow Dr.Isle of Palms 29451",
         "310A Blatt Bldg.Columbia 29201"
       ],
@@ -24,24 +24,24 @@ callback({
         "803-212-6880"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SC",
       "district": "112"
     },
     {
       "name": "Lawrence K. \"Larry\" Grooms",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-0729545367.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lawrence%20k.%20%22larry%22%20grooms-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "203 Gressette Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6400"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SC",
       "district": "37"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/6-Haynie_Will%2154030.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/will%20haynie-mayor.jpg",
       "name": "Will Haynie",
       "phone": "843-884-8517",
       "email": "councilclk@tompsc.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Mount Pleasant"
     }

@@ -10,9 +10,9 @@ callback({
   "people": [
     {
       "name": "John  A Lake",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-Lake_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20%20a%20lake-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1105 E. Garfield Ave.;Gettysburg, SD 57442"
       ],
       "phone": [
@@ -21,16 +21,16 @@ callback({
       "email": [
         "John.Lake@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "23"
     },
     {
       "name": "Spencer Gosch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-Gosch_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/spencer%20gosch-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "104 N. Riverview Dr.;Glenham, SD 57631"
       ],
       "phone": [
@@ -39,16 +39,16 @@ callback({
       "email": [
         "Spencer.Gosch@sdlegislature.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "SD",
       "district": "23"
     },
     {
       "name": "Justin R Cronin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/23-Cronin_2017.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/justin%20r%20cronin-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "PO Box 42;Gettysburg, SD 57442"
       ],
       "phone": [
@@ -57,8 +57,8 @@ callback({
       "email": [
         "Justin.Cronin@sdlegislature.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "SD",
       "district": "23"
     },
@@ -66,42 +66,42 @@ callback({
       "name": "John Thune",
       "email": null,
       "twitter": "SenJohnThune",
-      "addresses": [
+      "address": [
         "511 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/33-T000250.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20thune-us%20senator.jpg",
       "phone": "202-224-2321",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Mike Rounds",
       "email": null,
       "twitter": "SenatorRounds",
-      "addresses": [
+      "address": [
         "502 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-R000605.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20rounds-us%20senator.jpg",
       "phone": "202-224-5842",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kristi Noem",
-      "addresses": [
+      "address": [
         "500 East Capitol Avenue Pierre SD 57501"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/90-sd_noem.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristi%20noem-governor.jpg",
       "twitter": "govkristinoem",
       "email": null,
       "phone": "605-773-3212",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SD",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

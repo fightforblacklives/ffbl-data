@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Barbara Ehardt",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Ehardt4945.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barbara%20ehardt-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "961 J Street, Idaho Falls, ID 83402"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "behardt@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "33"
     },
     {
       "name": "Bryan Zollinger",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/55-Zollinger4276.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bryan%20zollinger-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "2355 S. Bellin Road, Idaho Falls, ID 83402"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "bzollinger@house.idaho.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ID",
       "district": "33"
     },
     {
       "name": "Dave Lent",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/61-Lent5345.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dave%20lent-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1186 Caysie Circle, Idaho Falls, ID 83402"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "dlent@senate.idaho.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ID",
       "district": "33"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "James Risch",
       "email": null,
       "twitter": "SenatorRisch",
-      "addresses": [
+      "address": [
         "483 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-R000584.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20risch-us%20senator.jpg",
       "phone": "202-224-2752",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Michael Crapo",
       "email": null,
       "twitter": "MikeCrapo",
-      "addresses": [
+      "address": [
         "239 Dirksen Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/32-C000880.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20crapo-us%20senator.jpg",
       "phone": "202-224-6142",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Brad Little",
-      "addresses": [
+      "address": [
         "700 West Jefferson Street 700 West Jefferson Street Boise ID 83702"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/9-id_little.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brad%20little-governor.jpg",
       "twitter": "GovernorLittle",
       "email": null,
       "phone": "208-334-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ID",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/11-Casper_Rebecca%21540.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rebecca%20casper-mayor.jpg",
       "name": "Rebecca Casper",
       "phone": "208-612-8235",
       "email": "mayor@idahofallsidaho.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ID",
       "city": "Idaho Falls"
     }

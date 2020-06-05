@@ -12,25 +12,25 @@ callback({
   "people": [
     {
       "name": "Judy Griffin",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-021.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/judy%20griffin-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "100 Merrick Road;Lynbrook, NY 11563"
       ],
       "phone": [
         "516-561-8216"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NY",
       "district": "21"
     },
     {
       "name": "John E. Brooks",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/25-jb_headshot_3.jpg%3Fitok%3Dj0U9JmD7",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20e.%20brooks-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Legislative Office Building;Albany,, NY 12247"
       ],
       "phone": [
@@ -39,8 +39,8 @@ callback({
       "email": [
         "brooks@nysenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NY",
       "district": "8"
     },
@@ -48,53 +48,54 @@ callback({
       "name": "Charles Schumer",
       "email": null,
       "twitter": "SenSchumer",
-      "addresses": [
+      "address": [
         "322 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/28-S000148.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20schumer-us%20senator.jpg",
       "phone": "202-224-6542",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Kirsten Gillibrand",
       "email": null,
       "twitter": "GillibrandNY",
-      "addresses": [
+      "address": [
         "478 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-G000555.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirsten%20gillibrand-us%20senator.jpg",
       "phone": "202-224-4451",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Andrew Cuomo",
-      "addresses": [
+      "address": [
         "State Capitol Albany NY 12224"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-NY.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andrew%20cuomo-governor.jpg",
       "twitter": "nygovcuomo",
       "email": null,
       "phone": "518- 474-8390",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NY",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-Kennedy_Robert%21417.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20t.%20kennedy-mayor.jpg",
       "name": "Robert T. Kennedy",
       "phone": "516-377-2252",
       "email": "mayor@freeportny.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "NY",
       "city": "Freeport"
     }

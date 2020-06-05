@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Wendell G. Gilliard",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/34-0675568101.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/wendell%20g.%20gilliard-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 31641Charleston 29417",
         "328B Blatt Bldg.Columbia 29201"
       ],
@@ -24,24 +24,24 @@ callback({
         "803-212-6793"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "SC",
       "district": "111"
     },
     {
       "name": "Marlon E. Kimpson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-0994318063.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marlon%20e.%20kimpson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "508 Gressette Bldg.Columbia 29201"
       ],
       "phone": [
         "803-212-6132"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "SC",
       "district": "42"
     },
@@ -49,53 +49,54 @@ callback({
       "name": "Lindsey Graham",
       "email": null,
       "twitter": "GrahamBlog",
-      "addresses": [
+      "address": [
         "290 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-G000359.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsey%20graham-us%20senator.jpg",
       "phone": "202-224-5972",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Tim Scott",
       "email": null,
       "twitter": "SenatorTimScott",
-      "addresses": [
+      "address": [
         "104 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/97-S001184.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20scott-us%20senator.jpg",
       "phone": "202-224-6121",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Henry McMaster",
-      "addresses": [
+      "address": [
         "1205 Pendleton Street Columbia SC 29201"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/78-sc_mcmaster.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/henry%20mcmaster-governor.jpg",
       "twitter": "henrymcmaster",
       "email": null,
       "phone": "803-734-2100",
-      "type": "Governor",
+      "title": "Governor",
       "state": "SC",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/21-Tecklenburg_John%21198.JPG",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20j.%20tecklenburg-mayor.jpg",
       "name": "John J. Tecklenburg",
       "phone": "843-577-4727",
       "email": "tecklenburgj@charleston-sc.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "SC",
       "city": "Charleston"
     }

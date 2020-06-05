@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Michelle Strinden",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/35-mstrinden.jpg%3Fitok%3DtHpp2G4m",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michelle%20strinden-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "245 Prairiewood Drive South;Fargo, ND;58103-4625"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "mstrinden@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "ND",
       "district": "41"
     },
     {
       "name": "Pamela Anderson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/82-pkanderson.jpg%3Fitok%3D3lUIkV3g",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pamela%20anderson-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3001 40th Avenue South, Unit H;Fargo, ND;58104-4406"
       ],
       "phone": [
@@ -41,16 +41,16 @@ callback({
       "email": [
         "pkanderson@nd.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "ND",
       "district": "41"
     },
     {
       "name": "Kyle Davison",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/24-kdavison.jpg%3Fitok%3DPq34Pd-1",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyle%20davison-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "4918 Meadow Creek Drive South;Fargo, ND;58104-7116"
       ],
       "phone": [
@@ -59,8 +59,8 @@ callback({
       "email": [
         "kdavison@nd.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "ND",
       "district": "41"
     },
@@ -68,53 +68,54 @@ callback({
       "name": "John Hoeven",
       "email": null,
       "twitter": "SenJohnHoeven",
-      "addresses": [
+      "address": [
         "338 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/60-H001061.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20hoeven-us%20senator.jpg",
       "phone": "202-224-2551",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Kevin Cramer",
       "email": null,
       "twitter": "SenKevinCramer",
-      "addresses": [
+      "address": [
         "400 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/53-C001096.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20cramer-us%20senator.jpg",
       "phone": "202-224-2043",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Doug Burgum",
-      "addresses": [
+      "address": [
         "State Capitol State Capitol Bismarck ND 58505-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/39-nd_burgum.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/doug%20burgum-governor.jpg",
       "twitter": "dougburgum",
       "email": null,
       "phone": "701-328-2200",
-      "type": "Governor",
+      "title": "Governor",
       "state": "ND",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/57-Mahoney_Tim%21382.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20mahoney-mayor.jpg",
       "name": "Tim Mahoney",
       "phone": "701-241-1310",
       "email": "tmahoney@cityoffargo.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "ND",
       "city": "Fargo"
     }

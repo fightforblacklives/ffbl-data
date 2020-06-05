@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Alex Q. Askew",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/63-H0311",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alex%20q.%20askew-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "P.O. Box 64544;Virginia Beach, Virginia 23467"
       ],
       "phone": [
@@ -24,16 +24,16 @@ callback({
       "email": [
         "DelAAskew@house.virginia.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "VA",
       "district": "85"
     },
     {
       "name": "Jennifer A. Kiggans",
-      "image": "https://apps.lis.virginia.gov/senatepics/newbiopics/Kiggans7.jpg",
+      "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         ";,"
       ],
       "phone": [
@@ -42,8 +42,8 @@ callback({
       "email": [
         "district07@senate.virginia.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "VA",
       "district": "7"
     },
@@ -51,39 +51,40 @@ callback({
       "name": "Mark Warner",
       "email": null,
       "twitter": "MarkWarner",
-      "addresses": [
+      "address": [
         "703 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/41-W000805.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20warner-us%20senator.jpg",
       "phone": "202-224-2023",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Ralph Northam",
-      "addresses": [
+      "address": [
         "State Capitol, 3rd Floor Richmond VA 23219"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-va_northam.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ralph%20northam-governor.jpg",
       "twitter": "ralphnortham",
       "email": null,
       "phone": "804-786-2211",
-      "type": "Governor",
+      "title": "Governor",
       "state": "VA",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-Dyer_Robert%2154654.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20%27bobby%27%20m.%20dyer-mayor.jpg",
       "name": "Robert 'Bobby' M. Dyer",
       "phone": "757-385-4581",
       "email": "bdyer@vbgov.com",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "VA",
       "city": "Virginia Beach"
     }

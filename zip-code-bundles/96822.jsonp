@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Della Au Belatti",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/99-belatti.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/della%20au%20belatti-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Hawaii State Capitol, Room 439"
       ],
       "phone": [
@@ -23,16 +23,16 @@ callback({
       "email": [
         "repbelatti@Capitol.hawaii.gov"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "HI",
       "district": "24"
     },
     {
       "name": "Brian T. Taniguchi",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/38-taniguchi.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20t.%20taniguchi-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Hawaii State Capitol, Room 219"
       ],
       "phone": [
@@ -41,8 +41,8 @@ callback({
       "email": [
         "sentaniguchi@capitol.hawaii.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "HI",
       "district": "11"
     },
@@ -50,53 +50,54 @@ callback({
       "name": "Brian Schatz",
       "email": null,
       "twitter": "SenBrianSchatz",
-      "addresses": [
+      "address": [
         "722 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/22-S001194.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20schatz-us%20senator.jpg",
       "phone": "202-224-3934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "HI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Mazie Hirono",
       "email": null,
       "twitter": "MazieHirono",
-      "addresses": [
+      "address": [
         "713 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-H001042.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mazie%20hirono-us%20senator.jpg",
       "phone": "202-224-6361",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "HI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "David Ige",
-      "addresses": [
+      "address": [
         "Executive Chambers Executive Chambers Honolulu HI 96813"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/62-HI.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20ige-governor.jpg",
       "twitter": "govhawaii",
       "email": null,
       "phone": "808-586-0034",
-      "type": "Governor",
+      "title": "Governor",
       "state": "HI",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/5-Caldwell_Kirk%21521.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirk%20caldwell-mayor.jpg",
       "name": "Kirk Caldwell",
       "phone": "808-768-4141",
       "email": "mayor@honolulu.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "HI",
       "city": "Honolulu"
     }

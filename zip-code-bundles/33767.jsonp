@@ -12,9 +12,9 @@ callback({
   "people": [
     {
       "name": "Nick DiCeglie",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-4735.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nick%20diceglie-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Suite 4; 1940 West Bay Drive; Largo, FL 33770-3024",
         "1301 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300"
       ],
@@ -23,16 +23,16 @@ callback({
         "850-717-5066"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "FL",
       "district": "66"
     },
     {
       "name": "Ed Hooper",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/48-s16_5344.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ed%20hooper-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "3450 East Lake Road; Suite 305; Palm Harbor, FL 34685",
         "326 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100"
       ],
@@ -40,8 +40,8 @@ callback({
       "email": [
         "hooper.ed.web@flsenate.gov"
       ],
-      "type": "State Senator",
-      "politicalParty": "Republican",
+      "title": "State Senator",
+      "party": "Republican",
       "state": "FL",
       "district": "16"
     },
@@ -49,56 +49,56 @@ callback({
       "name": "Charlie Crist",
       "email": null,
       "twitter": "repcharliecrist",
-      "addresses": [
+      "address": [
         "215 Cannon House Office Building; Washington DC 20515-0913"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/19-C001111.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charlie%20crist-us%20representative.jpg",
       "phone": "202-225-5961",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "FL",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "13"
     },
     {
       "name": "Marco Rubio",
       "email": null,
       "twitter": "SenRubioPress",
-      "addresses": [
+      "address": [
         "284 Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/66-R000595.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marco%20rubio-us%20senator.jpg",
       "phone": "202-224-3041",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Rick Scott",
       "email": null,
       "twitter": "SenRickScott",
-      "addresses": [
+      "address": [
         "716 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/31-S001217.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rick%20scott-us%20senator.jpg",
       "phone": "202-224-5274",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ron DeSantis",
-      "addresses": [
+      "address": [
         "The Capitol The Capitol Tallahassee FL 32399-0001"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/93-fl_desantis.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ron%20desantis-governor.jpg",
       "twitter": "RonDeSantisFL",
       "email": null,
       "phone": "850-488-7146",
-      "type": "Governor",
+      "title": "Governor",
       "state": "FL",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]

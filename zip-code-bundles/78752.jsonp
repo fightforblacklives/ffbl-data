@@ -13,33 +13,33 @@ callback({
   "people": [
     {
       "name": "Sheryl Cole",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/70-3625.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sheryl%20cole-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "Room E1.218;P.O. Box 2910;Austin, TX 78768"
       ],
       "phone": [
         "512-463-0506"
       ],
       "email": [],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "TX",
       "district": "46"
     },
     {
       "name": "Kirk Watson",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/79-headshot.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kirk%20watson-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "1.804 The Honorable Kirk Watson P.O. Box 12068 Capitol Station Austin, TX 78711"
       ],
       "phone": [
         "512-463-0114"
       ],
       "email": [],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "TX",
       "district": "14"
     },
@@ -47,81 +47,82 @@ callback({
       "name": "Lloyd Doggett",
       "email": null,
       "twitter": "RepLloydDoggett",
-      "addresses": [
+      "address": [
         "2307 Rayburn House Office Building; Washington DC 20515-4335"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-D000399.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lloyd%20doggett-us%20representative.jpg",
       "phone": "202-225-4865",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": "35"
     },
     {
       "name": "Michael McCaul",
       "email": null,
       "twitter": "RepMcCaul",
-      "addresses": [
+      "address": [
         "2001 Rayburn House Office Building; Washington DC 20515-4310"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/86-M001157.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20mccaul-us%20representative.jpg",
       "phone": "202-225-2401",
-      "type": "US Representative",
+      "title": "US Representative",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": "10"
     },
     {
       "name": "John Cornyn",
       "email": null,
       "twitter": "JohnCornyn",
-      "addresses": [
+      "address": [
         "517 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/13-C001056.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20cornyn-us%20senator.jpg",
       "phone": "202-224-2934",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Ted Cruz",
       "email": null,
       "twitter": "SenTedCruz",
-      "addresses": [
+      "address": [
         "127A Russell Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/83-C001098.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ted%20cruz-us%20senator.jpg",
       "phone": "202-224-5922",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
       "name": "Greg Abbott",
-      "addresses": [
+      "address": [
         "P.O. Box 12428 Austin TX 78711-2428"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/54-TX.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/greg%20abbott-governor.jpg",
       "twitter": "govabbott",
       "email": null,
       "phone": "512-463-2000",
-      "type": "Governor",
+      "title": "Governor",
       "state": "TX",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     },
     {
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/71-Adler_Stephen%2160.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20adler-mayor.jpg",
       "name": "Steve Adler",
       "phone": "512-978-2100",
       "email": "steve.adler@austintexas.gov",
       "twitter": null,
-      "addresses": null,
-      "type": "Mayor",
-      "politicalParty": null,
+      "address": null,
+      "facebook": null,
+      "title": "Mayor",
+      "party": null,
       "state": "TX",
       "city": "Austin"
     }

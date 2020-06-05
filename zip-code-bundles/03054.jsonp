@@ -13,9 +13,9 @@ callback({
   "people": [
     {
       "name": "Jeanine M. Notter",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/15-376991.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanine%20m.%20notter-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "19 Whittier Road;Merrimack, NH 03054-4755"
       ],
       "phone": [
@@ -24,8 +24,8 @@ callback({
       "email": [
         "jeanine.notter@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 21"
     },
@@ -33,15 +33,15 @@ callback({
       "name": "Kathryn Stack",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "7 Knollwood Drive;Merrimack, NH 03054"
       ],
       "phone": [],
       "email": [
         "Kathryn.Stack@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 21"
     },
@@ -49,7 +49,7 @@ callback({
       "name": "Nancy A. Murphy",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "20 Brenda Lane;Merrimack, NH 03054-2508"
       ],
       "phone": [
@@ -58,16 +58,16 @@ callback({
       "email": [
         "Nancy.Murphy@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 21"
     },
     {
       "name": "Richard W. Barry",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/67-376711.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20w.%20barry-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "12 Kyle Road;Merrimack, NH 03054-4528"
       ],
       "phone": [
@@ -76,16 +76,16 @@ callback({
       "email": [
         "richard.barry@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 21"
     },
     {
       "name": "Richard W. Hinch",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-376823.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/richard%20w.%20hinch-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "14 Ichabod Drive;Merrimack, NH 03054-6226"
       ],
       "phone": [
@@ -94,16 +94,16 @@ callback({
       "email": [
         "dick.hinch@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 21"
     },
     {
       "name": "Robert J. L'Heureux",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/16-374561.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20j.%20l%27heureux-state%20representative.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "94 Back River Road;Merrimack, NH 03054-2690"
       ],
       "phone": [
@@ -112,8 +112,8 @@ callback({
       "email": [
         "bob.lheureux@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Republican",
+      "title": "State Representative",
+      "party": "Republican",
       "state": "NH",
       "district": "Hillsborough 21"
     },
@@ -121,15 +121,15 @@ callback({
       "name": "Rosemarie Rung",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "21 Ministerial Drive;Merrimack, NH 03054"
       ],
       "phone": [],
       "email": [
         "Rosemarie.Rung@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 21"
     },
@@ -137,7 +137,7 @@ callback({
       "name": "Wendy E.N. Thomas",
       "image": null,
       "twitter": null,
-      "addresses": [
+      "address": [
         "10 Wildcat Falls Road;Merrimack, NH 03054-4017"
       ],
       "phone": [
@@ -146,16 +146,16 @@ callback({
       "email": [
         "Wendy.E.Thomas@leg.state.nh.us"
       ],
-      "type": "State Representative",
-      "politicalParty": "Democratic",
+      "title": "State Representative",
+      "party": "Democratic",
       "state": "NH",
       "district": "Hillsborough 21"
     },
     {
       "name": "Shannon E. Chandley",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/85-376802.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shannon%20e.%20chandley-state%20senator.jpg",
       "twitter": null,
-      "addresses": [
+      "address": [
         "\"State House, Room 105-A\";107 North Main Street;Concord , NH 03301"
       ],
       "phone": [
@@ -164,8 +164,8 @@ callback({
       "email": [
         "Shannon.Chandley@leg.state.nh.us"
       ],
-      "type": "State Senator",
-      "politicalParty": "Democratic",
+      "title": "State Senator",
+      "party": "Democratic",
       "state": "NH",
       "district": "11"
     },
@@ -173,42 +173,42 @@ callback({
       "name": "Jeanne Shaheen",
       "email": null,
       "twitter": "SenatorShaheen",
-      "addresses": [
+      "address": [
         "506 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/75-S001181.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jeanne%20shaheen-us%20senator.jpg",
       "phone": "202-224-2841",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Margaret Hassan",
       "email": null,
       "twitter": "Senatorhassan",
-      "addresses": [
+      "address": [
         "324 Hart Senate Office Building Washington DC 20510"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/59-H001076.jpg",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/margaret%20hassan-us%20senator.jpg",
       "phone": "202-224-3324",
-      "type": "US Senator",
+      "title": "US Senator",
       "state": "NH",
-      "politicalParty": "Democrat",
+      "party": "Democrat",
       "district": null
     },
     {
       "name": "Chris Sununu",
-      "addresses": [
+      "address": [
         "State House, Room 208 State House, Room 208 Concord NH 03301"
       ],
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/100-gov_nh_sununu.png",
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/chris%20sununu-governor.jpg",
       "twitter": "govchrissununu",
       "email": null,
       "phone": "603-271-2121",
-      "type": "Governor",
+      "title": "Governor",
       "state": "NH",
-      "politicalParty": "Republican",
+      "party": "Republican",
       "district": null
     }
   ]
