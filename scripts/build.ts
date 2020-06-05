@@ -16,36 +16,36 @@ const buildZipCodeBundle = (location: any) => {
 
   const stateReps = contacts.filter(
     (x) =>
-      x.type === "State Representative" &&
+      x.title === "State Representative" &&
       x.state === location.state &&
       location.stateLowerDistrict === x.district
   );
 
   const stateSenators = contacts.filter(
     (x) =>
-      x.type === "State Senator" &&
+      x.title === "State Senator" &&
       x.state === location.state &&
       location.stateUpperDistrict === x.district
   );
 
   const usRepresentatives = contacts.filter(
     (x) =>
-      x.type === "US Representative" &&
+      x.title === "US Representative" &&
       x.state === location.state &&
       location.congressionalDistrict.includes(x.district)
   );
 
   const usSenators = contacts.filter(
-    (x) => x.type === "US Senator" && x.state === location.state
+    (x) => x.title === "US Senator" && x.state === location.state
   );
 
   const governor = contacts.filter(
-    (x) => x.type === "Governor" && x.state === location.state
+    (x) => x.title === "Governor" && x.state === location.state
   );
 
   const mayor = contacts.filter(
     (x) =>
-      x.type === "Mayor" &&
+      x.title === "Mayor" &&
       x.state === location.state &&
       x.city === location.city
   );
