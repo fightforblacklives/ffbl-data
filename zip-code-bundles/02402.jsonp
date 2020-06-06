@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Michelle M. DuBois",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michelle%20m.%20dubois-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 473F;Boston, MA, 02133"
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Michael D. Brady",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20d.%20brady-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 416-A;Boston, MA, 02133"

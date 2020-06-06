@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Colleen M. Garry",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/colleen%20m.%20garry-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 238;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Edward J. Kennedy",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/edward%20j.%20kennedy-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 70;Boston, MA, 02133"

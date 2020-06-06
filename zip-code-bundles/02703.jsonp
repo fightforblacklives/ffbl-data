@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "James K. Hawkins",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20k.%20hawkins-state%20representative.jpg",
       "twitter": null,
       "address": [
         "485 Locust Street;Attleboro, MA 02703",
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Rebecca L. Rausch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rebecca%20l.%20rausch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 218;Boston, MA, 02133"

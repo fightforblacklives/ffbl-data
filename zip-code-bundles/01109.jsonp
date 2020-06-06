@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Bud L. Williams",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bud%20l.%20williams-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 160;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "James T. Welch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20t.%20welch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "32-34 Hampden Street;Springfield, MA 01103",

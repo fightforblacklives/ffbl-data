@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Marcos A. Devers",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marcos%20a.%20devers-state%20representative.jpg",
       "twitter": null,
       "address": [
         "200 Common St,;2F, Ste 203;Lawrence, MA 01841",
@@ -33,7 +33,7 @@ callback({
     },
     {
       "name": "Barry R. Finegold",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barry%20r.%20finegold-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 507;Boston, MA, 02133"

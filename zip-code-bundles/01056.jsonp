@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Thomas M. Petrolati",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20m.%20petrolati-state%20representative.jpg",
       "twitter": null,
       "address": [
         "116 Sewall Street;Ludlow, MA 01056",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Eric P. Lesser",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20p.%20lesser-state%20senator.jpg",
       "twitter": null,
       "address": [
         "60 Shaker Road;Unit 3B;East Longmeadow, MA 01028",

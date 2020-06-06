@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Andres X. Vargas",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/andres%20x.%20vargas-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 136;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Diana DiZoglio",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/diana%20dizoglio-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 416-B;Boston, MA, 02133"

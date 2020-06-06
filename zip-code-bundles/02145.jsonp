@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Christine P. Barber",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/christine%20p.%20barber-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 254;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Patricia D. Jehlen",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patricia%20d.%20jehlen-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 424;Boston, MA, 02133"

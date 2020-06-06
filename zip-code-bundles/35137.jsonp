@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Matt Fridy",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/matt%20fridy-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Suite 403-E;11 S. Union Street;Montgomery, AL 36130"

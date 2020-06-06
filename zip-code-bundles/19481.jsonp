@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tim Briggs",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20briggs-state%20representative.jpg",
       "twitter": null,
       "address": [
         "554 Shoemaker Road Suite 149 King of Prussia, PA 19406",

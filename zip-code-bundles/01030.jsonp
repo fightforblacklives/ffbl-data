@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Nicholas A. Boldyga",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nicholas%20a.%20boldyga-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Town Hall;454 College Highway;Southwick, MA 01077",

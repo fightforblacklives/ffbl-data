@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Elizabeth A. Poirier",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elizabeth%20a.%20poirier-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 124;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Rebecca L. Rausch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rebecca%20l.%20rausch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 218;Boston, MA, 02133"

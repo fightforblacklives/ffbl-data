@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Timothy J. O'Neal",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/timothy%20j.%20o%27neal-state%20representative.jpg",
       "twitter": null,
       "address": [
         "102 West Pike St. Suite 101 Houston, PA 15342",

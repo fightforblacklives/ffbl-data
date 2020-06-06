@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Denise C. Garlick",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/denise%20c.%20garlick-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 238;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Michael F. Rush",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20f.%20rush-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 109-C;Boston, MA, 02133"

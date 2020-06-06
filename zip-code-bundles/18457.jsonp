@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Lisa Baker",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20baker-state%20senator.jpg",
       "twitter": null,
       "address": [
         "2512 Route 6 Hawley, PA 18428",

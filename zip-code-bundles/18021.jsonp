@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Tarah Toohil",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tarah%20toohil-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1 West Broad Street Suite 100 Hazleton, PA 18201",
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "John T. Yudichak",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20t.%20yudichak-state%20senator.jpg",
       "twitter": null,
       "address": [
         "1201 North Street Suite 3 Jim Thorpe, PA 18229",

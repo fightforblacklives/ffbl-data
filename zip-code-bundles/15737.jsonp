@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tommy Sankey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tommy%20sankey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "264 Haida Avenue Suite A1 Hastings, PA 16646",

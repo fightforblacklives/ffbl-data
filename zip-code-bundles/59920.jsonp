@@ -11,6 +11,22 @@ callback({
   "stateLowerDistrict": "13",
   "people": [
     {
+      "name": "Bob Brown",
+      "image": null,
+      "twitter": null,
+      "address": [],
+      "phone": [
+        "406-827-9894"
+      ],
+      "email": [
+        "Bob.Brown@mtleg.gov"
+      ],
+      "title": "State Representative",
+      "party": "Republican",
+      "state": "MT",
+      "district": "13"
+    },
+    {
       "name": "Jennifer Fielder",
       "image": null,
       "twitter": null,

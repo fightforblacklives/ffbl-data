@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Paul McMurtry",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20mcmurtry-state%20representative.jpg",
       "twitter": null,
       "address": [
         "580 High Street;Dedham, MA 02026",
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Michael F. Rush",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20f.%20rush-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 109-C;Boston, MA, 02133"

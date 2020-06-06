@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Patricia A. Haddad",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patricia%20a.%20haddad-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Town Office Building, Room 11;140 Wood Street;Somerset, MA 02726",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Michael J. Rodrigues",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20rodrigues-state%20senator.jpg",
       "twitter": null,
       "address": [
         "One Government Center;Fall River, MA 02722",

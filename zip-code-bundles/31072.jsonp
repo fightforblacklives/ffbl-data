@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Noel Williams, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/noel%20williams%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1308 Ogburn Rd;Cordele, GA 31015",

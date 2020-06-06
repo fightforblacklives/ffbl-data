@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Dale Goodin",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dale%20goodin-state%20representative.jpg",
       "twitter": null,
       "address": [
         "72 Memorial Church Rd;Richton, MS 39467",

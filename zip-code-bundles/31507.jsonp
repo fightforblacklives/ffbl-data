@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Patty Bentley",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patty%20bentley-state%20representative.jpg",
       "twitter": null,
       "address": [
         "133 Railroad Street;Butler, GA 31006",

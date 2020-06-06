@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Lynn Greer",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lynn%20greer-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Suite 403-C;11 S. Union Street;Montgomery, AL 36130"

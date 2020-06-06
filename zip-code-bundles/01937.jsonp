@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Bradford Hill",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bradford%20hill-state%20representative.jpg",
       "twitter": null,
       "address": [
         "P.O. Box 556;Ipswich, MA 01938",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Bruce E. Tarr",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bruce%20e.%20tarr-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 308;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Angelo J. Puppolo, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angelo%20j.%20puppolo%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "2341 Boston Road;Suite 204;Wilbraham, MA 01095",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "James T. Welch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20t.%20welch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "32-34 Hampden Street;Springfield, MA 01103",

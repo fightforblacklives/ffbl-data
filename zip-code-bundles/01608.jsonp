@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Mary S. Keefe",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20s.%20keefe-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 466;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Harriette L. Chandler",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harriette%20l.%20chandler-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 333;Boston, MA, 02133"

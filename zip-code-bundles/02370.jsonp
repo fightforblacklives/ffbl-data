@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "David F. DeCoste",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20f.%20decoste-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 443;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "John F. Keenan",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20f.%20keenan-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-F;Boston, MA, 02133"

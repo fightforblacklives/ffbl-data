@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Angelo L. D'Emilia",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/angelo%20l.%20d%27emilia-state%20representative.jpg",
       "twitter": null,
       "address": [
         "31 Perkins Street;Bridgewater, MA 02324",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Marc R. Pacheco",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20r.%20pacheco-state%20senator.jpg",
       "twitter": null,
       "address": [
         "8 Trescott St., Suite 1;Taunton, MA 02780",

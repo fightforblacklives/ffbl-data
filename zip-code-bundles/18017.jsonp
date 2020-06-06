@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Steve Samuelson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steve%20samuelson-state%20representative.jpg",
       "twitter": null,
       "address": [
         "104 East Broad Street Bethlehem, PA 18018",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Lisa M. Boscola",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20m.%20boscola-state%20senator.jpg",
       "twitter": null,
       "address": [
         "1 East Broad Street Suite 120;Bethlehem, PA 18018",

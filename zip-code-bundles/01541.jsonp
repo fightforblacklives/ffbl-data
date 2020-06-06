@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Kimberly N. Ferguson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kimberly%20n.%20ferguson-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 473B;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Harriette L. Chandler",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harriette%20l.%20chandler-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 333;Boston, MA, 02133"

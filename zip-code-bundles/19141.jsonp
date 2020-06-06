@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Stephen Kinsey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20kinsey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "5952-54 Germantown Avenue Philadelphia, PA 19144",

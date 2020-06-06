@@ -29,6 +29,24 @@ callback({
       "district": "35"
     },
     {
+      "name": "Mike Reese",
+      "image": null,
+      "twitter": null,
+      "address": [
+        "1111 South 5th Street;Suite E;Leesville, LA 71446"
+      ],
+      "phone": [
+        "337-238-6435"
+      ],
+      "email": [
+        "sen30@legis.la.gov"
+      ],
+      "title": "State Senator",
+      "party": "Republican",
+      "state": "LA",
+      "district": "30"
+    },
+    {
       "name": "Bill Cassidy",
       "email": null,
       "twitter": "SenBillCassidy",

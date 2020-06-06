@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Mary Moore",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mary%20moore-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Suite 539-D;11 S. Union Street;Montgomery, AL 36130"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Linda Coleman-Madison",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/linda%20coleman-madison-state%20senator.jpg",
       "twitter": null,
       "address": [
         "Suite 738;11 S. Union Street;Montgomery, AL 36130"

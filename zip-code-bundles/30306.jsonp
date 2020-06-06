@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Pat Gardner",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pat%20gardner-state%20representative.jpg",
       "twitter": null,
       "address": [
         "668 East Pelham Road;Atlanta, GA 30324",

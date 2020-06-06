@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Jack Patrick Lewis",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jack%20patrick%20lewis-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 43;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Karen E. Spilka",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/karen%20e.%20spilka-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 332;Boston, MA, 02133"

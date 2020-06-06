@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Joseph A. Petrarca",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20a.%20petrarca-state%20representative.jpg",
       "twitter": null,
       "address": [
         "239 Longfellow Street Vandergrift, PA 15690",

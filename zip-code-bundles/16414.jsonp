@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Kathy L. Rapp",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kathy%20l.%20rapp-state%20representative.jpg",
       "twitter": null,
       "address": [
         "109 S. Washington Street Park Building Titusville, PA 16354",

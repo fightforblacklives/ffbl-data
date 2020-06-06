@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Thomas M. Stanley",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20m.%20stanley-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 167;Boston, MA, 02133"
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Michael J. Barrett",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20barrett-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 109-D;Boston, MA, 02133"

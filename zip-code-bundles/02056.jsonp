@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Shawn Dooley",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/shawn%20dooley-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 167;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Rebecca L. Rausch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rebecca%20l.%20rausch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 218;Boston, MA, 02133"

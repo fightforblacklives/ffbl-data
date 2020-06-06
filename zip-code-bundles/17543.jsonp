@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Steven C. Mentzer",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20c.%20mentzer-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1555 Highlands Drive Suite 110 Lititz, PA 17543",

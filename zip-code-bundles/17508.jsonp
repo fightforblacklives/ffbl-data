@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Keith J. Greiner",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20j.%20greiner-state%20representative.jpg",
       "twitter": null,
       "address": [
         "852 Village Rd. PO Box 268 Lampeter, PA 17537",

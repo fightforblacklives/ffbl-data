@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Liz Hanbidge",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/liz%20hanbidge-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1098 W. Skippack Pike Blue Bell, PA 19422",

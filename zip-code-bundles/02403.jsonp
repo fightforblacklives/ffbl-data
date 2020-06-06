@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Kathleen R. LaNatra",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kathleen%20r.%20lanatra-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 236;Boston, MA, 02133"

@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Paul W. Mark",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20w.%20mark-state%20representative.jpg",
       "twitter": null,
       "address": [
         "P.O. Box 114;Dalton, MA 01227",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Adam G. Hinds",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20g.%20hinds-state%20senator.jpg",
       "twitter": null,
       "address": [
         "100 North Street;Suite 410;Pittsfield, MA 01201",

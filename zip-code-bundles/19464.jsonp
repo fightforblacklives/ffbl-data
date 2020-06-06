@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tim Hennessey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20hennessey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "351 W. Schuylkill Road Suite 9 Coventry Square Pottstown, PA 19465",

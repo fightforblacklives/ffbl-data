@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Daniel J. Hunt",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20j.%20hunt-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 166;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Nick Collins",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nick%20collins-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 312-D;Boston, MA, 02133"

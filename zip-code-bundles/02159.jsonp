@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Ruth B. Balser",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ruth%20b.%20balser-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 167;Boston, MA, 02133"
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Cynthia Stone Creem",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cynthia%20stone%20creem-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 312-A;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tina Pickett",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tina%20pickett-state%20representative.jpg",
       "twitter": null,
       "address": [
         "320 Main Street Towanda, PA 18848",

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Patricia A. Haddad",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patricia%20a.%20haddad-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Town Office Building, Room 11;140 Wood Street;Somerset, MA 02726",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Marc R. Pacheco",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20r.%20pacheco-state%20senator.jpg",
       "twitter": null,
       "address": [
         "8 Trescott St., Suite 1;Taunton, MA 02780",

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Michael J. Finn",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20finn-state%20representative.jpg",
       "twitter": null,
       "address": [
         "71 Park Avenue;West Springfield, MA 01089",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "James T. Welch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20t.%20welch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "32-34 Hampden Street;Springfield, MA 01103",

@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Russell E. Holmes",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/russell%20e.%20holmes-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 254;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Nick Collins",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/nick%20collins-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 312-D;Boston, MA, 02133"

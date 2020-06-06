@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Pam Dickerson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pam%20dickerson-state%20representative.jpg",
       "twitter": null,
       "address": [
         "PO Box 1016;Conyers, GA 30013",

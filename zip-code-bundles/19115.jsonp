@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Kevin J. Boyle",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kevin%20j.%20boyle-state%20representative.jpg",
       "twitter": null,
       "address": [
         "7801-A Hasbrook Ave. Philadelphia, PA 19111",

@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Robert A. DeLeo",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/robert%20a.%20deleo-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 356;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Joseph A. Boncore",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20a.%20boncore-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 112;Boston, MA, 02133"

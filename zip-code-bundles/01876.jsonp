@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "David Allen Robertson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20allen%20robertson-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 473F;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Barry R. Finegold",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/barry%20r.%20finegold-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 507;Boston, MA, 02133"

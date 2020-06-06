@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "William M. Straus",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20m.%20straus-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 134;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Mark C. Montigny",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20c.%20montigny-state%20senator.jpg",
       "twitter": null,
       "address": [
         "888 Purchase Street Room 305;New Bedford, MA 02740",

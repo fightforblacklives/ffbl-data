@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Alice Hanlon Peisch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alice%20hanlon%20peisch-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 473G;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Michael J. Barrett",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20barrett-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 109-D;Boston, MA, 02133"

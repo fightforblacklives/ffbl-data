@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Summer Lee",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/summer%20lee-state%20representative.jpg",
       "twitter": null,
       "address": [
         "501 Braddock Ave. Suite 105 Braddock, PA 15104-9998",

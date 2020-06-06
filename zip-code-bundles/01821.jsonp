@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Marc T. Lombardo",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20t.%20lombardo-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 443;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Cindy F. Friedman",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/cindy%20f.%20friedman-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-D;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Sheila C. Harrington",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sheila%20c.%20harrington-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 237;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Anne M. Gobi",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anne%20m.%20gobi-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 513;Boston, MA, 02133"

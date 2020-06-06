@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "William M. Straus",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20m.%20straus-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 134;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Marc R. Pacheco",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marc%20r.%20pacheco-state%20senator.jpg",
       "twitter": null,
       "address": [
         "8 Trescott St., Suite 1;Taunton, MA 02780",

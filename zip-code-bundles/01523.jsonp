@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Harold P. Naughton, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harold%20p.%20naughton%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "200 High Street, 1st Floor;Clinton, MA 01510",
@@ -33,7 +33,7 @@ callback({
     },
     {
       "name": "Dean A. Tran",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dean%20a.%20tran-state%20senator.jpg",
       "twitter": null,
       "address": [
         "14 Wallace Avenue;Fitchburg, MA 01420",

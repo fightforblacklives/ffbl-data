@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Kurt A. Masser",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kurt%20a.%20masser-state%20representative.jpg",
       "twitter": null,
       "address": [
         "463 Mill Street Suite 1 Danville, PA 17821",

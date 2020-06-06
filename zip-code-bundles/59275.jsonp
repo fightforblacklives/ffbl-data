@@ -28,6 +28,22 @@ callback({
       "district": "34"
     },
     {
+      "name": "Mike Lang",
+      "image": null,
+      "twitter": null,
+      "address": [],
+      "phone": [
+        "406-654-1117"
+      ],
+      "email": [
+        "Mike.Lang@mtleg.gov"
+      ],
+      "title": "State Senator",
+      "party": "Republican",
+      "state": "MT",
+      "district": "17"
+    },
+    {
       "name": "Jon Tester",
       "email": null,
       "twitter": "SenatorTester",

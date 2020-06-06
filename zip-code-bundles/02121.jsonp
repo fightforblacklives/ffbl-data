@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Elizabeth A. Malia",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/elizabeth%20a.%20malia-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 238;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Sonia Chang-Diaz",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sonia%20chang-diaz-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 111;Boston, MA, 02133"

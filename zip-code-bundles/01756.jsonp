@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Brian W. Murray",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brian%20w.%20murray-state%20representative.jpg",
       "twitter": null,
       "address": [
         "260 Main Street;Milford, MA 01257",
@@ -33,7 +33,7 @@ callback({
     },
     {
       "name": "Ryan C. Fattman",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ryan%20c.%20fattman-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 213-A;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Keith Gillespie",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/keith%20gillespie-state%20representative.jpg",
       "twitter": null,
       "address": [
         "4188 Lincoln Highway York, PA 17406",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Kristin Phillips-Hill",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristin%20phillips-hill-state%20senator.jpg",
       "twitter": null,
       "address": [
         "6872 Susquehanna Trail South Post Office Box 277;Jacobus, PA 17407",

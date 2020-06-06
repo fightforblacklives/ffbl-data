@@ -14,7 +14,7 @@ callback({
   "people": [
     {
       "name": "Thomas P. Murt",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20p.%20murt-state%20representative.jpg",
       "twitter": null,
       "address": [
         "19 South York Road Hatboro, PA 19040",

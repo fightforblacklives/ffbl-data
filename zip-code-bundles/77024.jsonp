@@ -12,24 +12,6 @@ callback({
   "stateLowerDistrict": "133",
   "people": [
     {
-      "name": "Jim Murphy",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jim%20murphy-state%20representative.jpg",
-      "twitter": null,
-      "address": [
-        "9525 Katy Freeway;Suite 215;Houston, Texas 77024",
-        "Room 4N.3;P.O. Box 2910;Austin, TX 78768"
-      ],
-      "phone": [
-        "713-465-8800",
-        "512-463-0514"
-      ],
-      "email": [],
-      "title": "State Representative",
-      "party": "Republican",
-      "state": "TX",
-      "district": "133"
-    },
-    {
       "name": "Paul Bettencourt",
       "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20bettencourt-state%20senator.jpg",
       "twitter": null,

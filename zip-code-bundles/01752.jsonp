@@ -14,7 +14,7 @@ callback({
   "people": [
     {
       "name": "Danielle W. Gregoire",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/danielle%20w.%20gregoire-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 23;Boston, MA, 02133"
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "James B. Eldridge",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20b.%20eldridge-state%20senator.jpg",
       "twitter": null,
       "address": [
         "255 Main Street;Marlborough, MA 01752",

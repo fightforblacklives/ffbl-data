@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Lenny Mirra",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lenny%20mirra-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 548;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Bruce E. Tarr",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/bruce%20e.%20tarr-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 308;Boston, MA, 02133"

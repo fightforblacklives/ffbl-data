@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Mike Holmes",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20holmes-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Suite 527-A;11 S. Union Street;Montgomery, AL 36130"

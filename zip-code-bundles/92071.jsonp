@@ -117,19 +117,6 @@ callback({
       "state": "CA",
       "party": "Democrat",
       "district": null
-    },
-    {
-      "image": null,
-      "name": "John W. Minto",
-      "phone": "619-258-4100",
-      "email": "jminto@ci.santee.ca.us",
-      "twitter": null,
-      "address": null,
-      "facebook": null,
-      "title": "Mayor",
-      "party": null,
-      "state": "CA",
-      "city": "Santee"
     }
   ]
 })

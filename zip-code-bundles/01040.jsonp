@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Aaron Vega",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/aaron%20vega-state%20representative.jpg",
       "twitter": null,
       "address": [
         "295 High Street;Second Floor;Holyoke, MA 01040",

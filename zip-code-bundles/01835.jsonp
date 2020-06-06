@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Linda Dean Campbell",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/linda%20dean%20campbell-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Methuen Senior Center;Fridays 10:30AM to 12PM *Call for appointment;Methuen, MA 01844",
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Diana DiZoglio",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/diana%20dizoglio-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 416-B;Boston, MA, 02133"

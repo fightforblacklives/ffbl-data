@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "David K. Muradian, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20k.%20muradian%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 156;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Michael O. Moore",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20o.%20moore-state%20senator.jpg",
       "twitter": null,
       "address": [
         "36 North Quinsigamond Avenue;Shrewsbury, MA 01545",

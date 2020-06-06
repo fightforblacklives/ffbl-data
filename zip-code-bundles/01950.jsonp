@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "James M. Kelcourse",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20m.%20kelcourse-state%20representative.jpg",
       "twitter": null,
       "address": [
         "23 Green Street;Newburyport, MA 01950",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Diana DiZoglio",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/diana%20dizoglio-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 416-B;Boston, MA, 02133"

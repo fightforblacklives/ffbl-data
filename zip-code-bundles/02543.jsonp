@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Dylan A. Fernandes",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dylan%20a.%20fernandes-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 472;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Mindy Domb",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mindy%20domb-state%20representative.jpg",
       "twitter": null,
       "address": [
         "PO Box 3215;Amherst, MA 01004-3215",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Joanne M. Comerford",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joanne%20m.%20comerford-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-C;Boston, MA, 02133"

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Dean A. Tran",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dean%20a.%20tran-state%20senator.jpg",
       "twitter": null,
       "address": [
         "14 Wallace Avenue;Fitchburg, MA 01420",

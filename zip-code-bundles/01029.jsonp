@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Smitty Pignatelli",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/smitty%20pignatelli-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Lenox Town Hall;PO Box 2228;Lenox, MA 01240",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Adam G. Hinds",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20g.%20hinds-state%20senator.jpg",
       "twitter": null,
       "address": [
         "100 North Street;Suite 410;Pittsfield, MA 01201",

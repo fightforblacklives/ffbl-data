@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "John J. Mahoney",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20j.%20mahoney-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 130;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Harriette L. Chandler",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harriette%20l.%20chandler-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 333;Boston, MA, 02133"

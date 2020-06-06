@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Kenneth I. Gordon",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kenneth%20i.%20gordon-state%20representative.jpg",
       "twitter": null,
       "address": [
         "P.O. Box 159;Burlington, MA 01803",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Michael J. Barrett",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20barrett-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 109-D;Boston, MA, 02133"

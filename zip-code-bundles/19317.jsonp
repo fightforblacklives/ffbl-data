@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Stephen Barrar",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/stephen%20barrar-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1 Beaver Valley Rd. 1st Floor Chadds Ford, PA 19317",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Thomas H. Killion",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20h.%20killion-state%20senator.jpg",
       "twitter": null,
       "address": [
         "780 E. Market Street Suite 140 West Chester, PA 19382",

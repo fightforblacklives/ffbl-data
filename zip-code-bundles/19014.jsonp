@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Leanne Krueger",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/leanne%20krueger-state%20representative.jpg",
       "twitter": null,
       "address": [
         "701 E. MacDade Boulevard Folsom, PA 19033",
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Thomas H. Killion",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20h.%20killion-state%20senator.jpg",
       "twitter": null,
       "address": [
         "780 E. Market Street Suite 140 West Chester, PA 19382",

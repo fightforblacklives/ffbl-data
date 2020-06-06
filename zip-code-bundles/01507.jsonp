@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Peter J. Durant",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20j.%20durant-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 33;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Anne M. Gobi",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/anne%20m.%20gobi-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 513;Boston, MA, 02133"

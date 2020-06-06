@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Natalie M. Blais",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/natalie%20m.%20blais-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 134;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Adam G. Hinds",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20g.%20hinds-state%20senator.jpg",
       "twitter": null,
       "address": [
         "100 North Street;Suite 410;Pittsfield, MA 01201",

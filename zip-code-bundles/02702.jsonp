@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Carole A. Fiola",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carole%20a.%20fiola-state%20representative.jpg",
       "twitter": null,
       "address": [
         "441 North Main Street;2nd Floor;Fall River, MA 02720",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Michael J. Rodrigues",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/michael%20j.%20rodrigues-state%20senator.jpg",
       "twitter": null,
       "address": [
         "One Government Center;Fall River, MA 02722",

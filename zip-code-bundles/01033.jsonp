@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Daniel R. Carey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20r.%20carey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 33;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Eric P. Lesser",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/eric%20p.%20lesser-state%20senator.jpg",
       "twitter": null,
       "address": [
         "60 Shaker Road;Unit 3B;East Longmeadow, MA 01028",

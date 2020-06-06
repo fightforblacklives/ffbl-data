@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Donald H. Wong",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/donald%20h.%20wong-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 541;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Brendan P. Crighton",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brendan%20p.%20crighton-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 520;Boston, MA, 02133"

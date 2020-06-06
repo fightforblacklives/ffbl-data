@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Harold P. Naughton, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harold%20p.%20naughton%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "200 High Street, 1st Floor;Clinton, MA 01510",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Harriette L. Chandler",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/harriette%20l.%20chandler-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 333;Boston, MA, 02133"

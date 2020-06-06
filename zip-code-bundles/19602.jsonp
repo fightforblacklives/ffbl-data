@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Thomas R. Caltagirone",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20r.%20caltagirone-state%20representative.jpg",
       "twitter": null,
       "address": [
         "645 Penn Street, 4th Floor Reading, PA 19601",

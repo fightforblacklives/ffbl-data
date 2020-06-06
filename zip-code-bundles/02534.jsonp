@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "David T. Vieira",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20t.%20vieira-state%20representative.jpg",
       "twitter": null,
       "address": [
         "346 Gifford Street;Unit 3;Falmouth, MA 02540",

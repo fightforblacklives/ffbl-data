@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Natalie M. Higgins",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/natalie%20m.%20higgins-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Church Street, Room 29;Leominster, MA 01453",
@@ -33,7 +33,7 @@ callback({
     },
     {
       "name": "Dean A. Tran",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/dean%20a.%20tran-state%20senator.jpg",
       "twitter": null,
       "address": [
         "14 Wallace Avenue;Fitchburg, MA 01420",

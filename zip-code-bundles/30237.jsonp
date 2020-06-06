@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Mike Glanton",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20glanton-state%20representative.jpg",
       "twitter": null,
       "address": [
         "P.O. Box 216;Jonesboro, GA 30236",

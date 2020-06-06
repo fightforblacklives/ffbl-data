@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Randy Hunt",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20hunt-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 136;Boston, MA, 02133"

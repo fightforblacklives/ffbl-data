@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Thomas L. Mehaffie",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20l.%20mehaffie-state%20representative.jpg",
       "twitter": null,
       "address": [
         "250 W. Chocolate Avenue Suite 2 Hershey, PA 17033",

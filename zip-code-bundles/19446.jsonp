@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Steven R. Malagari",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20r.%20malagari-state%20representative.jpg",
       "twitter": null,
       "address": [
         "100 West Main Street Suite 110 Lansdale, PA 19446",

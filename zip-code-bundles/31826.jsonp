@@ -33,7 +33,7 @@ callback({
     },
     {
       "name": "Randy Robertson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20robertson-state%20senator.jpg",
       "twitter": null,
       "address": [
         "P.O. Box 62;Cataula, GA 31804",

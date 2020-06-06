@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Thomas A. Golden, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20a.%20golden%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 473B;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Edward J. Kennedy",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/edward%20j.%20kennedy-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 70;Boston, MA, 02133"

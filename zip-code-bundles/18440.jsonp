@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Karen Boback",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/karen%20boback-state%20representative.jpg",
       "twitter": null,
       "address": [
         "133 W. Tioga Street Suite 3 Tunkhannock, PA 18657-9107",

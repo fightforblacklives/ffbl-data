@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Aaron Michlewitz",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/aaron%20michlewitz-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 243;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Joseph A. Boncore",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20a.%20boncore-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 112;Boston, MA, 02133"

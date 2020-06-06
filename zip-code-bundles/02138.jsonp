@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Marjorie C. Decker",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/marjorie%20c.%20decker-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 33;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Sal N. DiDomenico",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/sal%20n.%20didomenico-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 208;Boston, MA, 02133"

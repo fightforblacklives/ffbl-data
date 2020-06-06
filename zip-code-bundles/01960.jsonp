@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Thomas P. Walsh",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/thomas%20p.%20walsh-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 276;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Joan B. Lovely",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joan%20b.%20lovely-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-A;Boston, MA, 02133"

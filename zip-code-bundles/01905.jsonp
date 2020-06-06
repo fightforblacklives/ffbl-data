@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Peter Capano",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/peter%20capano-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 443;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Brendan P. Crighton",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/brendan%20p.%20crighton-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 520;Boston, MA, 02133"

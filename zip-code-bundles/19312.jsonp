@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Kristine C. Howard",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kristine%20c.%20howard-state%20representative.jpg",
       "twitter": null,
       "address": [
         "40 Lloyd Avenue Greentree Office Building Suite 309 Malvern, PA 19355",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Timothy P. Kearney",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/timothy%20p.%20kearney-state%20senator.jpg",
       "twitter": null,
       "address": [
         "51 Long Lane Upper Darby, PA 19082",

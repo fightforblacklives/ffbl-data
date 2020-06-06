@@ -29,7 +29,7 @@ callback({
     },
     {
       "name": "Mike Dugan",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dugan-state%20senator.jpg",
       "twitter": null,
       "address": [
         "PO Box 1260;Carrollton, GA 30112",

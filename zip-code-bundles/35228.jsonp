@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Merika Coleman",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/merika%20coleman-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Suite 537-A;11 S. Union Street;Montgomery, AL 36130"

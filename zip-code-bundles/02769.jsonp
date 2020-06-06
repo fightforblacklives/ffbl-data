@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Steven S. Howitt",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/steven%20s.%20howitt-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 237;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Paul R. Feeney",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/paul%20r.%20feeney-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 215;Boston, MA, 02133"

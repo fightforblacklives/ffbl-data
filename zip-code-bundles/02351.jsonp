@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Alyson M. Sullivan",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/alyson%20m.%20sullivan-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 39;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "John F. Keenan",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20f.%20keenan-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-F;Boston, MA, 02133"

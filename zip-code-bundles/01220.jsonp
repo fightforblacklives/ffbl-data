@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "John Barrett, III",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/john%20barrett%2C%20iii-state%20representative.jpg",
       "twitter": null,
       "address": [
         "8 Park St.;Adams, MA 01220",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Adam G. Hinds",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20g.%20hinds-state%20senator.jpg",
       "twitter": null,
       "address": [
         "100 North Street;Suite 410;Pittsfield, MA 01201",

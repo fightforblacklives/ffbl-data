@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Leanne Krueger",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/leanne%20krueger-state%20representative.jpg",
       "twitter": null,
       "address": [
         "701 E. MacDade Boulevard Folsom, PA 19033",
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Timothy P. Kearney",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/timothy%20p.%20kearney-state%20senator.jpg",
       "twitter": null,
       "address": [
         "51 Long Lane Upper Darby, PA 19082",

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "José F. Tosado",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jos%C3%A9%20f.%20tosado-state%20representative.jpg",
       "twitter": null,
       "address": [
         "640 Page Boulevard;Suite 108;Springfield, MA 01104",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "James T. Welch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20t.%20welch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "32-34 Hampden Street;Springfield, MA 01103",

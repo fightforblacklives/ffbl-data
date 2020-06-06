@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Joseph F. Wagner",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20f.%20wagner-state%20representative.jpg",
       "twitter": null,
       "address": [
         "333 Front Street, Suite 3;Chicopee, MA 01013",

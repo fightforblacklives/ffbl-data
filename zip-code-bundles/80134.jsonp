@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Kim Ransom",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20ransom-state%20representative.jpg",
       "twitter": null,
       "address": [
         "200 E. Colfax;RM 307;Denver, CO 80203"

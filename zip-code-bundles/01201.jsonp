@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tricia Farley-Bouvier",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tricia%20farley-bouvier-state%20representative.jpg",
       "twitter": null,
       "address": [
         "33 Dunham Mall;Pittsfield, MA 01201",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "Adam G. Hinds",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/adam%20g.%20hinds-state%20senator.jpg",
       "twitter": null,
       "address": [
         "100 North Street;Suite 410;Pittsfield, MA 01201",

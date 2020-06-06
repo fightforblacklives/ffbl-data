@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Mark J. Cusack",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mark%20j.%20cusack-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 34;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Walter F. Timilty",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/walter%20f.%20timilty-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 213-B;Boston, MA, 02133"

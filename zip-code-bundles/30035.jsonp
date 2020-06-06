@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Pam Stephenson",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pam%20stephenson-state%20representative.jpg",
       "twitter": null,
       "address": [
         "411-G Coverdell Legislative Office Building;Atlanta, GA 30334"

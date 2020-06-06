@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Kyle J. Mullins",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kyle%20j.%20mullins-state%20representative.jpg",
       "twitter": null,
       "address": [
         "520 Burke Bypass Suite 1 Olyphant, PA 18447",

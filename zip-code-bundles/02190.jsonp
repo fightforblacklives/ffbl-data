@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "James M. Murphy",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20m.%20murphy-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 254;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Patrick M. O'Connor",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/patrick%20m.%20o%27connor-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 419;Boston, MA, 02133"

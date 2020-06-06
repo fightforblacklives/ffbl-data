@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Todd Stephens",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/todd%20stephens-state%20representative.jpg",
       "twitter": null,
       "address": [
         "515 Stump Road North Wales, PA 19454",

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Carlos González",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/carlos%20gonz%C3%A1lez-state%20representative.jpg",
       "twitter": null,
       "address": [
         "44 Dover Street;Springfield, MA 01107",
@@ -32,7 +32,7 @@ callback({
     },
     {
       "name": "James T. Welch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/james%20t.%20welch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "32-34 Hampden Street;Springfield, MA 01103",

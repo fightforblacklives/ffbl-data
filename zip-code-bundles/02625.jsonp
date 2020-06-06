@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "William L. Crocker, Jr.",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20l.%20crocker%2C%20jr.-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 39;Boston, MA, 02133"
@@ -28,7 +28,7 @@ callback({
     },
     {
       "name": "Julian Cyr",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/julian%20cyr-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 309;Boston, MA, 02133"

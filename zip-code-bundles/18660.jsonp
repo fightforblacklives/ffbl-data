@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tarah Toohil",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tarah%20toohil-state%20representative.jpg",
       "twitter": null,
       "address": [
         "1 West Broad Street Suite 100 Hazleton, PA 18201",
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Lisa Baker",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lisa%20baker-state%20senator.jpg",
       "twitter": null,
       "address": [
         "2512 Route 6 Hawley, PA 18428",

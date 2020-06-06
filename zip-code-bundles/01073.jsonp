@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Lindsay N. Sabadosa",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/lindsay%20n.%20sabadosa-state%20representative.jpg",
       "twitter": null,
       "address": [
         "76 Gothic St;Northampton, MA 01060",

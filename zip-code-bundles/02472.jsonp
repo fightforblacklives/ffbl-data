@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Jonathan Hecht",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/jonathan%20hecht-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 22;Boston, MA, 02133"
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "William N. Brownsberger",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/william%20n.%20brownsberger-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 319;Boston, MA, 02133"

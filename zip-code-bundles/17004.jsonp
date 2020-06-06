@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Kerry A. Benninghoff",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kerry%20a.%20benninghoff-state%20representative.jpg",
       "twitter": null,
       "address": [
         "77 North Main Street PO Box 592 Reedsville, PA 17084",

@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Tina M. Davis",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tina%20m.%20davis-state%20representative.jpg",
       "twitter": null,
       "address": [
         "4530 Newfalls Road Levittown, PA 19056",

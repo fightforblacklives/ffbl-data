@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Daniel R. Carey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/daniel%20r.%20carey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 33;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Joanne M. Comerford",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joanne%20m.%20comerford-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 413-C;Boston, MA, 02133"

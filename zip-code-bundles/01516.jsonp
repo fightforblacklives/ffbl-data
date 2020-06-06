@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Joseph D. McKenna",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/joseph%20d.%20mckenna-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 33;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Ryan C. Fattman",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/ryan%20c.%20fattman-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 213-A;Boston, MA, 02133"

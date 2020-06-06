@@ -13,7 +13,7 @@ callback({
   "people": [
     {
       "name": "Tim Hennessey",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/tim%20hennessey-state%20representative.jpg",
       "twitter": null,
       "address": [
         "351 W. Schuylkill Road Suite 9 Coventry Square Pottstown, PA 19465",
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Katie J. Muth",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/katie%20j.%20muth-state%20senator.jpg",
       "twitter": null,
       "address": [
         "338 Main Street;Royersford, PA 19468",

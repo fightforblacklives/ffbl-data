@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Pedro Marin",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/pedro%20marin-state%20representative.jpg",
       "twitter": null,
       "address": [
         "4901 Duncan Wood Drive;Duluth, GA 30096",

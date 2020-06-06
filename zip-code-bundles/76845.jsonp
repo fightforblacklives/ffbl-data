@@ -11,24 +11,6 @@ callback({
   "stateLowerDistrict": "60",
   "people": [
     {
-      "name": "Mike Lang",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20lang-state%20representative.jpg",
-      "twitter": null,
-      "address": [
-        "112 South Seaman Street, Suite 302A;Eastland, TX 76448",
-        "Room E2.506;P.O. Box 2910;Austin, TX 78768"
-      ],
-      "phone": [
-        "254-631-0528",
-        "512-463-0656"
-      ],
-      "email": [],
-      "title": "State Representative",
-      "party": "Republican",
-      "state": "TX",
-      "district": "60"
-    },
-    {
       "name": "Charles Perry",
       "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/charles%20perry-state%20senator.jpg",
       "twitter": null,

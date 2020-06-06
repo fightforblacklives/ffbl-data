@@ -10,7 +10,7 @@ callback({
   "people": [
     {
       "name": "Smitty Pignatelli",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/smitty%20pignatelli-state%20representative.jpg",
       "twitter": null,
       "address": [
         "Lenox Town Hall;PO Box 2228;Lenox, MA 01240",

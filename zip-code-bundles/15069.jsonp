@@ -9,26 +9,8 @@ callback({
   "stateLowerDistrict": "59",
   "people": [
     {
-      "name": "Mike Reese",
-      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20reese-state%20representative.jpg",
-      "twitter": null,
-      "address": [
-        "2230 Mount Pleasant Road Mount Pleasant, PA 15666",
-        "152 Main Capitol PO Box 202059 Harrisburg, PA 17120-2059"
-      ],
-      "phone": [
-        "724-423-6503",
-        "717-783-9311"
-      ],
-      "email": [],
-      "title": "State Representative",
-      "party": "Republican",
-      "state": "PA",
-      "district": "59"
-    },
-    {
       "name": "Kim L. Ward",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/kim%20l.%20ward-state%20senator.jpg",
       "twitter": null,
       "address": [
         "1075 South Main Street Suite 116 Westmoreland Crossroads Plaza;Greensburg, PA 15601",

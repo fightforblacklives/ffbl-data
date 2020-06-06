@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "Randy Nix",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/randy%20nix-state%20representative.jpg",
       "twitter": null,
       "address": [
         "PO Box 991;LaGrange, GA 30241",
@@ -31,7 +31,7 @@ callback({
     },
     {
       "name": "Mike Dugan",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/mike%20dugan-state%20senator.jpg",
       "twitter": null,
       "address": [
         "PO Box 1260;Carrollton, GA 30112",

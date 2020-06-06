@@ -12,7 +12,7 @@ callback({
   "people": [
     {
       "name": "David Paul Linsky",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/david%20paul%20linsky-state%20representative.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 146;Boston, MA, 02133"
@@ -30,7 +30,7 @@ callback({
     },
     {
       "name": "Rebecca L. Rausch",
-      "image": null,
+      "image": "https://fightforblacklives.s3.amazonaws.com/contact-images/rebecca%20l.%20rausch-state%20senator.jpg",
       "twitter": null,
       "address": [
         "24 Beacon St.;Room 218;Boston, MA, 02133"
